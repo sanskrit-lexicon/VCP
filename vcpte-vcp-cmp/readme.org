@@ -1,0 +1,305 @@
+readme.org for vcpte-vcp-cmp
+Feb 12, 2014
+
+There are two independently developed 'digitizations' of the Vachaspatyam
+Sanskrit dictionary, one known as the Tirupati Edition (2004?) and the
+Cologne Sanskrit-lexicon edition (2013,Thomas Malten).  Informal examination
+of the two digitizations confirms the hypothesis that each is a representation
+of the same underlying text. However, many details differ between the two 
+digitizations.  The purpose of the project described in this note and
+the accompanying programs and files is to find a useful correspondence
+between the two digitizations.  This correspondence is represented in the
+file hw_cmp7.txt.
+
+In the following, the Tirupati edition is denoted vcpte, and the Colgone
+Sanskrit-lexicon edition is denoted vcp. The Cologne edition is licensed
+under the Creative Commons Attribution Non-Commercial Share Alike license,
+as more fully described in the vcpheader.xml file available for download
+from the web page 
+http://www.sanskrit-lexicon.uni-koeln.de/scans/VCPScan/2013/web/webtc/download.html
+
+* original encoding of vcpte
+The original version of vcpte used is the file a.txt from the GitHub repository
+https://github.com/sanskrit-lexicon/VCP.  
+While there is no documentation regarding this file, an examination of the
+file led to two working assumptions:
+a. The file is encoded in the latin-1 (iso-8859-1) encoding
+b. Sanskrit is represented by the wx encoding, with a couple of variations.
+
+* original encoding of vcp
+The original digitization produced by Thomas Malten is the file
+vcp_orig_cp1252.txt; it may be obtained from the download page mentioned above.
+Two working assumptions are:
+a. The file is encoded in the cp1252 encoding.
+b. Sanskrit is represented in the Harvard-Kyoto (Kyoto-Harvard) transliteration.
+
+* note on python programs
+The python version 2.6 was used to run the python programs.  The programs
+should work fine with later '2' versions of Python.
+* vcpte0.txt : utf-8 encoding of vcpte_orig.txt
+The most common unicode encoding is utf-8.  A simple program is used to
+convert vcpte_orig.txt (a copy of a.txt) into a version with utf-8 encoding.
+In this and subsequent program invocations, all files and 
+programs are assumed to be in the same directory. 
+python latin1_to_utf8.py vcpte_orig.txt vcpte0.txt
+
+To confirm that this conversion is invertible, an inverse conversion was
+performed: 
+First, convert back to latin1:
+python utf8_to_latin1.py vcpte0.txt vcpte_orig_chk.txt 
+Then, do a diff to see that no damage done (note: the -w option is
+used, since there is some difference in trailing white-space;
+the 'diff' command is a unix command for comparing files):
+
+diff -w vcpte_orig_chk.txt vcpte_orig.txt
+(NO output, indicating no (non-whitespace) differences found in comparing
+the files)
+File vcpte_orig_chk.txt may be deleted.
+
+Note on Windows 'fc' (file comparison) utility:
+When the above programs were run with python on windows,  a comparison 
+was made using fc:
+fc /w vcpte_orig_chk.txt vcpte_orig.txt
+This comparison reported a large number of differences.  Further 
+investigation (with fc) showed that the underlying files were identical to those
+of the Cologne server; so, 'fc' on windows does something different than the 
+'diff' utility under Linux.  In other words, it appears that 'fc' is showing
+'false positives' (i.e., differences that aren't really differences). However,
+the python programs are creating identical files on windows as under Linux.
+
+* vcp_orig.txt : utf-8 encoding of vcp_orig_cp1252.txt
+vcp_orig_cp1252.txt may be obtained from the download page mentioned about.
+
+python cp1252_to_utf8.py vcp_orig_cp1252.txt vcp_orig.txt
+check invertibility:
+python utf8_to_cp1252.py vcp_orig.txt vcp_orig_cp1252_chk.txt
+
+diff -w vcp_orig_cp1252_chk.txt vcp_orig_cp1252.txt
+Note: fc on windowns also shows the files identical:
+fc /w vcp_orig_cp1252_chk.txt vcp_orig_cp1252.txt
+
+* wx-slp1 correspondence (Huet reference)
+The wx transliteration and it correspondence to the slp1 transliteration is
+described in the web page:
+http://yquem.inria.fr/~huet/PUBLIC/Brown.pdf
+
+Several 'odd' wx slp1 correspondences occur for vcpte:
+<e n='73'> <s>INIT</s> <in>ê</in> <out> .</out> <cl>atom</cl> </e>
+<e n='74'> <s>INIT</s> <in>'</in> <out>#</out> <cl>atom</cl> </e> 
+<e n='75'> <s>INIT</s> <in>Y</in> <out>{Y}</out> <cl>atom</cl> </e> 
+<e n='76'> <s>INIT</s> <in> .</in> <out>{ .}</out> <cl>atom</cl> </e> 
+
+* vcpte1.txt = utf8+slp1 version of vcpte_orig.txt
+The transcoding correspondences used by the following conversion program
+are in the xml files wx_slp1.xml and slp1_wx.xml.
+
+python wx_to_slp1.py vcpte0.txt vcpte1.txt
+ Do an inverse mapping:
+python slp1_to_wx.py vcpte1.txt vcpte0_chk.txt
+ Make a check of invertibility:
+diff  vcpte0.txt vcpte0_chk.txt 
+There are no differences, so the wx and slp files are equivalent.
+Discard vcpte0_chk.txt .
+
+Note on windows 'fc':  In this case, fc also shows no differences:
+fc vcpte0_chk.txt vcpte0.txt
+
+* vcp_orig0.txt and vcp_preface.txt and vcp_end.txt
+vcp_orig has three parts, a preface, the body of the dictionary, and some end matter.  This program separates out these parts. All the files are utf8, with
+HK encoding of Sanskrit.  We don't have an slp1 version of vcp_preface and
+vcp_end;  the reason is that the preface pages have both Sanskrit and non-Sanskrit text, and additional markup would be needed to distinguish the two cases.
+
+python update1.py vcp_orig.txt vcp_orig0.txt vcp_preface.txt vcp_end.txt
+
+change line # 2865. 
+old=<H>vAcaspatyam |
+new=<H>vAcaspatyam |[Page0035-a+ 30]
+
+412950 lines read from ../../orig/vcp_orig.txt
+410046 lines written to ../../orig/vcp_orig0.txt
+2864 lines written to ../../orig/vcp_preface.txt
+40 lines written to ../../orig/vcp_end.txt
+
+* vcp0.txt : utf-8 + slp1 for vcp_orig0.txt
+Here, we are changing Harvard-Kyoto transliterated Sanskrit to slp1.
+One peculiarity of the HK is that 'D.' and 'D.h' represent the presence of
+'nukta' for the two retroflex soft consonants.  Since, in vcp, there are
+no '*' characters, these two are transcoded to 'q*' and 'Q*'.  However,
+the nukta is not believed to be material (according to communication by
+Peter Scharf).
+There are a few other differences in the HK of VCP.  The hk_slp1.xml
+and slp1_hk.xml files delineate the exact correspondences used in the
+conversion to vcp0.txt.
+
+python hk_to_slp1.py vcp_orig0.txt vcp0.txt
+Inverse:
+python slp1_to_hk.py vcp0.txt vcp_orig0_chk.txt
+
+diff ../../orig/vcp_orig0.txt ../../orig/vcp_orig0_hk.txt
+There are 3 differences, they are all believed to be
+due to coding errors in vcp_orig0.txt
+I decided to not worry about these now.
+** evaluation of diff 
+*** 1 46438c46438 
+< <HI>{@ADh.hatama@}¦ tri0 atizayena ADhyaH tamap | atizayADhye |
+ vcp_orig0 should be {@AD.hatama@}
+---
+> <HI>{@AD.hhatama@}¦ tri0 atizayena ADhyaH tamap | atizayADhye |
+
+*** 2 80164c80164 
+'E' is not part of HK.  It should have been 'ai'
+< <>ttamAmbha ucyate” sA0 kau0 | asyAstuSTEH ambhaso'GkaraM
+---
+> <>ttamAmbha ucyate” sA0 kau0 | asyAstuSTaiH ambhaso'GkaraM
+*** 3 341767c341767 
+'O' is not part of HK. It should have been 'au'
+< <HI>{@pro(prO)Dhi@}¦ strI pra + vaha--ktin vA vRddhiH | 1 sAmarthye 2 sAmarthyaM
+---
+> <HI>{@pro(prau)Dhi@}¦ strI pra + vaha--ktin vA vRddhiH | 1 sAmarthye 2 sAmarthyaM
+
+** testing
+head -n 5000 ../../orig/vcp_orig0.txt > ../../orig/vcp_orig0_test.txt 
+
+python26 hk_to_slp1.py ../../orig/vcp_orig0_test.txt ../../orig/vcp_orig0_test_slp1.txt
+
+python26 slp1_to_hk.py ../../orig/vcp_orig0_test_slp1.txt ../../orig/vcp_orig0_test_hk.txt
+
+diff ../../orig/vcp_orig0_test.txt ../../orig/vcp_orig0_test_hk.txt
+
+
+* vcpte2.txt: correction to headword marking
+python updline.py vcpte1.txt updline_tran2.txt vcpte2.txt updline_tran2_log.txt
+
+file vcpte1.txt has 205304 lines
+205304 lines to file vcpte2.txt
+wrote 927 line adjustment notes to updline_tran2_log.txt
+
+Discussion:
+In general, headwords are coded as follows in vcpte:
+<hw>
+... data for the headword
+</hw>
+However, this pattern is broken in a few hundred cases.  Before comparing
+vcpte with vcp, this problem with vcpte needs fixing.  
+This is done by program updline.py.
+  This is a somewhat general program that copies a file while replacing
+  certain lines in the file; the lines chosen for replacement are identified
+  by the line-number in the file.  The replacement transactions are read from
+  a transaction input file.  Also, notes logging the transactions are written
+  to a separate file.
+  Note that the input and output files always have the same number of lines,
+  and unchanged lines in the output appear at the same line number as in input.
+
+The transaction input file applicable to fixing vcpte1 is updline_tran2.txt,
+which was obtained by an iterative process using the hw0te.py program.
+
+* construction of headwords with associated line-ranges
+With vcpte2.txt and vcp0.txt, we are now in a position to construct 
+a file of headwords with line number ranges for each file.
+Each line of such a file is identified by a headword and the first
+and last lines of the associated text file (vcpte2 or vcp0) containing
+the data for that headword.  Note that spelling errors in the headword 
+are not addressed here.  The headword files will be constructed as
+vcptehw1.txt and vcphw1.txt.  The next two sections detail the construction
+of the headword files.
+
+* vcptehw0.txt  
+Note: There are no page numbers designated in tirupati edition; for 
+comparable file formats to vcphw0, a dummy page number field is used.
+
+python vcpte_hw0.py vcpte2.txt vcptehw0.txt vcptehw0_note.txt
+
+file vcpte2.txt has 205304 lines
+46985 headwords written to file vcptehw0.txt
+46985 headwords written to file vcptehw0.txt
+0 headwords contained a colon
+
+* vcptehw1.txt (Feb 11, 2014)
+python vcpte_hw1.py vcptehw0.txt vcptehw1.txt vcptehw1_note.txt
+
+Various 'normalizations' applied to hw-spellings. 
+ These are detailed in vcptehw1_note.txt.
+
+file vcptehw0.txt has 46985 lines
+46985 headwords written to file vcptehw1.txt
+1763 headwords with normalization changes written to vcptehw1_note.txt
+
+* vcphw0.txt
+Note: Since page numbering is available in vcp0, page-numbers are included
+in the output lines.  
+python hw0.py vcp0.txt vcphw0.txt
+
+found firststring: [Page0035-a+ 30]
+found firststring
+file vcp0.txt has 410046 lines
+48351 headwords written to file vcphw0.txt
+0 headwords contained a colon
+* vcphw1.txt
+python hw1.py vcphw0.txt vcphw1.txt vcphw1_note.txt
+Various 'normalizations' applied to hw-spellings. 
+ These are detailed in vcphw1_note.txt.
+file vcphw0.txt has 48351 lines
+48351 headwords written to file vcphw1.txt
+2019 headwords with normalization changes written to vcphw1_note.txt
+
+* hw_cmp7.txt  :  A solution of the vcpte-vcp matching problem
+python hw_cmp7.py vcptehw1.txt vcphw1.txt hw_cmp7_force.txt hw_cmp7.txt
+
+40 consecutive duplicate headwords found in vcptehw1.txt
+1144 consecutive duplicate headwords found in vcphw1.txt
+46985 records read from file#1 = vcptehw1.txt
+48351 records read from file#2 = vcphw1.txt
+47162 records written to hw_cmp7.txt
+   19 matches of type <-force#d->
+ 2791 matches of type ~=
+43436 matches of type ==
+  212 matches of type onlyfile#2
+   42 matches of type onlyfile#1
+  351 matches of type <-force#a->
+  310 matches of type <-force#b->
+    1 matches of type <-force#c->
+NO OPEN PROBLEMS!
+* two 'coverage' checks of hw_cmp7.txt
+A record of hw_cmp7.txt has the form
+(sequence of vcpte hw records) match-type (sequence of vcp hw records),
+where
+ 'a sequence of hw records' is a semicolon-delimited sequence of hw-records,
+ 'hw-record' is of form hw:l1,l2 (hw is headword spelling, l1 and l2 are
+ line numbers in the underlying vcpte2 or vcp0 files.
+
+So, in particular, if we consider just the vcpte record line-number ranges,
+all the lines in the vcpte2 file should be covered.  And similarly for
+the vcp record line-number ranges.
+Two programs perform just this check.
+
+* check vcpte2 coverage of hw_cmp7.txt
+python hw_cmp5_chk1.py hw_cmp7.txt
+
+The 212 lines skipped include the first line (no previous line to compare)
+and 211 lines of form TEMISSING:-1,-1 onlyfile#2 xxx ; such a line represents
+a case where there was a vcp.txt headword with no corresponding vcpte hw.
+
+The only line of vcpte not covered is the immaterial first blank line.
+
+47162 lines read from hw_cmp7.txt
+212 lines skipped
+46992 line-pairs in recs
+min l = -1, max l = 205304
+1 lines from -1 to 205304 of vcpte1 not covered
+1-1 missing (1 lines)
+
+* check of vcp0 coverage from hw_cmp7.txt
+python hw_cmp4_chk2.py hw_cmp7.txt
+
+The 42 lines skipped are the 'VCPMISSING' lines; many of these represent
+alternate vcpte spellings.  There are a few other 
+
+47162 lines read from hw_cmp7.txt
+42 lines skipped
+48359 line-pairs in recs
+min l = 3, max l = 410046
+2 lines from 3 to 410046 of vcpte1 not covered
+1-2 missing (2 lines)
+* work
+python hw_cmp7.py vcptehw1.txt vcphw1.txt hw_cmp7_forceempty.txt hw_cmp7work.txt
+* THE END

@@ -1,0 +1,3708 @@
+line 339
+old=<yaakuSala>
+new=</akuSala>
+
+line 960
+old=</agnAmaruta>
+new=</agnAmarut>
+
+line 1382
+old=<agnisaMskAra/>
+new=</agnisaMskAra>
+
+line 1528
+old= </agrajafGA>
+new=</agrajaNGA>
+
+line 1725
+old=</agregra>
+new=</agrega>
+
+line 2331
+old=</aNgIkata>
+new=</aNgIkfta>
+
+line 2339
+old= </afguri(rI)>
+new=</aNguri(rI)>
+
+line 2516
+old=
+new=</acalarAja>
+
+line 2591
+old= </aciRNu(Rtu)>
+new=</acizRu(zwu)>
+
+line 4542
+old=s</axAwq>
+new=</adAtf>
+
+line 5059
+old=</adikaraRavicAla>
+new=</aDikaraRavicAla>
+
+line 5312
+old=</adivacana>
+new=</aDivacana>
+
+line 5328
+old=</adivAsana>
+new=</aDivAsana>
+
+line 5460
+old=</aDinAtana>
+new=</aDunAtana>
+
+line 5670
+old=</aDyAtmaSAtra>
+new=</aDyAtmaSAstra>
+
+line 8611
+old=</anUrusAraDi>
+new=</anUrusAraTi>
+
+line 8716
+old=
+new=</aneqamUka>
+
+line 10063
+old=</anavAhAryya>
+new=</anvAhAryya>
+
+line 10143
+old=</apakarwwq>1
+new=</apakarttf>
+
+line 10354
+old=</apacAntara>
+new=</apawAntara>
+
+line 10513
+old=</avaDvaMsin>
+new=</apaDvaMsin>
+
+line 10737
+old=</aparANgamuKa>
+new=</aparANmuKa>
+
+line 11563
+old=</apamArgakzAratEla>
+new=</apAmArgakzAratEla>
+
+line 11567
+old=</apamArgatEla>
+new=</apAmArgatEla>
+
+line 12517
+old=</apsaras)
+new=</apsaras>
+
+line 12803
+old=</avdEvata>
+new=</abdEvata>
+
+line 13338
+old=</aBidruhya1>
+new=</aBidruh>
+
+line 13448
+old=</aBinavIdBida(da)>
+new=</aBinavIdBid(da)>
+
+line 14549
+old=
+new=</aBojyAnna>
+
+line 14610
+old=</aByanwarArAma>/
+new=</aByantarArAma>
+
+line 15116
+old= </amafgalya>
+new=</amaNgalya>
+
+line 15987
+old=</RbuvAhinI>
+new=</ambuvAhinI>
+
+line 16036
+old=</amBaH(mBassa)sU>
+new=</amBaH(mBass)sU>
+
+line 16415
+old=
+new=</ayaskaMsA>
+
+line 16869
+old=</araRya(Rya)rudita>
+new=</araRya(Rye)rudita>
+
+line 17640
+old=</arcarAdimArga>
+new=</arcirAdimArga>
+
+line 18820
+old=
+new=</alanDUma>
+
+line 19135
+old=</alpAyusa>
+new=</alpAyus>
+
+line 19739
+old=</avaDImat>
+new=</avaDimat>
+
+line 19809
+old=
+new=</avanati>
+
+line 20243
+old=</avara>
+new=</avarohin>
+
+line 20459
+old=</avasya>
+new=</avas>
+
+line 20769
+old=</avatA>
+new=</avAta>
+
+line 21308
+old=</aviNkita>
+new=</aviSaNkita>
+
+line 21338
+old=<reN>
+new=
+
+line 21462
+old=</avIja>
+new=</abIja>
+
+line 22118
+old=</aSokaTIrTa>
+new=</aSokatIrTa>
+
+line 22778
+old=</aSvaSaNKu>
+new=</aSvaSaNku>
+
+line 23966
+old=</asaDaDAraRanEkAntika>
+new=</asADAraRanEkAntika>
+
+line 24344
+old=</asfjya>
+new=</asfj>
+
+line 24620
+old=</asTiYjara>
+new=</asTipaYjara>
+
+line 24680
+old=</asTiYcaya>
+new=</asTisaYcaya>
+
+line 24919
+old=</asvacCandya>
+new=</asvAcCandya>
+
+line 24939
+old=</asvamikfta>
+new=</asvAmikfta>
+
+line 25577
+old=</AkANakzA>
+new=</AkANkzA>
+
+line 26075
+old=</AKAta>
+new=</AKyAta>
+
+line 26217
+old=
+new=</AgAmaka>
+
+line 26832
+old=<AjAni>
+new=<AjAnikya>
+
+line 26874
+old=</AjIva>í
+new=</AjIva>
+
+line 27807
+old= <Awmowpawwi>
+new=<Atmotpatti>
+
+line 27809
+old= </Awmowpawwi>
+new=</Atmotpatti>
+
+line 27811
+old= <AwmoxBavA>
+new=<AtmodBavA>
+
+line 27813
+old= </AwmoxBavA>
+new=</AtmodBavA>
+
+line 27815
+old= <AwmopajIvin>
+new=<AtmopajIvin>
+
+line 27817
+old= </AwmopajIvin>
+new=</AtmopajIvin>
+
+line 27819
+old= <Awmopama>
+new=<Atmopama>
+
+line 27821
+old= </Awmopama>
+new=</Atmopama>
+
+line 27823
+old= <AwmOpamya>
+new=<AtmOpamya>
+
+line 27825
+old= </AwmOpamya>
+new=</AtmOpamya>
+
+line 27827
+old= <Awyanwika>
+new=<Atyantika>
+
+line 27829
+old= </Awyanwika>
+new=</Atyantika>
+
+line 27832
+old= <AwyanwikaxuHKanivqwwi>
+new=<AtyantikaduHKanivftti>
+
+line 27834
+old= </AwyanwikaxuHKanivqwwi>
+new=</AtyantikaduHKanivftti>
+
+line 27836
+old= <Awyanwikapralaya>
+new=<Atyantikapralaya>
+
+line 27839
+old= </Awyanwikapralaya>
+new=</Atyantikapralaya>
+
+line 28290
+old=</ADidevika>
+new=</ADidEvika>
+
+line 28603
+old=</Anavya>
+new=</Anava>
+
+line 29685
+old=<aBogi>
+new=<ABogi>
+
+line 31756
+old=<AveDya>
+new=
+
+line 33475
+old=</ikzapra>
+new=</ikzupra>
+
+line 33519
+old=<ikzuvallI(llarI>
+new=<ikzuvallI(llarI)>
+
+line 33710
+old=</iqikkA>
+new=</iqikka>
+
+line 33812
+old=</itiSa>
+new=</itiha>
+
+line 33986
+old=</indirAlayaH>
+new=</indirAlaya>
+
+line 34086
+old=</imdumaRqala>
+new=</indumaRqala>
+
+line 34283
+old=</indraDvajaH>
+new=</indraDvaja>
+
+line 34329
+old=</indraprasTaH>
+new=</indraprasTa>
+
+line 34331
+old=<indrapraharaRa>
+new=<indraprahaRa>
+
+line 34358
+old=</indramarga>
+new=</indramArga>
+
+line 34506
+old=</indrAyuDaH>
+new=</indrAyuDa>
+
+line 34561
+old=/indriyaboDana>
+new=</indriyaboDana>
+
+line 34569
+old=</indriyavfttiH>
+new=</indriyavftti>
+
+line 34843
+old=</irirakAvana>
+new=</irikAvana>
+
+line 34980
+old=</izuga>
+new=</izu>
+
+line 35195
+old=<izwyayana>
+new=<izwyana>
+
+line 35804
+old="</IhA>
+new=</IhA>
+
+line 38517
+old=</ud_grABa>
+new=</udgrABa>
+
+line 42576
+old=<uruR'qa>
+new=<uruRqa>
+
+line 42791
+old=<ulUta>
+new=<ulUt>
+
+line 42815
+old=</ulkajihva>
+new=</ulkAjihva>
+
+line 43189
+old=</uzmih>
+new=</uzRih>
+
+line 43994
+old=<fgveda><reN>
+new=<fgveda>
+
+line 44297
+old=</ftacapsu>
+new=</ftapsu>
+
+line 44884
+old=<lf>
+new=
+
+line 47812
+old=</kaMsodBava>
+new=</kaMsodBavA>
+
+line 47849
+old=<kakutsala>
+new=</kakutsala>
+
+line 47891
+old= </kakunxara>
+new=</kakundara>
+
+line 48012
+old=</kakzivat>
+new=</kakzIvat>
+
+line 48099
+old=</kaNkarIla>
+new=</kaNkarola>
+
+line 48827
+old=</kraWa>
+new=</kaWa>
+
+line 49097
+old=<kaRwakin>
+new=</kaRwakin>
+
+line 49730
+old=<kanakaDvaja>
+new=</kanakaDvaja>
+
+line 50072
+old=</kandowana>
+new=</kandowa>
+
+line 50362
+old=<kapija>
+new=</kapija>
+
+line 50384
+old=</kapipatTa>
+new=</kapitTa>
+
+line 50551
+old=</kapivakta>
+new=</kapivaktra>
+
+line 51006
+old=</kammpA>
+new=</kampyA>
+
+line 51505
+old=<karavIraBujA>
+new=</karavIraBujA>
+
+line 52076
+old=</karRagatarIga>
+new=</karRagataroga>
+
+line 52577
+old=<karpUrarasa>
+new=</karpUrarasa>
+
+line 53279
+old=<kalaDOta>
+new=</kalaDOta>
+
+line 53447
+old= <kalA>
+new=<kalA>
+
+line 53474
+old= </kalA>
+new=</kalA>
+
+line 53562
+old=<kalApUrRa>
+new=</kalApUrRa>
+
+line 53606
+old=</reN>
+new=  </ref>
+
+line 53684
+old=<kaliNga>
+new=</kaliNga>
+
+line 54197
+old=</kavyabAla>
+new=</kavyavAla>
+
+line 55380
+old=<kAtyAyanI>
+new=</kAtyAyanI>
+
+line 56996
+old=<kArpaRya>
+new=</kArpaRya>
+
+line 57000
+old=<kArpAsa>
+new=</kArpAsa>
+
+line 57019
+old=<kArpAsasOtrika>
+new=</kArpAsasOtrika>
+
+line 57093
+old=<kAryya>
+new=</kAryya>
+
+line 57349
+old=<kAlakaRwaka>
+new=</kAlakaRwaka>
+
+line 57921
+old=M
+new=
+
+line 57923
+old=</kAlaSudDi>
+new=</kAlASudvi>
+
+line 59509
+old=</kukkuwamaRqapa>
+new=</kukuwamaRqapa>
+
+line 60095
+old=<ku'qyacCedin>
+new=<kuqyacCedin>
+
+line 60635
+old=<kupa>
+new=</kupa>
+
+line 60683
+old=<kupUya>
+new=</kupUya>
+
+line 61481
+old=</kula>
+new=<kula>
+
+line 62658
+old=<kuharita>
+new=</kuharita>
+
+line 62673
+old=</kuhU>
+new=</kuhu>
+
+line 62729
+old=</ku>
+new=</kUwa>
+
+line 63327
+old=</kftAkfta>
+new=<kftAkfta>
+
+line 63341
+old=</1>
+new=  </1>
+
+line 64364
+old=</kfzRasundara>
+new=<kfzRasundara>
+
+line 64818
+old=<kevajYAnin>
+new=<kevalajYAnin>
+
+line 65205
+old=</kE'qaryya>
+new=</kEqaryya>
+
+line 65279
+old=<kElAsayAtrA>
+new=</kElAsayAtrA>
+
+line 65462
+old=</kotacakra>/
+new=</kowacakra>
+
+line 66776
+old=</kratvarTa
+new=</kratvarTa>
+
+line 67649
+old=<krEqina>
+new=</krEqina>
+
+line 67836
+old=<krOYcapadI>
+new=</krOYcapadI>
+
+line 67856
+old=<krOYcavat>
+new=</krOYcavat>
+
+line 68165
+old=M
+new=
+
+line 68166
+old=M
+new=
+
+line 68167
+old=M
+new=
+
+line 68168
+old=M
+new=
+
+line 68169
+old=M
+new=
+
+line 68170
+old=M
+new=
+
+line 68171
+old=M
+new=
+
+line 68172
+old=M
+new=
+
+line 68173
+old=M
+new=
+
+line 68174
+old=M
+new=
+
+line 68181
+old=</kzABaNga>
+new=</kzaRaBaNga>
+
+line 68211
+old=</kzat>
+new=</kzata>
+
+line 68426
+old=<yakzamin>
+new=</kzamin>
+
+line 69124
+old=
+new=</kzIrasamudra>
+
+line 69526
+old=
+new=<kzudrAmlA>
+
+line 69527
+old=<kzudrAmlA>
+new=	%kzudrAmlA% stro <vg>amlA amlarasA</vg> karmma0 . (1)cANgeryyAm . hArA0 (cukopAlaNga) <vkr>svArTe ka . tatrEvArTe .</vkr></1> (2)SaSAR'qulyAm rAjani0</2>
+
+line 69528
+old=	%kzudrAmlA% stro <vg>amlA amlarasA</vg> karmma0 . (1)cANgeryyAm . hArA0 (cukopAlaNga) <vkr>svArTe ka . tatrEvArTe .</vkr></1> (2)SaSAR'qulyAm rAjani0</2></kRuxrAmlA>
+new=</kzudrAmlA>
+
+line 73205
+old=
+new=<gajAsya>
+
+line 73227
+old=
+new=</gajendra>
+
+line 73272
+old=</g'aqi>
+new=</gaqi>
+
+line 73618
+old=<gaR'qakUpa>
+new=<gaRqakUpa>
+
+line 73807
+old=</gatAyusu>
+new=</gatAyus>
+
+line 73871
+old=</gayitnu>
+new=</gadayitnu>
+
+line 73984
+old=</ganTIraTa>
+new=</gantIraTa>
+
+line 74210
+old=</ganDabaRij>
+new=</ganDavaRij>
+
+line 74300
+old=
+new=</ganDayukti>
+
+line 74329
+old=<ganTarvaloka>
+new=<ganDarvaloka>
+
+line 74996
+old=</garDaBaSAka>
+new=</gardaBaSAka>
+
+line 75674
+old=</gavyuta>
+new=</gavyUta>
+
+line 75683
+old=<gaha/>
+new=</gaha>
+
+line 75700
+old=</gahvaka>
+new=</gahvara>
+
+line 75722
+old=</gaNgAyani>
+new=</gANgAyani>
+
+line 75736
+old=<gANgya
+new=<gANgya>
+
+line 75879
+old=
+new=<gAtrAnulepanI>
+
+line 76092
+old=</gAyanaya>
+new=</gAyana>
+
+line 76294
+old=</girikaRqaka>
+new=</girikaRwaka>
+
+line 76593
+old=
+new=</gIta>
+
+line 76692
+old=</gugluka>
+new=</gugguluka>
+
+line 76733
+old=</gucCa(tsa0baDrA>
+new=</gucCa(tsa)baDrA>
+
+line 77197
+old=<giRqAsinI>
+new=<guRqAsinI>
+
+line 77563
+old=</vn>
+new=  </vn>
+
+line 77890
+old=</gfR'qIva>
+new=</gfRqIva>
+
+line 78065
+old=</gopAyana>
+new=</gfha>
+
+line 78386
+old=<go .'mBas>
+new=<gomBas>
+
+line 78564
+old=<golomI>
+new=<golomi>
+
+line 78878
+old=</govasa>
+new=</gosava>
+
+line 79106
+old=<gOBUta>
+new=<gfha>
+
+line 79367
+old=</gfhADipa><reN>
+new=</gfhADipa>
+
+line 79371
+old=</gfhamlA>
+new=</gfhAmlA>
+
+line 79872
+old=</gotre>
+new=</gotra>
+
+line 80125
+old=</gopagoRwA>
+new=</gopaGoRwA>
+
+line 80607
+old=<grasa>
+new=</grasa>
+
+line 80712
+old=</gorahagocarA>
+new=</grahagocara>
+
+line 80850
+old=</grahabava>
+new=</grahabala>
+
+line 80881
+old=</grahamaR'qala>
+new=</grahamaRqala>
+
+line 80902
+old=</grahayajYa>
+new=
+
+line 80904
+old=<grahAdimantrAH>
+new=
+
+line 81091
+old=</grahAdimantrAH>
+new=</grahayajYa>
+
+line 81183
+old=</grahaDISa>
+new=</grahADISa>
+
+line 81321
+old=</grAmapatra>
+new=</grAmaputra>
+
+line 81832
+old=
+new=</GawinDama>
+
+line 82023
+old=<GawacCada>
+new=<GanacCada>
+
+line 82403
+old=<DuDvanO>
+new=<Gu>
+
+line 82405
+old=</DuDvanO>
+new=</Gu>
+
+line 82436
+old=</GumapriyA>
+new=</GuRapriyA>
+
+line 82641
+old=</Gftakar'aYja>
+new=</GftakaraYja>
+
+line 82900
+old=</gorarAsana>
+new=</GorarAsana>
+
+line 83040
+old=<caka>
+new=
+
+line 83042
+old=</caka>
+new=</ca>
+
+line 83313
+old=<cakranaKa/>
+new=</cakranaKa>
+
+line 83580
+old=</cakropajIvan>
+new=</cakropajIvin>
+
+line 83671
+old=</cakzurIga>
+new=</cakzuroga>
+
+line 83717
+old=<c'aYcala>
+new=<caYcala>
+
+line 83725
+old=<c'aYcu>
+new=<caYcu>
+
+line 83729
+old=<c'aYcupatra>
+new=<caYcupatra>
+
+line 83859
+old=</caR'qatuRqaka>
+new=</caRqatuRqaka>
+
+line 83897
+old=<caR'qAMSu>
+new=<caRqAMSu>
+
+line 84022
+old=</catuHp'aYca>
+new=</catuHpaYca>
+
+line 84026
+old=</catuHp'aYcASat>
+new=</catuHpaYcASat>
+
+line 84693
+old=<candrac'aYcala>
+new=<candracaYcala>
+
+line 85043
+old=</camara>
+new=</camasa>
+
+line 85489
+old=</carmamaR'qala>
+new=</carmamaRqala>
+
+line 85613
+old=</calac'aYcu>
+new=</calacaYcu>
+
+line 85854
+old=</caRqAlikA>
+new=</cARqAlikA>
+
+line 85984
+old=</cAtraM>
+new=</cAtra>
+
+line 87030
+old=<citrasiras>
+new=<citraSiras>
+
+line 87157
+old=</cidAnman>
+new=</cidAtman>
+
+line 87389
+old=<cirBawI/>
+new=</cirBawI>
+
+line 87405
+old=</ciricima>
+new=</cilicima>
+
+line 87579
+old=</cArIvAka>
+new=</cIrIvAka>
+
+line 87608
+old=<cIvara/>
+new=</cIvara>
+
+line 87673
+old=</cu(ccu)cyU>
+new=</cu(ccU)cyU>
+
+line 87791
+old=</curacura>
+new=</curucura>
+
+line 88934
+old=</CAyA>
+new=
+
+line 88936
+old=<CAndogya>
+new=
+
+line 88978
+old=</CAndogya>
+new=</CAyA>
+
+line 89419
+old=</jadambA>
+new=</jagadambA>
+
+line 90361
+old=</jambalinI>
+new=</jambAlinI>
+
+line 90409
+old=</jambUmArga>s
+new=</jambUmArga>
+
+line 91046
+old=</jal'aqimba>
+new=</jalaqimba>
+
+line 91148
+old=</jalanaluka>
+new=</jalanakula>
+
+line 91282
+old=</jalamaR'quka>
+new=</jalamaRquka>
+
+line 91647
+old=</jalayotsarga>
+new=</jalASayotsarga>
+
+line 91911
+old=</jahijIqa>
+new=</jahijoqa>
+
+line 91961
+old=</jagarita>
+new=</jAgarita>
+
+line 91975
+old=</jagaritf>
+new=</jAgaritf>
+
+line 92723
+old=</jAlAprAyA>
+new=</jAlaprAyA>
+
+line 92729
+old=<jAlavarvuraka>
+new=
+
+line 92730
+old=	%jAlavarvuraka% pu0 (1)AyuDajIviBede .</1> tataH <vkr>svArTe Ca .</vkr> <vn>tadarTe jAlakiSabde dfSyam .</vn>
+new=
+
+line 92731
+old=</jAlavarvuraka>
+new=
+
+line 92733
+old=<jAlavarDuraka>
+new=<jAlavarvuraka>
+
+line 92734
+old=	%jAlavarDuraka% pu0 <vg>jAlAkAro DarvurakaH .</vg> (1)(kA~wAvAvalA) vfkzaBede .</1> <ref>"jAlavarDurako rUkzo vAtarogakaPApahaH . pittadAhakaraScozRaH kazAyaSca prakIrttitaH" rAjani0 .</1>
+new=%jAlavarvuraka% pu0 <vg>jAlAkAro varvurakaH .</vg> (1)(kA~wAvAvalA) vfkzaBede .</1> <ref>"jAlavarDurako rUkzo vAtarogakaPApahaH . pittadAhakaraScozRaH kazAyaSca prakIrttitaH" rAjani0 .</1>
+
+line 92735
+old=</jAlavarDuraka>
+new=</jAlavarvuraka>
+
+line 92884
+old=</jijYasu>
+new=</jijYAsu>
+
+line 92986
+old=</jinedra>
+new=</jinendra>
+
+line 93554
+old=<jIviteSa>
+new=</jIviteSa>
+
+line 93556
+old=</jIvin>
+new=<jIvin>
+
+line 93614
+old=</jagupsA>
+new=</jugupsA>
+
+line 94167
+old=</jYanendriya>
+new=</jYAnendriya>
+
+line 94316
+old=</jyotirvid>
+new=</jyotirvidu>
+
+line 94518
+old= </jvarakAlakewurasa>
+new=</jvarakAlaketurasa>
+
+line 94700
+old=</JakAra>
+new=
+
+line 94702
+old=<Ja>
+new=
+
+line 94704
+old=</Ja>
+new=</JakAra>
+
+line 95017
+old=</wakAra>
+new=
+
+line 95018
+old=<wa>
+new=
+
+line 95020
+old=</wa>
+new=</wakAra>
+
+line 95459
+old=</qor'aqI>
+new=</qoraqI>
+
+line 96043
+old=</taRqalIya>
+new=</taRqulIya>
+
+line 96490
+old=</tanunaDyA>
+new=</tanumaDyA>
+
+line 96925
+old=</tapassyAmatsya>
+new=</tapasyAmatsya>
+
+line 97335
+old=</tatsama>
+new=</taratsama>
+
+line 97339
+old=</tatsamandIya>
+new=</taratsamandIya>
+
+line 98451
+old=</tAmbUvallI>
+new=</tAmbUlavallI>
+
+line 99497
+old=</taTi(TI)>
+new=</tiTi(TI)>
+
+line 99666
+old=</tiraskAraya>
+new=</tiraskAra>
+
+line 99872
+old=</tilatsa>
+new=</tilitsa>
+
+line 99987
+old=</tIkzRadaRqulA>
+new=</tIkzRataRqulA>
+
+line 100146
+old=</tIrTavAta>
+new=</tIrTavAka>
+
+line 100788
+old=<tula>
+new=</tula>
+
+line 101619
+old=</tftIyayugaparyya>
+new=</tftIyayugaparyyaya>
+
+line 101648
+old=</tfdi>
+new=</tfda>
+
+line 101845
+old=<tejasvat>
+new=</tejasvat>
+
+line 101994
+old=</tEntIqIka>
+new=</tEntiqIka>
+
+line 102389
+old=</toyAtman>
+new=</toyAtmana>
+
+line 102835
+old=</trikakubanDAman>
+new=</trikakubDAman>
+
+line 102991
+old=</trigAkfta>
+new=</triguRAkfta>
+
+line 104933
+old=</daMSaBIru .
+new=</daMSaBIru>
+
+line 104941
+old=<daMSita>
+new=</daMSita>
+
+line 104966
+old=<daMzwrAstra>
+new=</daMzwrAstra>
+
+line 104974
+old=<daMzwrin>
+new=</daMzwrin>
+
+line 104978
+old=</daMsana>
+new=</daMsanA>
+
+line 105023
+old=</dakzakanya>
+new=</dakzakanyA>
+
+line 105034
+old= </xakRakrawu>
+new=</dakzakratu>
+
+line 105107
+old=</dakziRam>
+new=</dakziRatam>
+
+line 105125
+old=<dakziRadik>
+new=</dakziRadik>
+
+line 105145
+old=/<xakRiNamArga>
+new=</dakziRamArga>
+
+line 105192
+old=<dakziRAntikA>
+new=</dakziRAntikA>
+
+line 105202
+old=</dakziRApara>
+new=</dakziRAparA>
+
+line 105284
+old=</gakziRAvaha>
+new=</dakziRAvaha>
+
+line 105344
+old=   </xagXa>
+new=</dagDa>
+
+line 105687
+old=<daRqAjina>
+new=</daRqAjina>
+
+line 105885
+old=
+new=</datta>
+
+line 105990
+old=</dadrURa>
+new=</dadruRa>
+
+line 106071
+old=</daDIpuzpI>
+new=</daDipuzpI>
+
+line 106075
+old=</daDipUpa>
+new=</daDIpUpa>
+
+line 106135
+old=</daDisya(DyAsya)>
+new=</daDisya(Dyasya)>
+
+line 106145
+old=</daDI(ca)cI>
+new=</daDI(ca)ci>
+
+line 106370
+old=</danvavAsas>
+new=</dantavAsas>
+
+line 106575
+old=
+new=<damanaka>
+
+line 106683
+old=</dayutru>
+new=</dayitru>
+
+line 106720
+old=</jarasAna>
+new=</darasAna>
+
+line 106781
+old=</dardrU(rdU)>
+new=</dardru(rdU)>
+
+line 106786
+old=</dardrU(rdru)Gna>
+new=</dardru(rdru)Gna>
+
+line 106790
+old=</dardrU(rdrU)nASinI>
+new=</dardru(rdrU)nASinI>
+
+line 106810
+old=</darpaRA>
+new=</darpaRa>
+
+line 106922
+old=</duSyam>
+new=</darSana>
+
+line 106944
+old=<daraSayitf>
+new=<darSayitf>
+
+line 107010
+old=</galasnasA>
+new=</dalasnasA>
+
+line 107108
+old=<daSakandarajit>
+new=</daSakanDarajit>
+
+line 107112
+old=<daSakarmman>
+new=</daSakarmman>
+
+line 107116
+old=<daSakulavfkza>
+new=</daSakulavfkza>
+
+line 107120
+old=<daSakzIra>
+new=</daSakzIra>
+
+line 107126
+old=<daSagrAmapati>
+new=</daSagrAmapati>
+
+line 107130
+old=<daSagrAmika>
+new=</daSagrAmika>
+
+line 107134
+old=<daSagrAmin>
+new=</daSagrAmin>
+
+line 107139
+old=<daSagrIva>
+new=</daSagrIva>
+
+line 107143
+old=<daSajyoti(s)>
+new=</daSajyoti(s)>
+
+line 107179
+old=</daSacCada>
+new=</daSanacCada>
+
+line 107191
+old=<daSanavIja>
+new=</daSanavIja>
+
+line 107195
+old=<daSanANka>
+new=</daSanANka>
+
+line 107199
+old=<daSanAQyA>
+new=</daSanAQyA>
+
+line 107203
+old=<daSanocCizwa>
+new=</daSanocCizwa>
+
+line 107225
+old=<daSapuruza>
+new=</daSapuruza>
+
+line 107229
+old=<daSapUra>
+new=</daSapUra>
+
+line 107233
+old=<daSapeya>
+new=</daSapeya>
+
+line 107237
+old=<daSabala>
+new=</daSabala>
+
+line 107241
+old=<daSabAhu>
+new=</daSabAhu>
+
+line 107257
+old=<daSama>
+new=</daSama>
+
+line 107405
+old=</daSasAhasrikA>
+new=</daSasAhasrika>
+
+line 107803
+old=</jahanapluzwa>
+new=</dahanapluzwa>
+
+line 107912
+old=<dAkziRaka
+new=<dAkziRaka>
+
+line 107967
+old=</jAqimapuzpa>
+new=</dAqimapuzpa>
+
+line 107979
+old=</dAqimAdIcUrRa>
+new=</dAqimAdicUrRa>
+
+line 107987
+old=</dAqImIrasa>
+new=</dAqimIrasa>
+
+line 108027
+old=<dARqika>
+new=</dARqika>
+
+line 108252
+old=
+new=</dAna>
+
+line 108792
+old=</dAla>
+new=
+
+line 109008
+old=</dikkAnyA>
+new=</dikkanyA>
+
+line 109089
+old=<gigjaya>
+new=<digjaya>
+
+line 109244
+old=</diDizUpata>
+new=</diDizUpati>
+
+line 109248
+old=</diDUzU>
+new=</diDIzU>
+
+line 109350
+old=</dinamUrdDana>
+new=</dinamUrdDan>
+
+line 109586
+old=</jivitmat>
+new=</divitmat>
+
+line 109959
+old=</dAnanATa>
+new=</dInanATa>
+
+line 110498
+old=</dIrGaDvaga>
+new=</dIrGADvaga>
+
+line 110536
+old=</dIrGarvAru>
+new=</dIrGervAru>
+
+line 110783
+old=</ducCam>
+new=</ducCan>
+
+line 110900
+old=</darakza>
+new=</durakza>
+
+line 110978
+old=</durAcAra
+new=</durAcAra>
+
+line 110982
+old=</durAQyaNkara>
+new=</durAQyANkara>
+
+line 111184
+old=</durganDaNga>
+new=</durganDANga>
+
+line 111347
+old=</durduSIka>
+new=</durdfSIka>
+
+line 111351
+old=</durduzwa>
+new=</durdfzwa>
+
+line 111408
+old=</durdDUrUwa>
+new=</durdDurUwa>
+
+line 111458
+old=<durbroDa>
+new=<durboDa>
+
+line 111562
+old=</durmUhUrtta>
+new=</durmuhUrtta>
+
+line 111599
+old= </xuryoXana>
+new=</duryoDana>
+
+line 111616
+old=</durlatita>
+new=</durlalita>
+
+line 111652
+old=</durvartu>
+new=</durvarttu>
+
+line 111865
+old=</duScayavana>
+new=</duScyavana>
+
+line 111939
+old=</duzWaraktaduk>
+new=</duzWaraktadfk>
+
+line 112089
+old=</du(dru)hya>
+new=</du(dru)hyu>
+
+line 112271
+old=</dUziyitnu>
+new=</dUzayitnu>
+
+line 112296
+old=</dUzyUdara>
+new=</dUzyudara>
+
+line 112341
+old=</dukprasAda>
+new=</dfkprasAda>
+
+line 112361
+old=<dfgala>
+new=</dfgala>
+
+line 112365
+old=<dfggati>
+new=</dfggati>
+
+line 112369
+old=<dfggola>
+new=</dfggola>
+
+line 112373
+old=<dfgjyA>
+new=</dfgjyA>
+
+line 112378
+old=<dfglambana>
+new=</dfglambana>
+
+line 112382
+old=<dfgviza>
+new=</dfgviza>
+
+line 112386
+old=<dfgvftta>
+new=</dfgvftta>
+
+line 112391
+old=<dfNnati
+new=</dfNnati>
+
+line 112587
+old=<duQAdi>
+new=<dfQAdi>
+
+line 112910
+old=</devakAtmajA>
+new=</devakAtmaja>
+
+line 112934
+old=</devakIndana>
+new=</devakInandana>
+
+line 112996
+old=</devagARikA>
+new=</devagaRikA>
+
+line 113787
+old=<reN>5 .12 kzayasya "kzayABiDo Bavedatra dvAdaSo vatsaro kzaya! . kfzRagrIvaH sunIlANgo raktanetro jawADaraH . mecakAruRavastrastu nIlakAruRagoDikaH . Adime dakziRe sarpaM dvitIye cEva pASakam . nizakumBantu vAmAdye dvitIye cEva ketavam" . <vn>evaM paYcadvAdaSakazazWivatsarARAM mUrttayaH . </vn></reN>
+new=<reN>5 .12 kzayasya "kzayABiDo Bavedatra dvAdaSo vatsaro kzaya! . kfzRagrIvaH sunIlANgo raktanetro jawADaraH . mecakAruRavastrastu nIlakAruRagoDikaH . Adime dakziRe sarpaM dvitIye cEva pASakam . nizakumBantu vAmAdye dvitIye cEva ketavam" . <vn>evaM paYcadvAdaSakazazWivatsarARAM mUrttayaH . </vn></reN>	<vn>yAsAM devatAnAM pratimAnAM yaTArUpanirmARamuktaM tAsAM taTArupeREva DyeyatA . atrAnuktadevatAnAM DyAnaBedA DyAnaSabde vakzyante . devatApratimUrttyAdayo .'pyatra . pratimAnirmARe dravyaBedA matsyapu0 uktAH te ca devatApratizWA Sabde vakzyate</vn>
+
+line 113788
+old=	<vn>yAsAM devatAnAM pratimAnAM yaTArUpanirmARamuktaM tAsAM taTArupeREva DyeyatA . atrAnuktadevatAnAM DyAnaBedA DyAnaSabde vakzyante . devatApratimUrttyAdayo .'pyatra . pratimAnirmARe dravyaBedA matsyapu0 uktAH te ca devatApratizWA Sabde vakzyate</vn>
+new=</devatApratimA>
+
+line 113902
+old=
+new=</devatApratizWA>
+
+line 114174
+old=</devabrahmaRa>
+new=</devabrAhmaRa>
+
+line 114185
+old=<devaBItadi>
+new=<devaBIti>
+
+line 114262
+old=</devamIQuzu>
+new=</devamIQuza>
+
+line 114406
+old=</devartman>
+new=</devavartman>
+
+line 114536
+old=</devasa>
+new=</devasaha>
+
+line 114987
+old=</dehaDfkaj>
+new=</dehaDfj>
+
+line 115316
+old=</dEvagArika>
+new=</dEvAgArika>
+
+line 115483
+old=</dazatraya>
+new=</dozatraya>
+
+line 115692
+old=</dOrhf(da)>
+new=</dOrhf(ha)da>
+
+line 115871
+old=</dyamatsena>
+new=</dyumatsena>
+
+line 115978
+old=</dyozaDa>
+new=</dyozada>
+
+line 116105
+old=</draviRasa>
+new=</draviRas>
+
+line 116220
+old=<dAGizWa>
+new=<drAGizWa>
+
+line 116222
+old=</dADizWa>
+new=</drAGizWa>
+
+line 116224
+old=<dAGaman>
+new=<drAGaman>
+
+line 116226
+old=</dAGaman>
+new=</drAGaman>
+
+line 116733
+old=</dvAH(davA)sTita>
+new=</dvAH(dvA)sTita>
+
+line 116862
+old=</dvAdaSasagrAma>
+new=</dvAdaSasagrAhama>
+
+line 116875
+old=</davAdaSAMSu>
+new=</dvAdaSAMSu>
+
+line 116911
+old=</dvAdaSAnyikA>
+new=</dvAdaSAnyika>
+
+line 117044
+old=</dvA(di)>
+new=</dvA(dvi)>
+
+line 117048
+old=</dvA(dvi)vi~Sati>
+new=</dvA(dvi)viMSati>
+
+line 117097
+old=</dvigfRa>
+new=</dviguRa>
+
+line 117101
+old=</dvigfRAkf>
+new=</dviguRAkf>
+
+line 117113
+old=</dvacaraRa>
+new=</dvicaraRa>
+
+line 117121
+old=</dvijakutsitA>
+new=</dvijakutsita>
+
+line 117165
+old=</dvajavraRa>
+new=</dvijavraRa>
+
+line 117169
+old=</dvajaSapta>
+new=</dvijaSapta>
+
+line 117215
+old=<dvijopAsaka
+new=<dvijopAsaka>
+
+line 117331
+old=</datviDAgati>
+new=</dviDAgati>
+
+line 117818
+old=</dvipikA>
+new=</dvIpikA>
+
+line 117838
+old=</dva(dvyf)ca>
+new=</dvf(dvyf)ca>
+
+line 117988
+old=</dvAhAyana>
+new=</dvEhAyana>
+
+line 118002
+old=<dvayaNgula>
+new=<dvyaNgula>
+
+line 118054
+old=<dvayAyuza>
+new=<dvyAyuza>
+
+line 118120
+old= 	%DaRa% (1)Sabde</1> <vkr>BvA0 pa0 aka0 sew  . DaRati aDARIt aDaRIt  . daDARa
+new= 	%DaRa% (1)Sabde</1> <vkr>BvA0 pa0 aka0 sew  . DaRati aDARIt aDaRIt  . daDARa </vkr>
+
+line 118121
+old=</vkr>
+new=
+
+line 118122
+old= </XaNa>
+new=</DaRa>
+
+line 118336
+old= </XanurxrumaH>
+new=</DanurdrumaH>
+
+line 118348
+old= </XanurBqw>
+new=</DanurBft>
+
+line 118390
+old=</DanurvedaH>
+new=</Danurveda>
+
+line 118507
+old=</DanvayavAsaH>
+new=</DanvayavAsa>
+
+line 118571
+old= </XaraNa>
+new=</DaraRa>
+
+line 118758
+old=</Darmacarin>
+new=</DarmacArin>
+
+line 118829
+old= </XarmaxravI>
+new=</DarmadravI>
+
+line 118950
+old= </XarmmamUla>
+new=</DarmmamUla>
+
+line 118962
+old= </XarmameGa>
+new=</DarmameGa>
+
+line 118970
+old= </Xarmmayuga>
+new=</Darmmayuga>
+
+line 119041
+old=</Darmaviveka>
+new=</Darmmaviveka>
+
+line 119076
+old=</DarmmASAstra>
+new=</DarmmaSAstra>
+
+line 119142
+old=
+new=</DarmADikaraRa>
+
+line 119239
+old=</DalaR'qa>
+new=</DalaRqa>
+
+line 119475
+old=</DAtupuzpI>
+new=</DAtfpuzpI>
+
+line 119667
+old=</DAnyamra>
+new=</DAnyAmra>
+
+line 120353
+old=<XUpAfga>)
+new=<DUpANga>
+
+line 120989
+old=</DomIya>
+new=</DOmIya>
+
+line 121622
+old=</naktamuKa>
+new=</naktamuKA>
+
+line 122398
+old=</nadIkadanba>
+new=</nadIkadamba>
+
+line 122406
+old=</nadIkUlapriyA>
+new=</nadIkUlapriya>
+
+line 122573
+old=
+new=</nandApurARa>
+
+line 124949
+old=<nAndImuKa>
+new=</nAndImuKa>
+
+line 125302
+old=<nArItaraNka>
+new=<nArItaraNgaka>
+
+line 126525
+old=</nimittabaDa>
+new=</nimittavaDa>
+
+line 127165
+old=</nirguR'qI>
+new=</nirguRqI>
+
+line 128169
+old=</niSITa>
+new=
+
+line 128495
+old=</nizkOSAmbI>
+new=</nizkOSAmbi>
+
+line 128663
+old=</nizpulaka>
+new=</nizpulAka>
+
+line 128877
+old=<nispanda>
+new=<nizpanda>
+
+line 129410
+old=</nIlaSiKaR'qa>
+new=</nIlaSiKaRqa>
+
+line 129653
+old=<nftta(tya>
+new=<nftta(tya)>
+
+line 129889
+old=<nfsihavana>
+new=<nfsiMhavana>
+
+line 131072
+old=</rakvakft>
+new=</pakvakft>
+
+line 131239
+old=</pakzakopa>
+new=</pakzmakopa>
+
+line 131339
+old=</paNktagrIva>
+new=</paNktigrIva>
+
+line 131532
+old=</p'aYcagaRa>
+new=</paYcagaRa>
+
+line 131697
+old=</p'aYcanI>
+new=</paYcanI>
+
+line 131702
+old=</p'aYcapakzin>
+new=</paYcapakzin>
+
+line 131722
+old=</p'aYcaparvan>
+new=</paYcaparvan>
+
+line 131886
+old=</p'aYcaraSmi>
+new=</paYcaraSmi>
+
+line 132066
+old=</paYcaMSa>
+new=</paYcAMSa>
+
+line 132267
+old=</paYcikAraka>
+new=</paYjikAraka>
+
+line 132345
+old=</pahawa>
+new=</pawaha>
+
+line 132425
+old=</pawolAdI>
+new=</pawolAdi>
+
+line 132506
+old=</pawwamaYjarI>
+new=</paWamamaYjarI>
+
+line 132862
+old=</pawiwa> .
+new=</patita>
+
+line 133012
+old=</pattrapAlI>
+new=</pattrapIlI>
+
+line 133034
+old=<pattram'aYjarI>
+new=<pattramaYjarI>
+
+line 133084
+old=</pattravfSyaka>
+new=</pattravfScika>
+
+line 133132
+old=</pattrANgulI>
+new=</pattrANguli>
+
+line 133136
+old=</pattrAYjanA>
+new=</pattrAYjana>
+
+line 134084
+old=
+new=<paratantra>
+
+line 134085
+old=<paratantra>
+new=	%paratantra%tri0 <vg>parasya tantramaDInatA yatra .</vg> (1)parADIne amaraH . </1>
+
+line 134086
+old=	%paratantra%tri0 <vg>parasya tantramaDInatA yatra .</vg> (1)parADIne amaraH . </1>
+new=</paratantra>
+
+line 134087
+old=	%paratarkuka% tri0 <vg>paraH SatrustarkurivAsya .'SatfBayayute .</vg> <vkr>kap .</vkr> <ref>"kunaSvavivarREH paratarkukASca tAmrESca puruzaBUpatayaH bf0 saM0 61</ref> <vn>naralakzaRoktO . </vn>
+new=<paratarkuka>
+
+line 134088
+old=</paratarkuka>
+new=	%paratarkuka% tri0 <vg>paraH SatrustarkurivAsya .'SatfBayayute .</vg> <vkr>kap .</vkr> <ref>"kunaSvavivarREH paratarkukASca tAmrESca puruzaBUpatayaH" bf0 saM0 61</ref> <vn>naralakzaRoktO . </vn>
+
+line 134089
+old=
+new=</paratarkuka>
+
+line 134540
+old=</parAratpara>
+new=</parAtpara>
+
+line 134568
+old=</parAna(Ra)sa>
+new=</parAna(Ra)sA>
+
+line 135374
+old=</paravarjana>
+new=</parivarjana>
+
+line 135390
+old=</parivarttan>
+new=</parivarttin>
+
+line 135398
+old=</pirivasaTa>
+new=</parivasaTa>
+
+line 135595
+old= </pariRaxa>
+new=</parizada>
+
+line 135748
+old=</parikzaka>
+new=</parIkzaka>
+
+line 136000
+old=</parRaruha>
+new=</parRaruh>
+
+line 136144
+old=</paryAgnikfta>
+new=</paryagnikfta>
+
+line 136261
+old=</paryolocana>
+new=</paryAlocana>
+
+line 136418
+old=/parvan>
+new=</parvan>
+
+line 136450
+old=</parvasPowa>
+new=</parvAsPowa>
+
+line 137065
+old=</pasvizwakA>
+new=</paSvizwakA>
+
+line 137126
+old=</pA(Su)sukulI>
+new=</pAM(Su)sukulI>
+
+line 137135
+old=</pA(Su)kzAra>
+new=</pAMSu(su)kzAra>
+
+line 137139
+old=</paSu(su)catvara>
+new=</pASu(su)catvara>
+
+line 137147
+old=</pASu(su)cAmara>
+new=</pAMSu(su)cAmara>
+
+line 137298
+old=
+new=</pAkya>
+
+line 137350
+old=</pAYjacanyaDara>
+new=</pAYcajanyaDara>
+
+line 137354
+old=</pAYjadaSa>
+new=</pAYcadaSa>
+
+line 137363
+old=</pAYcaBOtika>
+new=</pAYcABOtika>
+
+line 137503
+old=</pAWaSAlinI>
+new=</paWaSAlinI>
+
+line 137563
+old=</pARigfhIti>
+new=</pARigfhItI>
+
+line 137720
+old=</paRqitya>
+new=</pARqitya>
+
+line 137754
+old=</pARqipatrI>
+new=</pARqupatrI>
+
+line 138382
+old=</pAnIyASna>
+new=</pAnIyASnA>
+
+line 138636
+old=	%pAramparIRa%tri0 <vg>paramparAyA AgataH</vg> <vkr>KaY .</vkr> (1)paramparAyAH kramAdAgate .
+new=	%pAramparIRa%tri0 <vg>paramparAyA AgataH</vg> <vkr>KaY .</vkr> (1)paramparAyAH kramAdAgate . </1>
+
+line 138637
+old=</1>
+new=
+
+line 138702
+old=</pArasyarakulIna>
+new=</pArasyakulIna>
+
+line 138724
+old=<pArAyaRika>
+new=</pArAyaRika>
+
+line 138728
+old=<pArAruka>
+new=</pArAruka>
+
+line 138732
+old=<pArAvataGnI>
+new=</pArAvataGnI>
+
+line 138736
+old=<pApAvatapadI>
+new=</pArAvatapadI>
+
+line 138740
+old=<pArAvatANGri>
+new=</pArAvatANGri>
+
+line 138744
+old=<pArAvatANGripicCa>
+new=</pArAvatANGripicCa>
+
+line 138748
+old=<pArAvArIRa>
+new=</pArAvArIRa>
+
+line 138752
+old=<pArASara>
+new=</pArASara>
+
+line 139031
+old=</pArKa>
+new=</pArSva>
+
+line 139039
+old=</parSvatas>
+new=</pArSvatas>
+
+line 139049
+old=<<pArSvaparivarttana>
+new=<pArSvaparivarttana>
+
+line 139087
+old=</pArSvisTi>
+new=</pArSvAsTi>
+
+line 139204
+old=</pAliSi>
+new=</pAlASi>
+
+line 139226
+old=<palin>
+new=<pAlin>
+
+line 139734
+old=</piWaNkokI>
+new=</piwaNkokI>
+
+line 139822
+old=</piRqapuzpakA>
+new=</piRqapuzpaka>
+
+line 140670
+old=</pItabAluka>
+new=</pItabAlukA>
+
+line 140964
+old=</puScalI>
+new=</puMScalI>
+
+line 140995
+old=</piskokila>
+new=</puskokila>
+
+line 141224
+old=</puRyakIrti>
+new=</puRyakIrtti>
+
+line 141384
+old=</putrakaTa>
+new=</putrakfTa>
+
+line 141445
+old=</putrasaNgarin>
+new=</putrasaNkarin>
+
+line 141461
+old=</putra(ttrA)din>
+new=</putrA(ttrA)din>
+
+line 142092
+old=</puruzavAga>
+new=</puruzavAha>
+
+line 142259
+old=<purAhita>
+new=<purohita>
+
+line 142274
+old=</pUrva>
+new=</purva>
+
+line 142398
+old=</puzkaprAdurBAva>
+new=</puzkaraprAdurBAva>
+
+line 142446
+old=</puzkaraKya>
+new=</puzkarAKya>
+
+line 142450
+old=</puzkrANGrija>
+new=</puzkarANGrija>
+
+line 142539
+old=</puzpAkAsIma>
+new=</puzpakAsIma>
+
+line 142695
+old=</puzparezu>
+new=</puzpareRu>
+
+line 142856
+old=</pazpya>
+new=</puzpya>
+
+line 143662
+old=</pUrva(rbi)n>
+new=</pUrvi(rbi)n>
+
+line 143830
+old=</pfTiktvacA>
+new=</pfTaktvacA>
+
+line 143962
+old=</pfTaupalASikA>
+new=</pfTupalASikA>
+
+line 144302
+old=</pecilI>
+new=</peculI>
+
+line 144751
+old=</poziyitnu>
+new=</pozayitnu>
+
+line 144827
+old=	%pORqravardDana%pu0 (1)(vehAra)KyAte deSaBede Sabdara0</1> <vn>tatra pORqrekzu prAcuryyAt taTAtvam .
+new=	%pORqravardDana%pu0 (1)(vehAra)KyAte deSaBede Sabdara0</1> <vn>tatra pORqrekzu prAcuryyAt taTAtvam .</vn>
+
+line 144828
+old=</vn>
+new=
+
+line 146047
+old=
+new=</prati(tI)kASa>
+
+line 146617
+old=</pratitivAta>
+new=</prativAta>
+
+line 146633
+old=</prativattA>
+new=</prativAttA>
+
+line 146654
+old=</pratibimva>
+new=</pratibimba>
+
+line 146879
+old=</pratisIrA>
+new=</pratisIrI>
+
+line 147319
+old=</pratyADana>
+new=</pratyADAna>
+
+line 147757
+old=<prap'aYcita>
+new=<prapaYcita>
+
+line 148241
+old=</pramuga>
+new=</pramfga>
+
+line 148523
+old=	%pravacanIya% tri0 <vkr>pra+vaca-karmaRi anIyar .</vkr> (1)prakarzeRa arTAnunDAnena vAcye .</1> <vkr><ref>"Bavya geyetyAdi" pA0</ref> karttari anIyar .</vkr> <vn>pravaktari karmapravacanIyAH tacCabde dfSyam .
+new=	%pravacanIya% tri0 <vkr>pra+vaca-karmaRi anIyar .</vkr> (1)prakarzeRa arTAnunDAnena vAcye .</1> <vkr><ref>"Bavya geyetyAdi" pA0</ref> karttari anIyar .</vkr> <vn>pravaktari karmapravacanIyAH tacCabde dfSyam .</vn>
+
+line 148524
+old=</vn>
+new=
+
+line 148565
+old=</pravaralalitA>
+new=</pravaralalita>
+
+line 149025
+old=</prasanaya>
+new=</prasayana>
+
+line 149267
+old=</prasyAryarmma>
+new=</prastAryarmma>
+
+line 149537
+old=</prakfta>
+new=</prAkfta>
+
+line 149565
+old=</praktina>
+new=</prAktina>
+
+line 149593
+old=</prAkPalguna>
+new=</prAkPAlguna>
+
+line 149597
+old=</prAKSaNkavat>
+new=</prAkSaNkavat>
+
+line 149613
+old=</praksrotam>
+new=</prAksrotam>
+
+line 149629
+old=</pragalBya>
+new=</prAgalBya>
+
+line 149689
+old=</prAGurRika>
+new=</prAGUrRika>
+
+line 149769
+old=</pracetasa>
+new=</prAcetasa>
+
+line 149809
+old=</prAjaya>
+new=</prAjayA>
+
+line 150121
+old=</prAtara>
+new=</prAtarASa>
+
+line 150456
+old=</prAyaRika>
+new=</prAyARika>
+
+line 150789
+old=</prayadarSana>
+new=</priyadarSana>
+
+line 150890
+old=
+new=</prIRa>
+
+line 150950
+old=	%pruzva% pra0 <vkr>pruza-kan .</vkr> (1)ftO (2)sUrye ca ujjvala0 . (3)jala[vindO si0 kO0 .
+new=	%pruzva% pra0 <vkr>pruza-kan .</vkr> (1)ftO (2)sUrye ca ujjvala0 . (3)jala[vindO si0 kO0 .</3>
+
+line 150951
+old=</3>
+new=
+
+line 150958
+old=<prakzAgAra>
+new=<prekzAgAra>
+
+line 151224
+old=</pro(prO)Qi>
+new=</prO(prO)Qi>
+
+line 151578
+old=/PaRa(RA)Dara>
+new=</PaRa(RA)Dara>
+
+line 151615
+old=
+new=</PaRitalpaga>
+
+line 152066
+old=</PA>``
+new=</PA>
+
+line 152142
+old=%</Pulwa(lla)>
+new=</Pulta(lla)>
+
+line 152168
+old=%</PeNa(na)>
+new=</PeRa(na)>
+
+line 152569
+old= .</barba>
+new=</barba>
+
+line 152960
+old=<bahukUrca>%
+new=<bahukUrca>
+
+line 153024
+old=<ba(va)huparNa>%
+new=<ba(va)huparRa>
+
+line 153030
+old=</ba(va)hupAd(d)>
+new=</ba(va)hupAd(da)>
+
+line 153036
+old=<ba(va)hupuRpa>%
+new=<ba(va)hupuzpa>
+
+line 153040
+old=<ba(va)hupraja>%
+new=<ba(va)hupraja>
+
+line 153169
+old=<ba(va)huvIryya>%
+new=<ba(va)huvIryya>
+
+line 153185
+old=<ba((va)huSas>
+new=<ba(va)huSas>
+
+line 153296
+old=</bARapaNKA>
+new=</bARapuNKA>
+
+line 153329
+old=</bA(vA)dara)>
+new=</bA(vA)dara>
+
+line 153553
+old=</bAlI>
+new=</bAli>
+
+line 153649
+old=</bAhA(hU)bAhaviH>
+new=</bAhA(hU)bAhavi>
+
+line 153703
+old=</bAhUBUzA>
+new=</bAhuBUzA>
+
+line 153753
+old=<bAhvAMdi>
+new=<bAhvAdi>
+
+line 153846
+old=</bilama>
+new=</bilma>
+
+line 153984
+old=</bukkan>
+new=</bukkana>
+
+line 153988
+old=</bukvasa>
+new=</bukkasa>
+
+line 154119
+old=<buXAna>%
+new=<buDAna>
+
+line 154141
+old=
+new=</buDnya>
+
+line 154228
+old=<bq(vq)hajjAbAla>%
+new=<bf(vf)hajjAbAla>
+
+line 154320
+old=<bq(vq)hawpArevawa>%
+new=<bf(vf)hatpArevata>
+
+line 154340
+old=<bq(vq)hawsaMhiwA>%
+new=<bf(vf)hatsaMhitA>
+
+line 154426
+old=</bu(vf)hadDanus>
+new=</bf(vf)hadDanus>
+
+line 154440
+old=<bq(vq)haxXala>%
+new=<bf(vf)hadDala>
+
+line 154454
+old=</bf(vf)dBa>
+new=</bfha(vf)dBa>
+
+line 154632
+old=<byuRa>%
+new=<byuza>
+
+line 154687
+old=</bra(vra)hmagarBA)>
+new=</bra(vra)hmagarBA>
+
+line 154689
+old=<bra(vra)hmagArgya>%
+new=<bra(vra)hmagArgya>
+
+line 154783
+old= </bra(vra)hmawufga>
+new=</bra(vra)hmatuNga>
+
+line 154903
+old=</ba(vra)hmaBUmijA>
+new=</bra(vra)hmaBUmijA>
+
+line 154939
+old=</bra(vra)brahmayuga>
+new=</bra(vra)hmayuga>
+
+line 154984
+old="</bra(vra)hmaloka>
+new=</bra(vra)hmaloka>
+
+line 155041
+old=</bra)(vra)hmavfkza>
+new=</bra(vra)hmavfkza>
+
+line 155045
+old= </bra(vra)hmavqwwi>
+new=</bra(vra)hmavftti>
+
+line 155196
+old=<bra(vra)hmANBU>
+new=<bra(vra)hmANgaBU>
+
+line 155209
+old=<bra(vra)hmANda>%
+new=<bra(vra)hmARqa>
+
+line 155251
+old=</bra(vra))hmArpaRa>
+new=</bra(vra)hmArpaRa>
+
+line 155352
+old=</brA(vrA)hmakAmyA>
+new=</brA(vrA)hmaRakAmyA>
+
+line 155396
+old=</brA(vra)hmaRaSastra>
+new=</brA(vrA)hmaRaSastra>
+
+line 155479
+old=<BaktakaMsa>
+new=</Bakta>
+
+line 155480
+old=%BaktakaMsa% puM na0 <vg>BaktArTaH kaMsa .</vg> (1)BaktAharaRArTe pAtre</1> <vkr><ref>"BaktAKyAstadarTezu" pA.</ref> AdyudAttatAsya . </vkr>
+new=<BaktakaMsa>
+
+line 155481
+old=</BaktakaMsa>
+new=%BaktakaMsa% puM na0 <vg>BaktArTaH kaMsa .</vg> (1)BaktAharaRArTe pAtre</1> <vkr><ref>"BaktAKyAstadarTezu" pA.</ref> AdyudAttatAsya . </vkr>
+
+line 155482
+old=
+new=</BaktakaMsa>
+
+line 155576
+old=</BaktasUtra>
+new=</BaktisUtra>
+
+line 155781
+old=</BaNgakAraH>
+new=</BaNgakAra>
+
+line 155851
+old=</Bajjanaka>
+new=</BaYjanaka>
+
+line 155953
+old=</BaRqitaH>
+new=</BaRqita>
+
+line 156171
+old=</BadrarohiRI>
+new=
+
+line 156173
+old=<rohiRyAM>
+new=
+
+line 156175
+old=</rohiRyAM>
+new=</BadrarohiRI>
+
+line 156294
+old=</BadrIkA>
+new=</BadrikA>
+
+line 156439
+old=</BaraRyaBuja>
+new=</BaraRyaBuj>
+
+line 156886
+old=</BasmajAvalA>
+new=</BasmajAvAla>
+
+line 157344
+old=<BAryAru>
+new=<BAryyAru>
+
+line 158150
+old=<BujaNga/>
+new=</BujaNga>
+
+line 158186
+old=</BudaNgama>
+new=</BujaNgama>
+
+line 158438
+old=<BUgarBa:>
+new=<BUgarBa>
+
+line 158440
+old=</BUgarBa:>
+new=</BUgarBa>
+
+line 158531
+old=BUtapatrI>
+new=</BUtapatrI>
+
+line 158829
+old=</BfBartf>
+new=</BUBartf>
+
+line 158928
+old=</Bumiputra>
+new=</BUmiputra>
+
+line 159224
+old=</BUspuSa>
+new=</BUspuS>
+
+line 159351
+old=<BfNAgara>
+new=<BfNgAra>
+
+line 159617
+old=</BEvagava>
+new=</BEmagava>
+
+line 159906
+old=
+new=<BraRa>
+
+line 160017
+old=</Brasiman>
+new=</BraSiman>
+
+line 160272
+old=</makaraNka>
+new=</makarANka>
+
+line 160670
+old=<m'aYjuprARa>
+new=<maYjuprARa>
+
+line 160678
+old=<maY'juBAzin>
+new=<maYjuBAzin>
+
+line 161192
+old=<matsyaGaR'wa>
+new=<matsyaGaRwa>
+
+line 161271
+old=</mastyAsana>
+new=</matsyAsana>
+
+line 161316
+old=<madaganDa/>
+new=</madaganDa>
+
+line 161332
+old=</madanaka
+new=</madanaka>
+
+line 161400
+old=</majanAgraka>
+new=</madanAgraka>
+
+line 161787
+old=<maDumat>
+new=</maDumat>
+
+line 163370
+old=</mahavizuva>
+new=</mahAvizuva>
+
+line 163713
+old=</mAsadrAvin>
+new=</mAMsadrAvin>
+
+line 163959
+old=	%mAdana%na0 <vkr>mAdayati mada-Ric-lyu .</vkr> (1)lavaNge Sabdaca0 . (2)kAmadeve (3)madanavfkze ca pu0 . (4)vijayAyAM rAjani0 (5) mAkandyAYca strI BAvapra0 <vkr>gOrA0 NIz .</vkr> (6)harzakArake tri0 .
+new=	%mAdana%na0 <vkr>mAdayati mada-Ric-lyu .</vkr> (1)lavaNge Sabdaca0 . (2)kAmadeve (3)madanavfkze ca pu0 . (4)vijayAyAM rAjani0 (5) mAkandyAYca strI BAvapra0 <vkr>gOrA0 NIz .</vkr> (6)harzakArake tri0 .</6>
+
+line 163960
+old=</6>
+new=
+
+line 163993
+old=<mADavocita>
+new=</mADavocita>
+
+line 164097
+old=<mAyAkft/>
+new=</mAyAkft>
+
+line 165370
+old=</murcCA>
+new=</mUrcCA>
+
+line 165382
+old=<mUrta>
+new=</mUrta>
+
+line 166020
+old=<meGAsTi>
+new=</meGAsTi>
+
+line 166097
+old=</medodBAvA>
+new=</medodBavA>
+
+line 166527
+old=</mecCakanda>
+new=</mlecCakanda>
+
+line 166531
+old=</mlecCadajati>
+new=</mlecCajAti>
+
+line 166568
+old=<yakAraH>
+new=<ya>
+
+line 166571
+old=</yakAraH>
+new=</ya>
+
+line 166742
+old=</yajYanta>
+new=</yajYAnta>
+
+line 166822
+old=</yatu(tU)ka>
+new=</yatu(tU)kA>
+
+line 166841
+old=<yaTAkAmina>
+new=<yaTAkAmin>
+
+line 166884
+old=</yaTAKa>
+new=</yaTAsva>
+
+line 167008
+old=<yayadUtikA>
+new=<yamadUtikA>
+
+line 167103
+old=</yanavAcAryya>
+new=</yavanAcAryya>
+
+line 167567
+old=</yugupArSvaga>
+new=</yugapArSvaga>
+
+line 167585
+old=<yugmupattra>
+new=<yugmapattra>
+
+line 167587
+old=</yugapattra>
+new=</yugmapattra>
+
+line 167589
+old=<yugmuPalA>
+new=<yugmaPalA>
+
+line 169166
+old=</rasAyanaSrezWa>
+new=</rasAyanaPalA>
+
+line 169516
+old=</rAdamudga>
+new=</rAjamudga>
+
+line 169656
+old=</rA(jI)PalA>
+new=</rAji(jI)PalA>
+
+line 169941
+old=</rASI(SI)kfta>
+new=</rASI(Si)kfta>
+
+line 170342
+old=</rudrAvAsa
+new=</rudrAvAsa>
+
+line 170750
+old=<roGrapuzpiRI>
+new=<roDrapuzpiRI>
+
+line 170972
+old=
+new=</rOhiReya>
+
+line 171638
+old=</lAkzaprasAda>
+new=</lAkzAprasAda>
+
+line 171747
+old=</lAlaviza>
+new=</lAlAviza>
+
+line 172140
+old=</lONgika>
+new=</lENgika>
+
+line 172402
+old=</lohavaka>
+new=</lohavara>
+
+line 172511
+old=
+new=</va>
+
+line 172533
+old=</vaMSakzIri>
+new=</vaMSakzIrI>
+
+line 172691
+old=</vakraK'aqga>
+new=</vakraKaqga>
+
+line 172702
+old=	%vakrapuzpa% na0 <vg>vakrARi puzpARyasya .</vg> (1) vakavfkze Sabdara0 (2) palASavfkze ca rAjani0 .
+new=	%vakrapuzpa% na0 <vg>vakrARi puzpARyasya .</vg> (1) vakavfkze Sabdara0 (2) palASavfkze ca rAjani0 .</2>
+
+line 172703
+old=</2>
+new=
+
+line 172785
+old=</vaNgamena>
+new=</vaNgasena>
+
+line 172789
+old=</vaNgArI>
+new=</vaNgAri>
+
+line 172954
+old= </vaFjulaxruma>
+new=</vaYjuladruma>
+
+line 173047
+old=</vaR'qa>
+new=</vaRqa>
+
+line 173095
+old=</vatsasapattana>
+new=</vatsapattana>
+
+line 174017
+old=</vartman
+new=</vartman>
+
+line 174235
+old=<varhiNa>%
+new=<varhiRa>
+
+line 174755
+old=</vastragrAnTi>
+new=</vastragranTi>
+
+line 174971
+old=</vAkDala>
+new=</vAkCala>
+
+line 175110
+old=</vAcokti>
+new=</vAcoyukti>
+
+line 175135
+old=</vAsajana>
+new=</vAjasana>
+
+line 175751
+old= </vAyusaKi>
+new=</vAyusaKi>
+
+line 176120
+old=<vArhadraTa>
+new=</vArhadraTa>
+
+line 176168
+old=<vASita>
+new=</vASita>
+
+line 176507
+old=</vAkAryya>
+new=</vikAryya>
+
+line 176973
+old=</viBfmBita>
+new=</vijfmBita>
+
+line 177261
+old=</lidAhin>
+new=</vidAhin>
+
+line 177381
+old=</vidyanmAlA>
+new=</vidyunmAlA>
+
+line 177436
+old=/vidviz>
+new=</vidviz>
+
+line 177903
+old=</viPla>
+new=</viPala>
+
+line 177949
+old=<viBAR'qaka>
+new=<viBARqaka>
+
+line 178081
+old=</vimbA)mbI)>
+new=</vimbA(mbI)>
+
+line 178449
+old=</vivitAkza>
+new=</vivftAkza>
+
+line 178760
+old=<viSva(zva)ksena)>
+new=<viSva(zva)ksena>
+
+line 178852
+old= </viSvAcI>
+new=</viSvAcI>
+
+line 178876
+old=</viSva(Sva)rAj>
+new=</viSvA(Sva)rAj>
+
+line 179161
+old=</vazka>
+new=</vizka>
+
+line 179240
+old=<vizRudEvata)tya)>
+new=<vizRudEvata(tya)>
+
+line 179280
+old=<vizRuvallBA>
+new=<vizRuvallaBA>
+
+line 179420
+old= </visPota>
+new=</visPowa>
+
+line 179445
+old= </vismqwi>
+new=</vismfti>
+
+line 179597
+old=<bIjagupti>
+new=<vijagupti>
+
+line 179607
+old=</vIjapadApa>
+new=</vAjapAdapa>
+
+line 179647
+old= </vijavapana>
+new=</bIjavapana>
+
+line 179659
+old=</vUjasU>
+new=</bIjasU>
+
+line 179699
+old=</vImAvAda>
+new=</vIRAvAda>
+
+line 179785
+old=</virapAna(Ra)>
+new=</vIrapAna(Ra)>
+
+line 179857
+old=</vIruD((DA)>
+new=</vIruD(DA)>
+
+line 180060
+old=<vfttanizpAvikA>
+new=
+
+line 180097
+old= </vqwwi>
+new=</vftti>
+
+line 180453
+old=/vfzwivEkfta>
+new=</vfzwivEkfta>
+
+line 180793
+old=<veWa>%
+new=<veTa>
+
+line 180879
+old= </vexi>
+new=</vedi>
+
+line 181093
+old=</vehva>
+new=</vehla>
+
+line 181186
+old=</vEtanaka>
+new=</vEtanika>
+
+line 181282
+old=</veDAtra>
+new=</vEDAtra>
+
+line 181468
+old=</vEzika>
+new=</vESika>
+
+line 181653
+old=<vqambaka>
+new=<vyaqambaka>
+
+line 182117
+old= </vyAla>
+new=</vyAla>
+
+line 182121
+old=</vyAganDA>
+new=</vyAlaganDA>
+
+line 182210
+old=</vayutTAna>
+new=</vyutTAna>
+
+line 182238
+old=</vyAQa>
+new=</vyUQa>
+
+line 183310
+old=</Sa(sa)kwu>,
+new=</Sa(sa)ktu>
+
+line 183318
+old=</Sakti(kriTa)>
+new=</Sakti(kriTra)>
+
+line 184046
+old=<SamIgarBa)
+new=<SamIgarBa>
+
+line 184216
+old=</Sa(sa)raRi(RI>
+new=</Sa(sa)raRi(RI)>
+
+line 184271
+old=<Sa(sa)rala)>
+new=<Sa(sa)rala>
+
+line 184715
+old=</Sastragozataru>
+new=</Sastrakozataru>
+
+line 184978
+old=</SANguzWa>
+new=</SANguzWA>
+
+line 185046
+old=</SAtaBUru>
+new=</SAtaBIru>
+
+line 185149
+old=</sAmBava>
+new=</SAmBava>
+
+line 185235
+old=/SAla>
+new=</SAla>
+
+line 185408
+old=</SAlamalIkanda>
+new=</SAlmalIkanda>
+
+line 185705
+old=</SiNGARa>
+new=</SiNGARA>
+
+line 186411
+old=</SrIGrajanman>
+new=</SIGrajanman>
+
+line 186419
+old=</SiGraveDin>
+new=</SIGraveDin>
+
+line 186477
+old=<SItapuzpu>
+new=<SItapuzpa>
+
+line 186507
+old=</SItamaYjalI>
+new=</SItamaYjarI>
+
+line 186593
+old=</sItASman>
+new=</SItASman>
+
+line 186677
+old=</SIrzacCedya(dika>
+new=</SIrzacCedya(dika)>
+
+line 186729
+old=</SAkanAman>
+new=</SukanAman>
+
+line 186789
+old=	%Sukti% strI <vkr>Suca-ktin .</vkr> (1)jalajantuBede (Jinuka) rAjani0 . (2)kapAlaKaRqe (3)SaNKe (4)SaNKanaKe (5)naKyAm 6arSoroge (7)aSvAvarttake medi0 . (8)netrarogaBede hemaca0 .</8> <vn>cakzUrogaSabde dfSyam .</vn> (9)karzadvayaparimARe SabdamA0 . (10)catuzkarzamAne vEdyakam .
+new=	%Sukti% strI <vkr>Suca-ktin .</vkr> (1)jalajantuBede (Jinuka) rAjani0 . (2)kapAlaKaRqe (3)SaNKe (4)SaNKanaKe (5)naKyAm 6arSoroge (7)aSvAvarttake medi0 . (8)netrarogaBede hemaca0 .</8> <vn>cakzUrogaSabde dfSyam .</vn> (9)karzadvayaparimARe SabdamA0 . (10)catuzkarzamAne vEdyakam .</10>
+
+line 186790
+old=</10>
+new=
+
+line 186824
+old=</SukraBu>
+new=</SukraBU>
+
+line 187311
+old=</SukapiRqI>
+new=</SUkapiRqI>
+
+line 187347
+old=</SukaSimbA>
+new=</SUkaSimbA>
+
+line 187359
+old=</sUkApUwwa>
+new=</SUkApUwwa>
+
+line 187414
+old=</SUnyamaD>
+new=</SUnyamaDya>
+
+line 187531
+old=</SIlahantrI>
+new=</SUlahantrI>
+
+line 188037
+old=</Sozapuzpaka>
+new=</SoRapuzpaka>
+
+line 188070
+old=
+new=</SoTa>
+
+line 188090
+old=</SIDanIbIja>
+new=</SoDanIbIja>
+
+line 188174
+old=</SOklya>
+new=</SOklaya>
+
+line 188233
+old=</SEnaka>
+new=</SOnaka>
+
+line 188279
+old=</SOvasTika>
+new=</SOvastika>
+
+line 188303
+old=</Smn>
+new=</Sman>
+
+line 188365
+old= </SyAmagranWi>
+new=</SyAmagranTi>
+
+line 188417
+old= </SyAla>
+new=</SyAla>
+
+line 188780
+old=</SrIBrAt>
+new=</SrIBrAtf>
+
+line 189163
+old=</Slezmaha>
+new=</Slezwamaha>
+
+line 189241
+old=</SvaBUru>
+new=</SvaBIru>
+
+line 189449
+old=</SvedaKadira>
+new=</SvetaKadira>
+
+line 189495
+old= </SvewaXAman>
+new=</SvetaDAman>
+
+line 189741
+old=</zaWkUwa>
+new=</zaWkUwA>
+
+line 189872
+old=<zaq'ja>
+new=<zaqja>
+
+line 189886
+old=</zaqgadurga>
+new=</zaqdurga>
+
+line 189910
+old=</z'aqvarga>
+new=</zaqvarga>
+
+line 189921
+old=<zaR'Qa>
+new=<zaRQa>
+
+line 190235
+old=</zoqaSamAtfka>
+new=</zoqaSamAtfkA>
+
+line 190519
+old= </saMskarwwq>
+new=</saMskarttf>
+
+line 190957
+old= </safgIwa>
+new=</saNgIta>
+
+line 191253
+old=/satkAYcanAra>
+new=</satkAYcanAra>
+
+line 191470
+old=</sTUtkAra>
+new=</saTUtkAra>
+
+line 191773
+old=%</sanwamasa>
+new=</santamasa>
+
+line 191910
+old=</sanDIjIvaka>
+new=</sanDijIvaka>
+
+line 191952
+old=/sanDeya>
+new=</sanDeya>
+
+line 191966
+old= </sanXyAcala>
+new=</sanDyAcala>
+
+line 192051
+old= </sanniXi>
+new=</sanniDi>
+
+line 192225
+old=/saptaDAtu>
+new=</saptaDAtu>
+
+line 192632
+old=</samamUtrapAtanyAya>
+new=</samasUtrapAtanyAya>
+
+line 192656
+old=</samAMsamIna>
+new=</samAMsamInA>
+
+line 192680
+old=</samAdAna>
+new=</samADA>
+
+line 192753
+old=%</samAlambin>
+new=</samAlambin>
+
+line 192808
+old=</samAsArTa>
+new=</samAsArTA>
+
+line 192939
+old=<samucca(ccAra>
+new=<samucca(ccAra)>
+
+line 192961
+old=</samucCisita>
+new=</samucCasita>
+
+line 193064
+old=<samuxgIrNa>%
+new=<samudgIrRa>
+
+line 193148
+old=</samudrameKalA>
+new=</samugadrameKalA>
+
+line 193261
+old=</samIhanI>
+new=</samUhanI>
+
+line 193454
+old=</sambavI>
+new=</sambarI>
+
+line 193462
+old=</sa(Sa)sambAkfta>
+new=</sa(Sa)mbAkfta>
+
+line 193830
+old= </saroruh(ha)>
+new=</saroruh(ha)>
+
+line 194059
+old="</sarva>
+new=</sarva>
+
+line 194373
+old=</sarvOGa>
+new=</sarvOMGa>
+
+line 194402
+old=</sallakuntala>
+new=</salilakuntala>
+
+line 194556
+old=</sahakArin>
+new=</sahakAriran>
+
+line 194685
+old=<sahasrapAdu>
+new=<sahasrapAda>
+
+line 194687
+old=</sahasrapAdu>
+new=</sahasrapAda>
+
+line 194689
+old=<sahasrepAda>
+new=<sahasrapAda>
+
+line 194691
+old=</sahasrepAda>
+new=</sahasrapAda>
+
+line 194695
+old=</sahasravAhu>
+new=</sahasrabAhu>
+
+line 194844
+old=</sAMkya>
+new=</sAMKya>
+
+line 195330
+old=</saptapadIna>
+new=</sAptapadIna>
+
+line 195743
+old=</sAlaBaYjika>
+new=</sAlaBaYjikA>
+
+line 195799
+old=
+new=</sAvitra>
+
+line 195810
+old=	%sASruDI% strI <vg>sASru DyAyati</vg> <vkr>DyE-kvip sampra0 .</vkr> (1)SvaSvAm trikA0
+new=	%sASruDI% strI <vg>sASru DyAyati</vg> <vkr>DyE-kvip sampra0 .</vkr> (1)SvaSvAm trikA0</1>
+
+line 195811
+old=</1>
+new=
+
+line 196318
+old="</sixXasAXana>
+new=</sidDasADana>
+
+line 196341
+old=</sidDanta>
+new=</sidDAnta>
+
+line 196827
+old=<saKamodA>
+new=<suKamodA>
+
+line 197201
+old=</sUdUra>
+new=</sudUra>
+
+line 197475
+old=</supizpI>
+new=</supuzpI>
+
+line 197724
+old=<suyoXana>%
+new=<suyoDana>
+
+line 197979
+old=	%surasundarI% strI <vg>surapriyA sundarI .</vg> (1)menakAdyapsaraHsu (2)yoginIBede tantraso0 .
+new=	%surasundarI% strI <vg>surapriyA sundarI .</vg> (1)menakAdyapsaraHsu (2)yoginIBede tantraso0 .</2>
+
+line 197980
+old=</2>
+new=
+
+line 198182
+old=</kuvarRakadalI>
+new=</suvarRakadalI>
+
+line 198548
+old=</sUkzmapuzpi>
+new=</sUkzmapuzpI>
+
+line 198584
+old=</SUkzmaSAKa>
+new=</sUkzmaSAKa>
+
+line 198605
+old=<sUkzmElA>
+new=</sUkzmElA>
+
+line 198745
+old=</sUcyASOca>
+new=</sUtyASOca>
+
+line 198862
+old=</sUpakaDUpana>
+new=</sUpaDUpana>
+
+line 198906
+old=</sU(rza)rkza(rkzya>
+new=</sU(zU)rkza(rkzya)>
+
+line 198994
+old=</sUryyAvarttA>
+new=</sUryyAvartta>
+
+line 199024
+old=</sukaRqu>
+new=</sfkaRqu>
+
+line 199069
+old=	%sftvan% puM0 <vkr>sf-kvanip .</vkr> (1)prajApatO ujjvala0 . (2)visarpa (3)vfdDO saNkzipta0 .
+new=	%sftvan% puM0 <vkr>sf-kvanip .</vkr> (1)prajApatO ujjvala0 . (2)visarpa (3)vfdDO saNkzipta0 .</3>
+
+line 199070
+old=</3>
+new=
+
+line 199116
+old=<sf)zF)>
+new=<sf(zF)>
+
+line 199157
+old= </sewu>
+new=</setu>
+
+line 199221
+old= </seru>
+new=</seru>
+
+line 199418
+old=</somaDArA>
+new=</soBamaDArA>
+
+line 199951
+old=</stananDya>
+new=</stananDaya>
+
+line 200198
+old=</strIcittAhArin>
+new=</strIcittahArin>
+
+line 200263
+old=</striliNga>
+new=</strIliNga>
+
+line 200279
+old=<strIsaBa>
+new=
+
+line 200316
+old= </sWagu>
+new=</sTagu>
+
+line 200320
+old= </sWiNdila>
+new=</sTiRqila>
+
+line 200346
+old= </sWalakanxa>
+new=</sTalakanda>
+
+line 200572
+old=</stirapatra>
+new=</sTirapatra>
+
+line 200700
+old=<stUlapAda>
+new=<sTUlapAda>
+
+line 200706
+old=</sTulapuzpa>
+new=</sTUlapuzpa>
+
+line 200746
+old=</sTIlaSAwaka>
+new=</sTUlaSAwaka>
+
+line 200806
+old=</sTOReyata>
+new=</sTOReyaka>
+
+line 200920
+old=%</snuhi(hI)>
+new=</snuhi(hI)>
+
+line 201001
+old=</SparSatanmAtra>
+new=</sparSatanmAtra>
+
+line 201105
+old=</spawikAcala>
+new=</sPawikAcala>
+
+line 201117
+old=</sPawikArI>
+new=</sPawikAri>
+
+line 201170
+old=</spiwa>
+new=</sPiwa>
+
+line 201205
+old=</spuwi(wI)>
+new=</sPuwi(wI)>
+
+line 201252
+old=<sPuliNgi>
+new=<sPuliNga>
+
+line 201375
+old=</smarsmarya>
+new=</smarasmarya>
+
+line 201387
+old=
+new=</smarAmra>
+
+line 201445
+old="</syanxana>
+new=</syandana>
+
+line 201575
+old= </sraRtu>
+new=</srasta>
+
+line 201767
+old=</svaDABUj>
+new=</svaDABuj>
+
+line 202062
+old=</svarmapAwaka>
+new=</svarRapAwaka>
+
+line 202074
+old=</svarmabaRij>
+new=</svarRabaRij>
+
+line 202494
+old=	<ref>asya vAcakaSabdAstantroktA yaTA  "haH Sivo gaganaM haso nAgaloko .'mbikApatiH . nakulISo jagatprARaH prAReSaH kapilAmalaH . paramAtmAtmajo jIvaH varAkaH SAntido .'kulaH . mfgo .'Bayo .'ruRaHsTARuH kUwakUpanivArakAH . lakzmIrhariharaH SamBuH prARasanDirlalAwajaH . svakopavAraRaH SUlI cEtanyaM pAdapUraRam . mahAlakzmIH paraM nAdo meGanAdo vimardanaH . bindurdurgA priyA devI meGaSyAmaH maheSvaraH . dakzapAdaH sadA SamBuH SyAmo yaH somamaRqalam" varRABiDAnam .</ref> <ref>"SukraScATa hakAroM .'SuH pARaH SAntaH Sivo viyat . akulo nakulISaSca haMsaH SUnyaSYca hAkinO . ananto nakulI jIvaH paramAtmA lalAwajaH" iti bIjavarRABiDAnam .</ref> <ref>"hakAro nakulISo .'pi haMsaH prARo .'NkuSaH priye . maheSo nakulI cEva varAko gaganaM raviH . liNgaM SUnyomahASUnyaH prARaSca parameSvari . rudrayAmale 8pawale .</ref>
+new=</ha>
+
+line 202597
+old=</haMho>
+new=</haMsaho>
+
+line 202605
+old=</haYje(haYjA)>
+new=</haYje(YjA)>
+
+line 203018
+old=</haracUqAmapi>
+new=</haracUqAmaRi>
+
+line 203239
+old=</haravAt>
+new=</harivAt>
+
+line 203599
+old=</hasTiGozA>
+new=</hastiGozA>
+
+line 203674
+old=</hastiSuRqA(RqI)>
+new=</hastiSuRaqA(RqI)>
+
+line 203768
+old=</hAri(hI)>
+new=</hAri(rI)>
+
+line 203888
+old=</haMsaka>
+new=</hiMsaka>
+
+line 203955
+old=</hiNgula>
+new=</hiNgUla>
+
+line 204172
+old=/himASrayA>
+new=</himASrayA>
+
+line 204570
+old=</hfzvaRwaka>
+new=</hfdvaRwaka>
+
+line 204814
+old=</gemAdrijaraRa>
+new=</hemAdrijaraRa>
+
+line 204838
+old=</harambahawwa>
+new=</herambahawwa>
+
+line 205007
+old=<holAkADikAraRa>
+new=<holAkADikaraRa>
+
+line 205103
+old=<hrasvapattraraka>
+new=<hrasvapattraka>
+
+line 205152
+old=<hrI>
+new=</hrI>
+
+line 205236
+old=<granTakartfvaMSAdi>
+new= <granTakartfvaMSAdi>
+
+line 205237
+old=<vn>	 . . granTakartfvaMSAdi  . .
+new= <vn>	 . . granTakartfvaMSAdi  . .
+
+line 205301
+old=	kalikAtAnagare mudritamaBUt  .
+new=	kalikAtAnagare mudritamaBUt  .</vn>
+
+line 205302
+old=</vn>
+new= </vn>
+
+line 205304
+old=</granTakartfvaMSAdi>
+new= </granTakartfvaMSAdi>
+

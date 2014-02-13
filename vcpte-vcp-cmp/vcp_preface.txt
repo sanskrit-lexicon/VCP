@@ -1,0 +1,2864 @@
+%***This_File_is_C:\USERS\ACER_LLC\DROPBOX\VCP.TXT,_Last_update_01/01/14
+<H>|| zrIH || [Pagetitle-01+ 12]
+<>caukhambA saMskRta granthamAlA
+<>grantha saMkhyA 14
+<>|| zrIH ||
+<>vAcaspatyam
+<>(bRhat saMskRtAbhidhAnam)
+<>gavarnameTasaMskRtamahAvidyAlaya--darzana--vyAkaraNAdhyApaka-
+<>zrItArAnAtha--tarkavAcaspati--bhaTTAcAryeNa
+<>saGkalitam
+<>tenaiva saMskRtam
+<>prathamo bhAgaH
+<>caukhambA saMskRta sIrIja vyAphisa, vArANasI-2 [Pagetitle-02+ 9]
+<>prakAzaka: caukhambA saMskRta sIrIja Aphisa, vArANasI--1
+<>mudraka: vidyAvilAsa presa, vArANasI--1
+<>{#Inventar 78
+<>The
+<>Chowkhamba Sanskrit Series Office,
+<>P. O. Box 8, Varanasi--1
+<>(INDIA)
+<>1962
+<>Phone: 3145 [Pagetitle-03+ 14]
+<H>THE
+<>{|CHOWKHAMBA SANSKRIT SERIES|}
+<>WORK no. 94
+<>VACHASPATYAM
+<>(A Comprehensive Sanskrit Dictionary)
+<>COMPILED BY
+<>{|SRI TARANATHA TARKAVACHASPATI|}
+<>Professor of Grammar and Philosophy
+<>Govt. Sanskrit College, Calcutta.
+<>VOL. I
+<>THE
+<>CHOWKHAMBA SANSKRIT SERIES OFFICE
+<>POST BOX 8, VARANASI--1 (India) Phone: 3145
+<>1962 [Pagetitle-04+ 26]
+<H>PUBLISHER'S NOTE.
+<P>This encyclopaedic Sanskrit Lexicon is a pioneer work in its field, and ever since
+<>its publication has been held in the highest esteem not only in India but even in
+<>England and Europe. Its author, Pandit Taranatha Tarkavachaspati, with his great
+<>erudition and indefatigable industry, devoted several years in collecting the material
+<>for it, which is by far, wider and deeper in scope than any other contemporary Sanskrit
+<>Dictionary. It contains terms along with their derivation and explanations, drawn from
+<>almost all the branches of Sanskrit Literature, such as Vedas, Vedangas, Puranas,
+<>Upapuranas, Philosophy, Tantra, Politics, Rhetoric, Prosody, Musical Science, Military
+<>Science, Cookery, Shiksha, Kalpa, Science of Horses, Hatha--Yoga, and Vastushastra, etc.
+<>Besides, the technical words and doctrines of the following systems of Philosophy are
+<>fully explained: Charvaka, Madhyamika Yogachar, Vaibhashik, Soutrantika, Arhata,
+<>Ramanuja, Madhawa, Pashupata, Shaiva, Pratyavijna, Raseshwar, Panini, Nyaya,
+<>Vaisheshika, Mimansa, Samkhya, Patanjali--Yoga and Vedanta.
+<P>The author of the work himself claims that, in addition to all the derivations and
+<>different meanings with illustrations of all the words which are found in Wilson's
+<>Sanskrit Dictionary and Raja Radhakanta's Shabdakalpadrum, it contains numerous
+<>words not to be found in these or any other previous Dictionary. It also contains nume-
+<>rous Vedic words which are not to be found even in the Bohtlingk's St. Petersburg
+<>Sanskrit--German Dictionary.
+<P>It was tragic indeed that such an important and useful work remained out-of-
+<>print for such a long time. We are, therefore, just as we have done in case of Shabda-
+<>kalpadrum, reprinting it with selfless motive so as to make it once more available to
+<>the readers. However, it is evident that such a huge venture cannot be successful
+<>without the patronage of Institutions and Scholars. We therefore earnestly hope to
+<>get it from everyone. [Pagetitle-05+ 19]
+<H>THIS WORK
+<>IS DEDICATED TO
+<>HIS HIGHNESS SREE MAHARAJAH MEERZA
+<>{|ANANDA GAZAPATTI RAJ|}
+<>MUNEEA SULTAN BAHADOOR
+<>OF
+<>{|VIZIANAGARAM|}
+<>IN
+<>ACKNOWLEDGEMENT OF THE
+<>DEEP INTEREST SHEWN BY HIS HIGHNESS
+<>FOR THE ADVANCEMENT OF SANSKRIT LEARNING
+<>AND
+<>OF THE LIBERAL PATRONAGE AFFORDED TO THE
+<>CAUSE OF SANSKRIT LANGUAGE BY THE
+<>ANGESTERS OF HIS HIGHNESS,
+<>WITH DEEP REGARD AND ESTIMATION
+<>BY
+<>{%TARANATHA TARKAVACHASPATI
+<>the Author.%} [Pagetitle-06+ 1]
+<>blank [Pagetitle-07+ 1]
+<>Picture [Pagetitle-08+ 1]
+<>blank [Pagetitle-09+ 37]
+<H>{|PREFACE.|}
+<P>The profound learning and indefatigable industry of Pandit Taranath Tarkavachas-
+<>pati, one of the professors of the Calcutta Sanskrit College, has been well known to all in
+<>India interested in the classical language of the Hindus and has extended to England
+<>and Germany, where his numerous works command a wide circulation among Sanskrit
+<>Scholars.
+<P>His edition of Panini's grammar with his own commentary was published in 1863
+<>with the patronage of the Government of Bengal on the recommendation of Mr. E. B.
+<>Cowell M. A. at that time Principal of the Calcutta Sanskrit College and now Professor
+<>of Sanskrit in the University of Cambridge.
+<P>Pandit Taranath has been for many years collecting materials for a Sanskrit Dic-
+<>tionary, which shall have a wider and deeper scope than Wilson's Sanskrit Dictionary
+<>and the Sabdakalpadruma by the late Raja Radha Kanta Deva. It will moreover con-
+<>tain explanations of terms in the Tantras, Philosophy, Rhetoric and Law which are not
+<>fully given in the published portions of Bohtlingk's Dictionary. These Dictionaries are
+<>written respectively in English, in Sanskrit with Bengali characters and in German. The
+<>Pandit's Dictionary will have the explanations in Sanskrit, so as to be available for the
+<>use of both Hindu and European Scholars.
+<P>When I had the honor to officiate in 1865 as Director of Public Instruction, I
+<>brought to the notice of Sir Cecil Beadon the Lieutenant Governor of Bengal, the desire
+<>of Pandit Taranath to publish such a Dictionary, and His Honor in consideration of
+<>the acknowledged fitness of the learned Pandit for the preparation of the work, was
+<>pleased to accord to it the patronage of the Government of Bengal in the following
+<>letter, from the Junior Secretary of the Bengal Government to the Director of Public
+<>Instruction No. 507 dated Fort William the 26th January 1866.
+<P>“I am directed to acknowledge the receipt of your office letter No. 2 dated the 3rd
+<>instant and in reply to convey the Lieutenant Governor's sanction to the purchase of
+<>200 copies at Rupees 50 per copy aggregating Rupees 10,000, of the Sanskrit Dictionary
+<>in its complete form which Pandit Tarkavachaspati the Grammar Professor of the
+<>Sanskrit College engages to compile within a period not exceeding five years.”
+<P>“No sum whatever, I am to add, will be paid unless the work is completed.”
+<P>An extension of time for five years longer was granted for the preparation of the
+<>work by Sir William Gray, the Lieutenant Governor of Bengal, in the letter from the
+<>Bengal Government No. 3480 dated the 12 th December 1870.
+<HS>H. Woodrow. M. A.
+<>Inspector of Schools, Lower provinces of Bengal
+<>and formerly Fellow of Caius College, Cambridge. [Pagetitle-10a+ 27]
+<H>{|CONTENTS.|}
+<HI>1. Panini on genders.
+<HI>2. On the suffixes.
+<HI>3. On the primitive and derivative words.
+<HI>4. The derivation and different meanings
+<>with illustrations of all the words which
+<>are found in the Wilson's Sanskrit dic-
+<>tionary and Radhakanta's Sabdakalpa-
+<>druma. Also numerous words not to be
+<>found in the said or any previous Dic-
+<>tionaries.
+<HI>5. The derivation and different meanings
+<>of the words of the Vedas.
+<HI>6. Numerous Vaidik words not to be found
+<>in Bohtlingk's Sanskrit and German
+<>Dictionary.
+<>Technical words and doctrines of the
+<>following systems of Philosophy are
+<>fully explained.
+<>Charvaka, Madhyamika Yogachar, Vai-
+<>bhashika, Soutrantika, Arhata, Rama-
+<>nuja, Madhva, Pashupata, Saiva, Pra-
+<>tyavijna, Rasheswara, Panini, Nyaya,
+<>Vaisheshika, Mimansa, Samkhya, Pa-
+<>tanjala, and Vedanta.
+<HI>7. The technical terms of the Shrauta
+<>and Grihya sutra. [Pagetitle-10b+ 26]
+<HI>8. The technical words of Hindu law.
+<HI>9. The plan and scope of all the Purans
+<>and Upapurans.
+<HI>10. Plan and scope of the Mahavarat and
+<>Ramayana.
+<HI>11. The History of the ancient kings of
+<>India as far as gathered from the
+<>Purans and Upapurans.
+<HI>12. The position and description of the
+<>different countries according to Hindu
+<>ancient Geography.
+<HI>13. The technical terms of Hindu medical
+<>science are fully explained; also an
+<>account of Hindu anatomy and the pre-
+<>paration of the drugs.
+<HI>14. The explanations of the technical terms
+<>of Hindu astronomy. Also the theory
+<>of the celebrated Hindu astronomers
+<>regarding the celestial regions.
+<HI>15. The Principles of Hindu astrology.
+<HI>16. The technical words of the Tantras,
+<>Politics, Rhetoric, Prosody, Musical
+<>science, Military science, Kookery,
+<>Siksha, Kalpa, science on Horses,
+<>Hatyoga, Vastushastra.
+<HI>17. Classification of the Vedas.#} [Pagetitle-11+ 1]
+<H>vAcaspatyam [Pagetitle-12a+ 38]
+<H>vAcaspatyAbhidhAne pratipAdyAni
+<HI>granthArambhaprayojanAdi |
+<HI>savRttyudAharaNaM pANinIyaliGgAnuzAsanam |
+<HI>pANinIyapratyayapariniSThitarUpam |
+<HI>uNAdipratyayapariniSThitarUpam |
+<HI>rUDhayaugikAdizabdabhedaniyamavizeSAH |
+<HI>zabdAnAM pUrvvottarapadayoH parivRttisahatvAsahatve |
+<HI>DAktara uilasena--praNItAbhidhAna--zabdakalpadrumA-
+<>bhidhAna--pradarzitazabdAnAM vyutpattayastadarthAzca |
+<HI>yathAsambhavaM teSAmarthabhedeSUdAharaNAni |
+<HI>tatrAnuktAnAM jaramaNIyasaMskRtAbhidhAnoktAnAM, vaidikAnAM
+<>ca zabdAnAM vyutpattayastadarthAzca |
+<HI>tatrApyanuktAnAM bahUnAM vaidikazabdAnAM nimnanirdiSTa-
+<>cArvvAkAdiparibhASitazabdAnAn~cArthAH |
+<HI>cArvvAkaparibhASitAnAM zabdAnAmarthAstanmatan~ca |
+<HI>mAdhyamikaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>yogAcAraparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>vaibhASikaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>sautrAntikaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>ArhataparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>rAmAnujaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>mAdhvaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>pAzupataparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>zaivadarzanaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>pratyabhijn~AdarzanaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>rasezvaradarzanaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>kaNAdaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>gautamanyAyaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>jaiminIyaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>pANinIyaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>sAMkhyaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>pAtan~jalaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>vedAntaparibhASitazabdAnAmarthAstanmatan~ca |
+<HI>AzvalAyanAdizrautagRhyasUtraparibhASitAnAmarthAH |
+<HI>manvAdismRtiparibhASitazabdAnAmarthAH |
+<HI>sarvvapurANapratipAdyaviSayAH |
+<HI>sarvvopapurANapratipAdyaviSayAH |
+<HI>vAlmIkirAmAyaNapratipAdyaviSayAH | [Pagetitle-12b+ 37]
+<HI>mahAbhAratapratipAdyaviSayAH |
+<HI>purANAdiSu prasiddharAjarSINAM saMkSepeNetivRttAni |
+<HI>dezavizeSalakSaNatatsthAnAni |
+<HI>haThayogazAstraparibhASitazabdAnAmarthAH |
+<HI>suzrutAdivaidyakaparibhASitazabdAnAmarthAH |
+<HI>taduktazarIrAdisaMsthAnam |
+<HI>taduktadravyavRkSAdilakSaNAni |
+<HI>jyotiSasya catuHSaSTiraGgAni |
+<HI>teSu paribhASitazabdAnAmarthAH |
+<HI>tatra siddhAntaziromaNiparibhASitazabdAnAmarthAH |
+<HI>bhUmeH sthiratve, tasya calatve cAryyabhaTTasya matam |
+<HI>saurAgamaparibhASitazabdAnAmarthAH |
+<HI>bhUgolasaMsthAnapramANAdi |
+<HI>khagolasaMsthAnapramANAdi |
+<HI>vRhatsaMhitApratipAdyaviSayAstacchabdArthAzca |
+<HI>vAziSThAdiparibhASitazabdAnAmarthAH |
+<HI>narapatijayacaryyAparibhASitAnAmarthAstatratyacakrANi ca |
+<HI>zakunazAstraprasiddhazabdAnAmarthAH |
+<HI>tAjikaparibhASitazabdAnAmarthAH |
+<HI>vAstuzAstrAdiprasiddhagRhakuNDAdilakSaNAni |
+<HI>sarvvadevamUrttilakSaNAni |
+<HI>tantrazAstraparibhASitazabdAnAmarthAH |
+<HI>tantroktaSaTcakrasvarUpANi |
+<HI>zAradAtilakAdiparibhASitazabdAnAmarthAH |
+<HI>nItizAstraparibhASitazabdAnAmarthAH |
+<HI>azvazAstraparibhASitazabdAnAmarthAH |
+<HI>dhanurvedaparibhASitazabdAnAmarthAH |
+<HI>gAndharvvavedaparibhASitazabdAnAmarthAH |
+<HI>zikSAparibhASitazabdAnAmarthAH |
+<HI>kalpaparibhASitazabdAnAmarthAH |
+<HI>chandaHzAstroktazabdAnAmarthAstallakSaNabhedAzca |
+<HI>alaGkArazAstraparibhASitAnAmarthAH |
+<HI>zabdArthAlaGkArANAM lakSaNodAharaNAni |
+<HI>dazarUpakAdiparibhASitAnAmarthAstallakSaNodAharaNAni ca |
+<HI>sainyavyUhAdilakSaNAni |
+<HI>sainyaparimANabhedAH |
+<HI>pAkazAstraparibhASitazabdAnAmarthAstatprakArabhedAzca | [Pagetitle-13+ 12]
+<H>|| zrIH ||
+<>caukhambA saMskRta granthamAlA
+<>grantha saMkhyA 14
+<>|| zrIH ||
+<>vAcaspatyam
+<>(bRhat saMskRtAbhidhAnam)
+<>gavarnameTasaMskRtamahAvidyAlaya--darzana--vyAkaraNAdhyApaka-
+<>zrItArAnAtha--tarkavAcaspati--bhaTTAcAryeNa
+<>saGkalitam
+<>tenaiva saMskRtam
+<>dvitIyo bhAgaH
+<>caukhambA saMskRta sIrIja vyAphisa, vArANasI-2 [Pagetitle-14+ 9]
+<>prakAzakaH: caukhambA saMskRta sIrIja Aphisa, vArANasI--1
+<>mudraka: vidyAvilAsa presa, vArANasI--1
+<>{#Inventar 78
+<>The
+<>Chowkhamba Sanskrit Series Office,
+<>P. O. Box 8, Varanasi--1
+<>(INDIA)
+<>1962
+<>Phone: 3145 [Pagetitle-15+ 14]
+<H>THE
+<>{|CHOWKHAMBA SANSKRIT SERIES|}
+<>WORK no. 94
+<>VACHASPATYAM
+<>(A Comprehensive Sanskrit Dictionary)
+<>COMPILED BY
+<>{|SRI TARANATHA TARKAVACHASPATI|}
+<>Professor of Grammar and Philosophy
+<>Govt. Sanskrit College, Calcutta.
+<>VOL. II
+<>THE
+<>CHOWKHAMBA SANSKRIT SERIES OFFICE
+<>POST BOX 8, VARANASI--1 (India) Phone: 3145
+<>1962#} [Pagetitle-16+ 1]
+<>blank [Pagetitle-17+ 12]
+<H>|| zrIH ||
+<>caukhambA saMskRta granthamAlA
+<>grantha saMkhyA 14
+<>|| zrIH ||
+<>vAcaspatyam
+<>(bRhat saMskRtAbhidhAnam)
+<>gavarnameTasaMskRtamahAvidyAlaya--darzana--vyAkaraNAdhyApaka-
+<>zrItArAnAtha--tarkavAcaspati--bhaTTAcAryeNa
+<>saGkalitam
+<>tenaiva saMskRtam
+<>tRtIyo bhAgaH
+<>caukhambA saMskRta sIrIja vyAphisa, vArANasI-2 [Pagetitle-18+ 9]
+<>prakAzaka: caukhambA saMskRta sIrIja Aphisa, vArANasI--1
+<>mudraka: vidyAvilAsa presa, vArANasI--1
+<>{#Inventar 78
+<>The
+<>Chowkhamba Sanskrit Series Office,
+<>P. O. Box 8, Varanasi--1
+<>(INDIA)
+<>1962
+<>Phone: 3145 [Pagetitle-19+ 14]
+<>THE
+<>{|CHOWKHAMBA SANSKRIT SERIES|}
+<>WORK no. 94
+<>VACHASPATYAM
+<>(A Comprehensive Sanskrit Dictionary)
+<>COMPILED BY
+<>{|SRI TARANATHA TARKAVACHASPATI|}
+<>Professor of Grammar and Philosophy
+<>Govt. Sanskrit College, Calcutta.
+<>VOL. III
+<>THE
+<>CHOWKHAMBA SANSKRIT SERIES OFFICE
+<>POST BOX 8, VARANASI--1 (India) Phone: 3145
+<>1962#} [Pagetitle-20+ 1]
+<>blank [Pagetitle-21+ 12]
+<H>|| zrIH ||
+<>caukhambA saMskRta granthamAlA
+<>grantha saMkhyA 14
+<>|| zrIH ||
+<>vAcaspatyam
+<>(bRhat saMskRtAbhidhAnam)
+<>gavarnameTasaMskRtamahAvidyAlaya--darzana--vyAkaraNAdhyApaka-
+<>zrItArAnAtha--tarkavAcaspati--bhaTTAcAryeNa
+<>saGkalitam
+<>tenaiva saMskRtam
+<>caturtho bhAgaH
+<>caukhambA saMskRta sIrIja vyAphisa, vArANasI-2 [Pagetitle-22+ 9]
+<>prakAzaka: caukhambA saMskRta sIrIja Aphisa, vArANasI--1
+<>mudraka: vidyAvilAsa presa, vArANasI--1
+<>{#Inventar 78
+<>The
+<>Chowkhamba Sanskrit Series Office,
+<>P. O. Box 8, Varanasi--1
+<>(INDIA)
+<>1962
+<>Phone: 3145 [Pagetitle-23+ 14]
+<>THE
+<>{|CHOWKHAMBA SANSKRIT SERIES|}
+<>WORK no. 94
+<>VACHASPATYAM
+<>(A Comprehensive Sanskrit Dictionary)
+<>COMPILED BY
+<>{|SRI TARANATHA TARKAVACHASPATI|}
+<>Professor of Grammar and Philosophy
+<>Govt. Sanskrit College, Calcutta.
+<>VOL. IV
+<>THE
+<>CHOWKHAMBA SANSKRIT SERIES OFFICE
+<>POST BOX 8, VARANASI--1 (India) Phone: 3145
+<>1962#} [Pagetitle-24+ 1]
+<>blank [Pagetitle-25+ 12]
+<H>|| zrIH ||
+<>caukhambA saMskRta granthamAlA
+<>grantha saMkhyA 14
+<>|| zrIH ||
+<>vAcaspatyam
+<>(bRhat saMskRtAbhidhAnam)
+<>gavarnameTasaMskRtamahAvidyAlaya--darzana--vyAkaraNAdhyApaka-
+<>zrItArAnAtha--tarkavAcaspati--bhaTTAcAryeNa
+<>saGkalitam
+<>tenaiva saMskRtam
+<>pan~camo bhAgaH
+<>caukhambA saMskRta sIrIja vyAphisa, vArANasI-2 [Pagetitle-26+ 9]
+<>prakAzaka: caukhambA saMskRta sIrIja Aphisa, vArANasI--1
+<>mudraka: vidyAvilAsa presa, vArANasI--1
+<>{#Inventar 78
+<>The
+<>Chowkhamba Sanskrit Series Office,
+<>P. O. Box 8, Varanasi--1
+<>(INDIA)
+<>1962
+<>Phone: 3145 [Pagetitle-27+ 14]
+<>THE
+<>{|CHOWKHAMBA SANSKRIT SERIES|}
+<>WORK no. 94
+<>VACHASPATYAM
+<>(A Comprehensive Sanskrit Dictionary)
+<>COMPILED BY
+<>{|SRI TARANATHA TARKAVACHASPATI|}
+<>Professor of Grammar and Philosophy
+<>Govt. Sanskrit College, Calcutta.
+<>VOL. V
+<>THE
+<>CHOWKHAMBA SANSKRIT SERIES OFFICE
+<>POST BOX 8, VARANASI--1 (India) Phone: 3145
+<>1962#} [Pagetitle-28+ 1]
+<>blank [Pagetitle-29+ 12]
+<H>|| zrIH ||
+<>caukhambA saMskRta granthamAlA
+<>grantha saMkhyA 14
+<>|| zrIH ||
+<>vAcaspatyam
+<>(bRhat saMskRtAbhidhAnam)
+<>gavarnameTasaMskRtamahAvidyAlaya--darzana--vyAkaraNAdhyApaka-
+<>zrItArAnAtha--tarkavAcaspati--bhaTTAcAryeNa
+<>saGkalitam
+<>tenaiva saMskRtam
+<>SaSTho bhAgaH
+<>caukhambA saMskRta sIrIja vyAphisa, vArANasI-2 [Pagetitle-30+ 9]
+<>prakAzaka: caukhambA saMskRta sIrIja Aphisa, vArANasI--1
+<>mudraka: vidyAvilAsa presa, vArANasI--1
+<>Inventar 78
+<>The
+<>Chowkhamba Sanskrit Series Office,
+<>P. O. Box 8, Varanasi--1
+<>(INDIA)
+<>1962
+<>Phone: 3145 [Pagetitle-31+ 14]
+<>THE
+<>{|CHOWKHAMBA SANSKRIT SERIES|}
+<>WORK no. 94
+<>VACHASPATYAM
+<>(A Comprehensive Sanskrit Dictionary)
+<>COMPILED BY
+<>{|SRI TARANATHA TARKAVACHASPATI|}
+<>Professor of Grammar and Philosophy
+<>Govt. Sanskrit College, Calcutta.
+<>VOL. VI
+<>THE
+<>CHOWKHAMBA SANSKRIT SERIES OFFICE
+<>POST BOX 8, VARANASI--1 (India) Phone: 3145
+<>1962#} [Pagetitle-32+ 1]
+<>blank [Page0001-a+ 33]
+<H>pratizabdaM liGgavizeSANAmagre vakSyamANatve'pi zabdabhedAnAM pratyayavizeSAntaprakRtivizeSANAn~ca
+<>sAmAnyato liGgavizeSaNajn~Ane saukaryyaM bhavatIti pANinIyaliGgAnuzAsanasUtrANi
+<>pradarzya vyAkhyAyodAharaNadarzanena liGgavizeSAstatrAdau nirUpyante |
+<>tatra liGgamityadhikRtya pANininA'nuziSTam |
+<>strI | 1 |
+<>ita uttaraM vakSyamANAH zabdAH strIliGgAH syurityadhikAraH | tattada-
+<>pavAdastattatsUtre vakSyate tathAca vizeSairavAdhitA eva strIliGgAH |
+<H>RkArAntA mAtRduhitRpotRsvasRnanandaraH | 2 |
+<>RkArAntA amI pan~caiva strIliGgA nAnye | anyeSAm “RnnebhyaH”
+<>iti GIbvidhAnena IkArAntatvAt svasrAdereva GIbniSedhena
+<>RdantatvAt, tisRcatasrostu striyAmAdezatayA prakRtirUpatvA-
+<>bhAvena Rdantatve'pi na niyamavyAdhAtaH | mAtA duhitA svasA
+<>potA nanandA |
+<H>anyUpratyayAnto dhAtuH | 3 |
+<>anipratyayAntaH UpratyayAntazca dhAtuH striyAM syAt | avaniH saraNiH
+<>rajanirityAdi | tatra ca “kRdikArAdaktinaH” iti pakSe GIp
+<>avanI rajanI cetyAdi | camUH badhUrityAdi | pratyayAntaH kim?
+<>divyateH kvip dyUH ayaM vizeSyaliGgaH |
+<H>azanibharaNyaraNayaH puMsi ca | 4 |
+<>ete strIliGgAH puMliGgAzca syuH | anipratyayAntatayA strItve
+<>prApte pAkSikapuMstvavidhAnArthaM sUtram | iyamayaM vA azaniH
+<>bharaNiH araNiH | strItvapakSe GIp vA azanItyAdi
+<H>minyantaH | 5 |
+<>dhAturityanuvarttate | mipratyayAntaH niprayAntazca dhAtuH striyAM
+<>syAt | bhUmiH glAniH hAniH dhuniH | atrApi vA GIp
+<>bhUmI glAnI hAnI dhunI ityAdi |
+<H>vahnivRSNyagnayaH puMsi | 6 |
+<>nipratyayAntatvena strItve prApte tadapavAdArthaM sUtram | ayaM
+<>vahniH vRSNiH agniH |
+<H>zroNiyonyUrmmayaH puMsi ca | 7 |
+<>ete zabdAH strIliGgAH puMliGgAzca syuH | eteSAM minyantatvena
+<>prAptau vikalpaH | ayamiyaM vA zroNiH yoniH UrmmiH | strItvapakSe
+<>vA GIp zrINI yonI UrmmI | [Page0001-b+ 29]
+<H>ktinnantaH | 8 |
+<>ktinpratyayAnto dhAtuH striyAM syAt | kRtiH buddhiH dRSTiH |
+<>“aktinaH” iti nirdezAt atra na pakSe GIp |
+<H>IkArAntazca | 9 |
+<>IpratyayAnto dhAtuH striyAM syAt | cakArodhAtvadhikAranivR-
+<>ttyarthaH | etatsUtraparyyanta eva dhAturanurarttate nAgrimasUtre |
+<>avIH, tantrIH, tarIH, lakSmIH |
+<H>UGGyAbantazca | 10 |
+<>GIbGISGInAM grahaNAya GIgrahaNaM TApcAporgrahaNAyApo
+<>grahaNam | UGantaH GyantaH Abantazca zabdaH strIliGgaH syAt |
+<>UGAdInAM striyAM vihitatve'pi ekatra sarvveSAM grahaNe liGgajn~Anasya
+<>sugamatArthamiha grahaNam | evamanyatrApi | UG | kurUH karkandhUH
+<>GI | kattrIM gaurI brAhmaNI | Ap vidyA bhidA tvarA jarA
+<>ityAdi |
+<H>yantabhekAkSaram | 11 |
+<>ekAkSaraH IkArAntaH UkArantazca asati vizeSe strIliGgaH
+<>syAt | zrIH bhUH | dIvyateH kipi tu vizeSyaliGgata |
+<>ekAkSaraM kim? bahuvrIhau pRthuzrIH prAptabhUH vizeSyaliGga eva |
+<H>viMzatyAdirA navateH | 12 |
+<>viMzatiprabhRtayaH navatiparyyantAH saMkhyAsaMkhyeyavAcakAH striyAM syuH |
+<>iyaM viMzatiH triMzat catvAriMzat pan~cAzat SaSTiH saptatiH azItiH
+<>navatiH | kRdikArAntatvAbhAvAt viMzatyAdibhyo na pakSe GIp |
+<>ekaviMzatyAdestu “paravalliGgaM dvandvatatpuruSayoH” iti strItvameva
+<>ekanavatyAdeH navatiliGgAnativRtternAvadhitvavyAghAtaH | A
+<>navateH kiM? zataM sahasram | viMzatyAdayaH kim? ekadazAdervizeSya-
+<>liGgatvam |
+<H>dundhubhirakSeSu | 13 |
+<>akSArthako dundhubhizabdaH strIliGgaH syAt | iyaM dundhubhiH pakSe
+<>GIp dundhubhI | akSAdanyatra na strItvam kintu puMstvam | [Page0002-a+ 36]
+<H>nAbhirakSattriye | 14 |
+<>kSattriyArthakabhinno nAbhizabdaH strIliGgaH syAt | iyaM nAbhiH
+<>(akSAvayavaH) vA GIp nAmI |
+<H>ubhAvanyatra puMsi | 15 |
+<>ubhau dundhubhinAbhizabdau krameNa nAbhibhinne kSattriye ca varttamAnau
+<>puMliGgau syAtAm | ayaM dundhubhiH (vAdyabhedaH asurabhedo vA) ayaM
+<>nAbhiH (kSattriyaH) “liGgamaziSyaM lokAzrayatvAt” ityukteH kvacit
+<>vyabhicAraH | tena avayavavAcakasya puMstvamapi “samullasatpaGkajapatra-
+<>komalairupAhitazrINyupanIvinAbhibhiH” ityatra puMstvam | ata eva
+<>rabhasaH
+<>mukhyarAT kSattriye nAbhiH puMsi prANyaGgake dvayoH |
+<>cakramadhye pradhAne ca striyAM kastUrikAmade ||
+<>ityAha sma |
+<H>talantaH | 16 |
+<>dhAvAdyarthe vihitatalpratyayAntaH strIliGgaH syAt | zubhrasya bhAvaH
+<>zubhratA evaM jaD.atA mRdutA | brAhmaNasya karmma bhAvo vA brAhma-
+<>NatA | janAnAM samUhaH janatA grAmatA | deva eva devatA
+<>“svArthikA api pratyayAH kvacit prakRtito liGgavacanAnya-
+<>tivarttante” ityukteH prakRtibhinnaliGgatvam |
+<H>bhUmividyutsarillatAvanitAbhidhAnAni | 17 |
+<>bhUmyAdiparyyAyazabdAH strIliGgAH syuH | acalA anantA vizvammarA
+<>ityAdayaH | vidyut taD.it saudAmanI capalA can~calA | sarit nimnagA
+<>ApamA | latA vallI vallarI vratatiH | vanitA yoSit avalA |
+<H>yAdo napu sakam | 18 |
+<>yAdaHzabdaH saridvAcako'pi klIvaliGgaH syAt | pUrvvasUtrApa-
+<>vAdaH | idaM yAdaH (nadI) |
+<H>bhAssruksragdigdRguSNigupAnahaH | 19 |
+<>ete striyAM syuH | iyaM bhAH sruk srak dik dRk uSNik upAnat |
+<H>sthUNorNe napuMsake ca | 20 |
+<>sthUNorNAzabdau striyAM napaMsake ca staH | sthUNA sthUNam (kASTha-
+<>mayI dvikarNikA) | UrNA UrNaM (meghAdiloma) |
+<H>gRhazazAbhyAM klIve | 21 |
+<>gRhapUrbbakaH sthUNAzabdaH zazapUrvvakazca UrNAzabdaH klIvaliGga eva
+<>syAt na tu striyAm | paravalliGgatApavAdaH | gRhasthUNam zazorNam |
+<H>prAvRDvipruDruDviTtviSaH | 22 |
+<>ete zabdAH striyAM syuH | iyaM prAvRT vipruT ruT viT tviT | [Page0002-b+ 35]
+<>darvividivedikhanizANyabhriveNikRSyoSadhyaGgulayaH | 23 |
+<>ete zabdAH strIliGgAH syuH | pakSe GIp | iyaM darviH vidiH
+<>vediH khaniH zANiH abhriH veNi kRSiH oSadhiH aGguliH |
+<>pakSe GIp sarvatra, darvIkaraH, “aGgulIvoragakSatA” iti kAlidAsaH |
+<H>tithinADirucivIcinAlidhUlikikikelicchavi-
+<>rAtryAdayaH | 24 |
+<>ete strIliGgAH syuH | iyaM tithiH | asya puMstvamapi “tithayo-
+<>rdvayoH” ityamarokteH | “nikhilAnnizi pUrNimAtithIn” iti naiSadham
+<>nAD.iH ruciH ityAdi | rAtryAdaya ityAdipadAt naktaMdoSAbhinnA
+<>rAtriparyyAyA gRhyante | sarvvatra pakSe GIp | nAD.I rucI vIcI
+<>ityAdi |
+<H>zaSkulirAjikuTyavantivarttibhrukuTitruTibali-
+<>paGktayaH | 25 |
+<>ete zabdAH striyAM syuH | iyaM zaSkuliH rAjiH ityAdi | sarvvebhyaH
+<>pakSe GIp | “avalambitakarNazaSkulIkalasIkam” iti naiSadham |
+<>“rAjIvarAjIvazalola mRGgam” iti mAghaH | balirudarAvayavaH |
+<P>pratipadApadvipatsapaccharatsaMsadpariSaduSaHsaMvit
+<>kSudyunmutsamidhaH | 26 |
+<>ete zabdAH striyAM syuH | iyaM pratipat Apat vipat ityAdi |
+<>uSAH prAtaradhiSThAtrI devatA “uSA uzanti” iti vedamantraH |
+<H>AzIrdhUHpUrgIrdvAraH | 27 |
+<>ete striyAM syuH | iyamAzIH dhUH pUH gIH dvAH |
+<H>apsumanassamAsikatAvarSANAM bahutvan~ca |
+<>apprabhRtInAM pan~cAnAM strItvaM bahuvacanAntatvaM ca syAt | imA
+<>ApaH | imAH sumanasaH | puSpasAmAnyavAcitva evAsya bahutvaM
+<>yena sumanA mAlatI jAtirityAdau ekatvam | devavAcakasya tu
+<>puMstvameva | bahutvaM caiSAM prAyikam ata eva arthavatsUtrabhASye, “ekA
+<>ca sikatA tailadAne'samarthA” iti prayuktam | “samAM samAM vijA-
+<>yate” iti sUtrabhASye samAyAM samAyAmiti prayuktam |
+<>“vibhASA pAghrAdheT” iti sUtravRttivyAkhyAyAm AghrAmAtAM
+<>sumanasAviti haradattena ca prayuktam |
+<H>zuktvagjyogvAgyavAgUnausphicaH | 29 |
+<>ete zabdAH striyAM syuH | iyaM zuk tvak jyok vAk |
+<H>taTisImAsaMbadhyAH | 30 |
+<>ete zabdAH striyAM syuH | taTiH pakSe GIp sImA sabadhyA | [Page0003-a+ 37]
+<H>cUlliveNikhAryyazca | 31 |
+<>ete zabdAH striyAM syuH | iyaM cUlliH veNiH khAriH pakSe GIp |
+<H>tArAdhArAjyotsnAdayazca | 32 |
+<>ete zabdAH striyAM syuH | tArA dhArA jyosnA |
+<H>zalAkA striyAM nityam | 33 |
+<>zalAkAzabdo nityastrIliGgaH | iyaM zalAkA |
+<P>strItyadhikAre punaH strIgrahaNamadhikAranivRttyartham | nitya-
+<>grahaNamanyeSAM vyabhicArasUcanArtham | yatra yatra ca vyabhicAraH
+<>tattat pUrbbamuktam |
+<P>atra sUtrapAThAdyanusAreNa kin~cidavaziSTaM sucyate | striyAM ktin
+<>(3, 3, 94) ityadhikAre ye vihitAH kyabAdayaH pratyayAstadantA api
+<>striyAM syuH | yathA vrajayajorbhAve kyap (3, 3, 98 sU0)
+<>pravajyA ijyA | saMjn~AyAM samajaniSadanipatamanavidaSun~zIG-
+<>bhRn~iNaH (3, 3, 99) | samajyA samA, niSadyA ApaNaH,
+<>nipatyA picchilA bhUmiH, manyA galapArzvazirA, vidyA, sutyA
+<>abhiSavaH, zayyA, bhRtyA, ityA zivikA | kRn~aH za ca (3, 3, 100)
+<>kriyAkRtyA | icchA (3, 3, 101) icchA | paricaryyAparisaryyA-
+<>mRgayATATyAnAmupasaMkhyAnamiti tatratyavArttikam | paricaryyA
+<>pUjA, parisaryyA, mRgayA, aTATyA | jAgartterakAro vA (vA0)
+<>jAgarA jAgaryyA | a pratyayAt (3, 3, 102, sU0) jigamiSA
+<>vividiSA putrakAmyA | gurozca halaH (3, 3, 103, sU0)
+<>IhA UhA, mUrcchA | SidbhidAdibhyo'G (3, 3, 104, sU0)
+<>jarA trapA lajjA bhidA chidA | cintipUjikathikumbicarccazca
+<>(3, 3, 105, sU0) cintA pUjA kathA kumbA carcA |
+<>Atazcopasarge (3, 3, 106) upadhA upamA, upadA | zradantaro-
+<>rupasaMkhyAnam (vA0) zraddhA antarddhA | NyAsazrantho yuc
+<>(3, 3, 107, sU0) kAraNA yAtanA pIDanA AsanA zranthanA |
+<>ghaTTivandividibhyazca (vA0) ghaTTanA vandanA vedanA | iSeranicchA-
+<>rthasya (vA0) anveSaNA | parervA (vA0) paryyeSaNA | rogAkhyAyAM
+<>Nvula bahulam (3, 3, 108) pracchardikA pravAhikA vicarcikA |
+<>dhAtvarthanirddeze Nvul vaktavyaH (vA0) AsikA zAyikA |
+<>saMjn~AyAm (3, 3, 109) uddAlapuSpabhan~jikA | vibhASA-
+<>khyAnaparipraznayorin~ ca (3, 3, 110) kAM kAriM kArikAM
+<>kriyAM kRtyAM kRtiM vA tvamakArSIriti prazne sarvvAM kAriM kArikAM
+<>vA'kArSamityuttaram evaM gaNiM gaNikAM gaNanAm | pAciM pAcikAM
+<>pacAM paktim | paryyAyArhArNotpattiSu Nvuc (3, 3, 111) bhavata
+<>AsikA paryyAyeNAsanA, arhe bhavAnikSubhakSikAmarhati | RNe [Page0003-b+ 34]
+<>ikSubhakSikAM me dhArayasi | utpattau ikSubhakSikA udapAdi |
+<>Akroze nan~yaniH (3, 3, 112) ajIvanistava bhUyAditi | ani-
+<>pratyayAntatayA etasya prAptAvapi stryadhikArapatitayo'troktam |
+<>karmmavyatihAre Nac striyAm (3, 3, 43) iti Naci “NacaH
+<>striyAman~” iti (5, 4, 14) svArthike'n~i vyAvakrozI vyAtyukSI |
+<P>talanta iti (17) sUtre talgrahaNaM samUhArthayAdInAmupalakSa-
+<>Nam ata eva “talvRnde yenikaDyatrA vairamaithunakAdivuH” ityamara
+<>Aha sma | tasya samUhaH (4, 2, 37) ityadhikAre pAzAdibhyo yaH
+<>(4, 2, 49) iti ye pAzyA vanyA vAtyA dhamyA tRNyA | khala-
+<>gorathAt (4, 2, 50 sU0) khalyA gavyA rathyA | initraka-
+<>Dyacazca (4, 2, 51, sU0) khalAdibhya inirvaktavyaH (vA0) khalinI
+<>DAkinI kuTimbinI | gotrA, rathakaDyA | dvagdvAdvun vairamaithunikayoH
+<>(4, 3, 125) vaire kAkolUkikA | maithune atribhAradvAjikA
+<>AdinA “pAdazatasya saMkhyAdervIpsAyAM vun lopazceti” daNDavyava-
+<>sargayozceti (5, 1, 27, 28) vuno grahaNam dvipAdikAM dadAti
+<>daNDito dvau dvau pAdau dadAtItyarthaH | dvizatikAM tyajati | vugraha-
+<>NAt vun~o'pi grahaNam tena “gotracaraNAt zlAghAtyAkAretyAdi
+<>(5, 1, 134) vun~o grahaNam gArgikayA kAThikayA vA zlAghate |
+<>dvandvamanojn~Adibhyazceti (5, 1, 113) vun~azca grahaNam | zaivyopA-
+<>dhyAyikA mAnojn~ikA | tadasyAM praharaNamiti krIDAyAM NaH
+<>(4, 2, 57) iti NAnto'pi striyAm | daNDaH praharaNamasyAM
+<>krIDAyAm dANDA mausalA | ghan~aH sAsyAM kriyeti n~aH (4, 2, 58)
+<>iti vihitan~Antazca striyAM syAt | dANDapAtA tithiH | zyaina-
+<>mpAtA mRgayA, tailampAtA svadhA |
+<P>etadbhinnA anye'pi kecana, zabdAH strIliGgatayA'bhare-
+<>'bhihitAH yathA tindukI kaNikA, bhaGgiH suraGkA sUciH sAtiH
+<>kAkinI (NI) cUrNNiH, zANI druNiH darat | kanthA AsandI
+<>(vratinAmupavezanAsanam) jhallarI carcarI, pArI horA laTvA
+<>sidhmalA lAkSA likSA gaNDUSA, gRdhrasI camasI masI | ityAdayaH
+<>iti strIliGgAnuzAsanam |
+<H>pumAn | 1 |
+<>vakSyamANAH zabdAH asati bAdhake puMliGgAH syuH |
+<H>ghan~abantaH | 2 |
+<>ghan~antaH abantazca dhAtuH puMliGgaH syAt | ghan~--pAkaH tyAgaH | [Page0004-a+ 35]
+<>ap--karaH garaH taraH zaraH | ghan~Adayo bhAvArthakA eveha
+<>gRhyante | bhAve vihitAbhyAM ktalyuDbhyAM napuMsakatvasya,
+<>ktinnAdibhizca strItvasya bAdhanAt tadbAdhyatayA bhAvArthakataivo-
+<>citA | tena karmmAdau ghan~AdyantA vizeSyaliGgA eva |
+<>ata eva bhASyakAreNa sambandhamanuvarttiSyate iti sambandhazabdasya
+<>karmmArthakatvena napuMsakatayA prayogaH kRtaH |
+<H>ghAjantazca | 3 |
+<>ghAntaH acpratyayAntazca dhAtuH puMsi syAt | vistaraH gocaraH
+<>cayaH jayaH naya ityAdi |
+<H>bhayaliGgabhagapadAni napuMsake | 4 |
+<>ajAdyantatvena puMstve prApte apavAdArthaM sUtram | ete
+<>zabdA napuMsakaliGgAH syuH | idaM bhayaM liGgaM bhagaM padam |
+<H>naGantaH | 5 |
+<>naGpratyayAntaH zabdaH puMsi syAt | yatnaH praznaH ityAdi |
+<H>yAcn~A striyAm | 6 |
+<>naGpratyayAntatvena puMstve prApte'pavAdo'yam | yAcn~AzabdaH
+<>striyAM syAt | iyaM yAcan~A |
+<H>kyanto ghuH | 7 |
+<>kipratyayAnto ghuH (dA dhA) puMsi syAt | AdhiH udadhiH
+<>(ghaTaH) vyAdhiH nidhiH | dhuH kiM caktiH jajn~iH
+<>vizeSyaliGga eva |
+<H>iSudhiH strI ca | 8 |
+<>kyantatvena puMstve prApte vA strItvArthaM sUtram | iyamayaM vA iSudhiH |
+<H>devAsurAtmasvargagirisamudranakhakezadantastanabhuja-
+<>kaNThakhaDgazarapaGkAbhidhAnAni | 9 |
+<>devAdiparyyAyazabdAH yathAsambhavaM tadbhedavAvinazca asati bAdhake
+<>puMliGgAH syuH | devAH surAH | bhedAH brahmA viSNuH zivaH
+<>zakraH | asurAH danujAH | bhedAH baliH kAlakeyaH nemiH |
+<>AtmA kSetrajn~aH | svargaH nAkaH | giriH nagaH parvvataH | bhedAH
+<>himAlayaH sumeruH | samudraH udanvAn sindhuH | bhedAH kSIrodaH
+<>lavaNodaH | nakhaH nakharaH karajaH | kezaH kacaH bAlaH | dantaH
+<>dazanaH | stanaH kucaH payodharaH | bhujaH prakoSThaH | kaNThaH galaH |
+<>khaGgaH asiH | zaraH sAyakaH mArgaNaH | paGkaH karddamaH |
+<H>tripiSTapaM tribhuvane napuMsake | 10 |
+<>tRtIyabhuvanavAcakatripiSTapazabdaH klIve syAt | svargavAci- [Page0004-b+ 35]
+<>tvena puMstve prApte ayamArambhaH | idaM tripiSTapam (svargaH) |
+<H>dyauH striyAm | 11 |
+<>dyodivostantreNa grahaNam | svargAbhidhAyitvena puMstve prApte'ya-
+<>mArambhaH | dyozabdaH divzabdazca striyAM syAt | iyaM dyauH ime
+<>bhUdivau |
+<H>iSubAhU striyAn~ca | 12 |
+<>iSubAhuzabdau puMsi striyAn~ca syAtAm | zaravAcitvena bhuja-
+<>vAcitvena puMstve prApte pakSe strItvavidhAnArthamArambhaH | iyamayaM
+<>vA iSuH bAhuH |
+<H>vANakANDau napuMsake ca | 13 |
+<>etau puMsi napuMsake ca syAtAm | zaravAcitvena puMstve prApte pakSe
+<>klIvatvArthamArambhaH | ayamidaM vA vANaH vANaM kANDaH kANDam |
+<H>nantaH | 14 |
+<>na ityetadantaH puMsi syAt | zvA takSA vRSA ukSA | carmma-
+<>varmmAdayastu “man dvyacko'karttari” iti parasUtreNAsya bAdhAt
+<>klIvaliGgAH | tatra “dvyackaH” ityukteH pRthimA mRdimA ityA-
+<>dayo nantatvatvena puMsyeva |
+<P>kratupuruSakapolagulphameghAbhidhAnAni | 15 |
+<>kratvAdiparyyAyazabdAH yathAsambhavaM tadvizeSazabdAzca puMsi syuH |
+<>kratuH adhvaraH | bhedaH ukthaH agniSTomaH | puruSaH naraH |
+<>kapolaH gaNDaH | gulphaH prapadaH | meghaH nIradaH jaladharaH |
+<>bhedaH puSkaraH AvarttakaH |
+<H>abhraM napuMsakam | 16 |
+<>meghavAcitvena puMstve prApte tadapavAdaH | abhram |
+<H>ukArAntaH | 17 |
+<>ukArAntaH zabdaH puMsi syAt | vibhuH vidhuH ikSuH |
+<>idan~ca vizeSairabAdhitaviSayam | ata eva “hanurhaTTavilA-
+<>sinyAM nRtyArambhe gade striyAm | dvayoH kapolAvayave” iti
+<>mediniH | “kareNuribhyAM strI nebhe” ityamaraH | tathA ca evaM-
+<>jAtIyakavizeSAbhAva eva sUtraM pravarttate etadabhiprAyeNa
+<>“liGgazeSavidhirvyApI vizeSairyadyabAdhiH” ityuktamamarasiMhena |
+<>evamanyatrApi |
+<P>dhenurajjukuhusarayutanureNupriyaGgavaH striyAm | 18 |
+<>udantatvena puMstve prApte tadapavAdArthaM sUtram | ete zabdAH striyAM
+<>syuH | dhenuH rajjuH kuhuH | atra aprANijAtitvAt pakSe [Page0005-a+ 34]
+<>UG | kuhUH sarayUH tanUH reNUH priyaGgUH | dhenoH prANitvAt
+<>rajjozca paryyudAsAnnoG |
+<H>samAse rajjuH puMsi ca | 19 |
+<>samAsAntasthaH rajjuzabdaH puMsi, cAt striyAm | karkazarajjvA
+<>karkazarajjunA vA badhnAti |
+<P>zmazrujAnusvAdvazrujatutraputAlUni napuMsake | 20 |
+<>udantatvena puMstve prApte tadapavAdAya sUtram | etAni klIve syuH |
+<>zmazru jAnu svAdu azru jatu trapu tAlu |
+<H>vasu cArthavAci | 21 |
+<>arthavAcivasuzabdaH klIve syAt | vasu dhanam | arthavAcotyukteH
+<>vasurmayUkhAgnidhanAdhipeSu devabhede ca pumAn |
+<P>madgumadhuzIdhusAnukamaNDalUni napuMsake ca | 22 |
+<>ete zabdAH puMsi napuMsake ca syuH | puMstve prApte pakSe klIva-
+<>tvArthaM sUtram | ayaM madguH idaM vA madgu madhuH madhu |
+<>vyavasthitavikalpAzrayaNena vasante caitre daityabhede ca pumAneva kSaudra-
+<>vAci tu napuMsakameva |
+<H>rutvantaH | 23 |
+<>rukArAntaH tukArAntazca puMsi syAt | ukArAntatvenaiva prApte
+<>prapan~cArthaH | meruH setuH hetuH |
+<H>dArukaserujatruvastumastUni napuMsake | 24 |
+<>pUrbbaMsUtrApavAdaH | ete zabdAH klIve syuH | dAru kaseru jatru
+<>vastu mastu |
+<H>sakturnapuMsake ca | 25 |
+<>tvantatvena puMstve prApte pakSe klIvatvArthaM sUtram | cAt puMsi |
+<>saktuH saktu |
+<H>prAgrarazmekArAntaH | 26 |
+<>ita UrddhvaM razmizabdaghaTitasUtraparyyantamakArAnto'dhikriyate |
+<H>kopadhaH | 27 |
+<>kakAra upadhAbhUto yasya tathAbhUto'kArAntaH puMsi syAt | stavakaH
+<>karakaH korakaH | kArakapAThakAdayastu vizeSaNazabdatvena triliGgAH |
+<>atra ca prakaraNe prAyaH vizeSyazabdAnAmeva liGgamanuziSyate na tu
+<>vizeSaNazabdAnAmiti na vyabhicAraH |
+<H>civukazAlUkaprAtipadikAMzukolmukAni napuM-
+<>sake | 28 | [Page0005-b+ 32]
+<>kopadhatayA puMstve prApte'pavAdaH | ete zabdAH klIve syuH |
+<>civukaM zAlUkaM prAtipadikami ityAdi |
+<P>kaNTakAnIkasarakamodakacasakamastakapustakataTAka-
+<>niSkazulkavarcaskapinAkabhANDakakaTakadaNDakapiTakatA-
+<>lakaphalakakalkapulAkAni napuMsake ca | 29 |
+<>ete zabdAH puMsi klIve ca syuH | puMstve prApte pakSe klIvatvArthaM
+<>sUtram | kaNTakaH kaNTakam anIkaH anIkamityAdi |
+<H>TopadhaH | 30 |
+<>TopadhaH akArAntaH puMsi syAt | ghaTaH paTaH |
+<H>kirITamukuTalalATavaTavITazRGgATakaraTaloSTAni
+<>napuMsake | 31 |
+<>pUrbbasUtrApavAdaH | ete zabdAH klIve syuH | kirITaM mukuTaM
+<>lalATamityAdi |
+<H>kuTakUTakapaTakapATakarpaTanaTanikaTakITakaTAni
+<>napuMsake ca | 32 |
+<>ete zabdAH napuMsake puMsi ca syuH | kuTaM kuTaH kUTaM kUTaH
+<>kapaTaM kapaTa ityAdi |
+<H>NopadhaH | 33 |
+<>Nopadho'kArAntaH puMsi syAt | guNaH zaNaH pASANaH |
+<P>RNalavaNaparNatoraNaraNoSNAni napuMsake | 34 |
+<>pUrbbasUtrApavAdaH | RNaM lavaNam parNaM toraNamityAdi |
+<>amarastu “toraNo'strI” ityuktavAn tanmUlaM mRgyam | uSNa-
+<>zabdasya sparzavAcitve eva klIvatA tadvati tu guNavacanatvena
+<>triliGgatvam | uSNaH vahniH uSNA yavAgUrityAdi |
+<H>kArSApaNasvarNasuvarNavraNacaraNavRSaNaviSANacUrNa-
+<>tRNAni napuMsake ca | 35 |
+<>ete zabdAH klIve puMsi ca syuH | kArSApaNaM kArSApaNa ityAdi |
+<H>thopadhaH | 36 |
+<>thakAropadhaH akArAntaH puMsi syAt | rathaH arthaH |
+<H>kASThapRSTharikthokthAni napuMsake | 37 |
+<>pUrbbasUtrApavAdaH | ete zabdAH klIve syuH | kASTham ukthaM
+<>(sAmAvayavabhedaH) | [Page0006-a+ 34]
+<H>kASThA digarthA striyAm | 38 |
+<>digvAcakakASThAzabdaH striyAM syAt | kASThA dik | dizi
+<>ityaneneSTasiddhau sImArthe'pi strItvArthamarthagrahaNaM tena “svayaM vizIrNa-
+<>drumaparNavRttitA parA hi kASThA” iti kAlidAsaprayogaH |
+<H>tIrthaprIthayUthAni napuMsake ca | 39 |
+<>cAdadhikArAt puMsItyevAnuSajyate na tu striyAmiti | tena
+<>“prothamastriyAm” ityamaroktiH | tIrthaM tIrthaH prothaM prothaH
+<H>nopadhaH | 40 |
+<>adanto nopadhaH puMsi syAt | inaH phenaH |
+<H>jaghanAjinatuhinakAnanavanavRjinavipinavetana-
+<>zAsanasopAnamithunazmazAnaratnanimnacihnAni napuM-
+<>sake | 41 |
+<>pUrbbasUtrApavAdaH | zAsanazabdaH parityaktuM zakyate lyuDantatvena
+<>klIvatvasya vakSyamANatvAt | ete zabdAH klIve syuH | jaghanam
+<>ajinaM tuhinaM kAnanamityAdi |
+<H>mAnayAnAbhidhAnanalinapulinodyAnazayanAsana-
+<>sthAnacandanAlAnasammAnabhavanavasanasaMbhAvanavibhAvana-
+<>vimAnAni napuMsake ca | 42 |
+<>ete zabdAH puMsi klIve ca syuH | mAnAdiSu keSAn~cinnAntatvena
+<>puMstve keSAn~cicca lyuDantatayA tadbAdhakasUtreNa klIvatve prApte ca
+<>ubhayaliGgatArthaM sUtram | mAnaH mAnaM yAnaH yAnam | vastutaH
+<>“karaNAdhikaraNayorlyuT” iti vakSyamoNasUtreNa triliGgatva-
+<>prAptau pUrbbApavAdena napuMsakatvameveti tadapavAdArthaM sUtram |
+<H>popadhaH | 43 |
+<>adantaH popadhaH puMsi syAt | dhUpaH dIpaH yUpaH |
+<H>pAparUpoDupatApazilpapuSpazaSpasamIpAntarIpANi
+<>napuMsake | 44 |
+<>pUrbbasUtrApavAdaH | ete zabdAH klIve syuH | pApam rUpam
+<H>zUrpakutapakuNapadvIpaviTapAni napuMsake ca | 45 |
+<>ete zabdAH puMsi klIve ca syuH | zUrpaH zUrpamityAdi |
+<H>bhopadhaH | 46 |
+<>adantaH bhopadhaH puMsi syAt | karabhaH kumbhaH zalabhaH |
+<H>talabhaM napuMsakam | 47 |
+<>pUrbbasUtrApavAdaH | talabham | [Page0006-b+ 33]
+<H>jRmbhaM napuMsake ca | 48 |
+<>jRmbhaM jRmbhaH | aGi tu strItvAt jRmbhA |
+<H>mopadhaH | 49 |
+<>adantaH mopadhaH puMsi syAt | somaH stomaH bhImaH (madhyama-
+<>pANDavaH) bhItihetuvAcitve vizeSyaliGga eva |
+<H>rukmasidhmayugmedhmagulmAdhyAtmakuGkumAni napuM-
+<>sake | 50 |
+<>pUrbbasUtrApavAdaH | rukmaM sidhmam | AtmanIti vibhaktyarthe'-
+<>vyayIbhAve anantatvenAcsamAsAnte Tilope'dantatvam tasya cAvya-
+<>yatve'pi napuMsakatvakathanam adantamopadhatvena prApta puMstvApa-
+<>vAdArtham | vastutaH adhyAtmazabdaH pratyAkhyAtuM zakyate |
+<H>saMgrAmadAD.imakusumAzramakSemakSaumahImoddAmAni
+<>napuMsake ca | 51 |
+<>ete zabdAH napuMsake cAta puMsi ca syuH | saMgrAmaM saMgrAmaH |
+<>dAD.imaM dAD.imaH | uddAmazabdaH pracaNDavAcI | udyato
+<>dAmAyA iti vigrahe tu vizeSyaliGga eva |
+<H>yopadhaH | 52 |
+<>adantaH yopadhaH puMsi syAt | hayaH gavayaH samayaH |
+<H>kisalayendriyahRdayottarIyANi napuMsake | 53 |
+<>pUrbbasUtrApavAdaH | idaM kisalayam indriyam |
+<H>gomayakaSAyamalayAnvayAvyayAni napuMsake ca | 54 |
+<>ete zabdAH napuMsake cAt puMsi ca syuH | gomayaM gomayaH |
+<>kaSAyastu rasavAcI “tuvarastu kaSAyo'strI” ityamaraH | tadvati tu
+<>triliGgaH | avyayazabdaH klIvavAcI | vyayAbhAvavAcI tu nAsya
+<>viSayaH vyayazabdasyAjantatayA puMstvena tato nan~ tatpuruSe'pi
+<>puMstvamiti tato'rthAbhAve'vyayIbhAve klIvateti bhedaH |
+<H>ropadhaH | 55 |
+<>adantaH ropadhaH puMsi syAt | kSuraH aGkuraH |
+<P>dvArAgrasphAratakravakravaprakSiprakSudracchidrapAratIra-
+<>dUrakRcchrarandhrAsrazubhrabhIragabhIrakrUracitrakeyUrakedArI-
+<>darAjasrazarIrakandagmandarapan~jarAjarajaTharAjira-
+<>vairacAmarapuSkaragahvarakuTIrakulIracatvarakAzmIranI-
+<>rAmbaraziziratantrayantrakSettrakSattramitrakalatracchatrasUtra- [Page0007-a+ 35]
+<>vaktranetragotrAGgulitratanutrAstrazastrazAstravastrapattrapAtra-
+<>nakSatrANi napuMsake | 56 |
+<>pUrbbasUtrApavAdaH | ete zabdAH napuMsake syuH | idaM dvAram |
+<>atra sphArazabdo rogabhedavAcI prakAzavAcI tu vizeSyaliGgaeva |
+<>vakrazabdaH nadyAH puTabhedevAcI kuTilavAcI tu vizeSyaliGgaH |
+<>kSipraH zIghrArthe tadvati vizeSyaliGgaH | kSudrazabda upadravabhede
+<>tadvati vizeSyaliGgaH | dUrazabdo dUratve, kRcchrazabdaH kRcchratve
+<>tadvati tu vizeSyaliGgaH | gabhIrazabdo gAmbhIryye tadvati
+<>vizeSyaliGgaH | krUraM krauryye krauryyavati tri0 | citraM varNe
+<>tadvati tri0 | ajasraM sAtatye tadvati tri0 | ziziraM zItala-
+<>sparze tadvati tri0 |
+<H>zukramadevatAyAm | 57 |
+<>devabhinnArthe zukrazabdaH klIve syAt | zukraM retaH | zubhravarNa-
+<>vAcI tu guNavacanatvAt vizeSyaliGgaH | deve tu pumAn |
+<H>cakravajrAndhakArasArAvArapArakSIratomarazRGgAra-
+<>bhRGgAramandArIzIratimirazizirANi napuMsake ca | 58 |
+<>ete zabdAH klIve cAt puMsi ca syuH | cakraM cakraH | zizira-
+<>zabdastu hime sparze ca puMnapuMsakaliGgaH sparzavati triliGgaH |
+<H>SopadhaH | 59 |
+<>adantaH SopadhaH puMsi syAt | vRSaH vRkSaH yakSaH |
+<H>zirISajoSAmbarISapIyUSapurISakilviSakalmA-
+<>SANi napuMsake | 60 |
+<>pUrbbasUtrApavAdaH | zirISaM joSam | ambarISaM bharjjana
+<>pAtrabhedeH munibhede tu pumAn | kalmASaM zasyabhede varNabhede ca tadvati
+<>tu triliGgaH |
+<H>yUSakarISamiSaviSavarSANi napu sake ca | 61 |
+<>ete klIve cAt puMsi ca syuH | yUSaM yUSaH | varSaM varSaH (vRSTiH)
+<>vatsare Rtubhede ca strI |
+<H>sopadhaH | 62 |
+<>adantaH sopadhaH puMsi syAt | vatsaH vAyasaH mahAnasaH |
+<H>mAnasavisavusasAhasAni napuMsake | 63 |
+<>pUrbbasUtrApavAdaH | ete klIve syuH | mAnasa visamityAdi |
+<H>camasasarasaniryyAsopavAsakArpAsavAsamAsakAsa-
+<>kAMsamAMsAni napuMsake ca | 64 |
+<>ete puMnapu sakayoH syuH | camasaM camasa ityAdi | [Page0007-b+ 34]
+<H>kaMsan~cAprANini | 65 |
+<>aprANini kaMsazabdaH klIve puMsi ca syAt | kaMsaM kaMsaH pAna-
+<>bhojanam mathurAnRpe tu kaMsaH | cakaro'dantAdhikArasamAptyarthaH |
+<H>razmidivasAbhidhAni | 66 |
+<>razmidivasaparyyAyazabdAH puMsi syuH | razmirmayUkhaH kiraNaH |
+<>divaso ghasraH |
+<H>dIdhitiH striyAm | 67 |
+<>pUrbbasUtrApavAdaH | iyaM dIdhitiH |
+<H>dinAhanI napuMsake | 68 |
+<>divasAbhidhAnatve puMstve prApte tadapavAdaH | dinam ahaH |
+<H>mAnAbhidhAnAni | 69 |
+<>mIyate'neneti mAnaM tadvizeSAbhidhAnAni puMsi syuH | kuDavaH
+<>prasthaH |
+<H>droNAD.hakau napuMsake ca | 70 |
+<>mAnavizeSavAcitvena puMstve prApte pakSe klIvatAyai sUtram |
+<>droNaH droNam ADhakaH AD.hakam |
+<H>khArImAnike striyAm | 71 |
+<>puMstvApavAdArthaM sUtram | iyaM khArI iyaM mAnikA |
+<H>dArAkSatalAjAnAM bahutvan~ca | 72 |
+<>dArazabdasya strItve prApte ropadhatvena puMstvasiddhAvapi bahutvArthaM
+<>anyayoraprAptau bahutvArthan~ca sUtram | ete zabdAH puMsi nitya-
+<>bahuvacanAntAzca syuH | ime dArAH | akSatAH lAjAH |
+<H>nADyapajanopapadAni vraNAGgapadAni | 73 |
+<>nADIpUrbbapadaH vraNAntazabdaH apapUrbbako'GgazabdaH janapUrbbaH pada-
+<>zabdazca puMsi syAt | paravalliGgatvena klIvAdiliGgatve prApte
+<>nityapuMstvArthamArambhaH | nADIvraNaH | apAGgaH netrAnte, aGgApagate
+<>tu triliGgaH | janapado (deze) janAnAM pade tu klIvaliGgaH |
+<H>marudgaruduttaradRtvijaH | 74 |
+<>ete zabdAH puMsi syuH | ayaM marut garut (pakSaH) | uttarat
+<>utpUrbbAt tarateratipratyayAntaH zatRpratyayAntastu triliGgaH | taran
+<>tarantI tarat | ayam Rtvik |
+<H>RSirAzidhRtiprahikrimidhvanibalikaulimauli-
+<>ravikavimunayaH | 75 |
+<>ete zabdAH puMsi syuH | ayamRSiH rAziH | baliH pUjopa- [Page0008-a+ 34]
+<>hAre rAjagrAhye kare dAnavabhede eva pumAn udarAvayave tu
+<>strIliGgAdhikArasthena (25) sUtreNa strIliGga iti bhedaH |
+<H>dhvajagajamun~japun~jAH | 76 |
+<>ete puMsi syuH | dhvajaH patAkA “dhvajamastriyAm” ityamaroktiH
+<>apANinIyatayopekSyA | mUlaM vA tasya mRgyam |
+<P>hastakuntAntavAtavrAtadUtadhUrttasUtacUtamuhUrttAH | 77 |
+<>ete puMsi syuH | hastaH sUtaH sArathauH prasUte tu triliGgaH |
+<>“muhUrtto'striyAm” ityamaroktizcintyamUlA |
+<H>SaNDamaNDakaraNDabharaNDaraNDavaraNDatuNDagaNDamuNDa-
+<>pASaNDazikhaNDAH | 78 |
+<>ete puMsi syuH | SaNDaH maNDaH gaNDaH | etadviruddhAbhi-
+<>dhAyinI amoruktizcintyamUlA |
+<H>vaMzAMzapuroDAzAH | 79 |
+<>ete puMsi syuH | vaMzaH aMzaH puroDAzaH (havirbhedaH) |
+<H>hradakandakundabudbudazabdAH | 80 |
+<>ete zabdAH puMsi syuH | hradaH kandaH kundo vRkSaH puSpe tu
+<>kundam | zabdaH |
+<H>arghapathisakhyRbhukSistambanitambapUgAH | 81 |
+<>ete puMsi syuH | eSo'rghaH | sAmagaistu arghyamityeva yadantatayA
+<>prayojyaM tacca klIvaliGgam |
+<H>pallavapallalakapharephakaTAhaniryyUhamaThamaNitaraGgaH-
+<>gandhaskandhamRdaGgasaGgasamudgapuGkhAH | 82 |
+<>ayaM pallavaH | “pallavo'strI” ityamaroktizcintyamUlA ||
+<H>sArathyatithikukSivastyan~jalayaH | 83 |
+<>ete puMsi syuH | ayaM sArathiH atithirityAdi |
+<P>athAtrAvaziSTam | nau Na ceti (3, 3, 60 sU0) ghan~acoH
+<>samuccitaH adeH Napratyayo'pi puMsi syAt | nyAdaH | stambe ka
+<>ca (3, 3, 83 sU0) stambopapadAt hanteH kapratyayaH puMsi syAt
+<>stambaghnaH | dvito'thuc (3, 3, 89 sU0) etadvihito'thujantaH
+<>puMsi syAt | vepathuH vamathuH | pUrbbavadazvavaDavau (2, 4, 27 sU0)
+<>nirddezAt paravalliGgatApavAdena puMstvameva azvavaDavau dvitva
+<>mavivakSitam | azvavaDavAH
+<P>etadbhinnAH kecit zabdAH “kAntaH sUryyenduparyyAyapUrbbo'yaH
+<>pUrbbako'pi” cetyamarasiMhena puMliGgatayA vihitAH | sUryya- [Page0008-b+ 33]
+<>kAntaH taraNikAntaH candrakAntaH indukAntaH ayaskAntaH lauha-
+<>kAntaH ityAdayaH | zrIveSTaH zrIvAsaH vRkadhUpaH gugguluH
+<>kaseruH sihlakaH ityAdayaH vRkSaniryAsabhedAH, puGkhaH nyuGkhuH
+<>piNDaH zauNDaH picaNDaH gaDuH laguDaH dRtiH kAsamarddaH
+<>arvudaH (rogabhedaH) golaH hiGgulaH pudgalaH vetAlaH mallaH bhallaH
+<>paTTizaH patadgrahaH |
+<>iti puMliGgAdhikAraH |
+<H>napuMsakam | 1 |
+<>ita UrddhvaM vakSyamANA bAdhamantareNa klIvaliGgAH syurityadhikAraH |
+<H>bhAve lyuDantaH | 2 |
+<>bhAvArthakalyuTpratyayAntaH dhAtuH klIve syAt | gamanaM hasanam |
+<>bhAve kiM? pacyate'neneti karaNe lyuT pacano dahano'gniH |
+<>idhmavrazcanaH kuTAraH, pASANadAraNaH TaGkaH |
+<H>niSThA ca | 3 |
+<>bhAvArthakaniSThAnto dhAtuH klIve syAt | hasitaM gItaM vRttam |
+<H>tvaSyan~au taddhitau | 4 |
+<>bhAve ityanuvarttate | bhAve vihito ye tvaSyan~au taddhitau tadantAH
+<>klIve syuH | bhAve--zubhratvaM zaubhryam, jaDatvaM jADyam | Syan~aH
+<>SittvasAmarthyAt pakSe strItvamapi tena SidgaurAdibhyazceti GISi ya
+<>lope, aucitI aucityaM, mAdhurI mAdhuryyaM, cAturI cAturyyam |
+<H>karmmaNi ca brAhmaNAdiguNavacanebhyaH | 5 |
+<>brAhmaNAdibhyo guNavacanebhyazca karmmaNi cAt bhAve yau vihitau
+<>tvaSyan~au tadantAH klIve syuH | brAhmaNasya karmma bhAvo vA brAhma-
+<>NatvaM brAhmaNyam | “cAturvarNyAdInAM svArthe upasaMkhyAna-
+<>miti” vArttikokteH svArthe Syan~ cAturvarNyaM trailokyaM cAturvedyaM
+<>SADguNyam “kvacit svArthikA api pratyayAH prakRtito liGga-
+<>vacanAnyativarttante iti bhASyokteH prakRtiliGgavacanAtikramaH |
+<H>yayadDhagyagan~aNvun~chAzca bhAvakarmmaNi | 6 |
+<>bhAve karmmaNi cArthe vihitA ye yayadAdayastadantAH klIve syuH |
+<>bhAvakarmmaNIti grahaNaM svArthanivRttyarthaM | stenasya bhAvaH karmma vA
+<>“stenAdyat nalopazceti” (5, 1, 125) yati steyam | sakhyurbhAvaH
+<>karmma vA “sakhyurya iti” (5, 1, 126) ye sakhyam | kaperjn~AteH
+<>vA bhAvAdi “kapijn~AtyorDhagiti” (5, 1, 127) Dhaki kApeyasa [Page0009-a+ 36]
+<>jn~Ateyam | senApaterbhAvAdi “patyantapurohitAdibhyo yagiti”
+<>(5, 1, 128) yaki sainApatyam AdhipatyaM paurahityam |
+<>uSTrasya bhAvAdi “prANabhRjjAtivayovacanodgAtrAdibhyo'n~iti”
+<>(5, 1, 129) an~i auSTram tasya prANadhArijAtivacanatvAt,
+<>zaizavaM kaumAraM vayovacanAtvAt, audgAtraM cAturhotram | dvihAya-
+<>nasya bhAvAdi “hAyanAntayuvAdibhyo'N iti (5, 1, 130) aNi
+<>dvaihAyanaM yauvanam | vayovacanatvena prAptAvapi NitsvarArthaM
+<>vacanam | igantAcca laghUpadhAt” (5, 1, 131) aN sauSThavam
+<>mArddavaM pATavam | “yopadhAdgurUpottamAdvun~ (5, 1, 132)
+<>ramaNIyasya bhAvAdi rAmaNIyakaM kAmanIyakam | “hotrAdi-
+<>bhyazcha iti (5, 1, 135) che acchAvAkIyam acchavAko hotR-
+<>vizeSaH anuktasamuccaya zcakAraH samucceyAzca pariziSTe darzayiSyante |
+<H>avyayIbhAvaH | 7 |
+<>avyayIbhAvasamAsaniSpannaH klIvaliGgaH syAt | adhistri striyA-
+<>miti vigrahe vibhaktyarthe'vyayIbhAve tadantasya klIvatayA hrasvaH |
+<>upanadi pakSe acsamAsAnte upanadam |
+<H>dvandvaikatvam | 8 |
+<>samAhAradvandvaniSpannaH zabdaH klIve syAt | pANipAdam
+<>dhavakhadiram |
+<H>abhASAyAM hemantazizirAvahorAtre ca | 9 |
+<>saMskRtabhASAbhinnaniyamake vede hemantazizirarUpo dvandvasamAhAraH
+<>naikavat klIvaliGgo vA | kintu “paravalliGgaM dvandvatatpuruSayori-
+<>tyukteH paravalliGgatA dvivacanAntatA ca | tathA ahorAtrazabdo-
+<>dvandvaniSpannaH klIva eva “rAtrAhNAhAH puMsIti” puMliGgA-
+<>pavAdaH | abhASAyAmityukteH bhASAyAM hemantaziziram aho-
+<>rAtraityepa |
+<H>anan~karmmadhArayastatpuruSaH | 10 |
+<>itaH paraM nan~karmmadhArayabhinnastatpuruSo'dhikriyate
+<H>analpe chAyA | 11 |
+<>bahusambandhinI yA chAyA tadantastatpuruSaH klIve syAt | napuM-
+<>sakatvena Apo hrasvaH | ikSUNAM chAyA ikSucchAyam | “ikSu-
+<>cchAyAniSAdinya, iti tu AniSAdinya ityAGprazleSeNa
+<>samarthanIyam | zarANAM chAyA zaracchAyam |
+<H>rAjA'manuSyapUrbbA sabhA | 12 |
+<>rAjaparyyAyapUrbbaH manuSyabhinnamanusyasadRzatulyapUrbbazca chAyAnta-
+<>statpuruSaH klIve syAt | nRpANAM sabhA nRpasabham | inasabham [Page0009-b+ 37]
+<>rAjaparyyAyapUrbbasyaiveSyate na tu rAjasvarUpavizeSapUrbbasya | tena
+<>rAjasabhA candraguptasabhA | bhASyakRtA candraguptasabhetipratyudAhara-
+<>NAt candraguptasya bhASyakArasamakAlatvaM tataH prAkkAlatva
+<>vA pratIyate | amanuSyeti paryyudAsAt tatsadRzarakSaHpizAcA-
+<>dipUrbbakasyaiva, tena rakSaHmabhaM pizAcasabham | tatpUrbbakasya
+<>kim? zvasabhA mRgasabhetyAdi |
+<H>surAsenAcchAyAzAlAnizAH striyAn~ca | 13 |
+<>etadantastatpuruSaH striyAM cAt klIve ca syAt | yavasuraM yavasurA
+<>brAhmaNasenaM brahmaNasenA | abahusambandhArthaM chAyAzabdagrahaNam |
+<>kuDyacchAyA kuDyacchAyam | gozAlaM gozAlA | zvanizaM
+<>zvanizA | tatpuruSa ityadhikArAt bahuvrIhautriliGgaH |
+<>dRD.hasenaH dRD.hasenA dRD.hasenamityAdi | anan~karmmadhAraya ityukteH
+<>asenA paramasenA ityAdi striyAmeva | “azAlA ca (2, 4,
+<>24) pA0 sU0) zAlAbhinnArthakasabhAntastatpuruSaH klIve syAt |
+<>strIsabham strIsaMghAta ityarthaH | zAlAyAM dharmmasabhA dharmmazAletyarthaH |
+<>saMjn~AyAM kanthozInareSu (2, 4, 20) pA0 sU0) kanyAntastat-
+<>puruSaH klIve syAt | sA cet kanthA uzInaradezItpannAyAH
+<>kanthAyAH saMjn~A | suzamasyApatyAni sauzamayasteSAM kanthA |
+<>saMjn~AyAM kiM vIraNakanthA | upajn~oSakramAntaH tadAdyAcikhyA-
+<>sAyAm (2, 4, 27 sU0 pA0) upajn~Anta upakramAntazca tatpuruSaH
+<>napuMsake syAt | tayorupajn~AyamAnoprakramyamANayorAdiH
+<>prAthamyaM cedAkhyAtumiSyate | upajn~Ayate ityupajn~A karmmaNi
+<>aG | pANinerupajn~A pANityupajn~am | upakramyate ityupakramaH
+<>nandasya upakramaH nandopakramaM droNaH | bhASyakArasya tathodAharaNAt
+<>nandAdarvAcInatvaM bhASyakRta iti pratoyate |
+<H>paravat | 14 |
+<>uktabhinnastatpuruSaH paravalliGgaH syAt | rAjapuruSaH rAjamahiSI
+<>rAjadhanam |
+<H>rAtrAhNAhAH puMsi | 15 |
+<>kRtasamAsAntarAtrAdyantastatpuruSaH puMsyeva syAt paravalliGgatA-
+<>pavAdaH | tadantadvandvo'pi puMsi syAt sUtrapAThe “paravalliGgaM
+<>dvandvatatpuruSayorityupakrameNa etadapavAdasUtre dvandvapadasyAM
+<>pyanuvarttanAt | pUrbbarAtraH apararAtraH pUrbbAhNaH aparAhNaH
+<>dvyahaH | dvandve ahazca rAtrizca ahorAtraH |
+<H>saMkhyApUrbbA rAtriH | 16 |
+<>saMkhyAvAcakapUrbbapadaH rAtrAntastatpuruSaH klIve syAt | puMstvApa-
+<>vAdaH | trirAtraM pan~carAtraM gaNarAtram | [Page0010-a+ 35]
+<H>apathapuNyAhe napuMsake | 17 |
+<>apathapuNyAhazabdau naMpuMsake staH | apatham | tatpuruSa ityeva
+<>anyatra apathodezaH | puNyAhasya tu puMstve prApte'yamArambhaH sa tu
+<>tatpuruSa eva bahuvrIhau samAsAntAprasakteH vArttike “puNyasu-
+<>dinAbhyAmahraH klIvatA” ityukteH | sudinAham | apatheti nirdde-
+<>zAt kRtasamAsAnta eva sUtraM pravarttate neha apanthAH |
+<H>dviguH striyAn~ca | 18 |
+<>dvigusamAsaniSpannaH striyAM cAt napuMsake ca syAt | vyavasthita-
+<>vibhASeyaM vyavasthA ca sUtrapAThena vArttikapAThena darzitA yathA
+<>sa napuMsakam 2, 4, 17 sU0 pA0) sa samAhAradvigurnapuMsakaliGgaH
+<>syAt | paravalliGgatApavAdaH | pan~cagavam | akArAntottarapado
+<>dviguH striyAmiSTaH (vA0) | pan~camUlI, trilokI, “Abanto vA
+<>(vA0) Abanto dviguH striyAM klIve ca syAt | pan~cakhaTvIM pan~ca-
+<>khaTvam | ano nalopazca vA ca dviguH striyAm, (vA0) annanta
+<>dvigorvA nalopaH | nalopapakSe strItvaM pakSe klIvatetyarthaH |
+<>pan~catakSI pan~catakSam | pAtrAMdyantasya na, (vA0) na strItvamapi tu
+<>“sa napusakam” iti klIvatvameva | adantatvena strItve prApte
+<>tapavAdArthaM vArttikam | pan~capAtraM tribhuvanam |
+<H>isusantaH | 19 |
+<>ispratyayAnta uspratyayAntazca zabdaH klIve syAt | haviH dhanuH |
+<H>arciH striyAn~ca | 20 |
+<>isantatvena klIvatve prApte vacanam | idamiyaM vA arciH |
+<H>chadiH striyAmeva | 21 |
+<>isantatve'pi chadizabdaH striyAM syAt na tu klIve | iya chadiH
+<>evamanuzAsane sthite paTalaM chadirityamaravyAkhyAtAraH paTala-
+<>sAhacaryyAt chadiSaH klIvatAM vadantaH upekSyAH |
+<H>mukhanayanalohavanamAMsarudhirakArmmukavivarajala-
+<>haladhanAnnAbhidhAnAni | 22 |
+<>etadvAcakAni klIve syuH | mukham Ananam | nayanaM locanam |
+<>lohaM kAlam ayaH | vanaM gahanam vipinam | mAMsamAmiSaM
+<>palam | raktaM rudhiraM zoNitam asram | kArmukaM zarAsanam |
+<>vivaraM chidraM vilam | jalaM salilaM vAri | halaM lAGgalam |
+<>dhanaM draviNaM vasu{??} annamazanam ityAdi |
+<H>sIrArthodanAH puMsi | 23 |
+<>pUrbbasUtrApavAdaH | ete zabdAH puMsi syuH | sIraH | arthaH [Page0010-b+ 34]
+<>“rAyohalIti” sUtranirddezAt raizabdasya dhanavAcitve'pi puMstva-
+<>bheva | klIvatve raizabdasya hrasve riNa iti syAt | odanaH |
+<H>vaktranetrAraNyagANDIvAni puMsi ca | 24 |
+<>ete zabdAH puMsi cAt klIve ca syuH | vaktro vaktram | netro
+<>netram | araNyaH araNyam | gANDIvaH gANDIvam |
+<H>aTavI striyAm | 25 |
+<>vanavAcitve'pi aTavIzabdaH striyAM syAt | iyamaTavI |
+<H>lopadhaH | 26 |
+<>tUlAdInAm adantAnAmapavAdatayA parasUtre nirddezena adantA-
+<>eveha prakaraNe gRhyante | evaM sarvatra | adanto lopadhaH klIve
+<>syAt | kulaM kUlam sthalam sthAnamAtre akRtrimabhUmau tu GI-
+<>bbidhAnasAmarthyAt strItvameva | tena sthalI akRtrimA bhUmiH |
+<H>tUlopalatAlakusulataralakambaladevalatRSalAH
+<>puMsi | 27 |
+<>pUrbbasUtrApavAdaH | tUlaH upalaH | tAlaH gAnakriyAmAnam |
+<>vRkSavAcakasya jAtitvAt dviliGgatA ata eva hintAlasyApi
+<>paratvAt dviliGgatA na virudhyate | taralaH hAramadhyagamaNiH |
+<>can~calaparyyAyastu triliGgaH kriyopAdhitvAt |
+<H>zIlamUlamaGgalasAlakamalatalamusalakuNDalapalala-
+<>mRNAlabAlagalapalAlaviD.AlakhilazUlAH puMsi ca
+<>| 28 |
+<>ete zabdAH yuMsi cAt klIve syuH | lopadhatvena klIvatve prApte
+<>pakSe puMstvArthaM sUtram | zIlaM zIlaH mUlaH mUlamityAdi |
+<H>zatAdisaMkhyA | 29 |
+<>zatAdizabdAH saMkhyAsaMkhyeyayoH klIve syuH | zataM sahasram |
+<>zatAdiH kim? eko dvau bahavaH | saMkhyA kim? zataH
+<>(zatazRGgaparvvataH) |
+<H>zatAyutaprayutAH puMsi ca | 30 |
+<>ete zabdAH puMsi cAt klIve | ayaM zataH idaM zatam | ayutaH
+<>ayutam prayutaH prayutam | saMkhyAvAcakatvena klIvatve prApte pakSe
+<>puMstvArthaM sUtram |
+<H>lakSAkITI striyAm | 31 |
+<>ete striyAM staH | lakSA koTiH | ikArAntatvAt pakSe GIp
+<>koTI | lakSazabdasya klIvatvamapi vipratiSedhe'paraM kAryyamiti [Page0011-a+ 35]
+<>paribhASayA tathAtvam ata eva “vA lakSA niyutan~ca tat”
+<>ityamaraH |
+<H>sahasraH puMsi ca | 32 |
+<>ayaM puMsi cAt klIve syAt | klIvatve prApte pakSe puMstvArthaM
+<>sUtram | sahasraH sahasram |
+<H>man dvyacko'karttari | 33 |
+<>karttRbhinnArthakamanpratyayAntaH dvyackazcet klIve syAt | karmma varmma
+<>zarmma, narmma, | dvyackaH kim? aNorbhAvaH aNimA evaM
+<>laghimA | nantatvena puMstvam | akarttari kim? dadAtIti
+<>dAmA |
+<H>brahma puMsi ca | 34 |
+<>brahmanzabdaH puMsi cAt klIve ca syAt | vyavasyitavibhASeyam
+<>vede satye tapasi parAtmani ca klIvam caturmukhe pumAniti brahmA |
+<H>nAmaromaNI napuMsake | 35 |
+<>ete klIve staH | mandvyacka ityasya prapan~caH | nAma roma |
+<H>asanto dvyackaH | 36 |
+<>akarttarItyacuvarttate | akarttrarthakAspratyayAntaH dvyackazcet
+<>klIve syAt | yazaH tapaH manaH | akarttarItyanuvRtterneha |
+<>bedhAH | dvyackaH kim? purodhAH candramAH |
+<H>apsarAH striyAm | 37 |
+<>prAyeNAyaM bahuvacanAntaH | imAH apsarasaH | prAyeNetyukteH apsarA
+<>vai rUpiNI meneti bhASyaprayogaH saGgacchate | idaM strIliGge
+<>nirddeSTumucitam asantatvena prAptAvapi dvyackatvAbhAvena prAptya-
+<>bhAvAt tadapavAdatvAsaMbhavAt |
+<H>trAntaH | 38 |
+<>ropadhatvena puMstve prApte tadapavAdArthaM sUtram | trapratyayAntaH
+<>klIve syAt | pattram chattram dAtraM kalatram gotram |
+<>gotrAzabdaMsya bhUmiparyyAyatayA strItvameva gotrazabdasya tu giri-
+<>paryyAyatayA puMstvameva | netrazabdasya vizeSavidhAnAt puMnapuMsakatA |
+<H>yAtrAmAtrAbhastrAdaMSTrAvaratrAH striyAmeva | 39 |
+<>ete zabdAH striyAM syuH | trAntatvena klIvatAprAptau tadapavAdArthaM
+<>sUtram | daMzyate'nayA danzeH STran tasya Sittve'pi na GIS
+<>sUtre daMSTreti nirddezAt | yAtrA mAtrA bhastrA daMSTrA varatrA |
+<H>bhRtrAmitracchAtraputtramantravRtramaitrAH puMsi | 40 |
+<>trAntatvena klIvatve prApte tadapavAdArthaM sUtram | ayaM bhRtraH | [Page0011-b+ 35]
+<>na mitram amitraH mitrazabdasya trAntatayA klIvatvena nan~-
+<>tatpuruSe paravalliGgatayA talliGgatvApattau grahaNasAmarthyAt
+<>puMstvam | “tasya mitrANyamitrAste” iti “syAtAmamitrau
+<>mitre ca” iti ca mAghaH | mitrazabdasya sUryyArthe ropadhatvena
+<>pUrbbavipratiSedhena, devavizeSavAcitvena ca puMstvameva | mittrAt
+<>svArthe'N maitraH vacanasAmarthyAt na prakRtiliGgatA |
+<H>patrapAtrapavitrasUtracchatrAH puMsi ca | 41 |
+<>trAntatvena klIvatve prApte pakSe puMstvArtham vacanam | patraM patraH |
+<>pAtraM pAtraH | pavitraM pavitraH | anuktasamuccayacakAreNa
+<>strItvamapyasya | “pavitrAsi vaiSNavI” iti vedamantraH |
+<H>balakusumazulvapattanaraNAbhidhAnAni | 42 |
+<>eteSAM paryyAyazabdAH klIve syuH | balaM sahaH vIryyaM sAmarthyam |
+<>kusumaM puSpam | sumanaHzabdasya vizeSAbhidhAnAt strItvam |
+<>raNaM yuddham Ayodhanam | yutsamidhorvizeSAbhidhAnAt strItvam |
+<H>padmakamalotpalAni puMsi ca | 43 |
+<>padmAdizabdAH klIve puMsi ca syuH | padmaM padmaH | “bhAti
+<>padmaH sarovare” ityAdAvAlaGkArikaistu aprayuktatAdoSodAharaNa-
+<>tayA'sya puMstvamanuzAsanasiddhamityabhyupagatam | ata eva arddharcA-
+<>disUtre padmaM napuMsakameveti vRttigrantho'prayuktatAdoSadRSTyaivetyu-
+<>nneyaH | kamalaM kamalaH ityAdi |
+<H>AhavasaMgrAmau puMsi | 44 |
+<>raNaparyyAyatayA klIvatve prApte tadbAdhanArthaM sUtram | AhavaH
+<>saMgrAmaH |
+<H>AjiH striyAmeva | 45 |
+<>raNavAcitvena prAptaklIvatAbAdhanArthaM sUtram | iyam AjiH
+<>pakSe GIp AjI |
+<H>phalajAtiH | 46 |
+<>phalapradhAnavRkSajAtivAcI zabdaH klIve syAt | AmalakyAH phalam
+<>mayaT “phale luk” iti luki “luk taddhitaluki” iti “GISo
+<>luki klIvatvam | Amalakam Astram | tathA ca vikArAvayaba-
+<>pratyayalugviSaye evAsya pravRttiH nAnyathA, tena “jambvA vA”
+<>iti jambUzabdAt aNi “lup ceti” tasya luppakSe strItvameya
+<>lukpakSe klIvatA tadubhayAbhAvapakSe pratyayasthitiH | tena jambU jambu
+<>jAmbavam | ata eva “jambUH strI jambU jAmbavam” ityamaraH |
+<>“phale luk” ityatra phalatIti vyutpattyA phalazabdaH prasavamAtra- [Page0012-a+ 36]
+<>vacanaH | ata eva “dvihInaM prasave sarvvaM harItakyAdayaH
+<>striyAm” ityamaraH |
+<H>vRkSajAtiH striyAmeva | 47 |
+<>kacidityadhyAhAryyam | haritakyAdiprasavavAcakazabdaH striyA
+<>meva | harItakyAH phalam “harItakyAdibhyazca” iti
+<>phalArthakapratyayasya lupi strItvam “harItakyAdiSu vyaktiH”
+<>iti vArttike harItakyAdInAM prakRtiliGgatvokteH | sa ca gaNaH
+<>“haritakI kozAtakI nakharajanI, zaSkaNDI, dADI doDI zveta-
+<>pAkI arjjunapAkI drAkSA, kAlA dhvAkSA, gabhIkA kaNThakArikA
+<>pippalI cin~cA zephalikA” iti | vRkSajAtirityukteH phala-
+<>prAdhAnyAbhAve'pi puSpapradhAnajAtivAcinaH puSpaparatve'pi
+<>strItvam | mAlatI mallikA | lup ceti (4, 3, 166) sUtre
+<>“phalapAkazuSAmupasaMkhyAnam” iti vArttikokteH vrIhINAM phalAni-
+<>vrIhayaH mudgAH mASAH | “puSpamUleSu bahulam” iti vArtti-
+<>kokteH bahulagrahaNAt kvacit lup kvacinneti dyotitam tena
+<>mallikAyAH puSpaM mallikA evaM mAlatI | vidAryyA mUlaM vidArI |
+<>bahulagrahaNAt kvacinna pATalAni puSpANi, zAlvAni mUlAni |
+<>bAhulakAt puSpe mUle ca vAcye kvacit luk | azokam
+<>karavIram |
+<H>viyajjagatsakRtkRSatpRSacchakRdyakRdudazvitaH | 48 |
+<>ete zabdAH klIve syuH | viyat jagat | sakRt |
+<H>navanItAvatAnRtAmRtanimittavittapittavratarajata-
+<>palitAni | 49 |
+<>ete zabdAH klIve syuH | navanItam avatam amRtaM (sudhA) mRta bhinne tri0 |
+<P>zrAddhakulizapIThakuNDAGgadadhisakthyakSyasthyAspadA-
+<>kAzakaNvavIjAni | 50
+<>ete zabdAH klIve syuH | zrAddhaM kulizam | AkAzaH parityAjyaH agrepuMnapuMsakatvokteH, kaNvaM (pApam)
+<H>daivaM puMsi ca | 51 |
+<>daivazabdaH puMsi cAt klIve syAt | daivaH daivam |
+<P>dhAnyAjyazasyarUpyapaNyavarNNyadhiSNyahavyakavyakAvya-
+<>satyApatyamUlyazikyakuDyamadyaharmmyatUryyasainyAni | 52 |
+<>yopadhatvena puMstve prApte'pavAdArthaM sUtram | ete zabdAH klIve
+<>syuH | dhAnyam AjyaM zasyam |
+<P>dvandvavarhaduHkhavaDizapicchavizvakuTumbakavacakavara-
+<>vRndArakANi | 53 |
+<>ete zabdAH klIve syuH | dvandvaM (mithunam) varham ityAdi | [Page0012-b+ 37]
+<H>akSamindriye | 54 |
+<>indriyArthe akSazabdaH klIve syAt | akSam | indriye kim?
+<>rathAGge vRkSabhedAdau mA bhUt |
+<P>atha napuMsakAvaziSTamucyate tatra bhAve lyuDanta ityupalakSaNaM
+<>kRtyAdInAm, tena bhAvArthakakRtyAdyantAH napuMsake syuH | bhavi-
+<>tavyam bhavanIyam bhavyaM bhAvyaM kRtyaM brahmabhUyam | bhAve ityukteH
+<>karmmaNi kartari ca triliGgA eva | karmmaNi--cetavyaH cayanIyaH
+<>ceya ityAdi | karttari--geyaH bhavya ityAdi | kRtyAdayazca
+<>“abhividhau bhAve inuN” (3, 3, 44, sU0) itInuNu tadantAt
+<>aNNinuNaH iti (5, 4, 15) svArthe aNi sAMrAviNaM
+<>sAGkuTinam | bhAve khal--durbhavaM duHzayam | Ato yuc
+<>(3, 3, 28) sumlAnam durglAnam |
+<P>tasya samUha (4, 2, 37) ityadhikAre ye yAdyAH striyAmuktAH
+<>tadbhinnataddhitAntA napuMsake syuH | aN--kAkaM vAkam | bhikSA-
+<>dibhyo'N (4, 2, 38) bhaikSam gArbhiNam | gotrAdibhyo vun~
+<>(4, 2, 39) aupagavakam aukSakam auSTrakam aurabhrakam rAjakam
+<>rAjanyakaM rAjaputrakam mAnuSyakam Ajakam | kedArAd yan~
+<>ca (4, 3, 40) kaidAryyam kaidArakam | gaNikAyA yan~iti (vA0)
+<>gANikyam, Than~ kavacinazca (4, 2, 41) kAvacikam kaidArikam |
+<>brAhmaNamANavavaDavAdyat (4, 2, 42) brAhmaNyam mANavyam vaDavyam
+<>parzvANas (vA0) pArzvam | anudAttAderan~ (4, 2, 44) kApotam
+<>mAyUram | khaNDikAdibhyazca (4, 2, 45) khANDikam sainam
+<>aulukamityAdi | caraNebhyo dharmmavat (4, 2, 46) chAndogyaM
+<>kAThakyam, acittahastidhenoSThak (4, 2, 47) sAktukam hAsti-
+<>kam dhainukam | kezAzvAbhyAM yan~chAviti (4, 2, 48) kaizyaM
+<>kaizikam AzvIyaM Azvam | “sAmAnye napuMsakam (vA0)
+<>kriyAvyayAnAM bhedakAni napuMsakaliGgAni syuH | mRdu pacati
+<>kamanIyam prAtaH | etadbhinnAH katicicchabdA napuMsakatayA'mare
+<>parigaNitAH yathA ukthaM (sAmAvayavabhedaH) toTakaM (chando-
+<>bhedaH) | cocam (tAlaphalam, tadIyaphalasthazaNAkAra-
+<>padArtho vA) | picchaM (bhaktasaMbhUtamaNDaH) | tirITam (veSTanam) |
+<>rAjasUyaM rAjapeyaM yajn~avizeSatve'pi anena bAdhAnna puMstvam | gadyaM
+<>padyaM (kavikRtau) | mANikyaM bhASyaM sindUraM cIraM cIvaraM, lokA-
+<>yataM haritAlam vidalaM (vaMzapAtrabhedaH sthAlI vA) |
+<H>iti napuMsakaliGgAnuzAsanam |
+<H>strIpuMsayoH | 1 |
+<>ita UrddhvaM vakSyamANAH strIpuMsaliGgAH syuH | ityadhikAraH | [Page0013-a+ 35]
+<H>gomaNiyaSTimuSTipATalivastizAlmalitruTimasi-
+<>marIcayaH | 2 |
+<>ete puMsi striyAM ca syuH | tatra gozabdasya pazuvizeSavAcitve
+<>strIpuMsaliGgatA svargavANakiraNanetravAcitve puMsi, bhUmidigvAg-
+<>vAcitve striyAmiti vyavasthA | iyaM gauH ayaM gauH,
+<>iyamayaM vA maNiH strItvapakSe vA GIp maNI evaM sarvatra |
+<H>manyuzIdhukarkandhusindhukaNDureNavaH | 3 |
+<>ete striyAM puMsi ca syuH | iyamayaM vA mamyuH zIdhuH | karkandhuH
+<>aprANijAtitvAt strItvapakSe UG karkandhUH |
+<H>guNavacanamukArAntaM napuMsakan~ca | 4 |
+<>guNavacanA ukArAntAH zabdAH napuMsake cAt strIpuMsayoH syuH |
+<>tena triliGgAH | paTuH paTvI paTu | mRduH mRdvI mRdu | uda-
+<>ntatvavizeSaNAt tadbhinnAnAM guNavacanAnAM guNaparatye puMstvam
+<>guNiparatve triliGgatA | zubhraH zukraH zuciH varNNe, tadvati
+<>zuklaM vastraM zuklaH paTaH zuklAH zATI | etat sUtraM parityaktuM
+<>zakyate guNavacanan~ceti triliGgasthasUtreNa pareNAsya bAdhAt | tena
+<>zuklaM zuci vA vastramityukArAntatvAbhAve'pi tenaiva triliGgatA |
+<H>apatyArthataddhitAH | 5 |
+<>apatyArthe vihitA ye taddhitAstadantAH strIpuMsayoH syuH | aupa-
+<>gavaH aupagavI | dAkSiH dAkSI, gArgyaH gArgI, vaidaH vaidI |
+<>amareNa tu
+<Poem>“strIpuMsayorapatyAntA dvicatuHSaTpadoragAH |
+<>jAtibhedAH pumAkhyAzca strIyoge sahamallakaH ||”</Poem>
+<>ityuktam | tathA ca dvipadAH, catuSpadAH, SaTpadAH, uraga-
+<>vAcinaH jAtivizeSavAcinaH puruSAkhyAye strIyoge eva te ca
+<>strIliGgAstena puMparatve puMstvaM, strIparatve strItvamiti dviliGgatA |
+<>tatra dvipadAH--mAnuSaH mAnuSI, vipraH viprA, zUdraH zUdrA, vakaH
+<>vakI, haMsaH haMsI ityAdi | catuSpadAH--mRgaH mRgI, siMhaH
+<>siMhI, vRSabhaH vRSabhI, ityAdi | SaTpadAH--bhramaraH bhramarI, madhu-
+<>karaH madhukarI, uragaH uragI, sarpaH sarpA, abAdhitA ityeva
+<>tena latAmakSikAzivAnAM nityastrItvameva | jAtibhedavAcinaH--
+<>matsyaH matsyI, zakulaH zakulI | pumAkhyAH--kumbhakAraH
+<>strIyoge kumbhakArI (kumbhakArasya bhAryyA) |
+<P>amare kecit zabdA api dviliGgatayA paThitAH | mallakaH
+<>mallikA, muniH munI, varATakaH varATikA, syAtiH svAtI, varNNakaH [Page0013-b+ 33]
+<>varNNikA, jhATaliH jhATalI, manuH manAvI--manAyI, mUSaH
+<>mUSA, sRpATiH sRpATI, zaThiH zaThIH, kaTiH kaTI, kuTiH kuTI |
+<H>iti strIpuMsaliGgAnuzAsanam |
+<>puMnapuMsakayoH | 1 |
+<>adhikAro'yam | ita UrddhvaM vakSyamANAH puMnapuMsakaliGgAH syuH |
+<H>ghRtabhUtamustakSvelitairAvatapustavustalohitAH | 2 |
+<>ete zabdAH puMnapuMsayoH syuH | idaM ghRtam, ayaM ghRta ityAdi |
+<>bhUtazabdasya atIte bhavanakarttari ca triliGgatA | pizAce
+<>jantumAtre ca puMsi | pRthivyAdiSu pan~casu klIvatA, yukte yathArthe
+<>napuMsakateti vyavasthA | amareNa tu “yukte kSmAdAvRte bhUtaM vrANya-
+<>tIte same triSu” ityuktam | tathA ca bhUtazabdasya triliGgatA-
+<>viSayabhinne evAsya, sUtrasya viSayaH | lohitaM lohitaH (rudhiram)
+<H>zRGgArddhanidAghodyamazalyadRDhAH | 3 |
+<>ete puMnapuMsakayoH syuH | ayaM zRGgaH idam zRGgam | “arddhaM
+<>napuMsakam” (2, 2, 2,) sUtrAt samAMzavAcino napuMsakatA khaNDa-
+<>vAcinastu puMstvamiti vyavasthA | dRDhazabdasya guNavacanatve triliGgatA
+<>vizrabdhavAcitve etatsUtraviSayatA |
+<H>vrajakun~jakuthakUrccaprasthadarpermmArddharccapucchAH | 4 |
+<>ete puMnapuMsakaliGgAH syuH | vrajaH vrajam | arddharcAH puMsi
+<>ceti (2, 4, 31) sUtre arddharcAdInAM prAptatve'pi punararddharccagrahaNaM
+<>tadgaNapaThitAnAM keSAn~cit vaidikaviSayatvasUcanAya ata eva iha
+<>vRtAdInAM keSAn~cit pATho laukikaprayoge'pi puMnapuMsakatArthaH |
+<P>arddharcca gomaya kaSAya kArSApaNa kutapa kuNapa kapATa zaGka
+<>gUtha yUtha dhvaja kabandha padma gRha saraka kaMsa divasa yUSa andhakAra
+<>daNDa kamaNDalu maNDa bhUta dvIpa dyUta cakra dharmma karmman modaka
+<>zatamAna yAna nakha nakhara caraNa puccha dADima hima rajata saktu
+<>pradhAna sAra pAtra ghRta saindhava auSadha ADhaka caSaka droNa khalIna
+<>pAtrIya (pAtrIra) SaSTika vAravANa protha kapitya zuSka zAla
+<>zIla zulka zIdhu kavaca reNu RNa karaTa zIkara musala suvarNa
+<>varNa pUrbba camasa kSIra karSa AkAza aSTApada maGgala nidhana
+<>niryyAsa jRmbha vRtta pusta vusta kSveDita zRGga nigaDa khala madhu
+<>mUla mUlaka sthUla zarAva nAla vapra vimAna mukha pragrIva zUla vabra
+<>kaTaka kaNTaka karpaTa zikhara kalka nATa mastaka valaya kusuma [Page0014-a+ 34]
+<>tRNa paGka kuNDala kirITa kumuda arvvuda aGkuza timira Azrama
+<>bhUSaNa iSvAsa mukula vasanta taDAga piTaka viTaGka viDaGga piNyAka
+<>mASa koza(Sa) phalaka dina daivata pinAka samara sthANu anIka
+<>upavAsa zAka karpAsa vizAla caSAla khaNDa dara viTapa raNa bala
+<>maka mRNAla hasta Ardra hala sUtra tANDava gANDIva maNDapa
+<>paTaha saudha yodha pArzva zarIra phala chala pura rASTra vimba ambara
+<>kuTTima kukkuTa kuDapa kakuda khaNDala tomara toraNa man~caka pan~caka
+<>puGkha madhya bAla chAla valmIka varSa vastra vasu deha udyAna adyoga
+<>sneha stena stana svara saMgama niSka kSema zUka kSatra pavitra yauvana
+<>kalaha pAlaka mUSika maNDala valkala kun~ja vihAra lohita
+<>viSANa bhavana araNya pulina dRDha Asana airAvata zUrpa tIrtha
+<>lomaza tamAla loha daNDaka zapatha pratisara dAru dhanuS mAna
+<>varccaska kUrcca taNDaka maTha sahasra odana prabAla zakaTa aparAhNa
+<>nIDa zakala taNDula | arddharccAdiH |
+<P>ata eva “arddharccAdau ghRtAdInAM puMstvArthaM vaidikaM dhruvam
+<>tathoktamiha loke'pi taccedastyastu zeSavat” ityamareNoktamato
+<>yathoktaviSayatvamavagamyate tatra ghRtAdInAmihoktesteSAM laukika-
+<>prayogaviSayatvamapIti amaroktaM cintyamUlamiti bhedaH |
+<H>kabandhauSadhAyudhAntAH | 5 |
+<>kabandhaH kabandham auSadhaH auSadham AyudhaH Ayudham antaH antam
+<H>daNDamaNDasvaNDazavasaindhavapArzvakAzAGkurAkAzakuza-
+<>kulizAH | 6 |
+<>ete puMnapuMsayoH syuH | daNDaH daNDam “kuzo rAmasute darbhe
+<>yoktre dvIpe kuzasthale” ityuktArtheSu pumAn zalAkAvAcI tu striyAM
+<>jAnapadAditvAt (4, 1, 42) ayovikAre GIS vidhAnAt
+<>kuzI | ayovikArabhinne tu TAp kuzA | ata eva
+<>“ataH kRkamItyAdi (3, 3, 48) sUtre kuzAkarNIti, zArIrakasUtre
+<>ca “hAnautUpAyanazabdazeSatvAt kuzAcchandaH” iti strItvaprayogaH |
+<H>gRhamehadehapaTTapaTahASTApadArbudakakudAzca | 7 |
+<>ete uktaliGgAH syuH | gRhaM gRhaH | mehaH meham ityAdi |
+<H>iti puMnapuMsakaliGgAnuzAsanam
+<P>sUtrakRtA strInapuMsakaliGgaM viziSya noktam amarasiMhena tu
+<>sUtrasvarasAt tadavaziSTatayA'bhihitaM tadihAbhidhIyate |
+<>“strInapuMsakayorbhAvakriyayoH Syan~ kvacicca vun~” | iti [Page0014-b+ 34]
+<>bhAvakarmmaNorvihitaSyan~antasya strInapuMsakaliGgatvaM tacca pUrbba-
+<>muktamapi avasaraprAptatayA jn~AnasaukaryyArthamiha punarucyate |
+<>guNavacanabrAhmaNAdibhyaH karmmaNi ceti cakArAt bhAve
+<>vihitaH Syan~ vun~ ca kvacit strInapuMsakayoH syAt |
+<>ucitasya bhAvaH karmma vA aucityaM aucitI evaM cAturyyaM cAturI
+<>mAdhuryyaM mAdhurI | kvacidityukteH arhato bhAvaH ArhantItyeva tatra-
+<>arhato num ceti num | vun~, AhopuruSikA caurikA zaiSyo-
+<>pAdhyAyikA, gArgikayA zlAghate iti | kvacityukteH rAmaNIyakaM
+<>kAmanIyakamityAdau “yopadhAdgurUpottamAt” (5, 1, 132) iti
+<>vun~antasya klIvatvameva | bhAvakarmmaNorityukteH svArthe Syan~ klIve eva
+<>cAturvarNyaM trailokyam |
+<Poem>“SaSThyantaprAkpadAH senAcchAyAzAlAsurAnizAH iti”
+<>SaSThIsamAsaniSpannAH senAdyantAH strInapuMsakaliGgAH syuH |</Poem>
+<>manuSyasenA manuSyasenam, vRkSacchAyA vRkSacchAyam, yavasurA
+<>yavasuraM, gozAlA gozAlam, zvanizA zvanizam |
+<Poem>“Abannantottarapado dviguzcApuMsi nazca luk”</Poem> iti ca |
+<>AbantaM anantan~ca uttarapadaM yasya tAdRzo dviguH strInapuMsakayoH
+<>tatra ca anantasya nasya lup ca | trikhaTTaM trikhaTTI | tritakSaM
+<>tritakSI | etacca pUrbbaM prAyeNoktam prapan~cArthamihopanyastam |
+<H>strInapuMsakaliGgAnuzAsanam |
+<H>aviziSTaliGgam | 1 |
+<>nAsti viziSTaM liGga tatkAryyan~ca yasya | ita UrddhvaM vakSya-
+<>mANAH zabdA viziSTaliGgakAryyazUnyAH viziSTaliGgazUnyAzca
+<>tena triliGgAH syuH |
+<H>avyayaDatiyuSmadasmadaH | 2 |
+<>cAdayo'vyayazabdAH DatipratyayAntA, yuSmadasmacchabdau ca viziSTa-
+<>liGgakAryyazUnyAH syuH | uccaiH taruH latA, mandiraM vA | kati
+<>puruSAH striyaH balAni vA | tvaM pumAn tvaM strI tvaM kulam |
+<>ahaM pumAn strI, kulaM vA |
+<H>SNAntA saMkhyA | 3 |
+<>SAntanAntasaMkhyAvAcakAH zabdAH aviziSTaliGgakAryyAH syuH |
+<>pan~ca SaT puruSAH striyaH kulAni vA | SNAnteti vizeSaNAt
+<>ziSTAH saMkhyAH triliGgAH viziSTaliGgakAryyavantaH | ekaH
+<>pumAn ekA strI ekaM kulaM dvau dve dve | trayaH tisraH trINi vA | [Page0015-a+ 36]
+<H>guNavacanan~ca | 4 |
+<>guNavAcakAH zabdAH guNiparatve triliGgAH syuH | zuklaH paTaH
+<>zuklA zATI zuklaM vastram | guNaparatve tu yathAprAptaM zukla ityAdyeva
+<>ata eva “guNa zuklAdayaH puMsi guNiliGgAstu tadvati” ityamaraH |
+<>kRtyAzca | 5 |
+<>kRtyA iti bahuvacanaM kRtsAmAnyopalakSaNaM taccAsati bAdhake
+<>kartrAdyarthe triliGgAH syuH | tathA ca bhAve vihitaktinnAdeH strItvasya,
+<>ghan~Adezca puMstvasya viziSyoktestenAsya bAdhaH | tatra kartari-
+<>bhavyaH geyaH pAThakaH gAyaka ityAdayaH triliGgAH | karmmaNi-
+<>stotavyaH stavanIyaH stutya ityAdayaH | ata eva “kRtaH kartaryya-
+<>saMjn~AyAM kRtyAH karmmaNi karttari” ityamaroktiH | tatra kRta-
+<>ityatra uttaravAkyasthaM karmmaNIti padamAkRSyate | tathA ca
+<>kartari karmmaNi ca kRtaH tattadarthe kRtyAzca triliGgAH syuH |
+<H>karaNAdhikaraNayorlyuT | 6 |
+<>karaNe adhikaraNe ca vihitalyuDantAstriliGgAH syuH | lyuDanta-
+<>tvenaklIvatve prApte triliGgatAthaM sUtram | tatra karaNe--deva-
+<>yajanaH, pramANI, sAdhanam pramANam | adhikaraNe pazusaMjn~apano
+<>yajn~aH iSTau strI GIp | satre napuMsakam |
+<H>sarvvAdIni sarvvanAmAni |
+<>sarvvavizvetyAdIni sarvvanAmasaMjn~akAni triliGgAni syuH |
+<>sarvvaH sarvvA sarvvam, vizvaH vizvA vizvam | yuSmadasmadIstu sarvva-
+<>nAmatve'pi vizeSAbhidhAnAt na liGgavizeSakAryyamiti bhedaH |
+<>amaravArtikAdyanusAreNa atredamadhikamucyate |
+<>“paraM liGgaM svapradhAne dvandve tatpuruSe'pi tat |
+<>arthAntAH prAdyalaMprAptApannapUrbbAH paropagAH |
+<>taddhitArtho dviguH saMkhyAsarvvanAmatadantakAH |
+<>bahuvrIhiradiGnAmnAmunneyaM tadudAhRtam |
+<>guNadravyakriyAyogopAdhayaH paragAminaH ||
+<>tatra paravalliGgaM “dvandvatatpuruSayoH” (2, 4, 26 sU0) iti
+<>dvandvatatpuruSayoH uttarapadaliGgasamAnaliGgatvavidhAne'pi “sa napuM-
+<>sakam” (2, 4, 27 sU0) iti samAhAradvigudvandvayornapuMsakatvasya
+<>vidhAnAt svapradhAna ityuktam, samAhAre tu tayoH saMghAtasyaiva prAdhA-
+<>nyAt na svaghaTakpadArthaprAdhAnyamiti na tatra paravalliGgatA | “arthena
+<>saha nityasamAso vizeSyaliGgatA ca” (2, 1, 36 vA0) iti
+<>dvijAya ayamiyamidaM veti vigrahe dvijArthaH vizeSyaliGgaH |
+<P>kugatiprAdayaH (2, 2, 18) prAdibhirnityasamAsaniSpanna- [Page0015-b+ 38]
+<>zabdAH viziSTaliGgAH | tatratyavArtikAni “prAdayo gatAdyarthe
+<>prathamayA” (vA0) pragata AcAryya prAcAryyaH prakRSTA pitAmahI
+<>prapitAmahI prakRSTaM balam pravalam suvalamityAdi | “atyAdayaH
+<>ktAntAdyarthe dvitIyayA” (vA0) atikrAntaH atikrAntA atikrAntaM
+<>vA rAjAnam atirAjaH atirAjI atirAjam | paravalliGgatApa-
+<>vAdaH | evamanyatrA'pi “avAdayaH kruSTAdyarthe tRtIyayA” (vA0)
+<>avakruSTaH kokilayA avakokilaH avakokilA avakokilam |
+<>“paryyAdayo glAnAdyarthe caturthyA” (vA0) pariglAno'dhyayanAya paryya-
+<>dhyayanastriliGgaH | “nirAdayaH ktAntAdyarthe pan~camyAH” (vA0)
+<>niSkrAnto gRhAt iti vigrahe nirgRhaH nirgRhA nirgRham |
+<>iti vArtikoktArthavizeSe prAdisamAsaniSpannA api paragAmina-
+<>striliGgAH | alaMpUrbbo'pi triliGgaH | alaM karmmaNe, alaM-
+<>karmmA triliGgaH | “prAptApanne ca jIvikayA” (2, 2, 4) iti
+<>vihitaH prAptApannapUrbbakajIvikAntastatpuruSastriliGgaH | prApta-
+<>jIvikaH prAptajIvikA prAptajIvikam evam ApannajIvikaH |
+<>taddhitArthe dviguH pan~cabhirgobhiH krItaH pan~cagurityAdistriliGgaH |
+<>saMkhyAsarvanAmnAM triliGgatvaM sUtrakRtaiva pUrbbaM darzitam | tadantA-
+<>nAmamare'dhikoktiH parityaktuM zakyate tatpuruSe dvandve ca para-
+<>valliGgatayaiva triliGgatAprApteH bahubrIhestriliGgatvasya agre
+<>vakSyamANatvAcca | “anekamanyapadArthe” 2, 2, 24 sU0) bahu-
+<>vrIheramyapadAthabodhakatayA talliGgatvaucityAt “diGnAmAnya-
+<>ntarAle” (2, 3, 26 sU0) iti diGnAmavAcitvAt strItva-
+<>meva na tu triliGgatvam | uttarapUrbbA | guNadravyAdiyoga upAdhiH
+<>zabdapravRttau nimittaM yeSAM tAdRzAH zabdAstriliGgAH tacca guNa-
+<>vacanAnAM, “guNavacanan~ceti” kriyAvacanAnAMca “kRtyAzca” ityanena
+<>sUtrakRtaivoktam dravyasaMbandhopAdhikAstriliGgA ityevAdhikam
+<>daNDo'syAstIti iniH daNDI daNDinI dANDi, dhanavAn dhanavatI
+<>dhanavat ityAdi |
+<H>aNAdyantAstena raktAdyarthe nAnArthabhedakAH |
+<P>ityamaroktiH “tena raktaM rAgAd” (4, 2, 1) iti raktAdyarthe
+<>ran~janadravyavAcina uttare vihitANAdyantAH triliGgAH syuH |
+<>kaSAyeNa raktamityaNi kASAyaH paTaH kASAyI zATI kASAyaM
+<>vastram | AdipadAt tadadhikAre “lAkSArocanATThak”
+<>(4, 2, 2,) iti ThagAdayo gRhyante | lAkSikaH raucanika-
+<>striliGgaH | raktAdItyAdipadAt kriyAvizeSakarmmaNi tatkartari
+<>vA ye aNAdayo vihitA ye ca sambandhArthe vihitAste sarvve'pi
+<>gRhyante | “nakSatreNa yuktaH kAlaH” (4, 2, 3) ityaN puSyeNa yuktaM
+<>pauSaM triliGgam | “dRSTaM sAma” (4, 2, 7) aN vasiSThena dRSTaM [Page0016-a+ 31]
+<>sAma, vAsiSThaM sAma vAsiSThI Rk vAsiSTho mantraH “kalerDhak”
+<>(4, 2, 8) kalinA dRSTaM kAleyam | “vAmadevAt DyaDDyau” (4, 2, 9)
+<>vAmadevyam | “parivRto rathaH” (4, 2, 10) vastreNa parivRtIvAstraH |
+<>“tadadhIte tadveda” (4, 2, 59) vyAkaraNamadhIte veda vA vaiyAkaraNaH,
+<>ityevamadhyayanavedanarUpakriyAdikartari vihitAstriliGgA eva “sAsya
+<>devatA” (4, 2, 24) ityAdinA vihitANAdayaH pAzupatam vAya-
+<>vyam aindram | “tadasya paNyam (4, 4, 51) apUpaM paNyamasya
+<>ApUpika ityAdayo grAhyAH |
+<>iti aviziSTaliGgatriliGgAnuzAsanam |
+<>iti pANinIyaM liGgAnuzAsanaM samAptam |
+<H>akArAdikrameNa pANinyAgamasiddhapratyayAgamAnAM
+<>prayoge pariniSThitarUpANi idvarNNaprayojana-
+<>sahitAni sodAharaNAni pradarzyante |
+<H>a
+<HI>{@a@}¦ a bhAvArthe kRtpratyayaH | jigamiSA cikIrSA |
+<HI>{@akaG@}¦ ak AgamaH antAdezaH | saudhAtakiH vaiyAsakiH |
+<HI>{@akac@}¦ aka AgamaH antodAttatA | sarvvakaH uccakaiH |
+<HI>{@akAra@}¦ a apatyabahutve taddhitaH | uDulomAH | bhAve kRt |
+<>jAgarA |
+<HI>{@aG@}¦ a bhAve kRtpratyayaH guNAbhAvAdi | bhidA chidA |
+<HI>{@ac@}¦ astyarthe taddhitaH, antodAttaH | arzasaH, kartari kRt
+<>prakRtipratyayasamudAyAntodAttaH | pacaH devaH |
+<HI>{@an~@}¦ a apatyAdyarthe taddhitaH AdivRddhiH AdyudAttatA | vaidaH
+<>striyAM GIp vaidI | autsaH |
+<HI>{@aT@}¦ a AgamaH AdyavayavaH | abhavat abhUt abhaviSyat |
+<HI>{@aThac@}¦ aTha ghaTAdyarthe taddhitaH antodAttaH | karmmaThaH |
+<HI>{@aN@}¦ a apatyAdyarthe taddhitaH AdivRddhiH | zaivaH striyAM GIp
+<>zavI | kartari kRt vRddhyAdi | kumbhakAraH striyAM TAp |
+<HI>{@at@}¦ a vibhaktyarthe taddhitaH svaritaH avyayaH | kva |
+<HI>{@atasuc@}¦ atas prathamyAdyarthe taddhitaH antodAttaH | dakSiNataH | uttarataH |
+<HI>{@ati@}¦ at parimANArthe varge taddhitaH | pan~cat dazat vargaH | [Page0016-b+ 37]
+<HI>{@atRn@}¦ at kartari kRt AdyudAttatA num | jaran striyAM GI
+<HI>{@athuca@}¦ athu bhAve kRt samudAyAntodAttatA | vepathuH vamathuH |
+<HI>{@aduk@}¦ ad AgamaH antAvayavaH | ekAdnAviMzatiH ekAnna-
+<>viMzatiH |
+<HI>{@adD@}¦ ad AgamaH TilopaH | katarat katamat |
+<HI>{@adhyai(n)@}¦ adhyai tumarthe kRt | pRNadhyai | nittve AdyudAttatA |
+<HI>{@an@}¦ a bhAgAdyarthe taddhitaH, AdyudAttatA | dvitIyo bhAgaH | nIlyA raktaM nIlam |
+<HI>{@anaG@}¦ an samAsAntaH, antAdezaH | puSpadhanvA |
+<HI>{@ani@}¦ ani bhAve kRt striyAm | ajIvaniH |
+<HI>{@anic@}¦ an samAsAntaH, antodAttaH | sudharmmA vidharmmA |
+<HI>{@anIyar@}¦ anIya bhAvakarmmaNIH kRt uMpottamodAttaH | bhavanIyam |
+<HI>{@ap@}¦ a samAsAntaH anudAttaH | kalyANapan~camAH, antarlomaH |
+<>bhAve kRt | karaH garaH bhavaH prasavaH |
+<HI>{@am@}¦ am vede evAgamaH | nitaraM loke tu nitarAm |
+<HI>{@ayaG@}¦ aya AgamaH, antAdezaH | zayyate zayyA |
+<HI>{@ayac@}¦ aya avayave taddhitaH, antodAttaH | ubhayam dvayam |
+<HI>{@asi@}¦ as prathamAdyarthe taddhitaH avya0 | puraH adhaH avaH |
+<HI>{@asic@}¦ as samAsAntaH antodAttaH | aprajAH suprajAH |
+<HI>{@asuk@}¦ as AgamaH antAvayavaH | dadhyasyati |
+<HI>{@asuk@}¦ as AgamaH antAdezaH | pumAMsau pumAMsaH |
+<HI>{@ase(n)@}¦ ase tumarthekRt nittve AdyudAttaH | zarado jIvase |
+<HI>{@astAti@}¦ astAt prathamAdyarthe taddhitaH avyayaH | adhastAt |
+<H>A
+<HI>{@Akinic@}¦ Akin asahAyArthe taddhitaH antodAttaH |
+<>ekAkI |
+<HI>{@Ac@}¦ A prathamAdyarthe taddhitaH antodAttaH avya0 | dakSiNA | uttarA |
+<HI>{@AT@}¦ A AgamaH AdyAvayavaH | AtIt |
+<HI>{@ATac@}¦ ATa matvarthe taddhitaH antodAttaH | vAcATaH |
+<HI>{@Ati@}¦ At prathamAdyarthe taddhitaH avya0 | dakSiNAt uttarAt |
+<HI>{@AnaG@}¦ An AgamaH antAdezaH | pitA svasA uzanAH |
+<HI>{@Anuk@}¦ An AgamaH antAvayavaH | indrANI varuNAnI |
+<HI>{@Apuk@}¦ Ap AgamaH antAvayavaH | satyApayati arthApayati |
+<HI>{@Am@}¦ Am AgamaH | edhAn~cakAra edhAmAsa |
+<HI>{@Aminic@}¦ Amin matvarthe taddhitaH antodAttaH | svAmI |
+<HI>{@Amu@}¦ Am AgamaH avya0 | nitarAm sutarAm pacatitamAm |
+<HI>{@Aya@}¦ Aya svArthe dhAtvaMzapratyayaH | gopAyati dhUpAyati |
+<HI>{@Ayya@}¦ Ayya zIlArthe kRt uNAdi ityeke | spRhayAyyaH | [Page0017-a+ 38]
+<HI>{@Arakan@}¦ Araka matvarthe taddhitaH AdyudAttaH | zRGgArakaH |
+<HI>{@Arak@}¦ Ara apatyArthe taddhitaH AdivRddhiH antodAttatA |
+<>gaudhAraH | jADAraH |
+<HI>{@Ari@}¦ Ari varSe ityarthe taddhitaH avyayaH | parAri |
+<HI>{@Aru@}¦ Aru zIlArthe karttari kRt | zarAruH vandAruH |
+<HI>{@Alac@}¦ Ala matvarthe taddhitaH antodAttaH | vAcAlaH |
+<HI>{@Aluc@}¦ Alu zIlArthekarttari kRt samudAyAntodAttatA |
+<>spRhayAluH | matvarthe taddhitaH antodAttaH | hRdayAluH |
+<HI>{@Ahi@}¦ Ahi prathamAdyarthe taddhitaH avya0 | dakSiNAhi |
+<H>i
+<HI>{@ik@}¦ i dhAtunirddeze kRt guNavRddhyabhAvaH | paciH bhidiH |
+<HI>{@ikaT@}¦ ika caure taddhitaH | aikAgArikaH striyAM GIp |
+<HI>{@ic@}¦ i samAsAntaH antodAttaH avya0 | daNDAdaNDi |
+<HI>{@in~@}¦ i praznAkhyAnArthe kRt vRddhyAdi AdyudAttaH | kAMkari-
+<>makArSIH | apatyAdyarthe taddhitaH AdivRddhiH | kArSNiH |
+<HI>{@iT@}¦ i AgamaH AdyAvayavaH | bhavitA roditi |
+<HI>{@itac@}¦ ita asya jAte'rthe taddhitaH antodAttaH | tArakitaH | stavakitaH
+<HI>{@itnu@}¦ itnu zIlArthe kartari kRt | stanayitnuH gadayitnuH |
+<HI>{@ithuk@}¦ ith DaTi AgamaH antAvayavaH | yAvatithaH tAvatithaH |
+<HI>{@ina@}¦ ina nAsikAnatyarthe samAsAntaH | cikinam |
+<HI>{@in@}¦ i kartari kRt AdyudAttaH | stambakariH nAthahariH |
+<HI>{@inaG@}¦ in Dhaki AgamaH antAdezaH | kalyANineyaH |
+<HI>{@inac@}¦ ina matvarthe taddhitaH antodAttaH | phalinaH |
+<HI>{@ini@}¦ in zIlArthe kartari kRt | prajavI | matvarthe taddhitaH |
+<>dhanI jn~AnI |
+<HI>{@inuN@}¦ in abhivyAptau bhAve kRt vRddhyAdiH | tataH svArthe aN AdivRddhiH | sAMrAviNam |
+<HI>{@ima@}¦ ima tajjAte taddhitaH | pAkimaH tyAgimaH |
+<HI>{@imanic@}¦ iman bhAve karmmaNi ca taddhitaH antodAttaH | mRdimAM | laghimA |
+<HI>{@iyaG@}¦ iy antAdezaH | zriyaH dhiyaH zizriyatuH |
+<HI>{@ila@}¦ ila caturarthyAM taddhitaH | kAzilaH guhilaH grahilaH |
+<HI>{@ilac@}¦ ila matvarthe taddhitaH antodAttaH | phenilaH picchilaH |
+<>svArthe taddhitaMH pUrbbapadalopazca | dattilaH |
+<HI>{@iSThan@}¦ iSTha svArtha prakarSe taddhitaH AdyudAttaH | laghiSThaH kariSThaH |
+<HI>{@iSNuc@}¦ iSNu zIlArthe kartari kRt samudAyAntodAttaH | nirA-
+<>kariSNuH alaGkariSNuH |
+<H>I
+<HI>{@Ikak@}¦ Ika praharaNAdyarthe ivArthe ca taddhitaH AdivRddhiH
+<>anmodAntaH | zAktIkaH | lauhitIkaH sphATikIkaH | [Page0017-b+ 38]
+<HI>{@Ikan~@}¦ Ika svArthe taddhitaH AdivRddhiH | AdyudAttaH |
+<>dvaitIyIkaH tArtIyIkaH |
+<HI>{@Ikan@}¦ Ika parimANArthe taddhitaH AdyudAttaH | khArIkam |
+<>arddhakhArIkam |
+<HI>{@IT@}¦ I AgamaH AdyAvayavaH | acetIt bravIti stavIti |
+<HI>{@Imasac@}¦ Imasa matvarthe taddhitaH antodAttaH | malImasaH |
+<HI>{@IyaG@}¦ Iya dhAtvaMzapratyayaH guNavRddhyabhAvaH | RtIyate |
+<HI>{@Iyasun@}¦ Iyas svArthaprakarSe taddhitaHAdyudAttaH | preyAn
+<>striyAM GIp |
+<HI>{@Irac@}¦ Ira matvarthe taddhitaH antodAttaH | ANDIraH |
+<HI>{@Iran@}¦ Ira matvarthe taddhitaH AdyudAttaH | kANDIraH |
+<H>u
+<HI>{@u@}¦ u kartari kRt | jigamiSuH AzaMsuH bhikSuH vinduH icchuH |
+<HI>{@ukan~@}¦ uka kartari kRt vRddhyAdiH | pAtukaH sthAyukaH |
+<HI>{@uNa@}¦ u saMpradAnApAdAnabhinne karttrAdau kRt vRddhyAdiH | kAruH |
+<HI>{@uti@}¦ ut varSe ityarthe taddhitaH avyayaH | parut |
+<HI>{@um@}¦ u AgamaH antyAdacaH paraH | avocat |
+<HI>{@urac@}¦ ura matvarthe taddhitaH antodAttaH | danturaH |
+<HI>{@uvaG@}¦ uva antAdezaH | bhuvaH | luluvatuH |
+<HI>{@usi@}¦ us karaNAdau kRt | cakSuH yajuH |
+<H>U
+<HI>{@Uka@}¦ Uka zIlArthe karttari kRt | jAgarUkaH daMdazUkaH |
+<HI>{@UG@}¦ U strIpratyayaH Git cihnArthaH | kurUH karkandhUH |
+<HI>{@UTh@}¦ U AdezaH | ava--UH jvara--jUH diva--dyUtam |
+<HI>{@Ulac@}¦ Ula samUhAdyarthe taddhitaH antodAttaH | vAtUlaH balUlaH |
+<H>e
+<HI>{@eNya@}¦ eNya bhavAdyarthe taddhitaH | prAvRSeNyaH |
+<HI>{@etya@}¦ etya bhavAdyarthe taddhitaH | dUretyaH |
+<HI>{@edyavi@}¦ edyavi ahanItyarthe taddhitaH avyayaH | paredyavi |
+<HI>{@edyusuc@}¦ edyus ahanItyarthe taddhitaH antodAttaH avyayaH |
+<>paredyuH anyedyuH ubhayedyuH |
+<HI>{@edhAc@}¦ edhA prakArArthe taddhitaH antodAttaH avyayaH | dvedhA tredhA |
+<HI>{@enap@}¦ ena prathamAsaptamyarthe taddhitaH avyayaH anudAttaH |
+<>dakSiNena uttareNa |
+<HI>{@elu@}¦ elu asahanArthe taddhitaH | himeluH |
+<H>ai
+<HI>{@ai@}¦ ai GIpi striyAm AdezaH | pUtakratAyI agnAyI |
+<HI>{@airak@}¦ aira apatyArthe taddhitaH AdivRddhiH antodAttaH | cATakairaH [Page0018-a+ 38]
+<H>au
+<HI>{@au@}¦ au--striyAM GIpi AdezaH | manAvI |
+<H>ka
+<HI>{@ka@}¦ a kartari kRt guNAbhAvAdi | kiraHjn~aH prasthaH | ghan~arthe bhAve
+<>kRt | upaghnaH nighnaH | caturarthyAdau taddhitaH na kit |
+<>azmakaH zarakaH | ajn~AtAdyarthe--azvakaH | kutsite--
+<>azvakaH | svArthe--adhikaH | zIle--tUSNIkaH |
+<HI>{@kak@}¦ ka caturarthyAM taddhitaH AdivRddhiH antodAttaH | vArA-
+<>hakaH |
+<HI>{@kan~@}¦ a karmmakartari kRt guNAbhAvAdi AdyudAttaH | anyAdRzaH striyAM GIp |
+<HI>{@kaTac@}¦ kaTa samUhAdyarthe taddhitaH na kit antodAttaH | samUhe
+<>avikaTam | svArthe saGkaTam vikaTam |
+<HI>{@kaDyac@}¦ kaDya samUhArthe taddhitaH na kit antodAttaH striyAm | rathakaDyA |
+<HI>{@kadhyai(n)@}¦ adhyai tumarthe kRt guNAbhAvAdi nittve Adyu dA0
+<>avyayaH | Ahubadhyai |
+<HI>{@kan@}¦ ka ajn~AtAdyarthe taddhitaH na kit | madrakaH devadattakaH |
+<HI>{@kap@}¦ ka samAsAntatvAt taddhitatvena na kit anudAttaH |
+<>vyUDhoraskaH anarthakaH | nadImAtRkaH |
+<HI>{@kamul@}¦ am tumarthe kRt pratyayAt pUrbbamudAttaH | pralupaM
+<>nAzakat pralopitumityarthaH |
+<HI>{@kalpap@}¦ kalpaM ISadasamAptyarthe taddhitaH na kit anudAttaH |
+<>paTukalpaH | tiGastu utkarSe | pacatikalpam |
+<HI>{@kasun@}¦ as tumarthe kRt AdyudAttaH | Izvaro vilikhaM vili-
+<>khitumityarthaH |
+<HI>{@kasen@}¦ ase tumarthe kRt AdyudAttaH avyayaH | bhavAnidaM zriyase |
+<HI>{@kANDa@}¦ kANDa samUhArthe taddhitaH na kit | dUrvAkANDam |
+<HI>{@kAnac@}¦ Ana liDvat na guNaH kRt samudAyAntodAttaH | cakrANaH |
+<HI>{@kAm@}¦ kA AgamaH antyAdacaH paraM svArthe taddhitaH avyayaH |
+<>tUSNIkAm |
+<HI>{@kAmyac@}¦ kAmya icchArthe dhAtvazapratyayaH na kit samudAyAntodAttaH | putrakAmyati |
+<HI>{@kAra@}¦ kAra svarUpArthe taddhitaH na kit | akAraH kakAraH |
+<HI>{@ki(n)@}¦ i kartari kRt liDvat guNAbhAvAdi | nittve Adyu-
+<>dAttaH | papiH jagmiH cakriH | kartari kRt | dadhiH
+<>dadiH | karmmaNyupapade'dhikaraNArthe kRt | jaladhiH |
+<HI>{@kuk@}¦ k AgamaH antyAvayavaH | svakIyaM parakIyam | vAtakI
+<>atIsArakI |
+<HI>{@kuTArac@}¦ kuTAra arvAcInArthe taddhitaH na kit antodAttaH | avakuTAram |
+<HI>{@kuNac@}¦ kuNa pAkArthe taddhitaH na kit antodAttaH | pIlukuNaH | [Page0018-b+ 38]
+<HI>{@kurac@}¦ ura karmmakartari kRt guNAbhAvAdi samudAyAntodAttaH |
+<>viduraH bhiduraH |
+<HI>{@kRtvasuc@}¦ kRtvas kriyApaunaH putye taddhitaH na kit antodAttaH | pan~cakRtvaMH pacati
+<HI>{@ken@}¦ e kRtyArthe kRt guNAbhAvAdi AdyudAttaH avyayaH | avagAhe
+<HI>{@kenya@}¦ emya kRtyArthe kRt guNAbhAvATi avya0 | didRkSeNyaH |
+<HI>{@kelimar@}¦ elima karmmakartari kRt guNAbhAvaH | upottamo-
+<>dAttaH | bhidelimaH |
+<HI>{@kta@}¦ ta karmmabhAvAdau kRt guNAbhAvAdi | bhUtaM jn~AtaH viditaH |
+<>aziSi saMjn~AyAn~ca | devadattaH viSNurAtaH |
+<HI>{@ktavatu@}¦ tavat kartari kRt guNAbhAvAdi striyAM GIp | gatavAn |
+<HI>{@ktic@}¦ ti AzIrvvAde saMjn~AyAM kRt guNAbhAvaH samudAyAnto-
+<>dAttaH | rantiH, bhUtiH |
+<HI>{@ktina@}¦ ti bhAve kRt guNAbhAvAdi AdyudAttaH | kRtiH matiH |
+<HI>{@ktri@}¦ tri tajjAte'rthe kRt guNAbhAvAdi tataH svArthe map anudAttaH |
+<>uptrimaH paktrimaH |
+<HI>{@ktvA@}¦ tvA prakRtyarthe kRt guNAbhAvAdi | kRtvA bhUtvA |
+<HI>{@knu@}¦ nu zIlArthe kartari kRt guNAbhAvaH | gRdhnuH kSipnuH trasnuH |
+<HI>{@kmarac@}¦ mara zIlArthe kartari kRt guNAbhAvaH samudAyAnto-
+<>dAttaH | sRmaraH | ghasmaraH |
+<HI>{@kyac@}¦ ya, icchArthe dhAtvaMzapratyayaH samudAyAntodAttaH | puttrIyati
+<HI>{@kya(Ga)S@}¦ ya AcArAdyarthe dhAtvaMzapratyayaH Gittve Atmane-
+<>padam | bhRzAyate | Sittve ubhayapadam | lohitAyate-ti
+<HI>{@kyapa@}¦ ya, bhAvakarmmAdau kRt guNAbhAvaH anudAttaH | kRtyamM
+<>stutyaH | bhAve striyAm | kRtyA |
+<HI>{@kru@}¦ ru zIlAdyarthe kRt guNAbhAvaH | bhIruH |
+<HI>{@krukan@}¦ ruka zIlAdyarthe kRt guNAbhAvaH AdyudAttaH | bhIrukaH
+<HI>{@klukan@}¦ luka zIlAdyarthe kRt guNAbhAvAdi AdyudAttaH | bhIlukaH
+<HI>{@kvanip@}¦ van zIlAdyarthe kRt guNAbhAvAdi anudAttaH |
+<>sudAmA sudhIvA |
+<HI>{@kvarap@}¦ vara zIlAdyarthe kRt guNAbhAvaH anudAttaH | sRtvaraH
+<>itvaraH gatvaraH | striyAM GIp |
+<HI>{@kvasu@}¦ vas liDvat kRt guNAbhAvAdi striyAM GIp | janmivAn pecivAn |
+<HI>{@knin(pa)@}¦ v tasya lopaH kartari kRt guNAbhAvAdi | nittve
+<>AdyudAttaH kutvam | dRk spRk | pittve anudAttaH |
+<>prasUH bhAvAdhikaraNAdau striyAm | saMpad saMsad |
+<HI>{@kesa@}¦ se tumarthe kRt guNAbhAvaH | pra--iNa--preSe |
+<H>kha
+<HI>{@kha@}¦ kha--Ina bhavAdyarthe taddhitaH na khit | kulItaH | [Page0019-a+ 38]
+<HI>{@khac@}¦ a karttari kRt samudAyAntodAttaH mum | priyaMvadaH |
+<>stanandhayaH |
+<HI>{@khan~@}¦ kha--Ina bhavAdyarthe taddhitaH na khit AdivRddhiH Adyu-
+<>dAttaH | mAhAkulInaH gauSThInaH striyAM TAp |
+<HI>{@khaNDa@}¦ khaNDa samUhArthe taddhitaH na khit | vRkSakhaNDaH |
+<HI>{@khamun~@}¦ am abhUtatadbhAve Akroze bhAvAdau kRt khit mum
+<>AdyudAttaH vRddhiH | cauraGkAramAkrozati |
+<HI>{@khal@}¦ a, bhAvAdau kRt pUrbbamudAttaH | durbhavaM sukaram ISatkaram |
+<HI>{@khaz@}¦ a karttari kRt khit mum | janamejayaH nADindhamaH |
+<HI>{@khiSNuc@}¦ iSNu zIlAdyarthe kRt khit mum samudAyAnto-
+<>dAttaH | ADhyambhaviSNuH |
+<HI>{@khukan~@}¦ uka zIlAdyarthe kRt khit mum vRddhiH AdyudAttaH | priyambhAvukaH |
+<HI>{@khyun@}¦ yu--ana karaNabhAvayoH kRt khit mum AdyudAttaH |
+<>bhadraGkaraNam |
+<H>ga
+<HI>{@goyugac@}¦ goyuga sthAnArthe taddhitaH na git antodAttaH |
+<>gogoyugam |
+<HI>{@goSThac@}¦ goSTha sthAnArthe taddhitaH na git antodAttaH | gogoSTham |
+<HI>{@gmini@}¦ gmin matvarthe taddhitaH na git | vAgmI |
+<HI>{@gsnu@}¦ snu--zIlAdyarthe kRt git guNAbhAvaH | jiSNuH sthAsnuH |
+<H>gha
+<HI>{@gha@}¦ a bhAvAdau kartari ca kRt | gocaraH urazchadaH | devatAdyarthe
+<>taddhitaH na ghit gha--iya | mahendriyam yajn~iyam |
+<HI>{@ghac@}¦ gha--iya cikitsyArthe taddhitaH na ghit antodAttaH | kSettriyam
+<HI>{@ghan~@}¦ a--bhAvAdau kRt cajoH kuH antodAttaH vRddhyAdiH |
+<>pAkaH tyAgaH |
+<HI>{@ghan@}¦ gha--iya devatAdyarthe taddhitaH na ghit AdyudAttaH | zukri-
+<>yam |
+<HI>{@ghas@}¦ gha--iya asya prApte'rthe taddhitaH vede, na ghit sittvAnna bhatvam | Rtviyam |
+<HI>{@ghinuN@}¦ in zIlAdyarthe kRt vRddhyAdi cajoH kutvam | tyAgI
+<>rAgI yogI bhogI |
+<HI>{@ghurac@}¦ ura zIlAdyarthe kRt cajoH kutvam | samudAyAntodAttaH | bhaGguram |
+<H>Ga
+<HI>{@GIn@}¦ I zAraGkavAdibhyaH strIpratyayaH | samudAyAntodAttaH |
+<>zAraGgaravo nArI |
+<HI>{@GIp@}¦ I strIpratyayaH anudAttaH | karttrI pecuSI gatavatI | mRgI |
+<HI>{@GIS@}¦ I strIpratyayaH Sit cihnArthaH | kalmASI sAraGgI |
+<HI>{@Gvanip@}¦ van bhUte kartari kRt guNAbhAvAdi anudAttaH | sutvA yajvA | [Page0019-b+ 38]
+<H>ca
+<HI>{@caNap@}¦ caNa vittArthe taddhitaH vakAraprazleSAt na cit anudAttaH |
+<>vidyAcaNaH |
+<HI>{@caraT@}¦ cara bhUtapUrbbArthe taddhitaH vakAraprazleSAt na cit
+<>striyAM GIp | ADhyacaraH |
+<HI>{@cAnaz@}¦ Ana zIlAdyarthe kRt samudAyAntodAttaH | bhun~jAnaH | nighnAnaH |
+<HI>{@cAp@}¦ A yaGantAt strIpratyayaH cit antodAttaH kArISa-
+<>gandhyA | AvaTyA |
+<HI>{@ciN@}¦ i--AgamaH vRddyAdi samudAyAntodAttatA | adAyi abhAvi |
+<HI>{@cun~cup@}¦ cun~cu vittArthe taddhitaH vakAraprazleSAt na cit |
+<>anudAttaH | vidyAcun~cuH |
+<HI>{@cphan~@}¦ pha--Ayana apatyArthe taddhitaH vRddhiH cittvAt anto-
+<>dAttaH | kaun~jAyanaH |
+<HI>{@cvi@}¦ vi, tasya lopaH abhUtatadbhAve taddhitaH avyayaH cit anto-
+<>dAttaH | zvetIbhavati | bhasmIkaroti |
+<H>cha
+<HI>{@cha@}¦ cha--Iya bhavAdyarthe taddhitaH na chit | tvadIyaH |
+<HI>{@chaN@}¦ cha--Iya apatyAdyarthetaddhitaH na chit vRddhiH | paitRSvasrIyaH |
+<HI>{@chas@}¦ cha--Iya bhavAdyarthe taddhitaH na chit sittvAt pUrbbasya
+<>padatvam | bhavadIyaH |
+<H>ja
+<HI>{@jAtIyar@}¦ jAtIya prakAre taddhitaH vprazleSAt na jit upo-
+<>ttamodAttaH | paTujAtIyaH |
+<HI>{@jAhac@}¦ jAha--mUlArthe taddhitaH vaprazleSAt na jit anto-
+<>dAttaH | karNNajAham |
+<H>n~a
+<HI>{@n~a@}¦ a bhavAdyarthe taddhitaH vRddhiH AdyudAttaH | paurvazAlaH |
+<HI>{@n~iTha@}¦ Tha--ika bhavAdyarthe taddhitaH vRddhiH AdyudAttaH | kAzikaH |
+<HI>{@n~ya@}¦ ya--bhavAdyarthe taddhitaH vRddhiH AdyudAttaH | kauvidAryyaM
+<>gAmbhIryyaM pAn~cajanyaH prAgAdyaH |
+<HI>{@n~yaG@}¦ ya--bhavAdyarthe taddhitaH vRddhiH AdyudAttaH | sauvIryyaH
+<>kausalyaH | GitkaraNaM yaGazceti cAbvidhAnArtham |
+<H>Ta
+<HI>{@Ta@}¦ a--kartari kRt striyAM GIp | kurucaraH senAcaraH puraHsaraH |
+<HI>{@Tak@}¦ a--kartari kRt guNAbhAvAdi striyAM GIp | sAmagaH surApaH |
+<HI>{@Tac@}¦ a samAsAntaH striyAM GIp | antrodAttaH | bahurAjaH |
+<HI>{@TAp@}¦ A strIpratyayaH anudAttaH | ajA jigamiSA |
+<HI>{@TThin@}¦ Tha--ika, dAnasaMpradAnArthe taddhitaH AdyudAttaH | odanikaH | [Page0020-a+ 38]
+<HI>{@TITac@}¦ TITa--nAsikAnatArthe taddhitaH vprazleSAt na Tit anto-
+<>dAttaH | avaTITam |
+<HI>{@TeNyan@}¦ eNya svArthe taddhitaH vRddhiH AdyudAttaH striyAM GIp | vArkeNyaH |
+<HI>{@TyaN@}¦ ya--devatArthe taddhitaH AdivRddhiH striyAM GIp | saumyam |
+<HI>{@Tyu(l)@}¦ yu--ana bhavArthe taddhitaH tuDAgamaH striyAM GIp
+<>littve pUrbbIdAttaH | sAyantanaH cirantanaH |
+<H>Tha
+<HI>{@Tha@}¦ Tha--ika svArthe taddhitaH na Thit | devadatta eva devikaH dattikaH |
+<HI>{@Thak@}¦ Tha--ika apatyAdyarthe taddhitaH AdivRddhiH antodAttaH
+<>striyAM GIp | raivatikaH raucanikaH |
+<HI>{@Thac@}¦ Tha--ika caturarthyAM taddhitaH antodAttaH | kumudikaH |
+<HI>{@Than~@}¦ Tha--ika is, us, u, R, ityasmAt paraH ka, bhavAdyarthetaddhitaH
+<>striyAM GIp AdyudAttaH | dainikaH naizikaH dhainukam paitRkam |
+<HI>{@Than@}¦ Tha--ika matvarthAdau taddhitaH AdyudAttaH | dhanikaH zatikaH |
+<H>Da
+<HI>{@Da@}¦ a kartari kRt abhatve'pi TilopaH | antagaH dUragaH |
+<HI>{@Dac@}¦ a samAsAntaH taddhitaH antodAttaH | dvitrAH pan~caSAH |
+<HI>{@DaT@}¦ a pUraNAdyarthe taddhitaH striyAM GIp | ekAdazaH dvAdazaH |
+<HI>{@DaN@}¦ a parimANArthe taddhitaH vRddhiH | traizaM cAtvAMrizam |
+<HI>{@Datamac@}¦ atama bahUnAM madhye ekotkarSe taddhitaH AdyudAttaH |
+<>katamaH |
+<HI>{@Datara@}¦ atara dvayormadhye ekotkarSe taddhitaH antodAttaH | kataraH |
+<HI>{@Dati@}¦ ati pUraNArthe taddhitaH bahuvacanAntaH | kati yati tati |
+<HI>{@Dara@}¦ ara zIlArthe karttari kRt | AkharaH |
+<HI>{@Davatup@}¦ avat kartrarthe kRt anudAttaH striyAM GIp | bhavAn |
+<HI>{@DAc@}¦ A abhUtatadbhAvAdau taddhitaH antodAttaH avyayaH | paTa-
+<>paTAkaroti vIjAkaroti |
+<HI>{@DAp@}¦ A strIpratyayaH anudAttaH | sImA sIme sImAH |
+<HI>{@DAmac@}¦ Amaha--pitaryyarthe taddhitaH antodAttaH | pitAmahaH
+<>mAtAmahaH |
+<HI>{@Dini@}¦ in stome'rthe taddhitaH | pan~cadazI (pakSaH) triMzI (mAsaH)
+<HI>{@Dimac@}¦ ima bhavArthe taddhitaH antodAttaH | AdimaH |
+<HI>{@Du@}¦ u kartari kRt | vibhuH prabhuH |
+<HI>{@Dupac@}¦ upa hrasvArthe taddhitaH antodAttaH | kutupaH |
+<HI>{@Dumsun@}¦ ums kartari kRt AdyudAttaH abhatve'pi TilopaH |
+<>punAtIti pumAn puMsaH |
+<HI>{@Dulac@}¦ ula bhrAtrarthe taddhitaH antodAttaH | mAtulaH |
+<HI>{@Dmatup@}¦ mat caturarthyAM taddhitaH striyAM GIp anudAttaH | kakudmAn [Page0020-b+ 38]
+<HI>{@Dya(t)@}¦ ya dRSTasAmArthe taddhitaH tittve svaritaH | vAmadevyam |
+<HI>{@DyaN@}¦ ya sAdhvAdyarthe vede taddhitaH AdivRddhiH | pAthyaH nAdyaH |
+<HI>{@Dvalac@}¦ vala matvarthe taddhitaH antodAttaH | naDvalaH |
+<HI>{@Dvan@}¦ vu--aka--ArhIyastaddhita AdyudAttaH | viMzakaH triMzakaH |
+<H>Dha
+<HI>{@Dha@}¦ Dha--eya sAdhvarthe taddhitaH na Dhit | sabheyaH | zileyaH |
+<HI>{@Dhak@}¦ Dha--eya apatyAdyarthe taddhitaH vRddhiH antodAttaH striyAM
+<>GIp | mAheyaH gAGgeyaH kAdraveyaH | nAdeyaH |
+<HI>{@Dhakan~@}¦ Dha--eyaka apatyAdyarthe taddhitaH vRddhiH AdyudAttaH
+<>striyAM GIp | bAhukuleyakaH |
+<HI>{@Dhan~@}¦ Dha--eya apatyAdyarthe taddhitaH vRddhiH AdyudAttaH striyAM GIp | gArSTeyaH |
+<HI>{@Dhinuk@}¦ Dhin--eyin proktAdhyetari bahutve taddhitaH vRddhiH
+<>antodAttaH | chAgaleyinaH |
+<HI>{@Dhrak@}¦ Dhra--era--apatyArthe taddhitaH vRddhiH antodAttaH | gaudheraH nATeraH |
+<H>Na
+<HI>{@Na@}¦ a kartari kRt vRddhyAdi | jvAlaH grAhaH dAyaH |
+<HI>{@Nac@}¦ a bhAve kRt vRddhyAdi strItvam tadantAt svArthe an~
+<>AdyudAttaH GIp | vyAvakrozI vyAtihAsI |
+<HI>{@Namul@}¦ am bhAve kRt vRddhyAdi avyayaH | kAraMkAram |
+<>abhyastAnAmAdyudAttaH | cikIrSaMcikIrSam |
+<HI>{@Nas@}¦ a samUhArthe taddhitaH vRddhiH sittvAt na bhatvam | pArzvam (parzusaMghaH)
+<HI>{@NiG@}¦ i pucchAditaH dhAtvaMzapratyayaH Atmanepadam | ut-
+<>pucchayate saMcIvarayate |
+<HI>{@Nic@}¦ i preraNe dhAtvaMzapratyayaH vRddhyAdi samudAyAntodAttaH | kArayati bhAvayati |
+<HI>{@Nini@}¦ in kartari kRt vRddhyAdi | grAhI sthAyI pAyI |
+<HI>{@Nya@}¦ ya apatyAdyarthe taddhitaH vRddhiH | daityaH sAMkAzyaH |
+<HI>{@Nyat@}¦ ya karmmabhAvayoH kRt vRddhyAdi svaritaH | kAryyam
+<>hAsyam vAcyam | kvacit kutvam | vAkyaM bhogyam |
+<HI>{@NyuT@}¦ yu--ana kartari kRt vRddhyAdi striyAM GIp | gAyanaH |
+<HI>{@Nvi@}¦ vi--tasya lopaH kartari kRt vRddhyAdi | sukhabhAk |
+<HI>{@Nvin@}¦ vi--tasya lopaH kartari kRt AdyudAttaH vRddhyAdi |
+<>zvetavAhau ukthazAsau avayAjau |
+<HI>{@Nvuc@}¦ vu aka paryyAyAdyarthe bhAve kRt vRddhyAdi samudAyAntodAttaH
+<>striyAm | bhavata AsikA |
+<HI>{@Nvul@}¦ vu aka rogAkhyAyAM bhAve kRt vRddhyAdi abhyastAnAmA-
+<>dyudAttaH striyAm | pravAhikA vicarcikA |
+<H>ta
+<HI>{@ta@}¦ ta matvarthe taddhitaH | zantaH kantaH | [Page0021-a+ 38]
+<HI>{@tap@}¦ ta matvarthe taddhitaH anudAttaH | parvvataH maruttaH |
+<HI>{@tamaT@}¦ tama--DaTi AgamaH AdyavayavaH | ekaviMzatitamaH |
+<>SaSTitamaH |
+<HI>{@tamap@}¦ tama bahUnAM madhye ekotkarSe taddhitaH anudAttaH | vidvattamaH | paTutamaH |
+<HI>{@tarap@}¦ tara dvayormadhye ekotkarSe taddhitaH anudAttaH | paTu-
+<>taraH mRdutaraH | vidvattaraH |
+<HI>{@tal@}¦ ta--bhAvasamUhAdyarthe taddhitaH pUrbbasyodAttatA | zuklatA devatA janatA |
+<HI>{@taveG@}¦ tave tumarthe kRt avyayaH guNAbhAvAdi | sUtave |
+<HI>{@taven@}¦ tave tumarthe kRt avyayaH AdyudAttaH | karttave |
+<HI>{@tavai(n)@}¦ tavai tumarthe kRt avyayaH nittve AdyudAttaH | mlecchitavai |
+<HI>{@tavyat@}¦ tavya--bhAvakarmmaNoH kRt svaritaH | bhavitavyaM cetavyaH |
+<HI>{@tasi@}¦ tas pan~camyAdyarthe taddhitaH avyayaH | kRSNataH prati | eka-
+<>digarthe ca | pIlumUlataH |
+<HI>{@tasil@}¦ tas pan~camyAdyarthe taddhitaH avyayaH pUrbbasyodAttatA | kutaH sarvvataH tatobhavAn |
+<HI>{@tAtil@}¦ tAti svArthe prazaMsArthe ca taddhitaH pUrbbodAttatA |
+<>sarvvatAtiH | vRkatAtiH |
+<HI>{@ti@}¦ ti mUlArthe matvarthe ca taddhitaH | pakSatiH | kantiH zantiH strIpratyayazca | yuvatiH |
+<HI>{@tikan@}¦ tika prazaMsArthe taddhitaH AdyudAttaH | mRttikA |
+<HI>{@tithuk@}¦ tith DaTi AgamaH antyAvayavaH | bahutithaH |
+<HI>{@tIya@}¦ tIya pUraNArthe taddhitaH | dvitIyaH tRtIyaH |
+<HI>{@tu@}¦ tu matvarthe taddhitaH | zantuH kantuH |
+<HI>{@tuk@}¦ t kRti piti AgamaH antyAvayavaH | saMyat kRtyam |
+<HI>{@tuT@}¦ t AgamaH (TyuTyuloH) AdyavayavaH | sAyantanaH |
+<HI>{@tumun@}¦ tum bhAve kriyArthakriyAdau kRt AdyudAttaH | bhoktuM
+<>yAti jn~Atumicchati |
+<HI>{@tRc@}¦ tR--kartari kRt samudAyAntodAttaH | kaTasya karttA annasya bhoktA striyAM GIp |
+<HI>{@tRn@}¦ tR zIlAdyarthe kRt AdyudAttaH | kaTam karttA |
+<HI>{@tailac@}¦ taila snehArthe taddhitaH antodAttaH | tilatailam |
+<HI>{@tosun@}¦ tos tumarthe kRt avyayaH AdyudAttaH | Izvaro
+<>vicaritoH vicaritumIzvara ityarthaH |
+<HI>{@tna@}¦ tna bhavArthe taddhitaH | ciratnaH parutnaH |
+<HI>{@tnap@}¦ tna svArthe taddhitaH anudAttaH | nUtnaM pratnam |
+<HI>{@tyak@}¦ tya--bhavAdyarthe taddhitaH vRddhiH antodAttaH | dAkSiNAtyaH
+<>pAzcAttyaH |
+<HI>{@tyakan@}¦ tyaka AsannAdyarthe taddhitaH AdyudAttaH | upatyakA adhityakA
+<HI>{@tyap@}¦ tya--bhavAdyarthe taddhitaH anudAttaH | tatratyaH ihatyaH |
+<HI>{@tra@}¦ tra samUhArthe taddhitaH striyAm | gotrA |
+<HI>{@tral@}¦ tra saptamyAdyarthe taddhitaH avyayaH pUrbbodAttatA | yatra vutra | tatrabhavAn | [Page0021-b+ 38]
+<HI>{@trA@}¦ trA deyAdyarthe taddhitaH avyayaH | devAya deyaM karoti
+<>devatrAkaroti |
+<HI>{@tva@}¦ tva--bhAvakarmmArthe taddhitaH | devatvaM brAhmaNatvaM zubhratvam |
+<HI>{@tvan@}¦ tva kRtyArthe kRt AdyudAttaH | karttvam |
+<H>tha
+<HI>{@thakan@}¦ thaka--karttari kRt AdyudAttaH | gAthakaH |
+<HI>{@thaT@}¦ tha pUraNArthe taddhitaH striyAM GIp | pan~cathaH dazathaH |
+<HI>{@thamu@}¦ tham prakAre'rthe taddhitaH avyayaH | katham ittham |
+<HI>{@thA@}¦ thA prakAre'rthe taddhitaH avyayaH | yathA tathA sarvathA |
+<HI>{@thAl@}¦ thA ivArthe vede taddhitaH avyayaH pUrbbamudAttaH | pratnathA
+<>pUrbbathA |
+<HI>{@thuk@}¦ th AgamaH DaTaH antyAvayavaH | SaSThaH caturthaH katithaH |
+<HI>{@thyan@}¦ thya hitArthe taddhitaH AdyudAttaH | ajathyA yUthiH avithyA
+<H>da
+<HI>{@daghnac@}¦ daghna unmAne taddhitaH antodAttaH striyAM GIp | Uru-
+<>daghnaH gajadaghnaH |
+<HI>{@dA@}¦ dA kAle'rthe taddhitaH avyayaH | sarvadA tadA yadA |
+<HI>{@dAnIm@}¦ dAnIm kAle'rthe taddhitaH avyayaH | tadAnIm
+<>idAnIm |
+<HI>{@duk@}¦ d AgamaH antyAvayavaH | anyadAzIH anyadIyaH |
+<HI>{@dUsa@}¦ dUsa dugdhArthe taddhitaH | avidUsam (avidugdham) |
+<HI>{@dezIyar@}¦ dezIya ISadasamApte'rthe taddhitaH upottamodAttatA |
+<>paTudezIyaH |
+<HI>{@dezya@}¦ dezya ISadasamApte'rthe taddhitaH | paTudezyaH |
+<HI>{@dya@}¦ dya dine'rthe taddhitaH avyayaH | asmin dine adya |
+<HI>{@dyas@}¦ dyas dine'rthe taddhitaH avyayaH | samAne'hni sadyaH |
+<HI>{@dyus@}¦ dyus dine'rthe taddhitaH avyayaH | ubhaye dine ubhayadyuH |
+<HI>{@dvayasac@}¦ dvayasa unmAne taddhitaH antodAttaH striyAM GIp |
+<>Urudvayasam gajadvayasam |
+<H>dha
+<HI>{@dhamun~@}¦ dham prakAre'rthe taddhitaH avyayaH vRddhiH AdyudAttaH |
+<>dvaidham traidham | svArtheDe dvaidhaH |
+<HI>{@dhA@}¦ dhA kriyAprakAre'rthe taddhitaH avyayaH | caturddhA pan~cadhA
+<>pacati |
+<HI>{@dhunA@}¦ dhunA kAle'rthe taddhitaH avyayaH | asmin kAle adhunA |
+<HI>{@dheya@}¦ dheya svarUpArthe taddhitaH | nAmadheyaM bhAgadheyam |
+<HI>{@dhyamun~@}¦ dhyam prakAre taddhitaH vRddhiH AdyudAttatA avyayaH |
+<>aikadhyam | [Page0022-a+ 38]
+<H>na
+<HI>{@na@}¦ na matvarthe taddhitaH | pAmanaH aGganA jyotsnA | purA-
+<>Ne'rthe ca | praNam |
+<HI>{@naG@}¦ na bhAve kRt guNAbhAvAdi | yajn~aH praznaH yatnaH |
+<HI>{@najiG@}¦ naj zIlAdyarthe kRt guNAbhAvAdi | svapnak dhRSNak |
+<HI>{@nan@}¦ na bhAve kRt AdyudAttaH | svapnaH |
+<HI>{@nA@}¦ nA asahAyArthe pRthambhAve svArthe taddhitaH avyayaH | vinA |
+<HI>{@nAn~@}¦ nA asahAyArthe pRthagbhAve taddhitaH vRddhiH avyayaH Adyu-
+<>dAttaH | nAnA |
+<HI>{@nATac@}¦ nATa nAsikanatArthe taddhitaH antodAttaH | avanATam |
+<HI>{@ni@}¦ ni bhAve kRt striyAm | gnAniH hAniH |
+<HI>{@niG@}¦ ni samAsAntaH antAdezaH | yuvajAniH |
+<HI>{@nIg@}¦ nI AgamaH antyAvayavaH | vanIvan~cIti |
+<HI>{@nuk@}¦ n AgamaH antyAvayavaH | dhUnayati prINayati |
+<H>pa
+<HI>{@paTac@}¦ paTa--vistAre taddhitaH antodAttaH | avipaTaH |
+<HI>{@pAzap@}¦ pAza kutsitArtheta0 anudAttaH | bhiSakpAzaH |
+<HI>{@pin~ja@}¦ pin~ja niSphale'rthe taddhitaH | tilapin~jaH | vede tu Dit | tilpin~jaH |
+<HI>{@piTac@}¦ piTa--nAsikAnatArthe taddhitaH antodAttaH | cipiTam |
+<HI>{@puk@}¦ p AgamaH antyAvayavaH | sthApayati yApayati |
+<HI>{@peja@}¦ peja niSphale'rthe taddhitaH | tilapejaH |
+<H>pha
+<HI>{@phak@}¦ pha--Ayana apatyAdyarthe taddhitaH vRddhiH antodAttaH |
+<>nADAyanaH |
+<HI>{@phan~@}¦ pha--Ayana gotrArthe yuni taddhitaH vRddhiH AdyudAttaH striyAM GIp | vAtsyAyanaH AzvalAyanaH |
+<HI>{@phin~@}¦ phi--Ayani apatyAdyarthe taddhitaH vRddhiH AdyudAttaH |
+<>taikAyaniH |
+<HI>{@phin@}¦ phi--Ayani apatyArthe taddhitaH AdyudAttaH | glucukAyaniH |
+<H>ba
+<HI>{@ba(va)@}¦ ba(va) matvarthe taddhitaH | zaMbaH zambaH dantyava iti kaumudI-
+<>sammatam |
+<HI>{@ba(va)@}¦ huc ba(va)hu ISadasamApte'rthe taddhitaH antodAttaH | ba(va)huguD.aH |
+<H>bha
+<HI>{@bha@}¦ bha matvarthe taddhitaH | zambhaH kambhaH |
+<HI>{@bhaktal@}¦ bhakta caturarthyAm taddhitaH pUbbamudAttaH | aiSukAribhaktam |
+<HI>{@bhraTac@}¦ bhraTa--nAsikAnatArthe taddhitaH antodAttaH | avabhraTam |
+<H>ma
+<HI>{@ma@}¦ ma--bhavArthe matvarthe ca taddhitaH | AdimaH madhyamaH | drumaH | [Page0022-b+ 38]
+<HI>{@maT@}¦ ma DaT AgamaH AdyAvayavaH | pan~camaH dazamaH |
+<HI>{@maN@}¦ ma bhavArthe taddhitaH vRddhiH striyAM GIp | mAdhyamaH |
+<HI>{@matup@}¦ mat astyarthe taddhitaH striyAM GIp anudAttaH | agni-
+<>mAn zrImAn | akArAditastu masya vaH | dhanavAn lakSmI-
+<>vAn yazasvAn vidvAn |
+<HI>{@manin@}¦ man--zIlAdyarthe kartari kRt AdyudAttaH | suzarmmA |
+<HI>{@map@}¦ ma jAtArthekttripratyayAntAnnityaM map taddhitaH anudAttaH |
+<>paktrimam |
+<HI>{@mayaT@}¦ maya tadrUpavikAre prAcuryyArthe ca taddhitaH striyAM GIp |
+<>vAGmayaH yavamayI yavAgUH | annamayo yajn~aH |
+<HI>{@marIsac@}¦ marIsa--dugdhe'rthe taddhitaH antodAttaH | avisarIsam (avidugdham)
+<HI>{@mAtrac@}¦ mAtra pramANasAmAnye taddhitaH striyAM GIp antodAttaH |
+<>prasthamAtraH gajamAtram | kAtrsnye ca tAvanmAtram |
+<HI>{@mini@}¦ min matvarthe taddhitaH | gImI |
+<HI>{@mIya@}¦ mIya bhavArthe taddhitaH | madhyamIyaH |
+<HI>{@muk@}¦ m AgamaH antyAvayavaH | pavamAnaH |
+<HI>{@mum@}¦ m AgamaH khiti antyAvayavaH | rAtrin~caraH | stanandhayaH |
+<H>ya
+<HI>{@ya@}¦ ya bhAvAdyarthe kRt vede | niSTarkyaH devahUyaH | loke tu yat |
+<>samUhArthe taddhitaH striyAm | pAzyA vAtyA dhUmyA |
+<>sAdhvyarthe ca Dit | sabhyaH |
+<HI>{@yak@}¦ ya--dhAtvaMzapratyayaH | kaNDUyate | vikaraNaH | kriyate
+<>nUyate | bhAvakarmmAdyarthe taddhitaH vRddhiH antodAttaH | paura-
+<>hityam sainApatyam |
+<HI>{@yaG@}¦ ya paunaHpunyAdyarthe dhAtvaMzapratyayaH | Git AtmanepadaM
+<>guNabhAvAdi | bobhUyate cekrIyate |
+<HI>{@yan~@}¦ ya--apatyAdyarthe taddhitaH vRddhiH AdyudAttaH | gArgyaH vAtsyaH |
+<HI>{@yat@}¦ ya bhAvAdyarthe kRt svaritaH | bhavyaM bhavyaH, geyaM geyaH, ceyaM ceyaH |
+<HI>{@yal@}¦ ya--matvarthe taddhitaH pUrbbodAttaH | vezobhAgyaH yazobhAgyaH |
+<HI>{@yas@}¦ ya matvarthe taddhitaH sittvAt pUrbbasya padatvena anusvArAdi
+<>zaMyaH zaMMyyaH kaMyaH kaMMyyaH |
+<HI>{@yuk@}¦ y AgamaH antyAvayaH | AdAyi sthAyI dAyaH |
+<HI>{@yuc@}¦ yu--ana bhAvAdyarthe kRt samudAyAntodAttatA | susrANam duryAnam
+<HI>{@yus@}¦ yu matvarthe taddhitaH sittvAt pUrbbasya padatvena anusvArAdi
+<>zaMyuH zaMMyyuH kaMyuH kaMMyyuH | urNAyuH |
+<H>ra
+<HI>{@ra@}¦ ra matvarthAdau taddhitaH | kun~jaraH madhuraH | svArthe kuTIraH
+<>prakRtiliGgatA | [Page0023-a+ 38]
+<>zIlAdyarthe kRtpratyayaH | hiMsraH kamraH namraH |
+<HI>{@raN@}¦ ra zaraNe'rthe taddhitaH vRddhiH | agnIdh--AgnIdhram |
+<HI>{@radAnuk@}¦ radAnu kartari kRt | kRt--jIva--jIradAnuH |
+<HI>{@rik@}¦ ri AgamaH antAvayavaH | kR--carikarIti |
+<HI>{@riG@}¦ ri antAdezaH | kR--kriyate kriyA |
+<HI>{@ril@}¦ ri prathamAdyarthe taddhitaH avyayaH pUrbbodAttaH | upari |
+<HI>{@riSTAtil@}¦ riSTAt prathamAdyarthe taddhitaH pUrbbodAttaH | upariSTAt |
+<HI>{@rIk@}¦ rI AgamaH antAvayavaH | kR--carIkarIti |
+<HI>{@rIG@}¦ rI antAdezaH | mAtrIkaroti dhAtrIkaroti |
+<HI>{@ru@}¦ r AdezaH | hariH ahaH | ru zIlAdyarthe kRtpratyayaH | dAruH dhAruH |
+<HI>{@ruk@}¦ r AgamaH antAvayavaH | kR--carkarIti |
+<HI>{@ruT@}¦ r AgamaH AdyavayavaH | zI--zerate, sam + vid--saMvidrate |
+<HI>{@rUpap@}¦ rUpa--prAzastye taddhitaH anudAttaH | paTurUpaH pacatirUpam |
+<HI>{@rUpya@}¦ rUpya bhUtapUrbbasambandhAdyarthe taddhitaH | kRSNarUpyA gauH |
+<>bhavArthe--samarUpyaH |
+<HI>{@rhil@}¦ rhi saptamyarthe taddhitaH avyayaH pUrbbodAttaH | karhi tarhi |
+<H>la
+<HI>{@la@}¦ la cakSuHkledArthe taddhitaH na lit | cillaH cullaH piklaH |
+<HI>{@lac@}¦ la matvarthe taddhitaH antodAttaH | cUDAlaH mAMsalaH aMsalaH |
+<HI>{@lyap@}¦ ya AnantaryyArthe kRt avyayaH pUrbbodAttaH | prabhUya prakRtya |
+<HI>{@lyu@}¦ yu--ana kartari kRt pUrbbodAttaH | nandanaH vicakSaNaH |
+<HI>{@lyuT@}¦ yu--ana bhAvAdau kRt pUrbbodAttaH | bhavanam | striyAM
+<>GIp | pramANI |
+<H>va
+<HI>{@va@}¦ va matvarthe taddhitaH | kezavaH gANDi(NDI)vaH ajagavaH | zaMvaH
+<>zaMMvvaH kaumudImate valAdirayam na bazAdiH |
+<HI>{@vati@}¦ vat kriyAditulyArthe taddhitaH avyayaH | devadattavat
+<>pacati | rAmavat kRSNasya caritam gRhavat vane vasati |
+<HI>{@vatup@}¦ vat parimANArthe taddhitaH anudAttaH ugitkAryyam |
+<>yAvAn tAvAn | kimaH idamazca parasya vasya ghastasya iyaH |
+<>kiyAn iyAn |
+<HI>{@vanip@}¦ van bhUte kartari kRt anudAttaH | yajvA | striyAM GIp vasya razca | dhIvarI |
+<HI>{@vaya@}¦ vaya mAnArthe taddhitaH | druvayam |
+<HI>{@varac@}¦ vara zIlAdyarthe kRt samudAyAntodAttaH | sthAvaraH IzvaraH |
+<HI>{@valac@}¦ vala caturarthyAM matvarthe ca taddhitaH antodAttaH | zikhAvalaH |
+<>rajasvalA |
+<HI>{@vic@}¦ vi tasya lopaH kartari kRt samudAyAntodAttaH | upayaT usrapAH vizvapAH |
+<HI>{@viT@}¦ vi tasya lopaH kartari kRt | agregAH udadhikrAH | [Page0023-b+ 38]
+<HI>{@viDac@}¦ viDa saMhatArthe taddhitaH antodAttaH | niviDam |
+<HI>{@vidhal@}¦ vidha--viSayArthe taddhitaH pUrbbodAttaH | bhaurikividhaH |
+<HI>{@vini@}¦ vin matvarthe taddhitaH striyAM GIp | tejasvI payasvI |
+<HI>{@virIsac@}¦ virIsa saMhatArthe taddhitaH antodAttaH | nivirIsaH |
+<HI>{@vuk@}¦ vu aka bhavAdyarthe taddhitaH | kanthikam | v AgamaH
+<>antAvayavaH | bhU--abhUvan babhUva |
+<HI>{@vuc@}¦ vu--aka svArthe taddhitaH antodAttaH | upakaH (upendradattakaH)
+<HI>{@vun~@}¦ vu aka zIlAdyarthe kRt vRddhyAdi | nindakaH |
+<>hiMsakaH | sasUhArthe taddhitaH | auSTrakam aurabhrakam
+<>rAjanyakam rAjakam |
+<HI>{@vun@}¦ vu--aka sAdhukAryyarthe kRt AdyudAttaH | pravakaH sarakaH
+<>lavakaH | vedanAdikarttrarthe taddhitaH | padakaH kramakaH |
+<HI>{@vyat@}¦ vya--apatyArthe taddhitaH svaritaH | bhrAtRvyaH (bhrAtRputtraH) |
+<HI>{@vyan@}¦ vya sapatnArthe taddhitaH AdyudAttaH | bhrAtRvyaH (ripuH)
+<>bhrAtayyarthe taddhitaH | pitRvyaH (pitRbhrAtA) |
+<H>za
+<HI>{@za@}¦ a bhAve kRt striyAm | kR--kriyA | kartari kRt a |
+<>vida--vindaH | matvarthe taddhitaH na zit | romazaH lomazaH |
+<HI>{@zaGkaTac@}¦ zaGkaTa svArthe taddhitaH antodAttaH | vizaGkaTaH |
+<HI>{@zatR@}¦ at na guNAdi ugitkAryyam | pacantam vidan vidatI |
+<HI>{@zadhyai(n)@}¦ adhyai tumarthe kRt nittve AdyudAttaH | madayadhyai pibadhyai
+<HI>{@zas@}¦ zas vIpsAbodhake kArake taddhitaH avyayaH | bahuzo dadAti |
+<HI>{@zAkaTa@}¦ zAkaTa kSetre'rthe taddhitaH na zit | ikSuzAkaTam |
+<HI>{@zAkina@}¦ zAkina kSetre'rthe taddhitaH na zit | ikSuzAkinam |
+<HI>{@zAnac@}¦ Ana kartRkarmmAdau kRt samudAyAntodAttaH | pacamAnaH
+<>cIyamAnaH bhUyamAnam |
+<HI>{@zAnan@}¦ Ana zIlAdyarthe kartari kRt AdyudAttaH | pavamAnaH yajamAnaH |
+<HI>{@zAlac@}¦ zAla vaipulye taddhitaH antodAttaH | vizAlaH |
+<HI>{@ztip@}¦ ti dhAtusvarUpArthe kRt anudAttaH | bhavatiH bibharttiH |
+<H>Sa
+<HI>{@Sa@}¦ a samAsAntaH striyAM GIS | dvimUrddhaH trimUrddhaH |
+<HI>{@Sac@}¦ a samAsAntaH striyAM GIS antodAttaH | padmAkSaH dIrghasakthaH |
+<HI>{@SaDgavac@}¦ SaDgava pazuSaTkArthe taddhitaH antodAttaH |
+<>goSaDgavam mahiSaSaDgavam |
+<HI>{@SAkan@}¦ Aka--zIlAdyarthe kartari kRt striyAM GIS AdyudAttaH | varAkaH jalpAkaH |
+<HI>{@Sikan@}¦ ika adhyetarthyarthe taddhitaH AdyudAttaH striyAM GIS |
+<>zatapathikaH SaSTipathikaH |
+<HI>{@Suk@}¦ S AgamaH antAyavayavaH | jatu--jAtuSam trapu--trApuSam manu--bhAnuSam | [Page0024-a+ 38]
+<HI>{@Senyan@}¦ enya AdhAnArthe taddhitaH vRddhiH AdyudAttaH | sAmidhenyaH |
+<>striyAM GIS sAmidhenI Rk |
+<HI>{@Skan@}¦ ka gacchatItyarthe taddhitaH AdyudAttaH striyAM GIS | pathikaH |
+<HI>{@STrarac@}¦ tara alpArthe taddhitaH antodAttaH | ukSataraH | striyAM
+<>GIS vatsatarI |
+<HI>{@STran@}¦ tra karaNAdyarthe kRt AdyudAttaH | yotram | striyAM kvacit
+<>GIS | nadhrI | kvacinna | daMSTrA |
+<HI>{@SThac@}¦ Tha--ika garhyaM prayacchatItyarthe taddhitaH antodAttaH striyAM GIS | kusIdikaH |
+<HI>{@SThan@}¦ Tha--ika garhyaM prayacchatItyarthe taddhitaH AdyudAttaH striyAM
+<>GIS | kusIdikaH | caratItyarthe ca | parpikaH |
+<HI>{@SThal@}¦ Tha--ika caratItyAdyarthe taddhitaH pUrbbamudAttam striyAM GIS | AkarSikaH |
+<HI>{@Spha@}¦ pha--Ayana yan~antAt taddhitaH striyAM GIS | kAtyAyanI
+<>kauravyAyaNI |
+<HI>{@Sphak@}¦ pha--Ayana bhavAdyarthe taddhitaH vRddhiH striyAM GIS antodAttaH | kApizAyanaH |
+<HI>{@SyaG@}¦ vya--gotrArthe taddhitaH Sittve'pi yaGazcAp | kroDyA vAvarAhyA |
+<HI>{@Syan~@}¦ ya bhAvakarmmAdau taddhitaH vRddhiH AdyudAttaH | cAturyyam |
+<>striyAM GIS | cAturI |
+<HI>{@Slan~@}¦ la vikArAdyarthe taddhitaH vRddhiH striyAM GIS | zAmIlam |
+<HI>{@Svun@}¦ va--aka kartari kRt AdyudAttaH striyAM GIS |
+<>varttakaH rajakaH |
+<H>sa
+<HI>{@sa@}¦ sa caturthyAM taddhitaH | tRNasaH parNasaH | prAzastye taddhitaH |
+<>mRtsA |
+<HI>{@saN@}¦ a samUhArthe taddhitaH vRddhiH sittvAt na bhatvam | pArzvam
+<>(parazusaMghaH) | saNa ityasya sakArasya ittvAprasakteH
+<>vArttikakRtA tatparivarttanena Nas iti paThitam |
+<HI>{@san@}¦ sa icchArthe dhAtvaMzapratyayaH | kR--cikIrSati, gam--jiga-
+<>miSati |
+<HI>{@samasaN@}¦ samas vatsarArthe taddhitaH vRddhiH avyayaH | aiSamaH |
+<HI>{@sAti@}¦ sAt kAtrsnyena sampannAdyarthe taddhitaH avyayaH | agnisAt-
+<>karoti |
+<HI>{@suk@}¦ s AgamaH antAvayavaH | dadhisyati |
+<HI>{@suc@}¦ s kriyAvRttigaNane taddhitaH avyayaH antodAttaH | dviratti triHpacati |
+<HI>{@se(n)@}¦ se tumarthe kRt nittve AdyudAttaH | vakSe vaktumityarthaH |
+<HI>{@soDha@}¦ soDha dugdhArthe taddhitaH | avisoDham (avidugdham) |
+<HI>{@skandhac@}¦ skandha samUhArthe taddhitaH antodAttaH | gajaskandhaH |
+<HI>{@sna@}¦ sna prAzastye taddhitaH | mRtsnA |
+<HI>{@snan~a@}¦ sna apatyAdyarthe taddhitaH vRddhiH AdyudAttaH | pauMsnaH | [Page0024-b+ 34]
+<H>ha
+<HI>{@ha@}¦ ha saptamyarthe taddhitaH avyayaH | asmin iha, kasmin kuha |
+<>vibhaktisvarUpAdikaM tu prasiddhatvAnna pradarzitam |
+<>iti pANinIyapratyayAdipariniSThita-
+<>rUpAdivivaraNam |
+<H>athAkArAdikrameNa uNAdipratyayapariniSThita-
+<>rUpAdivivaraNam |
+<H>a
+<HI>{@a@}¦ a | ripha--rephaH (kutsitaH) |
+<HI>{@aknuc@}¦ aknu samudAyantodAttaH | vaca--vacaknuH | (vipraH vAgmI ca)
+<HI>{@aGgac@}¦ aGgaH samudAyAntodAttaH | pata--pattaGgaH tRR--taraGgaH |
+<>viDAdibhyaH tasya kittvaM tena na guNaH | viD.aGgaH mRdaGgaH |
+<>kRR--uttve kuraGgaH | zRRvRn~bhyAM Nittvam | zAraGgaH vAraGgaH |
+<HI>{@ac@}¦ a samudAyAntodAttaH | ud + R--udaram |
+<HI>{@aca@}¦ aca | ku--kavacam |
+<HI>{@aji@}¦ aj | pAri + aji--pArak (suvarNam) | prathaH kittva saMprasAraNaM ca | pRthak |
+<HI>{@aTac@}¦ aTa samudAyAntodAttaH | bhR--bharaTaH |
+<HI>{@aTan@}¦ aTa AdyudAttaH | zaka--zakaTaH, kaki--kaGkaTaH |
+<HI>{@aTi@}¦ aT | sR--saraT |
+<HI>{@aTha@}¦ aTha | kama--kamaThaH jR--jaraThaH | rama--vRddhiH | rAmaTham |
+<HI>{@aNDac@}¦ aNDa samudAyAntodAttaH | kR--karaNDaH bhR--bharaNDaH |
+<HI>{@atac@}¦ ata samudAyAntodAttaH | bhR--bharataH, mR--marata ityAdi |
+<HI>{@ati@}¦ at zatRvat ugitkAryyam | pRS--pRSanti | maha-
+<>mahAn mahatI vRha--vRhan vRhatI |
+<HI>{@ati@}¦ ati | ama--amatiH rama--ramatiH |
+<HI>{@atran@}¦ atra AdyudAttaH | ama--amatram, yaja--yajatrA |
+<HI>{@atrin@}¦ atri nit AdyudAttaH | pata--patatriH |
+<HI>{@atha@}¦ atha | zI--zayathaH zapa--zapathaH rapa--rapatha ityAdi |
+<HI>{@adi@}¦ ad | zR--zarad dR--darad bhasa--bhasad | tyajAdeH tasya
+<>Dittvam | tyaja--tyad tana--tat yaja--yad sarvvanAma |
+<HI>{@an@}¦ a nit AdyudAttaH | kliza--lalopaH kezaH |
+<HI>{@ani@}¦ ani striyAm | R--araNiH sR--saraNiH dhR--dharaNiH grahagrahaNiH
+<HI>{@anuG@}¦ an guNAbhAvAdi | nada--nadanuH kSipa--kSipnuH |
+<HI>{@anya@}¦ anya | rAja--rAjanyaH (vahniH) | zR--zaraNyam rama--ramaNyam | [Page0025-a+ 38]
+<HI>{@anyuc@}¦ anyu samudAyAntodAttaH | sR--saraNyuH (meghaH vAtazca) |
+<HI>{@apa@}¦ apa | sR--Suk ca sarSapaH |
+<HI>{@abhac@}¦ abha samudAyAntodAttaH | kRR--karabhaH zRR--zarabha ityAdi |
+<HI>{@ama@}¦ ama | kala--kalamaH kardda--karddamaH ava--avamaH adha--adhamaH |
+<HI>{@amac@}¦ ama samudAyAntodAttaH | pratha--prathamaH cara--caramaH |
+<HI>{@ambac@}¦ amba samudAyAntodAttaH | kR--karambaH kada--kadambaH |
+<HI>{@ayu(yU)@}¦ ayu(yU) | sR--sarayuH sarasUrvA |
+<HI>{@ara(c)@}¦ ara | R--araras Rccha--RccharA jarja--jarjaraH | cittve
+<>sarvvAntodAttaH | ava--avaraH |
+<HI>{@aran@}¦ ara AdyudAttaH | pra + A + ata--prAtaH | amaH tuTca antaH |
+<HI>{@aru@}¦ aru | R--araruH |
+<HI>{@al@}¦ a pUrbbodAttaH | ud + R--udaram |
+<HI>{@alac@}¦ ala samudAyAntodAttaH | magi--maGgalam |
+<HI>{@alic@}¦ ali samudAyAntodAttaH | an~ja--an~jaliH |
+<HI>{@avaka@}¦ avaka | sthA--tAdezaH kittvaM ca stavakaH |
+<HI>{@asa@}¦ asa | arpi--arpasaH (agramAMsam) |
+<HI>{@asac@}¦ asa samudAyAntodAttaH | ata--atasaH cama--camasaH |
+<HI>{@asAnac@}¦ asAna samudAyAntodAttaH | zRR--zarasAnaH jR--jarasAnaH
+<HI>{@asi@}¦ as | su + tapa--sutapAH, jAta + vida--jAtavedAH |
+<HI>{@asi@}¦ asi | sana--sAnasiH ni0 vRddhiH | vR--nuk varNasiH |
+<HI>{@asun@}¦ as AdyudAttaH | cita--cetaH sR--saraH tapa--tapaH |
+<H>A
+<HI>{@A@}¦ A avyayaH | vi + so--viSA (buddhiH) | vi + hA--vihA
+<>(svargaH) |
+<HI>{@Aka@}¦ Aka | khaja--khajAkA vala--valAkA zala--zalAkA patapatAkA |
+<HI>{@AgUc@}¦ AgU samudAyAntodAttaH | yu--yavAgUH |
+<HI>{@ANaka@}¦ ANaka | lU--lavANakaH dhU--dhavANakaH |
+<HI>{@Atu@}¦ Atu | jIva--jIvAtuH |
+<HI>{@AtRkan@}¦ AtRka AdyudAttaH | jIva--ni0 vRddhiH jaivAtRkaH |
+<HI>{@Anaka@}¦ Anaka | zI--zayAnakaH bhI--bhayAnakaH |
+<HI>{@Anac@}¦ Ana samudAyAntodAttaH | sam + stu + saMstavAnaH |
+<>sudha--kit sudhAnaH, evaM ludha--ludhAnaH budha--budhAnaH |
+<HI>{@Anuk@}¦ Anu guNAbhAvaH | kRza--kRzAnuH |
+<HI>{@Anya@}¦ Anya | vada--vadAnyaH |
+<HI>{@Ayya@}¦ Ayya | spRhi--spRhayAyyaH |
+<HI>{@Aran@}¦ Ara Adya dAttaH | agi--aGgAram, mada--madAraH |
+<HI>{@Ala@}¦ Ala | mavya--yalopaH vasya lAdeze marAlaH |
+<HI>{@Alac@}¦ Ala samudAyAntodAttaH | sthA--sthAlaM sthAlI | [Page0025-b+ 38]
+<HI>{@Anan~@}¦ Ana vRddhiH AdyudAttaH | cata--vAgamaH cAtyAlaH
+<>pata--pAtAlam caDi--caNDAlaH |
+<HI>{@AlIyac@}¦ AlIya samudAyAntodAttaH | mRja--mArjAlIyaH |
+<HI>{@Asa@}¦ Asa | yu--yavAsaH (durAlabhA) |
+<HI>{@Asi@}¦ As | iNa--ayAH avyayaH | (vahniH) |
+<H>i
+<HI>{@i@}¦ i | ru--raviH ku--kaviH pu--paviH R--ariH kRR--kicca |
+<>kiriH, evaM gRR--giriH |
+<HI>{@ikan@}¦ ika AdyudAttaH | krI krayikaH | A + paNa--A-
+<>paNikaH | A + pata--ApatikaH |
+<HI>{@iji@}¦ ij | paNa--pasyabAdezaH baNik | vaza--kit uzik |
+<HI>{@in~@}¦ i vRddhiH AdyudAttaH striyAM vA GIp | vapa vApiH
+<>vApI | yaja--yAjiH yAjI | vasa--vAsiH vAsI |
+<HI>{@iN@}¦ i vRddhiH | jana--janiH aja--AjiH ata--AtiH |
+<HI>{@ita@}¦ ita | kusa--kusitaH (janapadaH) |
+<HI>{@itac@}¦ ita prakRtipratyayasamudAyAntodAttaH | phalaH phasyapAdezaH palitam |
+<HI>{@itan@}¦ ita AdyudAttaH | hR--haritaH zyai--zyetaH |
+<HI>{@iti@}¦ it | sR--sarit hR--harit ruha--rohit yuSa--yoSit |
+<HI>{@itnuc@}¦ itnu--samudAyAntodAttaH | stani--stanayitnuH |
+<HI>{@itra@}¦ itra | aza--azitram vaha--vahitram dhR--dharitrI |
+<HI>{@itvan@}¦ itva AdyudAttaH | jana--janitvaH |
+<HI>{@ithin@}¦ ithi AdyudAttaH | ata--atithiH |
+<HI>{@in@}¦ i AdyudAttaH | paca--paciH bala--baliH yaja--yajiH |
+<HI>{@inac@}¦ ina samudAyAntodAttaH | zyai--zyenaH, hR--hariNaH,
+<>styai--styenaH, ava--avinaH |
+<HI>{@inaN@}¦ ina vRddhiH | maha--mAhinam |
+<HI>{@inan@}¦ ina AdyudAttaH | dru--draviNam dakSa--dakSiNaH--dakSiNA |
+<HI>{@ini@}¦ in | gama--gamI | AGi Nit | AgAmI |
+<HI>{@imanic@}¦ iman samudAyAntodAttaH | hR--harimA sR--sarimA dhR--dharimA |
+<HI>{@imanin@}¦ iman AdyudAttaH | jana--janimA bhR--bharimA |
+<HI>{@ilac@}¦ ila--samudAyAntodAttaH | sala--salilam kala--kalilam
+<HI>{@i(STa)SThac@}¦ i(STa)STha samudAyAntodAttaH | an~ja--an~ji(STaH)SThaH |
+<HI>{@iSNuc@}¦ iSNu--samudAyAntodAttaH | gai--geSNuH dA--deSNuH |
+<HI>{@isan@}¦ isa AdyudAttaH | arpi--arpisaH (agramAMsam) |
+<HI>{@isi@}¦ is | arca--arciH zuca--zociH hu--haviH sRpa--sarpiH |
+<HI>{@isin@}¦ isa AdyudAttaH | dyuta AderjaH jyotiH |
+<H>I
+<HI>{@I@}¦ I | ava--avIH tRR--tarIH stRR--starIH tantri--tantrIH | [Page0026-a+ 38]
+<HI>{@Ikan@}¦ Ika AdyudAttaH | kaSa--kaSIkA, dUSi--dUSIkA |
+<HI>{@Ici@}¦ Ici | mR--marIciH kaNa--kaNIciH |
+<HI>{@Ida@}¦ Ida | kusa--kusIdam |
+<HI>{@Imanic@}¦ Iman samudAyAntodAttaH | hR--harImA sR--sarImA dhR--dharImA |
+<HI>{@Iraca(n)@}¦ Ira cittve samudAyAntodAttaH nittve AdyudAttaH |
+<>hiMsIraH |
+<HI>{@Iran@}¦ Ira--AdyudAttaH | kRR--karIraH zRR--zarIram pRR--parIram (phalam) |
+<HI>{@ISan@}¦ ISa AdyudAttaH | kRR--karISam tRR--tarISaH |
+<H>u
+<HI>{@u@}¦ u | bhR--bharuH zI--zayuH mR--maruH tRR--taruH cara--caruH |
+<HI>{@ukan@}¦ uka AdyudAttaH | sam + kasa--saGkasukaH |
+<HI>{@uDac@}¦ uDa samudAyAntodAttaH | gRR--garuD.aH |
+<HI>{@uN@}¦ u vRddhyAdi | kR--kAruH pA--pAyuH vA--vAyuH svada--svAduH |
+<HI>{@uti@}¦ ut | mR--marut gRR--garut |
+<HI>{@utra@}¦ utra | trai--trotram vR--varutram |
+<HI>{@una@}¦ una | zaka--zakunaH |
+<HI>{@unan@}¦ una AdyudAttaH | kRR--karuNaH karuNA | vR--varuNaH, dAri--dAruNaH |
+<HI>{@unasi@}¦ unas | dama--damunAH |
+<HI>{@uni@}¦ uni | zaka--zakuniH |
+<HI>{@unta@}¦ unta | zaka--zakuntaH |
+<HI>{@unti@}¦ unti | zaka--zakuntiH |
+<HI>{@uma@}¦ uma | kusa--kusumam |
+<HI>{@umbha@}¦ umbha | kusa--kusumbham |
+<HI>{@urac@}¦ ura samudAyAntodAttaH | manda--mandurA, matha--mathurA, cata--caturaH |
+<HI>{@uran@}¦ ura AdyudAttaH | asa--asuraH, masa--masurA |
+<HI>{@urin@}¦ uri AdyudAttaH | jasa--jasuriH saha--sahuriH |
+<HI>{@ula@}¦ ula | taDi--taNDulaH |
+<HI>{@ulac@}¦ ula samudAyAntodAttaH | harSa--harSulaH caTa--caTulaH |
+<HI>{@ulan@}¦ ula AdyudAttaH | vR--varuNaH tADi--taNDAdezaH taNDulaH |
+<HI>{@uli@}¦ uli | agi--aGguliH |
+<HI>{@uzac@}¦ uza samudAyAntodAttaH | aki--aGkuzaH |
+<HI>{@uSaca@}¦ uSa samudAyAntodAttaH | pRR--paruSaH naha--nahuSaH kala--kaluSaH |
+<HI>{@u(U)Sana@}¦ u(U)Sa AdyudAttaH | R--aru(rU)SaH |
+<HI>{@usi@}¦ usa | jana--januH | asya ni0 udantatvamapi |
+<HI>{@usin@}¦ us AdyudAttaH | R--aruH, pR--paruH, vapa--vapuH |
+<H>U
+<HI>{@U@}¦ U | kRSa--karSUH cama--camUH tana--tanUH |
+<HI>{@Uka@}¦ Uka | mR--marUkaH, vala--valUkaH maDi--maNDukaH | [Page0026-b+ 38]
+<HI>{@UkaN@}¦ Uka vRddhyAdi | kANa--kaNUkaH, zala--zAlUkam,
+<HI>{@Ukha@}¦ Ukha | mA--mayAdezaH mayUkhaH |
+<HI>{@Uthan@}¦ Utha AdyudAttaH | jRR--jarUtham, vR--varUthaH |
+<HI>{@Uma@}¦ Uma | gudha--godhUmaH |
+<HI>{@Ura@}¦ Ura | kharjja--kharjjUraH, vRpi--karpUraH, vallaM--vallUram |
+<HI>{@Uran@}¦ Ura AdyudAttaH | mI--mayUraH | syanda--samprasAraNam
+<>sindUram | masa--masUrA |
+<HI>{@Ulac@}¦ Ula samudAyAntodAttaH | piji--pin~jUlam, kusa-
+<>kusUlaH |
+<H>R
+<HI>{@R@}¦ R | diva--devA devarau |
+<HI>{@Rtin@}¦ Rt AdyudAttaH | zaka--zakRt |
+<HI>{@Rn@}¦ R AdyudAttaH | su + asa--svasA svasArau | na + nanda--nanandA nanandarau |
+<H>e
+<HI>{@eNu@}¦ eNu | kRR--kareNuH, hR--hareNuH |
+<HI>{@enya@}¦ enya | vR--vareNyaH |
+<HI>{@erak@}¦ era guNAbhAvAdi | pata--pateraH, kuTha--kuTheraH, guDa--guDeraH |
+<HI>{@elimac@}¦ elima samudAyAntodAttaH | paca--pacelimaH |
+<HI>{@eSNuk@}¦ eSNu guNAbhAvAdi | gai--geSNuH |
+<H>o
+<HI>{@otac@}¦ ota samudAyAntodAttaH | kavaH pAdezaH kapotaH |
+<HI>{@olac@}¦ ola samudAyAntodAttaH | paTa--patolaH | kapi-
+<>nalopaH kapolam |
+<HI>{@oran@}¦ ora AdyudAttaH | kaTha--kaThoraH, caka--cakoraH |
+<H>ka
+<HI>{@ka@}¦ a guNAbhAvAdi | sru--sruvaH | vi + A + ghrA--vyAghraH |
+<HI>{@ka@}¦ ka vakAraprazleSAt na kit | kR--karka rA--rAkA kala--kalkaH |
+<HI>{@kak@}¦ ka antakittvena nAdeH kittvam | vR--vRkaH, bhU--bhUkaH |
+<HI>{@kaGkaNa@}¦ kaGkaNa vakAraprazleSAt na kit | mRDa--mRDaGgaNaH (zizuH)
+<HI>{@kaNa@}¦ kaNa vaprazleSAt na kit | cita--kAntAdezaH guNAbhAvazca
+<>ni0 cikkaNaH |
+<HI>{@katu@}¦ atu guNAbhAvAdi | kR--kratuH |
+<HI>{@katnic@}¦ atni guNAbhAvodi samudAyAntodAttaH | R--ratniH (baddhamuSTikaraH) |
+<HI>{@katran@}¦ atra guNAbhAvAdi AdyudAttaH | su + vida--suvidatram |
+<HI>{@kan@}¦ a guNAbhAvAdi AdyudAttaH | kliza--ni0 kInAzaH |
+<HI>{@kan@}¦ ka vaprazleSAt na kit AdyudAttaH | iNa--ekaH bhI--bhekaH
+<HI>{@kanasi@}¦ anas guNAbhAvAdi | vaza--uzanAH |
+<HI>{@kanin@}¦ an guNAbhAvAdi AdyudAttaH | yu--yuvA, vRSa--vaSA | [Page0027-a+ 38]
+<HI>{@kanyan@}¦ anya kit AdyudAttaH | haryya--hirAdezaH hiraNyam |
+<HI>{@kanyuc@}¦ anyu guNAbhAvAdi samudAyAntodAttaH | kSipa--kSipaNyuH
+<HI>{@kapa@}¦ apa guNAbhAvAdi | kvaNa--saMprasAraNaM kuNapaH (zavaH) |
+<HI>{@kapan@}¦ apa guNAbhAvAdi AdyudAttaH | uSa--uSapaH kuTa--kuTapaH |
+<HI>{@kamin@}¦ am kit AdyudAttaH | idi--nalopaH, idam sarvvanAma
+<HI>{@kayan@}¦ aya guNAbhAvAdi AdyudAttaH | tana--tanayaH |
+<HI>{@karan@}¦ kara na kit AdyudAttaH | zR--zarkarA |
+<HI>{@kala@}¦ ala guNAbhAvAdi | tRpa--tRpalA, tRpha--tRphalA |
+<HI>{@kalan@}¦ kala na kit AdyudAttaH | puSa--puSkalaH |
+<HI>{@kAku@}¦ Aku guNAbhAvAdi | kaTa--kaTAkuH kuSa--kuSAkuH (sUryyaH) |
+<HI>{@kAlan@}¦ Ala guNAbhAvAdi AdyudAttaH | viDa--viDAlaH |
+<HI>{@kikan@}¦ ika kit AdyudAttaH | vrazca--vRzcikaH kRSa--kRSikaH |
+<HI>{@kitac@}¦ ita kit samudAyAntodAttaH | ruca--rucitaM vaca-
+<>ucitam |
+<HI>{@kindac@}¦ inda kit samudAyAntodAttaH | kula--kulindaH pula--pulindaH |
+<HI>{@kirac@}¦ ira kit samudAyAntodAttaH | iSa--iSiraH |
+<HI>{@kiSyan@}¦ iSya kit AdyudAttaH | ruca--ruciSpaH bhuja--bhujiSyA |
+<HI>{@kIkan@}¦ Ika kit AdyudAttaH | Rja--RjIkaH mRD.a--mRD.IkaH |
+<HI>{@kITan@}¦ ITa kit AdyudAttaH | kR--kirITaM tR--tirITam |
+<HI>{@ku@}¦ u guNAbhAvAdi | pRR--puruH bhida--bhiduH vyadha--vidhuH |
+<HI>{@kuk@}¦ ku antyakittvAnnAdikittvam | hrI--hrIkuH |
+<HI>{@kukan@}¦ uka guNAbhAvAdi AdyudAttaH | pratha--saMmprasAraNam pRthukaH
+<HI>{@kuSan@}¦ uSa guNAbhAvAdi AdyudAttaH | pRR--puruSaH |
+<HI>{@kU@}¦ U guNAbhAvAdi | nRta--nRtUH zRdha--zRdhUH |
+<HI>{@keyya@}¦ eyya guNAbhAvAdi | stu stuveyyaH (veda evAyam) |
+<HI>{@kta@}¦ ta guNAbhAvAdi | aka--aktaH ghR--ghRtam sR--sRtam |
+<HI>{@ktnu@}¦ tnu guNAbhAvAdi | kR--kRtnuH hana--hatnuH |
+<HI>{@ktra@}¦ tra guNAbhAvAdi | ama--antraM ci--citraM mida--mittram |
+<HI>{@kthan@}¦ tha guNAbhAvAdi AdyudAttaH | hana--hathaH kuSa--kuSThaH |
+<HI>{@kthin@}¦ thi guNAbhAvAdi AdyudAttaH | asa--asthi saka--sakthi
+<HI>{@kna@}¦ na guNAbhAvAdi | tRha--halopaH tRNam |
+<HI>{@knin@}¦ ni kit striyAM AdyudAttaH na GIp | sR--sRNiH | lU--lUniH |
+<HI>{@kmalan@}¦ mala kit AdyudAttaH | kuTa--kuThmalam kaSa--kaSmalam |
+<HI>{@kyu@}¦ yu--ana guNAbhAvAdi | kRR--kiraNaH pRR--puraNaH |
+<HI>{@kyuc@}¦ yu--ana guNAbhAvAdi AdyudAttaH | R--ut uraNaH |
+<HI>{@kyun@}¦ yu--ana guNAbhAvAdi samudAyAntodAttaH | bhU--bhuvanam |
+<HI>{@kran@}¦ ra kit AdyudAttaH | su--suraH sU--sUraH dhA--dhIraH |
+<HI>{@krarac@}¦ rara guNAbhAvAdi samudAyAntodAttaH | ku--kuraraH | [Page0027-b+ 38]
+<HI>{@kri@}¦ ri guNAbhAvAdi | sU--sUriH |
+<HI>{@krin@}¦ ri guNAbhAvAdi AdyudAttaH | ada--adriH bhU--bhUriH |
+<>zubha--zubhriH |
+<HI>{@krukan@}¦ ruka guNAbhAvAdi AdyudAttaH | bhI--bhIrukaH |
+<HI>{@krun@}¦ ru guNAbhAvAdi AdyudAttaH | ru--ruruH zAti--hrasvaH | zatruH |
+<HI>{@kla@}¦ la guNAbhAvAdi | mU--mUlam zaka--zaklaH ama--amlaH |
+<HI>{@kvana@}¦ va guNAbhAvAdi AdyudAttaH | aza--azvaH pruSa--pruSvaH |
+<HI>{@kvanip@}¦ van guNAbhAvaH anudAttaH | zI--zIvA kruza--kruzvA |
+<HI>{@kvin@}¦ vi, ikArAsyAnunAsikatvAbhAvAnna lopaH | kR--kIrviH
+<>gRR--gIrviH jAgR--jAgRviH |
+<HI>{@kvip@}¦ vi tasya lopaH anudAttaH kit | vaca--dIrghaH vAk |
+<HI>{@kvun@}¦ vu--aka kit AdyudAttaH | cara--carakaH |
+<HI>{@ksaran@}¦ sara kit AdyudAttaH | tana--tasaraH, RSa--RkSaraH |
+<HI>{@ksi@}¦ si guNAbhAvAdi | pluSa--plukSiH, kuSa--kukSiH, zuSa--zukSiH
+<HI>{@ksu@}¦ su guNAbhAvAdi | iSa--ikSuH |
+<HI>{@ksna@}¦ sna guNAbhAvAdi | kRt--kRtsnam, aza--akSNam |
+<H>kha
+<HI>{@kha@}¦ kha vakAraprazleSAt na khit | zama--zaGkhaH muha--murAdeze mUrkhaH |
+<H>ga
+<HI>{@ga@}¦ ga vakAraprazleSAt na git | gRR--gargaH |
+<HI>{@gak@}¦ ga vakAraprazleSAt na git guNAbhAvAdi | muda--mudgaH |
+<HI>{@gaN@}¦ ga vakAraprazleSAt na git vRddhyAdi | zRR--nuT zArGgaH |
+<HI>{@gan@}¦ ga vakAraprazleSAt na git AdyudAttaH | gama--gaGgA |
+<H>gha
+<HI>{@ghathin@}¦ athi kutvam AdyudAttaH | ni + sanja + niSaGgathiH |
+<H>ca
+<HI>{@caT@}¦ ca vaprazleSAnna cit striyAM GIp | ku--dIrghaH kUcI |
+<HI>{@catu@}¦ atu samudAyAntodAttaH | edha--edhatuH, vaha--vahatuH |
+<HI>{@cik@}¦ c vakAraprazleSAt na cit guNAbhAvAdi | sru--sruk srucau
+<H>jha
+<HI>{@jhac@}¦ jha--anta samudAyAntodAttaH | jR--jarantaH viza--vezantaH |
+<HI>{@jhic@}¦ jhi anti tena na jhit samudAyAntodAttaH | bhU--bhavantiH |
+<H>n~a
+<HI>{@n~un@}¦ u vRddhyAdiH AdyudAttaH | dRR--dAru, sana--sAnu |
+<H>Ta
+<HI>{@Ta(n)@}¦ a striyAM GIp | nittve AdyudAttaH | danza--nasya
+<>A dAzaH, dansa--dAsaH |
+<HI>{@TiSac@}¦ iSa samudAyAntodAttaH striyAM GIp | ava--aviSaH maha--mahiSaH | [Page0028-a+ 38]
+<H>Tha
+<HI>{@Tha@}¦ Ta vaprazleSAt na Thit | kaNa--kaNThaH |
+<H>Da
+<HI>{@Da@}¦ a abhatve'pi TilopaH | UrNu--UrNNA |
+<HI>{@Da@}¦ Da vaprazleSAt na Dit | kuNa--kuNDam, gu--guD.aH |
+<HI>{@Dau@}¦ au abhatve'pi TilopaH | tana--sanvat titauH Dau
+<>ityasandhinirddezAnna sandhiH |
+<HI>{@DaTa@}¦ aTa abhatve'pi TilopaH | nama--naTaH |
+<HI>{@Dati@}¦ ati abhatve'pi TilopaH | pA--patiH |
+<HI>{@Davatup@}¦ avatu TilopaH ugitkAryyam anudAttaH | bhA--bhavAn bhavatI |
+<HI>{@Dimi@}¦ im TilopaH | kai--kim | asya idamazca mAntatvena
+<>kRnmejantaityavyayatvaprasaGge'pi cviravyayamiti niyamAduNAdau
+<>cvipratyayAntatve evAvyayatvaM nAnyathA |
+<HI>{@Dutac@}¦ uta TilopaH samudAyAntodAttaH | ad + bhU--adbhutam |
+<HI>{@Dun@}¦ u TilopaH AdyudAttaH | zman + zrI--zmazruH, na + zrI
+<>azruH |
+<HI>{@Dumsun@}¦ ums TilopaH AdyudAttaH | pA--pumAn, puMsaH | vArttike'pyayaM pratyayaH |
+<HI>{@D@}¦ U TilopaH | bhrama--bhrUH |
+<HI>{@Dai@}¦ ai TilopaH | rA--rai--rAH rAyau | yathA nAvyayatvaM tathoktaM Dimipratyaye |
+<HI>{@Daisi@}¦ ais TilopaH | ud + ci--uccaiH ni--dIrghaH nIcaiH |
+<HI>{@Do@}¦ o TilopaH | gama--go--gauH, gavA | nAvyayatvamuktam |
+<HI>{@Dosi@}¦ os TilopaH | dam--doH doSau doSaH |
+<HI>{@Dau@}¦ au TilopaH | glai--glauH nuda--nauH nAvyayatvamuktam |
+<HI>{@DraT@}¦ ra TilopaH striyAM GIp | stai--strI |
+<HI>{@Di@}¦ ri TilopaH | tRR--tri--trayaH |
+<H>Dha
+<HI>{@Dha@}¦ Dha vaprazleSAt na Dhit | zama--zaNDhaH |
+<H>Na
+<HI>{@Nitran@}¦ itra vRddhiH AdyudAttaH | bhU--bhAvitraM vada--vAditram |
+<HI>{@Nu@}¦ Nu vaprazleSAnna Nit | sthA--sthANuH aja--veNuH vR--varNNuH
+<HI>{@Nukan@}¦ uka vRddhyAdi AdyudAttaH | paca--kAdeze pAkukaH |
+<HI>{@Nya@}¦ Nya vaprazleSAt na Nit | dhRSa akArasya ittvaM dhiSyam |
+<H>ta
+<HI>{@ta@}¦ ta | lI--puT hrasvaH liptam (zliSTam) |
+<HI>{@takan@}¦ taka AdyudAttaH | iSa--iSTakA, aza--aSTakA |
+<HI>{@tan@}¦ ta AdyudAttaH | hasa--hastaH, mR--marttaH, gRR--garttaH |
+<HI>{@tanan@}¦ tana AdyudAttaH | vI--vetanam |
+<HI>{@tazan@}¦ taza AdyudAttaH | iNa--etazaH (brAhmaNaH) | [Page0028-b+ 38]
+<HI>{@tazasun@}¦ tazas AdyudAttaH | iNa--etazAH (vipraH) |
+<HI>{@ti@}¦ ti | vi + tasa--vitastiH su + asa--svasti svarAdiH |
+<>sUtrapAThe svastItinirddezAt na bhUbhAvaH |
+<HI>{@tikan@}¦ tika AdyudAttaH | vRta--vartikA | kRta--kittvam--kRttikA |
+<HI>{@tu@}¦ tu | kama--kantuH jana--jantuH gai--gAtuH hi--hetuH |
+<HI>{@tun@}¦ tu AdyudAttaH | si--setuH--tana--tantuH mana--mantuH |
+<HI>{@tRc@}¦ tR samudAyAntodAttaH | kSada--kSattA man--mantA |
+<HI>{@tRn@}¦ tR AdyudAttaH | zaMsa--zaMstA |
+<HI>{@tnaN@}¦ tna vRddhyAdi | cyu--cyautnaH | (aNDajaH, kSINapuNyazca |
+<HI>{@tyuk@}¦ tyu--guNAbhAvAdi | mR--mRtyuH |
+<HI>{@tra@}¦ tra | gu--gotraM gotrA | vaca--vaktraM yama--yantram |
+<HI>{@tran@}¦ tra AdyudAttaH | hu--hotram yA--yAtrA zru--zrotram |
+<HI>{@trin@}¦ tri AdyudAttaH | ada--attriH |
+<HI>{@trin@}¦ trin AdyudAttaH niccetyukteH na nit | ada--attrI
+<>attriNau |
+<HI>{@trip@}¦ tri--anudAttaH | rA--rAtriH zada--zattriH (hastI) |
+<HI>{@tvan@}¦ tva AdyudAttaH | dAtvaH (dAtA) |
+<H>tha
+<HI>{@thak@}¦ tha guNAbhAvAdi | pRSa--pRSThaM yU--yUthaM gU--gUtham |
+<HI>{@than@}¦ tha AdyudAttaH | uSa--oSThaH kuSa--koSTham gA--gAthA!
+<H>da
+<HI>{@da@}¦ da | zA--zAdaH (jambAlaH zasyan~ca) |
+<HI>{@dan@}¦ da AdyudAttaH | zapa--zabdaH ava--avdaH |
+<H>dha
+<HI>{@dhuk@}¦ dhu guNAbhAvAdi | zI--zIdhu |
+<H>na
+<HI>{@na@}¦ na | dhA--dhAnA (bhraSTayavaH) pR--parNam vasa--vasnaH |
+<HI>{@nak@}¦ na guNAbhAvAdi | iNa--inaH | si--sinaH |
+<HI>{@ni@}¦ ni | vI--ni0 NatvaM beNiH | jyA--jyAniH |
+<HI>{@nu@}¦ nu | dA--dAnuH bhA--bhAnuH
+<H>pa
+<HI>{@pa@}¦ pa | pA--pApam | nI--nepaH ni0 nIpaH | viSa--viSpam |
+<HI>{@pAsa@}¦ pAsa | kR--karpAsaH |
+<H>pha
+<HI>{@phak@}¦ pha guNAbhAvAdi | kala--asyottvaM kulphaH gala--gulphaH |
+<H>bha
+<HI>{@bha@}¦ bha | dR--darbhaH dala--dalbhaH (RSizcakran~ca) |
+<HI>{@bhan@}¦ bha AdyudAttaH | R--arbhaH gRR--garbhaH | [Page0029-a+ 38]
+<H>ma
+<HI>{@mak@}¦ ma guNAbhAvAdi | iSa--iSmaH yudha--yudhmaH bhI--bhImaH |
+<HI>{@madik@}¦ mad guNAbhAvaH | yu--yuSmad--tvam | asa--asmad-
+<>aham sarvvanAma |
+<HI>{@man@}¦ ma AdyudAttaH | R--armmaH stu--stomaH su--somaH |
+<HI>{@mani@}¦ man | su + zRR--suzarmmA |
+<HI>{@maniN@}¦ man vRddhiH | ata--AtmA |
+<HI>{@manin@}¦ man AdyudAttaH | so--sAma kR--karmma vR--varmma |
+<HI>{@mi@}¦ mi | nI--nemiH bhU--kit bhUmiH |
+<HI>{@mini@}¦ min | hu--homI |
+<HI>{@muka@}¦ muka | uSa--lAntAdezaH guNAbhAvaH ulmukaH | (jvalada-
+<>GgAram) |
+<H>ya
+<HI>{@ya@}¦ ya | zala--zalyam |
+<HI>{@yak@}¦ ya guNAbhAvaH | jana--janyaM (yuddham) janyA badhUH |
+<HI>{@yat@}¦ ya svaritaH | pu--Nuk puNyam dhA--nuk dhAnyam |
+<HI>{@yatuca@}¦ yat samudAyAntodAttaH | tana--tanyatuH |
+<HI>{@yuk@}¦ yu guNAbhAyaH | bhuja--bhujyuH (bhojanam) |
+<HI>{@yuc@}¦ yu na anAdezaH samudAyAntodAttaH | mana--manyuH jana--janyuH |
+<HI>{@yun@}¦ yu--ana AdyudAttaH | hana--Adyantayorghatau ghatanaH |
+<H>ra
+<HI>{@ra@}¦ ra | rIG--hrasvaH puT ca ripram (kutsitam) |
+<HI>{@rak@}¦ ra guNAbhAvaH | sphAya--sphAram | kSipa--kSipram sRpa--sRpraH |
+<HI>{@ran@}¦ ra AdyudAttaH | idi--indraH vaja--vajraH | bhI--bheraH |
+<HI>{@ru@}¦ ru | mI--meruH pI--peruH pA--pAruH | jata--jatruH |
+<H>la
+<HI>{@lak@}¦ la kit | zI--zIlam |
+<H>va
+<HI>{@va@}¦ va | kRR--karvaH gRR--garvaH zRR--zarvaH vazAdirityeke |
+<HI>{@van@}¦ va AdyudAttaH | iNa--eva, svarAdiH | zI--zevaH |
+<HI>{@van@}¦ van na nittvaM jn~ApakAt | R--arvA (kutsitaH) |
+<HI>{@vanip@}¦ van anudAttaH | snA--snAvA R--arvvA (turaGgagarhyayoH) |
+<HI>{@varaT@}¦ vara striyAM GIp | aza--upadhAyA Ittvam IzvaraH |
+<HI>{@valac@}¦ vala samudAyAntodAttaH | ila--ilvalaH pala--palvalaH |
+<HI>{@valan~@}¦ vala vRddhiH | zI--zaivalaH |
+<HI>{@vAlun~@}¦ vAla vRddhiH AdyudAttaH | zI--zaivAlaH | pRSo--darAditvAt saivAlazca |
+<HI>{@vAlan@}¦ vAla AdyudAttaH | zI--zevAlaH ni0 vasya paH, zepAlazca |
+<HI>{@vi@}¦ vi jn~Apakadasya na lopaH | dR--darviH bazAdirityeke | [Page0029-b+ 35]
+<HI>{@vin@}¦ vi--anudAttatvapratijn~AbhAvAt nAsya idittvaM tena na
+<>vilopaH | vR--varviH | bazAdirityeke |
+<HI>{@vun@}¦ vu aka--AdyudAttaH | kR--karakaH karakA |
+<H>za
+<HI>{@zak@}¦ za vakAraprazleSAt na zit guNAbhAvaH | vR--vRzaH |
+<HI>{@zun@}¦ zu AdyudAttaH | spRza--pRbhAvaH parzuH (Ayudham) |
+<HI>{@zvaN@}¦ zva vRddhiH | spRza--pRbhAvaH pArzvaH |
+<H>Sa
+<HI>{@Savan@}¦ ava AdyudAttaH striyAM GIS | pratha--saMprasAraNe pRthavI |
+<HI>{@Sivan@}¦ iva AdyudAttaH striyAM GIS | pratha--samprasAraNe pRthivI
+<HI>{@STran@}¦ tra--AdyudAttaH | vasa--vastraM zasa--zastram asa--astram
+<>striyAM GIS | naddhrI |
+<HI>{@Svarac@}¦ vara samudAyAntodAttaH striyAM GIS | vR--varvaraH zRR--zarvvarI |
+<H>sa
+<HI>{@sa@}¦ sa | vR--varSam | tRR--tarSaH | vasa--vatsaH | hana--hana--haMsaH |
+<HI>{@san@}¦ sa AdyudAttaH | ama--aMsaH |
+<HI>{@saran@}¦ sara AdyudAttaH | aza--akSaram | vasa--vatsaraH |
+<HI>{@sikan@}¦ sika AdyudAttaH | hana--haMsikA (haMsayoSit) |
+<HI>{@sman@}¦ sma AdyudAttaH | sUca--sUkSmam |
+<HI>{@sya@}¦ sya | mada--matsyaH |
+<HI>{@syan@}¦ sya AdyudAttaH | mada--matsyaH |
+<>ityuNAdipratyayasvarUpAdipradarzanam |
+<H>{@zabdavibhAganiyamAdi |@}
+<P>zabdAstAvat caturvidhAH rUD.hayaugikayogarUDhapAribhASika-
+<>bhedAt | yatra avayavazaktimanapekSya samudAyazaktyA kasyacidvi-
+<>ziSTArthasya bodhaH te rUDhAH | yathA AkhaNDalamaNDapaghaTA-
+<>dayaH tatra avayArthAbodhanenaiva samudAyena viziSTArthasya bodhanAt |
+<P>dravyaguNakriyAsambandharUpAvayavArthayogena tattadviziSTArthabodhakA
+<>yaugikAH | yathA ghanavAn daNDI rUpavAn rasavAn pAcakaH
+<>gantetyAdayaH | teSAn~ca dhanAdidravyasya, rUparasAdiguNasya, pAkAdi-
+<>kriyAyAzca saMbandhasya yathAkramaM bodhakatA | evan~ca prakRtipratya-
+<>yAbhyAM tattadarthayorupasthApyatvena tadyogarUpasambandhaviziSTasya bodha-
+<>katvAt teSAM yaugikatvam | yaugikA api kRdantataddhitAntasamA-
+<>sajabhedAt trividhAH | tatra pAcakAdayaH kRdantAH, kASAyAdayaH
+<>taddhitAntAH, rAjapuruSAdayaH samAsajAH | tatrAyaM vizeSaH kRdantAH [Page0030-a+ 38]
+<>kriyAsambandhamAtrAbhidhAyakAH tathA hi pAcaka ityAdau dhAtunA
+<>pAkasya, NvalAdinA karttrAderbodhanAt viziSTArthabodhakatvena kriyA-
+<>sambandhabodhakatvam |
+<P>taddhitAntAstu dravyaguNakriyAsambandhAbhidhAyakAH | tatra
+<>dhanavAn daNDItyAdau dravyasambandhasya, rUpavAn rasavAn
+<>jn~AnavAn ityAdau rUpAdiguNasambandhasya, gatimAn kriyA-
+<>vAn spandanavAnityAdau ca gatyAdikriyAsambandhasya matu-
+<>bAdibhirbodhanAt tathAtvam | tatra sambandhAzca nAnAvidhAH sva-
+<>svAmibhAvAdirUpAH, tattatsUtropAttatattatkriyAkArakAdibhAvAdi-
+<>rUpAzca tatra dhanavAnityAdau svasvAmibhAvAdiH | kASAyaH lAkSika
+<>ityAdau ran~janakarmma, zAbdika ityAdau vedanakarmma, pan~cagurityAdau
+<>krayakarmma, pathika ityAdau gamanakarttA, ityevamAdayo'rthAH aNAdi-
+<>pratyayena bodhyante |
+<P>samAsajA api dravyaguNakriyAsambandhabodhakabhedena prathamaM
+<>trividhAH | tatrApi dravyayoH, dravyaguNayoH, dravyakriyayoH,
+<>guNayoH, guNakriyayoH, kriyayozca sambandhabodhakatvena te punaH SaD-
+<>vidhAH | tatra rAjapuruSaH rAjadhanamityAdau dravyayoH, paTarUpaM
+<>viprajn~AnamityAdau dravyaguNayoH, rathagatiH, pAdaktiyetyAdau dravya-
+<>kriyayoH, nIlalohitaH kRSNarakta ityAdau guNayoH, gatirodhaH,
+<>bhojanajn~AnamityAdau guNakriyayoH, snAtAnuliptaH pakvabhukta
+<>ityAdau kriyayozca sambandhasya sAkSAt, paramparayA vA bodhanAt
+<>tathAtvam |
+<P>tatra kRtaH, taddhitAH samAsAzca nAnAvidhAH teSAM svarUpabhedAH
+<>arthavizeSAzca vyAkaraNata evAvagantavyAH |
+<P>yatra avayavazaktyA prakRtipratyayArthayorupasthApanena tadyoga-
+<>viziSTasya samudAyazaktyA rUDhyA vRttyA kasyacit padArthasya bodhanaM
+<>te yogarUD.hAH | yathA paGkajamanojAdayaH, te ca avayavazaktyA
+<>upasthApitena paGkajanikarttRtvarUpeNArthena sahitasya rUDhyA vRttyA
+<>padmatvAdiviziSTasya bodhanAt yogarUDhAH | tena paGkajazabdA-
+<>ditaH na kusudAdInAM bodhaH |
+<P>anye tu paGkajanikarttRtvarUpArthasya kumudAdiSu sadbhAva'pA
+<>paGkajazabdaprayoge padmatvamupAdhiriti prayoganiyamena padmatvAdikasya
+<>tatra upAdhitvamaGgIkRtya na kumudAdiSu tatprayogastathAca paGkajAdi-
+<>zabdAdInAM yaugikeSvevAntarbhAva ityurarIcakruH |
+<>vaiyAkaraNAstu samAsaniSpannAnAmapi zabdAnAm
+<>“samAse khalu bhinnaiva zaktiH paGkajazabdavat |”
+<>iti paGkajazabdavat yogarUD.hatvameva svIcakruH |
+<P>samAsAnAM sambandhavAcakatvepyayaM vizeSaH dignAmavikalpArthaka [Page0030-b+ 38]
+<>bhinnabahuvrIherbhedasambandhavAcakatvam | yathA pItAmbaraH bahu-
+<>dhanaH ityAdayaH pItAmbarAdibhedasambandhavAcakAH | dignAmasamAse
+<>uttarapUrbbA pUrbbadakSiNetyAdau, dvitrA pan~caSA ityAdau vikalpArthaka-
+<>samAse ca na bhedasambandhabodhakatvaM kintu karmmadhArayavat abhedasambandha-
+<>bodhakatvam bahuvrIherapi bhedasambandhabodhakatve'yaM vizeSaH, kvacit
+<>karmmatvAdikArakasambandhaH kvacicca svasvAmibhAvAdisambandhaH bodhyate
+<>tatra ArUD.havAnarAdau karmmatvAdisambandhasya pItAmbarAdau tu svasvAmi-
+<>bhAvasambandhasya bodhaH | yathA ArUD.ho vAnaro'yam prAptamudakaM
+<>yamiti vigrahe ArUD.havAnaraprAptodakazabdau vAnarakarttRkArohaNa-
+<>karmmaNaH udakakarttRkaprAptikaNarmmaNazca bodhakau | evam UD.ho ratho
+<>yena iti vigrahe UD.harathazabdAdeH rathavahanakaraNasya, dRSTo ratho
+<>yeneti vigrahe dRSTarathAdezca rathadarzanAdikarttuzca bodhakatvam |
+<>upahRtaH pazuryasmai iti vigrahe upahRtapazuzabdAdeH pazUpaharaNa-
+<>sampradAnasya, patitaM patraM yasmAditi vigrahe patitapatrAdeH patra-
+<>patanApAdAnasya, nihito ghaTo yatreti vigrahe nihitaghaTAdi-
+<>zabdasya, ghaTanidhAnAdhikaraNasya ca bodhakatvam | evamavyayIbhAva-
+<>dvandveSvapi bhedasambandhabodhakatvamUhyam | dvandvasya ekakriyAnvayitva-
+<>rUpasambandhabodhakatvAt tathAtvaM avyayIbhAvasya tu tathAtvaM prasiddhameva
+<P>tatpuruSe'pi pUrbbapadArthasya uttarapadArthe, kvacicca uttara-
+<>padArthasya pUrbbapadArthe sambandhabodhakatA | yathA rAjapuruSa ityAdau
+<>rAjAdipUrbbapadArthasya uttarapadArthe puruSAdau, arddhagrAma ityAdau ca
+<>grAmAderuttarapadArthasya arddhAdipUrbbapadArthe, sambandho bodhyate | sa
+<>ca sambandhaH svasvAmibhAvaH kArakarUpazca | tatra rAjapuruSAdau
+<>svasvAmibhAvasya, grAmazritAdau, zrayaNakarmmaNaH rAmakRtamityAdau
+<>karttuH azvagatamityAdau gatikaraNasya vyAghrabhIta ityAdau bhayApA-
+<>dAnasya, grAmasthita ityAdau sthityadhikaraNasya yathAyathaM pUrbba-
+<>padArthasya uttarapadArthe'nvayaH | dvigau, karmmadhArAye, samAnAdhi-
+<>karaNabahuvrIheravAntarapadArthayozcAbhedenaivAnvayAt karmmadhArayasya
+<>dvigauH samAnAdhikaraNabahuvrIhezca svaghaTakapadArthAbhedabodhakatvamiti
+<>vivekaH | upapadasamAsasya tu tatpuruSa evAntarbhAvaH anyat
+<>yathAsambhavamUhanIyam |
+<P>zAstrakArasaGketavizeSeNa tattadarthabodhakAH zabdAH pAribhASikAH
+<>yathA “kartturIpsitatamaM karmma,” “sAdhakatamaM karaNam” yogazcitta-
+<>vRttinirodha ityAdayaH | tattacchAstrakAraiH, karmmazabdaH kartturIpsitatamaM,
+<>karaNazabdaH sAdhakatamaM, yogazabdaH cittavRttinirodhaM bodhayatvitIcchA
+<>vizeSarUpaparibhASAtmakasaGketena tattadarthAnAM bodhanAt tathAtvam |
+<P>paribhASAyAzca AdhunikasaGketatvena sAditvAt anAdi-
+<>saGkettavato rUD.hAdbhedaH | [Page0031-a+ 38]
+<P>teSAM saGketavizeSakaraNan~ca tattacchAstreSu tattacchabdena tatra tatra
+<>pAribhASikArthAnAmeva grahaNArtham | ata eva “kRtrimAkRtri-
+<>mayormadhye kRtrime kAryyasaMpratyayaH” iti paribhASayA kRtrima-
+<>saGketavata eva grahaNamuktam tena “karmmaNyaN” “karmmaNi dvitIyA”
+<>ityAdau svazAstre pAribhASikArthAnAmeva karmmAdInAM grahaNaM na tu
+<>“karmma kriyA” iti koSoktakriyAdInAM grahaNam |
+<P>kecittu saGketavattvasAmyAt pAribhASikasya rUDheSvebAntarbhAva-
+<>micchanti |
+<P>zaktizca asmAcchabdAdayamartho bodhya ityArakecchA | sA ca
+<>sampradAyapravartakasya Izvarasya tatsthAnIyatvena kalpitasya tathAvidhasya
+<>aparasya vetyanyadetat | tathA ca sampradAyapravartakasya idAnIma-
+<>sulabhatayA kasya zabdasya ko'rthaH? iti jijn~AsAyAM pUrbbapUrbbasampra-
+<>dAyAnusAreNa AptaprAyaiH amarAdibhiH svasvakoSeSu, bAhulyena
+<>rUD.hAnAM, keSAn~cicca yaugikAnAM zabdAnAm, pANinyAdibhizca
+<>sUtrapAThAdiSu bAhulyena yaugikAnAM, keSAn~cicca rUD.hAnAmartha-
+<>vizeSA darzitAH | ata evoktam
+<>zaktigrahaM vyAkaraNopamAnAt koSAptavAkyAt vyavahAratazca |
+<>vAkyasya zeSAt vivRtervadanti sAnnidhyataH siddhapadasya vRddhAH || iti
+<P>amarakoSAdiSu ca ekaikagranyeSu sarvvazabdAnAmanukteH yAvat
+<>koSajn~Anasya idAnIntanairazakyatayA teSAmasulabhatayA ca, yaugika-
+<>zabdajn~Anopayoginazca pANinyAgamasya prAyazaH durbodhatayA tattad-
+<>granthAnAM, ca ekaikapuruSeNa bahukAlasAdhyapAthatayA, paThitAnAmapi
+<>sadA sphuraNAbhAvena, tattadgranthAnAn~ca suparipATIkatvAbhAvena katha-
+<>GkAraM sarvvazabdArthajn~Anam sukaraM bhavet ityataH vedapurANetihAsatantra-
+<>zAstradarzanazAstrajyotiSanItizAstravaidyakavyAkaraNAdizAstreSu pra-
+<>yuktazabdAnAM tatra tatra pAribhASikazabdAnAn~ca arthajn~AnAya nAnA
+<>koSAdibhyaH zabdAnAM saGkalanena suparipATIkatayA etadracanAyA-
+<>masmAbhiH pravRttam |
+<P>yAni yAni ca zAstrANyAlocya tattadarthavizeSAvadhAraNaM kRtam
+<>udAharaNatayA ca tattannAmAnyatra tattacchabdArdhadarzanAvasare pradarza-
+<>yiSyante pradarzayiSyante cAtra teSAM granthAnAM samaSTIkRtya nAmAni |
+<P>yaugikazabdAnAmapi anantabhedatayA diGmAtratayA'tra
+<>pradarzanaM kRtam anyathA ekaikadhAtoH ekaikapratyayAntatayA zabdabheda-
+<>kalpane'nantazabdAH syustatkathane ca vRthA granthabAhulyamAtrasampA-
+<>danamanatiprayojanan~ca | ata evoktam
+<>vRhaspatirdivyaM varSazatamindrAya zabdapArAyaNaM
+<>jagau naivAntaM jagAmeti |
+<>tathA ca pratipadazabdArthakathanApekSayA prakRtipratyayavibhAgena [Page0031-b+ 38]
+<>zabdasAdhutAsambodhanAya laghUpAyatayA vyAkaraNamArabdhaM tantrakAraiH |
+<>tacca tata evAgantavyam | kintu pANinyAgamAnAmidAnIm asu-
+<>labhatayA bahUnAn~ca tadajn~Anena teSAM bodhanArthaM tataH sAramAkRSya
+<>apekSitayaugikazabdAnAmarthavizeSo'trAbhidhAsyate |
+<P>kin~ca yAvantaH zabdAstAvanta eva nan~yogena zabdAH syuriti
+<>nan~yogena zabdabAhulyasampAdanamakin~citkarameveti nan~yukta-
+<>zabdA asmAbhiH AdhunikakoSakRdbhiriva nAdRtAH kintu yatra yatra
+<>arthavizeSaH yathA asuraH abrAhmaNa ityAdiSu taeva saMgrahISyante |
+<P>aparan~ca yaugikazabdAnAM pUrbbottarapadayoH parivarttanena
+<>nAnArUpatA syAt teSAM pratyekaM grahaNe ca vRthAnantabhedakalpanena
+<>granthabAhulyamAtrasampAdanaM arvvAcInAnAmiva vRthA syAt na ca
+<>tatra prayojanAdhikyamityataH prathamaM kazcit niyamavizeSo'bhidhIyate
+<>yadbalAt pUrbbottarapadaparivarttanena tattatsamAnArthakazabdArthagrahaH
+<>sukaro bhavet |
+<P>niyamo yathA
+<P>svatvaviziSTapUrbbapadAt, pAla, dhara, bhug dhArin bhRt, pati,
+<>vetRzabdAstatsamAnArthakazabdAH matubAdayazca yadA prayujyante tadA
+<>tatsvAmI bodhyate | yathA bhUpAlaH bhUdharaH bhUbhuk bhUdhArI bhUbhRt
+<>bhUpatiH bhUnetA ityAdayaH, bhUmAn ityAdayazca bhUmipativAcakAH
+<>atra samAnArthakazabdaiH pUrbbapadaparivarttane uttarapadaparivarttane ca
+<>sa evArtho'bhidhIyate | yathA bhUmipAlaH bhUmirakSakaH ityAdiSu |
+<P>janyavAcakapUrbbapadAt kRt--kartR sU--sRT--sraSTR--vidhAtR
+<>kAraka--prabhRtizabdAstatparyyAyazabdAzca prayuktAH tajjanakabodhakAH |
+<>yathA vizvakRt vizvakarttA vizvasUH vizvasRT vizvasraSTA vizvavidhAtA
+<>vizvakArakaityAdayaH sarvvakRt sarvvakarttetyAdayazca caturmukhasya vAcakAH |
+<P>janakavAcakapUrbbapadAt, yoni, ja, ruha, janman, bhU, bhava
+<>ityAdayastatparyyAyAzca tajjanyabodhakAH | yathA bhUmiyoniH bhUmijaH
+<>bhUmiruhaH bhUmijanmA bhUmibhUH bhUmibhavaH ityAdayaH kSmAyoniH
+<>kSmAja ityAdayazca | tathA apatyabhavAdyarthe aNAdayazca janya-
+<>vAcakAH | yathA bhaumaH mAheyaH ityAdayaH |
+<P>dhAryyazastrAdivAcakapUrbbapadAt, pANyaGkamauli, bhUSaNa, bhRcchA-
+<>lin zekhara, dhartR, dhArakaprabhRtayaH tatparyyAyazabdAH matvarthIya-
+<>pratyayAzca taddhArakavAcakAH | yathA zUlapANiH zUlAGkaH candra-
+<>mauliH candrabhUSaNaH zUlabhRt zUlazAlI candrazekharaH zUlI
+<>zUlavAn ityAdayaH | iyAMstu vizeSaH | yatra yatrAvayave
+<>dhAryyatvaM pratIyate tattadvAcakazabdA eva uttarapade nivezanIyAH |
+<>yathA zUlahastaH candramastaka ityAdi |
+<P>bhojyavAcakapUrbbapadAt anna, bhug, vrata, liT, pAyin, pa, [Page0032-a+ 38]
+<>aza azanAdayaH uttarapadasthAH tadbhakSakavAcakAH | yathA madhvannaH
+<>madhubhuk madhuvrataH madhuliT madhupAyI madhupaH madhvazaH madhvazana
+<>ityAdayaH pUrbbottarazabdaparivarttanena tatparyyAyazabdAzca bhramara-
+<>vAcakAH |
+<P>pativAcakAt kAntA priyA, badhU praNayinI ityAdayaH
+<>uttarapadasthAH tadbhAryyAvAcakAH | yathA harakAntA harapriyA hara-
+<>badhUH harapraNayinI ityAdayaH pUrbbottarazabdaparivarttane tattat-
+<>paryyAyazabdAzca durgAvAcakAH |
+<P>bhAryyAvAcakAt vara, ramaNa, praNayin, priya, prabhu, nAthAdayaH
+<>uttarapadasthAH tatpativAcakAH | yathA ramAvaraH ramAramaNaH ramApraNayI
+<>ramApriyaH ramAprabhuH ramAnAtha ityAdayaH kamalAvarAdayazca viSNu-
+<>vAcakAH |
+<P>sakhivAcakapUrbbapadAt sakhivAcakAH zabdAH sakhyantaravAcakAH
+<>yathA zivasakhaH zivasuhRt zivamitram ityAdayaH kuveravAcakAH |
+<P>vAhanavastupUrbbapadAt gAmin--yAnAsanaprabhRtayaH zabdAH
+<>tadvAhyabodhakAH | yathA vRSagAmI vRSayAnaH vRSAsana ityAdayaH |
+<P>janmanimittakasambandhaviziSTapUrbbapadAt svasrAdayaH, duhitrA-
+<>dayaH, AtmajAdayaH, agrajAdayaH, avarajAdayazca tattatsambandha-
+<>vAcakAH | yathA zamanasvasA zamanabhaginI zamanasahodaretyAdayaH
+<>ekasUryyatojanmavattvena yamunAbodhakAH | sUryyaduhitA sUryya-
+<>nandinI sUryyatanayA sUryyaputtrItyAdayaH tajjanmasambandhavattvena
+<>yamunAbodhakAH | zivatanayaH zivaputraH zivAtmaja ityAdayaH
+<>zivato janmavatkArttikeyAdivAcakAH | yamunAgrajaH yamunA-
+<>bhrAtA yamunAsahodara ityAdayaH yamunAsamAnajanmasambandhavattvena
+<>yamabodhakAH | rAmAnujaH rAmAvaraja ityAdayaH rAmapazcA-
+<>jjanmabhAgvAsudevavAcakAH |
+<P>AzrayavAcakapUrbbapadAt zaya, vAsin, sadman, zrita, sad,
+<>sthitAdizabdAH tadAzritavAcakAH | yathA bhUmizayaH bhUmivAsI
+<>bhUmisadmA bhUmizritaH bhUmisad bhUmisthitaH ityAdayaH |
+<P>badhyavAcakapUrbbapadAt bhid dveSin chid dhag jid ghAtin
+<>dhruga ripu dhvaMsin zAsanAdayaH antakadamanadapahan mathanAdayazca
+<>tadghAtakavAcakAH | yathA kAmabhit kAmadveSI kAmacchit kAmadhak
+<>kAmajit kAmaghAtI kAmadhruk kAmaripuH kAmadhvaMsI kAmazAsanaH
+<>ityAdayaH | evaM kAmAntakaH kAmadamanaH kAmadarpahA kAmamathana
+<>ityAdayaH zivavAcakAH |
+<P>agre ca prAyazo'tidezena tattacchabdAnAM tattadarthavAcitvaM
+<>yathAvasaraM darzayiSyate diGmAtramihodAharaNamuktam |
+<P>evamuktaprakAreNa pUrbbottarapadayoH parivartanena bahavaH zabdA- [Page0032-b+ 37]
+<>stattadarthavAcakA bhavanti | tatrApyayaM vizeSaH | vRSAdervAhanatva-
+<>vivakSAyAM vRSavAhanAdayaH prayojyAH, svatvavivakSAyAM vRSapatiH
+<>vRSasvAmI vRSavAn ityAdayaH, cihnatvavivakSAyAM vRSAGkaH vRSa-
+<>lAn~chana ityAdayaH | aMzvAderdhAryyatvavivakSAyAm aMzumAlI aMzu-
+<>bhRt aMzudhara ityAdayaH, svatvavivakSAyAm aMzupatiH aMzumAni-
+<>tyAdayaH | sarpAderbadhyatvavivakSAyAM marparipuH sarpAriH sarpahA
+<>ityAdayaH | bhakSyatvavivakSAyAM sarpabhuk sarpabhojanaH sarpAzana
+<>ityAdayaH yathAyathaM prayojyAH |
+<P>dravyajAtivAcakazabdA api cihnatvavivakSAyAM tattaccihnita-
+<>vastuno vAcakA bhavanti | yathA agasticihnA dakSiNAzA, makara-
+<>cihnaH kAmaH ityAdayaH |
+<P>ayugmAyugviSamAdizabdAH pUrbbapadasthAH tripan~casaptAdi-
+<>vAcakAH | yathA ayugmanetraH ayugnetraH viSamanetra ityAdayaH
+<>trinetravAcakAH | ayugmavANaH ayugvANaH viSamavANaH ityA-
+<>dayaH pan~cavANavAcakAH | ayugmacchadaH ayukcchadaH viSamacchada
+<>ityAdayaH saptacchadavAcakAH |
+<H>atha pUrbbottarapadayIH parivRttisahatvAsahatvaniyamaH |
+<P>tatra bhUbhRdAdizabdeSu ubhayapadayoH parivRttisahatvam | yathA
+<>bhUbhRt bhUmibhRt kSmAbhRt bhUdharaH bhUmidharaH kSmAdharaH kSmApAla
+<>ityAdayaH |
+<P>vAridhipramRtizabdeSu pUrbbapadasyaiva parivRttisahatvaM nottara-
+<>padasya | yathA vAridhiH jaladhiH toyadhiH vArdhiH payodhiH |
+<>kintUttarapadasya kRdantatayA upasargamAtreNaiva vyavadhAnamAtram |
+<>yathA vAridhiH vArinidhiH payIdhiH payonidhiH jaladhiH jala-
+<>nidhiH ityAdayaH iyAMstu vizeSaH yAdRzopasargazabdapUrbbapadasya
+<>prayogo'sti tAdRzapUrbbakasyaiva na tu sarvvopasargapUrvvakANAm |
+<P>vAD.avAgnyAdiSu uttarapadasyaiva parivRttisahatvam | yathA vAD.a-
+<>vAgniH vAD.avAnalaH vAD.avAdahana ityAdayaH | itthaMbhUtAH sarvve-
+<>'pi zabdAH yaugikA eva |
+<P>gIrvvANAdiSu ubhayoH padayorna parivRttisahatvamiti teSAM
+<>yogarUD.hatvameva |
+<P>nan~pUrbbapadA itarottarapadAzca guNavAcakazabdAH virodhyartha-
+<>vAcakAH | yathA asitaH azuklaH ityAdayaH, evaM titetaraH
+<>zubhretaraH ityAdayaH, zubhratvavirodhikRSNatvavAcakAH evaM anuSNa
+<>uSNetaraH ityAdayaH uSNavirodhizItasparzabodhakAH sukhetarat
+<>asukhamityAdayaH sukhavirodhiduHkhavAcakAH evam apuNyam
+<>puNyetaradityAdayaH puNyavirodhipApabodhakAH | [Page0033-a+ 13]
+<P>ityevaM niyamAvalI jn~AnasaukaryyArthamAdau pradarzitA eta-
+<>danusandhAnena atrAnuktA atidiSTatayA tattadavasare uktaprAyAzca
+<>zabdA yathAyatham UhanIyAH |
+<P>guNavAcakazabdamadhye zuklAdirUpa--madhurAdirasa--kharAdisparza--
+<>zIghrAdivega--vAcakazabdebhyaH yathAprAptaM vihitamatvarthIyasya
+<>taddhitasya luki vyakteH (vizeSyasya) liGgAnusAritvam tathA ca
+<>zuklAdayaH rUpavAcakAH zabdA guNaparatve puMliGgAH taduttarAt
+<>matvarthapratyayasya lukA guNavatparatve vizeSyaliGgAH | yathA
+<>guNe zuklaH nIlaH pItaH rakta ityAdi guNini zuklaH paTaH zuklA
+<>zATI zuklaM vastram evaM nIlaH nIlA nIlaM pItaH pItA pIta-
+<>mityAdi | evaM sparzavizeSe kharAdayaH klIvaliGgAH tadvati
+<>triliGgAH | yathA kharaM tigmaM tIkSNamityAdi tadvati kharaH
+<>kiraNaH kharA dIdhitiH kharaM teja ityAdi | evaM sparze [Page0033-b+ 13]
+<>zItaM zItalaM ziziramityAdi tadvati zItazcandraH zItA himAnI
+<>zItaM jalamityAdi | tathA vege zIghraM tvaritamityAdi vega-
+<>vati zIghro'zvaH zIghrA vaDavA zIghraM yAnamityAdi | evaM rase
+<>madhuraH kaTuH abhla ityAdi tadvati madhuro guD.aH madhurA drAkSA
+<>madhuraM kSaudramityAdi evaM kaTuH kaTvI kaTu ityAdayaH bodhyAH |
+<P>strIpuMsavAcakazabdA api alpatvavivakSAyAM strIliGgAH
+<>syuH | yathA ghaTI paTItyAdayaH svalpaghaTAdivAcakAH |
+<P>bahubhiH koSakAraiH zabdAnAM liGgAnuzAsanam kRtaM tadanu-
+<>sAreNa prAyeNAsmAbhistattacchabdapradarzanasamaye liGgAnyuktAni kintu
+<>tAni amUlakAni samUlakAni vA tatpradarzanAya prathamataH pANi-
+<>nIyaliGgAnuzAsanasUtrANi pradarzitAni tAni ca samAlokya
+<>tattatkoSoktaliGgAnAM prAmANikatvAprAmANikatve sudhIbhirvive-
+<>canIye iti dik | [Page0033-1a+ 16]
+<H>atha zabdavyutpattidarzane kAraNAdi |
+<P>dhAtupATha--gaNapATha--saMyutaM
+<>sUtrapAThamakhilaM savArttikam |
+<>bhASyamasya sarahasyamarthato
+<>ye vidanti khalu ke'pi te vidaH || 1 ||
+<>uttaraGgo mahAnakravakrokticakrabhISaNaH |
+<>zabdasindhuH sudurgamyo dustaro'kRtabuddhibhiH || 2 ||
+<>yeSAM sadgurukarNadhArabhajanaM prajn~AvahitrAgamo-
+<>'bhyAsazcAnuguNo marut pratidinaM zabdAgamAmbhonidhau |
+<>pAraM yatnavazAdavApya nitarAM ratnAni labhyAni tai-
+<>rdUrAt tIragataistu darzanabhiyA sIdadbhirApyAni kim? 3
+<>bhASyAdyAgamavAridhau guruhariprotsAhanAzAlibhiH
+<>prajn~AvAsukirajjukarSaNayujA yatnaughamanthAdriNA |
+<>utsAhairgurukaiyaTAdivacanairAloD.ite tatsudhAm
+<>vyutpattiM sumanIbhiretya sutarAM citte paraM nirvRtam || 4 ||
+<>no cakSuSApi kalitA kila kaumudI yai [Page0033-1b+ 15]
+<>rbhASyAdidIpanivaho'dhigato na vA yaiH |
+<>yeSAn~ca pANinimatArkasamAgamo no
+<>teSAM tamaHpracaya eva na cAsya zAntiH || 5 ||
+<>yairvIkSitA nojjvaladattavRtti-
+<>rno kAzikAvRttirathAdhyagAmi |
+<>nAlokitA yairgaNaratnavRtti-
+<>steSAM tamaHzAntirudeti kasmAt? || 6 ||
+<>pANinyAgamasUryyeNa zabdAkAzo vikAzyate
+<>na tu khadyotamAtreNa svalpavyAkaraNAdinA || 7 ||
+<>kalpadrumAt phalacayo yadi saurabhaM vA
+<>labhyeta vAn~chitamathArthakadambakaM vA |
+<>zabdAnuzAsanamRte na tadaMzabodha-
+<>staMccApi pANinimatannatu minnazAstram || 8 ||
+<>bhASyAdyAgamanAmagandhamapi ye nAghrAtavanto manAk
+<>te vyutpatinidarzane yadi ratAH kinnAma? citraM tataH | [Page0034-a+ 32]
+<>AstAM tatra kumArabhAvavazataH prauDhyA pravRttirhaThAt
+<>daurbhAgyaM vata vaGgabhUmivasatestatrAdaro yanmanAk || 9 ||
+<>kathan~cit mugdhabodhasya pAThamAtramadoddhataiH |
+<>kAvyamAtrasamAlokAt vyutpatterdarzanaM katham? || 10 ||
+<>uktazAstraikazaraNAH sUrisauramalobhataH |
+<>kumArAzcet pravartteran pravarttantAM haThAnvitAH ||
+<>tadvAkyeSvAdarakRtaH zocanIyA paraM janAH |
+<>daurbhAgyAt vata vaGgAnAM bAlavAkye samAdaraH || 11 ||
+<>ata eva prAcInairuktam--
+<>“ahan~ca bhASyakArazca kuzAgrIyadhiyAvubhau
+<>naiva zabdAmbudheH pAraM kimanye jaD.abuddhayaH” || iti |
+<>padavAkyapramANajn~A ye rAyamukuTAdayaH |
+<>pramattAste'pi yatrAsan bAlAstatrAlamadbhutam || 12 ||
+<>ahocitramahocitramahocitramahodayaH |
+<>pANinyAdyanabhijn~airyat vyutpattInAM pradarzanam || 13 ||
+<>DuNDubhAttrasnubAlAnAM mahAhikhelanaM yathA ||
+<>ajn~AtazAstratattvAnAM zabdavyutpAdanaM tathA || 14 ||
+<>koSAlokAdarthajAtaM kAvyAlokAdudAhRtIH |
+<>darzayeyuH kumArAzcet na ca tatra kSatirmanAk || 15 ||
+<>zAstre vyutpAditAH zabdA anyathA darzitA yadi |
+<>vizvAsAt khalu tadvAkyeSvanyeSAM mahatI kSatiH || 16 ||
+<>samIkSyakAriNo ye tu lajjAbhItisamanvitAH |
+<>yathAjn~AnaM pravarttante nAjn~AtaviSaye kvacit || 17 ||
+<>kalpadrumAdikarttAraH svajn~AnAdyanusArataH |
+<>zabdArthadarzane raktA na tu vyutpattidarzane || 18 ||
+<>yeSAM citte bhRzaM lajjA hAsabhItizca varttate |
+<>na te tathA pravarttante pravRttA bAlakA yathA || 19 ||
+<>pANinyAdyanusAreNa zabdasAdhanatatparAH |
+<>bhaveyazcet tadA loke zobhante nAnyathA kvacit || 20 ||
+<>yadi vAntAzane citte na manAgjAyate ghRNA |
+<>tadAnyakSuNamArgeNa dhAvanaM parizImate || 21 ||
+<>svayamajn~AtatattvAnAmanyakSuNNapathazritAm | [Page0034-b+ 31]
+<>lezato'tikramaH klapto hAsAya patanAya caM || 22 ||
+<>parotkIrNapathakrAntyA zrAntAnAM dUradhAvanAt |
+<>mUlacarccAtarucchAyArAhityAt nirvRtiH kutaH? || 23 ||
+<>andhAnAmiva mArgayAnaviSaye yeSAM paroktaM paraM
+<>mUlaM, te khalu mArgadarzanavidhAvanyasya zaktAH kimu? |
+<>yeSAM tadvacane samAdaravaraste ke'pi lokAdhamA
+<>jAtA andhatamAstato'dya vasudhA prAyo'ndhatAmeSyati || 24
+<>yasmin rucirbhavet yasya sa tatraiva pravarttatAm |
+<>niraGkuzarucirloko na vAgvazyo hi kasyacit || 25 ||
+<>parizeSe idamapi smAryyate--
+<>“prAyaH zAstramadhIte kazcana tanute nibandhamapyatra |
+<>asya tu kimapi rahasyaM kecana vijn~AtumIzate sudhiyaH”
+<>aneke cet koSakArAH svasvabuddhiprabhAvataH |
+<>cakruH koSAnapi tathA gatArtho na mama zramaH || 26 ||
+<>tatredaM prAcInapadyaM smAryyate--
+<>“pariSkurvantvarthAn sahRdayadhurINAH katipaye
+<>tathApi klezo me kathamapi gatArtho na bhavitA |
+<>timIndrAH saMkSobhaM vidadhati payodheH punaramI
+<>kimetenAyAso bhavati? viphalo mandaragireH” ||
+<>bhASyAdyAzayabodhanaikasaraNiM vAkyapradIpaM muhu-
+<>rdRSTvIddyotasamanvitaM suvipulaM bhASyapradIpaM tathA |
+<>pANinyaSTakazAkaTAyanakRte vRttyAnvite vArttikaM
+<>paryyAlocya samAdarAdiha mayA vyutpattirAdarzitA || 27
+<>rUD.hAnAmapi rUpasAdhanakRte koSAdiTIkA mayA
+<>bahvIrdRSTavatA samAhRtavatA tAbhyazca sAraM param |
+<>lokAnAM hitakAmyayaiSa racito granthaH zramAt sukramo
+<>vidvAMso'sya vilokane yadi ratAH syAnme zramaH sArthakaH || 28
+<>jijn~AsUnAM bodhanArthaM samyagvyutpattisaMyutam |
+<>nAnAzabdAn samAhRtya vAcaspatyaM mayA kRtam || 30 ||
+<>sugamaM sukramaM veda--lIkazabdArthabodhakRt |
+<>vAcaspatyamado vIkSya vAcaspatyamavApyatAm || 31 || [Page0035-a+ 31]
