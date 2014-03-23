@@ -1,0 +1,39 @@
+Example of a vac 'drop':
+vac:
+aMSasavarRana	8	 %aMSasavarRana% na0 (1)samAnovarRaH</1><vn> yogaviyogayogyatA savarRaH</vn><vkr> tataH karaRArTe <drop>(savarRaM karotItyarTe)</drop>Rici+(BAve)lyuw<vg> savarRanam aMSayoH atulyacCedayoH rASyoH samacCedakaraRam</vg> 6 ta0.</vkr> <reN1>lIlAvatyukte atulyacCedarASyoH yogaviyogayogyatAsampAdake samacCedasADane kriyAviSeze, tatrAdAvaMSasavarRanamityuktasya <q>anyonyahArABihatO harAMSO rASyoH samacCedaviDAnamevami<q>ti lIlAvatyAmuktam.</reN1><page>vp1_040.pdf</page><column>1</column><br/>
+
+vac broken into Cologne lines:
+79: %aMSasavarRana% na0 (1)samAnovarRaH</1><vn> yogaviyogayogyatA savarRaH</vn><vkr> tataH 
+80: karaRArTe <drop>(savarRaM karotItyarTe)</drop>Rici+(BAve)lyuw<vg> savarRanam aMSayoH atulya
+81: cCedayoH rASyoH samacCedakaraRam</vg> 6 ta0.</vkr> <reN1>lIlAvatyukte 
+82: atulyacCedarASyoH yogaviyogayogyatAsampAdake samacCeda
+83: sADane kriyAviSeze, tatrAdAvaMSasavarRanamityuktasya <q>anyonya
+84: hArABihatO harAMSO rASyoH samacCedaviDAnamevami<q>ti 
+85: lIlAvatyAmuktam.</reN1><page>vp1_040.pdf</page><column>1</column><br/>
+
+vcp (Cologne):
+79: <HI>{@aMSasavarRRana@}¦ na0 samAnovarRRaH yogaviyogayogyatA savarRRaH tataH
+80: <>karaRArTe Rici BAve lyuw savarRanam aMSayoH atulya-
+81: <>cCedayoH rASyoH samacCedakaraRam 6 ta0 . lIlAvatyukte
+82: <>atulyacCedarASyoH yogaviyogayogyatAsampAdake samacCeda-
+83: <>sADane kriyAviSeze, tatrAdAvaMSasavarRanamityuktamya “anyonya-
+84: <>hArABihatO harAMSO rASyoH samacCedaviDAnamevamiti
+85: <>lIlAvatyAmuktam .
+-----------------------------------------------------------------------
+Example of a vac 'add':
+vac:
+akAma	67	 %akAma% tri0<vp> na kAmayate</vp><vkr> kAma+RiN+ac. (1)icCASUnye</1><reN1> <q>nAkAmo dAtumarhatIti<q> smftiH</reN1><add>kAmanAvizayaPalAnanusanDAyini . <q>akAmo vizRukAmoveti</q> smftiH</add> (2)smaravikAraSUnye ca.</2><reN2> <q>BayAdakAmA'pi hi dfzwiviBramamiti<q> SAku0.</reN2><page>vp1_043.pdf</page><column>2</column><br/>
+
+vac broken into Cologne lines:
+332: %akAma% tri0<vp> na kAmayate</vp><vkr> kAma+RiN+ac. (1)icCASUnye</1><reN1>
+333: <q>nAkAmo dAtumarhatIti<q> smftiH</reN1><add>kAmanAvizayaPalAnanu
+334: sanDAyini . <q>akAmo vizRukAmoveti</q> smftiH</add> (2)smara
+335: vikAraSUnye ca.</2><reN2> <q>BayAdakAmA'pi hi dfzwiviBramamiti<q>
+336: SAku0.</reN2><page>vp1_043.pdf</page><column>2</column><br/>
+
+vcp (Cologne):
+332: <HI>{@akAma@}¦ tri0 na kAmayate kAma--RiN--ac . icCASUnye
+333: <>“nAkAmo dAtumarhatIti” smftiH . kAmanAvizayaPalAnanu-
+334: <>sanDAyini . “akAmo vizRukAmoveti” smftiH smara-
+335: <>vikAraSUnye ca . “BayAdakAmA'pihi dfzwiviBramamiti”
+336: <>Saku0 .

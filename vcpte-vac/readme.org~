@@ -1,0 +1,180 @@
+readme.org for vcpte-vac
+Begun Feb 18, 2014
+
+License for vac_input.txt:
+   Creative Commons Attribution Non-Commercial Share Alike is
+            
+* vac_input.txt
+Received from Peter Scharf.  
+By some unknown process, Scharf and colleagues reformatted and modified
+presumably the same original Tirupati edition of Vacaspatyam. 
+
+The result has all the Sanskrit coded in slp1. Here is a sample line:
+a#1	1	 %a% pu0 <vp>avati rakzati atati sAtatyena tizWatIti vA</vp><vkr> ava-ata vA+qa. </vkr><reN1> vizRO <q>akAro vizRuruddizwa ukArastu maheSvaraH. makArastu smfto brahmA praRavastu trayAtmaka<q> iti. </reN1><vkr> asya (vizRoH) apatyam ata iY+iH (kAmaH) asya (vizRoH) patnI +NIp+I (lakzmI). </vkr><page>vp1_039.pdf</page><column>1</column><br/>
+
+* vcp0.tx
+This is the Cologne Sanskrit lexicon vacaspatyam in slp1 and utf8.  It is copied from vcpte-vcp-cmp folder.
+* vcphw1.txt
+The headwords for vcp0.txt. Copied from vcpte-vcp-cmp folder.
+* vcpte2.txt
+This was generated from the original Tirupati edition, and is an
+slp1-utf8 version of that edition. It is copied from vcpte-vcp-cmp folder.
+
+* headword_vac.py
+Examples:
+a#1<tab>
+afRin<tab>
+* vac is not utf8.
+  When trying 
+python vac_hw0.py vac_input.txt vachw0.txt vachw0_note.txt
+ an error occurred reading lines from vac_input.txt:
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xec in position 8: invalid continuation byte
+* check_ea.txt for vac_input
+python check_ea.py vac_input.txt vac_input_ea.txt
+(<xEC/>) 9   This is the only extended Ascii (i with grave accent)
+* vac.txt  utf-8 version of vac_input.txt
+Probably, vac_input.txt is latin1, as was the original Tirupati edition:
+python latin1_to_utf8.py vac_input.txt vac.txt
+Check:
+python utf8_to_latin1.py vac.txt vac_input_chk.txt
+
+Using windows 'fc' utility (similar to unix 'diff'):
+fc vac_input_chk.txt vac_input.txt
+Comparing files vac_input_chk.txt and VAC_INPUT.TXT
+FC: no differences encountered
+
+
+* vachw0.txt
+python vac_hw0.py vac.txt vachw0.txt vachw0_note.txt
+
+file vac.txt has 47858 lines
+47858 headwords written to file vachw0.txt
+0 headwords contained a colon
+
+* vachw1.txt
+python vac_hw1.py vachw0.txt vachw1.txt vachw1_note.txt
+
+file vachw0.txt has 47858 lines
+47858 headwords written to file vachw1.txt
+1720 headwords with normalization changes written to vachw1_note.txt
+
+* vcptehw1.txt
+Copied from vcpte-vcp-cmp
+
+* hwcmp.txt: compare headwords from vachw1.txt and vcptehw1.txt
+The program is modified from hw_cmp7.py in vcpte-vcp-cmp directory.
+python hwcmp.py vcptehw1.txt vachw1.txt hwcmp_force.txt hwcmp.txt
+
+hwcmp_force.txt has 371 forced comparisons between
+vcpte2 (file1) and vac.txt (file2).
+By contrast, hw_cmp7_force.txt required 940 forced
+comparisons between vcpte2 (file1) and vcp0 (file2).
+So, as might have been expected, vac.txt is 'closer'
+in the headword arrangements to vcpte2 than to vcp0.
+
+Here are some summary comments from the hwcmp run:
+
+40 consecutive duplicate headwords found in vcptehw1.txt
+891 consecutive duplicate headwords found in vachw1.txt
+46985 records read from file#1 = vcptehw1.txt
+47858 records read from file#2 = vachw1.txt
+46964 records written to hwcmp.txt
+    7 matches of type altforms
+    1 matches of type MISSINGENTRIESGOHERE
+  433 matches of type ~=
+46159 matches of type ==
+   16 matches of type onlyfile#2
+    9 matches of type onlyfile#1
+  280 matches of type <-force#a->
+   57 matches of type <-force#b->
+    2 matches of type <-force#c->
+NO OPEN PROBLEMS!
+
+* hwcmpvcp.txt: compare headwords from vachw1.txt and vcphw1.txt
+
+python hwcmpa.py vachw1.txt vcphw1.txt hwcmpvcp_force.txt hwcmpvcp.txt
+
+The 'force' file required 626 lines.
+
+Summary stats from hwcmpa:
+47858 records read from file#1 = vachw1.txt
+48351 records read from file#2 = vcphw1.txt
+48059 records written to hwcmpvcp.txt
+    1 matches of type 
+    2 matches of type <-force#d->
+ 2586 matches of type ~=
+    2 matches of type vacdup
+44854 matches of type ==
+    1 matches of type inVcpte2
+    1 matches of type vacmarker
+  200 matches of type onlyfile#2
+    5 matches of type onlyfile#1
+   14 matches of type order
+  249 matches of type <-force#a->
+    1 matches of type errordup
+   34 matches of type altform
+    2 matches of type invcpte2
+    1 matches of type vacerr
+    2 matches of type <-force#b->
+   91 matches of type hwspell
+    2 matches of type orderprob
+   11 matches of type Kaq-order
+NO OPEN PROBLEMS!
+
+* vcpte2.txt
+This is copied from vcpte-vcp-cmp directory.
+It is the Tirupati edition, with minor headword-marking corrections.
+* compare vac.txt and vcpte2.txt
+python len1.py vcpte2.txt vac.txt hwcmp.txt len1.txt
+The output len1.txt shows several comparisons for each
+instance of vcpte-vac matched lines of hwcmp.txt (there are 46964 of these)
+Here are the first three output lines:
+ 2013  2096  1566  1566     0 a:2,9 == a:1,1;a:2,2
+  316   355   198   198    EQ afRin:10,14 == afRin:3,3
+ 1903  2032  1335  1339    -4 aMSa:15,20 == aMSa:4,4;aMSa:5,5
+
+The first one shows that there are 2013 characters in lines 2-9 (hw a) from
+vcpte2, and 2096 characters in the corresponding first two records of vac.
+When each of these is 'squashed', there remain 1566 characters in each.
+The 5th number represents the difference in the length of the two squashed
+data, so is '0'.
+Similarly, for afRin, the length of the two squashed lines is 1566.
+BUT NOTE that 'EQ' rather than '0' appears in the 5th field:  This indicates
+that the two squashed data are in fact identical as strings.  So, in fact
+the '0' in the first line informs us that there is some difference in the
+two squashed representations for 'a' in vcpte and vac.
+The third example shows that the two squashed representations are not
+equal, and do not have the same length - the vac representation has 4 more
+characters than the vcpte representation.
+
+Now, here are some summary stats:
+ # of hw matches =  46964
+ # of these missing vcpte or vac data =  33
+ # of these with identical squashlines =  43307
+
+So, there are 46964 - 33 = 46931 comparison records which match data from
+both vcpte and vac. And of these, 43259  have identical squashed representations.
+So 46931 - 43307 = 3624 have non-identical squashed representations;
+this is about 7% of the matching lines.
+Further details show that 2228 of the 3624 have squashed length differences of
+-1, 0, or 1 character.
+
+There are a few that have large squashed length differences: For instance,
+32237 43417 25744 34473 -8729 aBakzya:12930,12946 == aBakzya:3198,3198
+ 1116   611   874   365   509 aBra:14996,15000 == aBra:3706,3706;aBra:3707,3707
+16131 22562 13882 19592 -5710 ayana:16341,16349 == ayana:4042,4042
+
+It is suspected that there is some flaw in the matching for these cases. There
+are 331 cases where the difference in squashed lengths is 10 or greater.
+
+There are 39 cases where the difference in squashed lengths is 100 or greater.
+An examination of a couple of these, namely:
+ 1116   611   874   365   509 aBra:14996,15000 == aBra:3706,3706;aBra:3707,3707
+  314   165   206    70   136 kruqa:67542,67547 == kruqa:15487,15487
+
+showed flaws in vcpte2. 
+This comparison between vcpte2 and vac could be carried further, and refined,
+but it does not seem the best approach at this time.
+
+For now, start a comparison between vac and vcp. See directory vac-vcp-cmp1.
+* THE END

@@ -1,0 +1,164 @@
+readme.org for vac-vcp-cmp1
+Begun Feb 20, 2014
+
+This continues the work begun in vcpte-vcp-cmp1 folder.
+For the Tirupati edition, this work uses the vac.txt (Scharf edition of 
+Tirupati edition of Vacaspatyam):  see vcpte-pms folder.
+
+Here, 'vac' refers to this Scharf version of Tirupati edition of Vacaspatyam.
+Also, 'vcp' refers to the Cologne edition of Vacaspatyam.
+
+* vcp1.txt
+ This begins as a copy of vcp0.txt from folder vcpte-vcp-cmp.
+ It is the Cologne edition of Vacaspatyam, in slp1 transliteration and with
+ utf-8 encoding.
+* vac1.txt
+ This begins as a copy of vac.txt from folder vcpte-pms.
+ It is Scharf version of the Tirupati edition of Vacaspatyam.
+* hwcmpvcp1.txt
+ This file begins as a copy of hwcmpvcp.txt in vcpte-vac directory.
+ This provides the correspondence between headword blocks of 
+ vac and of vcp.
+* len1:  compare vac and vcp 
+python len1.py vac1.txt vcp1.txt hwcmpvcp1.txt len1.txt
+
+ # of hw matches =  48059
+ # of these missing vac or vcp data =  246
+ # of these with identical squashlines =  11332
+
+Of these:
+  53 lines have differences in squash length of 100 or more;
+2269 lines have differences in squash length of  10 or more.
+     (these lines saved in len1_large.txt)
+
+* match1b.py
+ This begins as a copy of match1a.py from vcpte-vcp-cmp1 folder.
+ It is adapted to work with the format of 'vac' (instead of vcpte).
+ The format of the 'drop' usage (for indicating
+
+>>> import match1b # first time
+>>> reload(match1b) # subsequently
+>>> cmprecs = match1b.init_cmp()
+>>> terecs=match1b.init_digitization("vac1.txt")
+>>> vcprecs=match1b.init_digitization("vcp1.txt")
+
+def teredo(lnum):
+ terecs=match1b.init_digitization("vac1.txt")
+ match1b.match1_lnum_chkdiff(lnum,terecs,vcprecs,cmprecs=cmprecs)
+
+>>> match1b.match1_lnum_print(104526,terecs,vcprecs,cmprecs=cmprecs,matchonly=False)
+>>> match1b.match1_lnum_print(21,terecs,vcprecs,cmprecs=cmprecs)
+
+18411 xxx
+18353 yyy
+match1b.match1_lnum_chkdiff(1,terecs,vcprecs,cmprecs=cmprecs)
+** timing notes
+Feb 23 BEG:  arogaRa:4304,4304  == arogaRa:24826,24827
+Feb 24 END: Atirekya:6611,6611 == Atirekya:46793,46794
+Feb 25 END:   ikzuja:8034,8034 ==   ikzuja:66509,66512
+Feb 26 END:     ukza:8563,8563 ==     ukza:77359,77422 (many small errors)
+  Note: Switched to pypy - it works fine, and is noticeably faster than
+        C-Python.
+Feb 27 END:upasaraRa:9805,9805 == upasaraRa:98762,98768  (At 25% mark of vac)
+Feb 28 END: ekatrika:10562,10562 == ekatrika:108713,108755
+Mar 01 END: kalaYja: 12398,12398 ==  kalaYja:132200,132206
+Mar 02 END: kzetra:  16027,16027 ==   kzetra:178652,179809
+Mar 03 END: carzaRi: 19352,19352 ==  carzaRi:217647,217663
+Mar 04 END: tUzRIm:  22920,22920 ==   tUzRIm:250635,250641
+Mar 05 END:     du:  25330,25330 ~=       dU:274527,274535
+Mar 06 END: naraloka:27766,27766 == naraloka:298791,298794
+Mar 07 END:  pAraRa: 31457,31457 ==   pAraRa:324255,324267
+Mar 08 END: prAvAsa: 34423,34423 ==  prAvAsa:340843,340844
+Mar 09 END: rasAsvAdin:39060,39060 == rasAsvAdin:361231,361233
+Mar 10 END:  vraRASa:  42399,42399 ==   vraRASa: 376174,376175
+Mar 11 END:  saMsfti:  44266,44266 ==   saMsfti: 390806,390806
+Mar 12 END: strIviDeya:46649,46649 == strIviDeya:403024,403024
+Mar 13 END:     hve:   47858,47858 ==     hve:   410042,410046
+DONE! THE END
+
+* TODO 
+  OzadaSvi:11126,11126;OzaDa:11127,11127 <-force#a-> OzadaSvi:118149,118368
+  OzaDa not headword
+
+  Somewhere in "k"-varga, vac starts using `xxx' for quotations.
+  kuRqa:13876,13876 == kuRqa:154969,155801
+   kuRqa had a big chunk missing (almost 500 lines). See the <add> section in
+   vac1.txt.
+kzetra:16027,16027 == kzetra:178652,179809 very difficult to correlate the two versions, due to many diagrams, coded slightly differently.
+
+garjja:17046,17046 vac  should separate verb hw from noun hw(s)
+
+grahayajYa:18351,18351 == grahayajYa:206438,206962
+  The end of the table on page 2764 is done differently in vac and vcp.
+  These differences (lines 206958-206962 of vcp) are not  resolved.
+  Mar 13:  I forced this record to match, by <drop> of the vac lines and
+  <add> of the vcp lines.
+
+jarAsanDa:20546,20546 == jarAsanDa:229260,229340
+ Nearly a full page (59 lines of vcp) was missing in vac!
+ These lines appear (wrongly, I think) at the end of 'jarttila' headword.
+
+* match1c  Mar 13, 2014
+>>> import match1c # first time
+>>> reload(match1c) # subsequently
+>>> cmprecs = match1c.init_cmp()
+>>> terecs=match1c.init_digitization("vac1.txt")
+>>> vcprecs=match1c.init_digitization("vcp1.txt")
+
+def teredo(lnum):
+ terecs=match1c.init_digitization("vac1.txt")
+ match1c.match1_lnum_chkdiff(lnum,terecs,vcprecs,cmprecs=cmprecs)
+
+* match1c : printadj vac2.txt, vcp2.txt Mar 14-16, 2014
+c:/pypy/pypy.exe -i
+import match1c # first time
+cmprecs = match1c.init_cmp()
+terecs=match1c.init_digitization("vac1.txt")
+vcprecs=match1c.init_digitization("vcp1.txt")
+
+match1c.match1_lnum_print(lnum,terecs,vcprecs,cmprecs=cmprecs)
+match1c.match1_lnum_print1(lnum,terecs,vcprecs,cmprecs=cmprecs)
+match1c.match1_lnum_print2(lnum,terecs,vcprecs,cmprecs=cmprecs)
+reload(match1c) # subsequently
+
+>>> match1c.printadj("vac2.txt","vcp2.txt",terecs,vcprecs,cmprecs=cmprecs)
+
+Note: 257522 of the 410046   lines (62.8%) have d=0; 
+i.e., they are 'essentially' the same 
+* match1c: vcp_missing.txt
+c:/pypy/pypy.exe -i
+import match1c # first time
+cmprecs = match1c.init_cmp()
+terecs=match1c.init_digitization("vac1.txt")
+vcprecs=match1c.init_digitization("vcp1.txt")
+
+match1c.select_missing("../vcpte-vcp-cmp/vcp0.txt","vcp_missing.txt")
+
+4266 / 410046 records from ../vcpte-vcp-cmp/vcp0.txt written to vcp_missing.txt
+
+match1c.select_missing("vcp1.txt","vcp1_missing.txt")
+4265 / 410046 records from vcp1.txt written to vcp1_missing.txt
+
+What is the 1 record difference?
+
+match1c.vac_for_missing("vcp_missing.txt","vac2.txt","vac_for_missing.txt")
+* format of editing changes in vcp1, vac1
+4 kinds of editing changes were introduced into vcp1.txt and vac1.txt
+to facilitate the correlation of the two editions.
+Each of these changes is in an xml format, so they may be readily identified
+as needed in further processing.
+<chg old="x">y</chg>  the 'old' text, 'x', is to be replaced by the new 'y'
+<add>x</add>  The text 'x' is to be added.
+<drop>x</drop> The text 'x' is to be deleted.
+<dup>x</dup>  The text 'x' is to be deleted.  The text 'x' has been 
+   identified as a repeat (or near repeat) of other text in the line.
+   This duplication occurs often (in 328 lines) in vac1; only once in vcp1.
+   <dup> was first used in vac1 at line 6059, though it could have been
+   used earlier if it had been thought of.
+
+* summary of editing changes in vac1,vcp1
+1649 of the 47858 lines of vac1.txt have an editing change:
+  i.e., these lines match the regular expression
+  <chg|<add|<dup|<drop
+2595 of the 410046 lines of vcp1.txt have an editing change.
+  Most of these (2413) are of the 'chg' type.

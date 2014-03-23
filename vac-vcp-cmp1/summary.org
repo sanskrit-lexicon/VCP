@@ -1,0 +1,216 @@
+summary.org for vac-vcp-cmp1 directory
+Jim Funderburk
+March 23, 2014
+
+My motivation for doing this work was to facilitate corrections to
+the Cologne edition of the Vachaspatyam Sanskrit dictionary.
+
+License:
+   Creative Commons Attribution Non-Commercial Share Alike.
+
+* purpose of the research
+There are two independently developed digitizations of the Vachaspatyam
+Sanskrit Dictionary, the Tirupati edition and the Cologne edition.
+The Tirupati edition was finished about 2003 (as far as I know), and
+the Cologne edition was finished in 2013.
+I assume that both digitizations are based upon the same print edition.
+An examination of scanned images of the print edition used in construction
+of the Cologne edition leads to the conclusion that the print edition is
+often difficult to read.  This is supported by the fact that in the 5000+
+pages, more than 4000 spots were marked in the Cologne edition as difficult
+to read.  Thus, it is likely that the digitizations contain numerous errors
+relative to what the print edition intended to say.
+When both digitizations agree in the representation of words, that digitized
+representation is probably in agreement with the text intention.  When the
+digitizations differ, the details of the difference can help focus the 
+attention of a Sanskrit scholar who can resolve the difference.
+
+* How to make the editions comparable?
+The two digitized editions are difficult to compare systematically.
+The Cologne edition is close to the printed edition, in that each line of
+each column of each page of the printed edition is represented separately.
+There is very little markup in the Cologne edition.  By contrast, the Tirupati
+edition  has essentially one line for each headword
+entry; the correspondence to lines of the printed edition is absent.  Further,
+the Tirupati edition has considerable markup. More seriously, the Tirupati
+edition has numerous  duplications, omissions, and misplacements of text; these
+deviations from the printed edition are not identified by any markup. 
+There are also several differences in the spelling and ordering of
+headwords in the two editions.
+
+To facilitate comparisons between the two editions, a computer-assisted
+algorithm has been used to break the Tirupati edition into lines comparable to
+the Cologne edition.  The algorithm required the manual insertion of formally
+simple editing markup into the Tirupati and a working version of the Cologne
+edition.  
+This editing markup is in an xml format, so the editing may be readily 
+identified in further processing.
+<chg old="x">y</chg>  the 'old' text, 'x', is to be replaced by the new 'y'
+<add>x</add>  The text 'x' is to be added.
+<drop>x</drop> The text 'x' is to be deleted.
+<dup>x</dup>  The text 'x' is to be deleted.  The text 'x' has been 
+   identified as a repeat (or near repeat) of other text in the line.
+   This duplication occurs often (in 328 lines) in vac1; only once in vcp1.
+   <dup> was first used in vac1 at line 6059, though it could have been
+   used earlier if it had been thought of.
+
+1649 of the 47858 lines of the Tirupati edition, vac1.txt, have one or more
+instance of editing markup.  2595 of the 410046 lines of the Cologne
+edition, vcp1.txt, have editing markup.
+These editing markup was developed by iterative application of a basic
+alignment algorithm, as described below.
+
+* primary products of research
+vac1.txt : The Tirupati edition with editing markup added. The markup
+           indicates parts of lines to be deleted or changed, and text
+           to be added.
+vcp1.txt : The Cologone edition, with similar markup.
+
+hwcmpvcp1.txt:  The headword 'records' of the two editions comprise certain
+           ranges of lines in the vac1 and vcp1 digitizations.  This file
+           shows correspondences between these headword records, despite
+           differences in headword spelling and headword ordering.
+vac2.txt : The Tirupati edition, broken into lines that are comparable to
+           the Cologne edition.  Thus line # X of vac2.txt is comparable to
+           line # X of vcp1.txt.
+
+* How different are the Tirupati and Cologne editions?
+As a first statistical tidbit on how the two editions compare,
+about 63% of the 410,000 lines are essentially identical in the two 
+editions, and another 21% of the
+lines differ by one character, and 9% differ by two characters.
+These statistics are based on the Levenshtein distance between 
+'squashed' versions of corresponding lines in vac2.txt and vcp2.txt
+(See the 'basic alignment algorithm' below for these technical terms.)
+
+* Suggestions for further research and usage.
+1. vac2 has been used to create a 'suggestion' file for resolution of 
+the 'undreadable (missing)' text of the Cologne edition. This has been
+found useful by the Sanskrit scholar, Sampada Savardekar, who is working
+with Peter Scharf on this improvement to the Cologne edition.
+2. Lines where the Cologne and Tirupati editions differ, and by how
+much, can be developed using the Levenshtein distance between squashed
+versions of corresponding lines of vac2.txt and vcp0.txt (or vcp1.txt).
+Corrections to the Cologne edition could then be developed by Sanskrit
+scholars.  The result would be a more accurate version
+of the Cologne edition.  This would be a substantial but worthwhile task.
+3. Once a clean Cologne edition is available, a correspondingly clean
+edition of the Tirupati edition seems computable.
+Alternately, an edition could be developed whereby the markup of the
+Tirupati edition is applied to the Cologne edition.
+4. There are imperfections in some alignments.  Further analysis of 
+the vac2/vcp2 correspondence could likely improve the alignment, and
+thereby enhance other tasks, such as those mentioned above.
+
+* The basic alignment algorithm
+The basic idea of the alignment algorithm is simple.  It applies to 
+a line of the Tirupati edition representing the text of a headword, and to
+the corresponding lines of the Cologne edition.  This correspondence of lines
+was itself developed by iterative application of an algorithm based on 
+headword spelling correspondences between the two files; it is represented in
+the hwcmpvcp1.txt file.
+To explain the idea of the alignment algorithm, it seems best to work through
+a simple example 'by hand'.
+Let's take the example of headword aMSaka.
+From the hwcmpvcp1.txt file, the correspondence between lines is
+ aMSaka:6,6 == aMSaka:71,76
+That is, the 6th line of Tirupati edition corresponds to lines 71-76 of the
+Cologne edition. Here is the text:
+Tirupat line 6:
+aMSaka	6	 %aMSaka% tri0<vkr> aMSa+Rvul.</vkr> (1)viBAjake striyAm aMSikA. (2)jYAtO dAyAde pu0</2><vkr> aMSa+(svArTe)kan.</vkr><reN1> aMSaSabdArTe <q>triMSAMSakastaTA rASerBAga<q> ityaBiDIyate iti jyotizam. </reN1><reN2> navamiterASitriMSaBAgAtmake navAMSe, <q>dviBartfkA mezanavAMSake syAt<q> ityupakramya<q> <q>zazWAMSake sA paSuSIlayukteti<q> <q>siMhAMSake sA pitfvAsasaMsTiteti,<q> ca jyo0</reN2> (3)sOradine na0.</3><page>vp1_040.pdf</page><column>1</column><br/>
+---------------------------------------------
+Cologne lines 71-76: (utf-8)
+71: <HI>{@aMSaka@}¦ tri0 aMSa--Rvul . viBAjake . striyAm aMSikA .
+72: <>jYAtO dAyAde pu0 aMSa + svArTe kan . aMSaSabdArTe
+73: <>“triMSAMSakastaTA rASe rBAga” ityaBiDIyate iti jyotizam
+74: <>navamite rASitriMSaBAgAtmake navAMSe, “dviBartfkA mezanavAMSake
+75: <>syAt ityupakramya” “vfzAMSake sA paSuSIlayukteti” siMhAM-
+76: <>Sake sA pitfvAsasaMsTiteti, ca jyo0 sOradine na0 .
+---------------------------------------------
+Here is the 'answer' according to the alignment algorithm.
+vac2: Tirupati edition lines 71-76:  
+000071:0:  te:  %aMSaka% tri0<vkr> aMSa+Rvul.</vkr> (1)viBAjake striyAm aMSikA
+000072:2:  te: jYAtO dAyAde pu0</2><vkr> aMSa+(svArTe)kan.</vkr><reN1> aMSaSabdArTe
+000073:0:  te: triMSAMSakastaTA rASerBAga<q> ityaBiDIyate iti jyotizam
+000074:0:  te: navamiterASitriMSaBAgAtmake navAMSe, <q>dviBartfkA mezanavAMSake
+000075:3:  te: syAt<q> ityupakramya<q> <q>zazWAMSake sA paSuSIlayukteti<q> <q>siMhAM
+000076:0:  te: Sake sA pitfvAsasaMsTiteti,<q> ca jyo0</reN2> (3)sOradine na0.</3><page>vp1_040.pdf</page><column>1</column><br/>
+
+--------------------------------------------
+Derivation of the Answer.
+Step 1a.  Remove markup and certain other 'extraneous' text from Tirupati edition.
+Here is the 'squashed' result:
+aMSakatriaMSaRvulviBAjakestriyAmaMSikAjYAtOdAyAdepuaMSa(svArTe)kanaMSaSabdArTetriMSAMSakastaTArASerBAgaityaBiDIyateitijyotizamnavamiterASitriMSaBAgAtmakenavAMSedviBartfkAmezanavAMSakesyAtityupakramyazazWAMSakesApaSuSIlayuktetisiMhAMSakesApitfvAsasaMsTiteticajyosOradinena
+
+Step 1b. Similarly, remove extraneous text from the Cologne edition:
+71: aMSakatriaMSaRvulviBAjakestriyAmaMSikA
+72: jYAtOdAyAdepuaMSasvArTekanaMSaSabdArTe
+73: triMSAMSakastaTArASerBAgaityaBiDIyateitijyotizam
+74: navamiterASitriMSaBAgAtmakenavAMSedviBartfkAmezanavAMSake
+75: syAtityupakramyavfzAMSakesApaSuSIlayuktetisiMhAM
+76: SakesApitfvAsasaMsTiteticajyosOradinena
+
+Step 2.
+Starting with the first remaining line (line #71) of Cologne edition,
+find its correspondent from the beginning of the remaining TE edition.
+In this case, the CE text exactly matches the beginning of TE. So
+
+te71: aMSakatriaMSaRvulviBAjakestriyAmaMSikA
+Remaining te: jYAtOdAyAdepuaMSa(svArTe)kanaMSaSabdArTetriMSAMSakastaTArASerBAgaityaBiDIyateitijyotizamnavamiterASitriMSaBAgAtmakenavAMSedviBartfkAmezanavAMSakesyAtityupakramyazazWAMSakesApaSuSIlayuktetisiMhAMSakesApitfvAsasaMsTiteticajyosOradinena
+
+Next, match line 72 of CE with remaining TE. Here the match is not
+exact, due to the two parentheses; so we look to match the last 5 
+characters dArTe of CE. This leads to 
+
+te72: jYAtOdAyAdepuaMSa(svArTe)kanaMSaSabdArTe
+remaining te: triMSAMSakastaTArASerBAgaityaBiDIyateitijyotizamnavamiterASitriMSaBAgAtmakenavAMSedviBartfkAmezanavAMSakesyAtityupakramyazazWAMSakesApaSuSIlayuktetisiMhAMSakesApitfvAsasaMsTiteticajyosOradinena
+
+Now, CE 73 exactly matches remaining TE, yielding
+te73:  triMSAMSakastaTArASerBAgaityaBiDIyateitijyotizam
+remaining te: navamiterASitriMSaBAgAtmakenavAMSedviBartfkAmezanavAMSakesyAtityupakramyazazWAMSakesApaSuSIlayuktetisiMhAMSakesApitfvAsasaMsTiteticajyosOradinena
+
+The same works for CE 74:
+te74: navamiterASitriMSaBAgAtmakenavAMSedviBartfkAmezanavAMSake
+remaining te: syAtityupakramyazazWAMSakesApaSuSIlayuktetisiMhAMSakesApitfvAsasaMsTiteticajyosOradinena
+
+The match for CE75 is not exact, but the same trick as for CE72 works 
+here; look for the last 5 characters 'iMhAM' of CE in te
+te75: syAtityupakramyazazWAMSakesApaSuSIlayuktetisiMhAM
+remaining te: SakesApitfvAsasaMsTiteticajyosOradinena
+
+The match for CE76 is exact:
+te76: SakesApitfvAsasaMsTiteticajyosOradinena
+
+Now we are out of CE lines, and of TE text. So the algorithm is done.
+
+In the case of inexact matches (CE72, 75), we can compute an 'editing
+distance' between the two proposed matches.  This is done via the
+Levenshtein algorithm, which counts how many editing changes (remove
+a character, insert a character, substitute a character) are required
+to convert one string into another.  In the case of CE72, this editing
+distance is 2 (remove the two parens from TE72 to get CE72).  In the
+case of CE75, 
+
+te75: syAtityupakramyazazWAMSakesApaSuSIlayuktetisiMhAM
+ce75: syAtityupakramyavfzAMSakesApaSuSIlayuktetisiMhAM 
+                      xx y
+we can convert te75 into ce75 by a substitution at the 'x' spots, and
+a deletion of the W at the 'y' spot.
+
+This, then is the basic alignment algorithm.  There are a couple of
+other tricks used in addition to that at lines 72 and 75.
+Also, identification of where editing changes to vac1 and/or vcp1 were 
+needed was accomplished
+by requiring that the editing distance between any matched portions
+be less than a certain threshold; this threshold was taken as '10'
+for the vac2 construction.  The details of the editing change required
+to remove a mismatch was done non-programmatically by examination of
+the texts at the identified point of mismatch.
+
+As a final detail, by keeping track of what markup was originally
+removed, the matching text, with markup, can be restored from the
+alignment of the 'squashed' text.
+
+All of the program logic is in match1c.py, whose usage is explained
+in the accompanying readme.org file.
+
