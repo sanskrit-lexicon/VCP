@@ -1,5 +1,5 @@
 """hw1.py  ejf Oct 1,2013 for vcp
- Usage - python hw1.py vcphw0.txt vcphw1_dhaval.txt vcphw1_dhaval_note.txt 
+ Usage - python hw1_dhaval.py vcphw0.txt vcphw1_dhaval.txt vcphw1_dhaval_note.txt 
  Read  hw0.txt, whose lines were created with:
  out = "%s:%s:%s,%s" %(page,hw,l1,l2)
 
