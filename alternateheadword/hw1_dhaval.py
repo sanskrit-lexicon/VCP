@@ -19,6 +19,7 @@
 import re
 import sys
 import codecs
+import levenshtein
 hw_override = {'UrdDa(rdDva)':'UrdDva',
   'UrdDa(rdDva)kaca':'UrdDvakaca',
   'UrdDa(rdDva)kaRWa':'UrdDvakaRWa',
@@ -50,35 +51,39 @@ def separator(hw):
  l1,l2 = lines.split(',')
  return (page,hw,l1,l2)
 def glueto(hw):
- global counter1, counter2
- hw = hw.replace(' ','')
- hw = hw.replace('*','')
- m = re.search('(.*)[(](.+)[)](.*)',hw)
- pre, mid, post = m.group(1), m.group(2), m.group(3)
- if re.search('abBr.{1}[(]Br.{1}[)]',hw): # abBra(Bra)puzpa, abBro(Bro)tTa
-  #print hw, "6"
-  out = "a"+mid+post+":6"
- elif re.search('UrdDa[(]rdDva[)]',hw): # abBra(Bra)puzpa, abBro(Bro)tTa
-  #print hw, "7"
-  out = "UrdDva"+post+":7"
- elif pre[-len(mid):].startswith(mid[0]) and len(pre)>=len(mid) and not pre[-len(mid):]==mid:
-  #print hw, "1"
-  out = pre[:-len(mid)]+mid+post+":1"
- elif pre[-len(mid):].endswith(mid[-1]) and len(pre)>=len(mid) and not pre[-len(mid):]==mid:
-  #print hw, "2"
-  out = pre[:-len(mid)]+mid+post+":2"
- elif post[:len(mid)].startswith(mid[0]) and len(post)>=len(mid) and not post[:len(mid)]==mid:
-  #print hw, "3"
-  out = pre+mid+post[len(mid):]+":3"
- elif post[:len(mid)].endswith(mid[-1]) and len(post)>=len(mid) and not post[:len(mid)]==mid:
-  #print hw, "4"
-  out = pre+mid+post[len(mid):]+":4"
- elif re.search('.{1}[(].{1}[)]',hw): # a(A)nEpuRa
-  #print hw, "5"
-  out = mid+post+":5"
- else:
-  out = pre+post+":404"
- return out
+	global counter1, counter2
+	hw = hw.replace(' ','')
+	hw = hw.replace('*','')
+	m = re.search('(.*)[(](.+)[)](.*)',hw)
+	pre, mid, post = m.group(1), m.group(2), m.group(3)
+	# decide the place to change
+	prelev = levenshtein.levenshtein(pre[-len(mid):],mid)
+	postlev = levenshtein.levenshtein(post[:len(mid)],mid)
+	out = pre+post+":404"
+	if re.search('.{1}[(].{1}[)]',hw): # a(A)nEpuRa
+		#print hw, "5"
+		out = mid+post+":5"
+	elif re.search('abBr.{1}[(]Br.{1}[)]',hw): # abBra(Bra)puzpa, abBro(Bro)tTa
+		#print hw, "6"
+		out = "a"+mid+post+":6"
+	elif re.search('UrdDa[(]rdDva[)]',hw): # abBra(Bra)puzpa, abBro(Bro)tTa
+		#print hw, "7"
+		out = "UrdDva"+post+":7"
+	elif prelev < postlev:
+		if pre[-len(mid):].startswith(mid[0]) and len(pre)>=len(mid) and not pre[-len(mid):]==mid:
+			#print hw, "1"
+			out = pre[:-len(mid)]+mid+post+":1"
+		elif pre[-len(mid):].endswith(mid[-1]) and len(pre)>=len(mid) and not pre[-len(mid):]==mid:
+			#print hw, "2"
+			out = pre[:-len(mid)]+mid+post+":2"
+	elif postlev < prelev:
+		if post[:len(mid)].startswith(mid[0]) and len(post)>=len(mid) and not post[:len(mid)]==mid:
+			#print hw, "3"
+			out = pre+mid+post[len(mid):]+":3"
+		elif post[:len(mid)].endswith(mid[-1]) and len(post)>=len(mid) and not post[:len(mid)]==mid:
+			#print hw, "4"
+			out = pre+mid+post[len(mid):]+":4"
+	return out
 def bracketanalyser(filein):
  fin = codecs.open(filein,'r','utf-8')
  midbracketfile = codecs.open('midbracket.txt','w','utf-8') # There is no entry which has '(' at the starting.
