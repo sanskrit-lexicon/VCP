@@ -125,6 +125,18 @@ def bracketanalyser(filein):
   elif re.search('b.*[(].*v.*[)]',hw) and suggest.replace('v','b') in basehwlist: # karbU(rvU)ra etc specific for bengal dictionaries
    validatedfile.write(line+"\n")
    validatecounter += 1
+  elif re.search('[(].*b.*[)].*v.*',hw) and suggest.replace('b','v') in basehwlist: # ava(ba)hitTA, pUrva(rba)karmman etc specific for bengal dictionaries
+   validatedfile.write(line+"\n")
+   validatecounter += 1
+  elif re.search('[(].*v.*[)].*b.*',hw) and suggest.replace('v','b') in basehwlist: # karbU(rvU)ra etc specific for bengal dictionaries
+   validatedfile.write(line+"\n")
+   validatecounter += 1
+  elif re.search('S.*[(].*s.*[)]',hw) and suggest.replace('s','S') in basehwlist: # kASU(sU)taro etc
+   validatedfile.write(line+"\n")
+   validatecounter += 1
+  elif re.search('S.*[(].*z.*[)]',hw) and suggest.replace('z','S') in basehwlist: # kASU(sU)taro etc
+   validatedfile.write(line+"\n")
+   validatecounter += 1
   else:
    nonvalidatedfile.write(line+"\n")
    nonvalidatecounter += 1
