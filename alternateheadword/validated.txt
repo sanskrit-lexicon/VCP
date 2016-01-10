@@ -120,7 +120,6 @@
 2038,b:kASma(Sva)rI:152054,152057:kASvarI:1
 2045,a:kikIdi(dI)vi:152563,152567:kikIdIvi:1
 2050,a:kimpu(mpU)ruza:152947,152970:kimpUruza:1
-2055,b:kiSa(sa)ra:153381,153384:kiSara:404
 2056,a:kiSa(sa)rAdi:153387,153389:kisarAdi:2
 2063,a:kukkuwa(wI)vrata:153932,153936:kukkuwIvrata:1
 2095,a:kutU(kU)Raka:156349,156353:kukURaka:2
@@ -136,9 +135,7 @@
 2153,a:kuSI(sI)raka:160781,160783:kusIraka:2
 2164,b:kU(ku)pa:161659,161661:kupa:1
 2169,a:kUlahu(ha)Rqaka:161996,161997:kUlahaRqaka:1
-2215,b:kfzRa(va)balakza:165504,165506:kfzRabalakza:404
 2219,b:kfzRaSA(sA)ra:165813,165817:kfzRasAra:2
-2246,a:keSa(sa)ra:167851,167868:keSara:404
 2246,b:keSa(sa)rAmlaH:167878,167878:kesarAmlaH:2
 2246,b:keSa(sa)rin:167879,167883:kesarin:2
 2246,b:keSa(sa)risuta:167884,167892:kesarisuta:2
@@ -148,17 +145,13 @@
 2268,a:ko(kO)lUta:169499,169499:kOlUta:1
 2272,a:koSa(za)kAra:169811,169818:kozakAra:2
 2272,a:koSa(za)kft:169819,169821:kozakft:2
-2272,a:koSa(za)caYcu:169822,169822:koSacaYcu:404
 2272,a:koSa(za)pAla:169823,169832:kozapAla:2
-2272,a:koSa(za)Pala:169833,169835:koSaPala:404
 2272,b:koSa(sa)lA:169838,169851:kosalA:2
-2272,b:koSa(za)vat:169858,169864:koSavat:404
 2272,b:koSa(za)vAsin:169865,169867:kozavAsin:2
 2272,b:koSa(za)vfdDi:169868,169869:kozavfdDi:2
 2272,b:koSa(za)SAyikA:169870,169871:kozaSAyikA:2
 2272,b:koSa(za)skft:169872,169874:kozaskft:2
 2273,a:koSa(za)sTa:169875,169881:kozasTa:2
-2273,a:koSA(zA)gAraM:169882,169884:koSAgAraM:404
 2273,a:koSA(zA)Nga:169885,169885:kozANga:2
 2273,a:koSA(zA)taka:169886,169897:kozAtaka:2
 2273,a:koSA(zA)mra:169898,169902:kozAmra:2
@@ -259,8 +252,6 @@
 3469,b:damu(mU)nas:260337,260343:damUnas:1
 3472,b:dardru(rdrU)Gna:260541,260541:dardrUGna:1
 3473,b:darvi(rvI)homa:260635,260636:darvIhoma:1
-3560,b:dASa(sa)nadinI:267218,267219:dASanadinI:404
-3560,b:dASa(sa)PalI:267223,267223:dASaPalI:404
 3560,b:dASa(sa)meya:267224,267226:dAsameya:2
 3588,a:diviza(sa)d:269311,269315:divisad:2
 3611,b:dIrGakoSi(zi)kA:271106,271108:dIrGakozikA:2
@@ -308,7 +299,6 @@
 4070,a:nipa(pA)Wa:305915,305915:nipAWa:1
 4071,b:niba(va)rhaRa:306026,306028:nivarhaRa:2
 4095,b:nirda(rdi)gDikA:307868,307869:nirdigDikA:1
-4098,a:nirva(rba)rhaRa:308040,308041:nirvarhaRa:404
 4108,a:ni(nI)vAra:308797,308802:nIvAra:1
 4112,b:niSci(ScI)rA:309140,309140:niScIrA:1
 4117,a:nizkA(Sa)sa:309500,309504:nizkASa:4
@@ -350,8 +340,6 @@
 4259,a:pari(rI)hAra:320295,320296:parIhAra:1
 4259,a:pari(rI)hAsa:320299,320299:parIhAsa:1
 4268,a:parva(RI)RikA:320982,320982:parvaRIkA:3
-4282,b:pAMSa(sa)na:322082,322082:pAMSana:404
-4282,b:pAMSa(sa)va:322083,322084:pAMSava:404
 4283,a:pAMSu(su)kAsIsa:322096,322096:pAMsukAsIsa:2
 4283,a:pAM(Su)sukulI:322097,322098:pAMSukulI:4
 4283,a:pAMSu(su)kzAra:322102,322103:pAMsukzAra:2
@@ -456,7 +444,6 @@
 4472,a:praba(va)rha:336454,336454:pravarha:2
 4475,b:pramaRa(na)s:336744,336745:pramanas:2
 4490,b:pra(prA)vawa:337875,337875:prAvawa:1
-4490,b:pra(ba)vaRa:337876,337879:pravaRa:404
 4502,a:pra(svA)svana:338751,338751:prasvAna:3
 4503,b:prahrA(hlA)da:338860,338864:prahlAda:1
 4524,b:prAdoza(zi)ka:340462,340462:prAdozika:1
@@ -477,17 +464,9 @@
 4556,a:PeRA(nA)gra:342842,342842:PenAgra:2
 4556,a:PeRi(ni)la:342845,342847:Penila:2
 4557,a:baq*avAkf(hf)ta:342901,342902:baqavAhfta:2
-4557,b:ba(va)dara:342930,342935:badara:404
-4557,b:ba(va)daraPalI:342938,342939:badaraPalI:404
-4557,b:ba(va)daraballI:342940,342941:badaraballI:404
-4557,b:ba(va)darAmalaka:342942,342943:badarAmalaka:404
-4557,b:ba(va)darikASrama:342944,342948:badarikASrama:404
-4557,b:ba(va)darI:342949,342951:badarI:404
-4557,b:ba(va)darIcCadA:342952,342953:badarIcCadA:404
 4558,b:ba(va)DU:343032,343035:vaDU:2
 4559,a:ba(va)DUwI:343036,343037:vaDUwI:2
 4565,a:bali(lI)muKa:343516,343517:balImuKa:1
-4565,b:ba(va)ha:343545,343547:baha:404
 4565,b:ba(va)hu:343549,343554:vahu:2
 4565,b:ba(va)hukaRwaka:343556,343558:vahukaRwaka:2
 4565,b:ba(va)hukaRwA:343559,343559:vahukaRwA:2
@@ -592,7 +571,6 @@
 4589,a:bf(vf)hadDala:345347,345347:vfhadDala:2
 4589,a:bf(vf)hadbrahman:345348,345352:vfhadbrahman:2
 4589,b:bf(vf)hadBawwArikA:345353,345353:vfhadBawwArikA:2
-4589,b:bfha(vf)dBaya:345354,345354:bfhadBaya:404
 4589,b:bf(vf)hadBAnu:345355,345357:vfhadBAnu:2
 4589,b:bf(vf)hadraRa:345358,345358:vfhadraRa:2
 4589,b:bf(vf)hadraTa:345359,345361:vfhadraTa:2
@@ -733,8 +711,6 @@
 4610,a:bra(vra)hmopanizad:346937,346937:vrahmopanizad:2
 4610,a:bra(vra)hmOdana:346938,346943:vrahmOdana:2
 4610,a:brA(vrA)hma:346944,346971:vrAhma:2
-4610,b:brA(vra)hmaka:346972,346972:brAhmaka:404
-4610,b:brA(vra)hmagupta:346973,346974:brAhmagupta:404
 4610,b:brA(vrA)hmaRa:346975,347289:vrAhmaRa:2
 4615,a:brA(vrA)hmaRaka:347290,347295:vrAhmaRaka:2
 4615,a:brA(vrA)hmaRakAmyA:347296,347298:vrAhmaRakAmyA:2
@@ -817,7 +793,6 @@
 4987,b:vyADu(DU)ta:375573,375573:vyADUta:1
 5074,a:Sakk(v)ara:382147,382150:vara:5
 5076,b:Sa(sa)ktu:382360,382361:saktu:2
-5086,b:Sa(sa)rala:383106,383107:Sarala:404
 5090,a:Sa(SA)lmali:383350,383352:SAlmali:1
 5098,b:SAmbu(mbU)ka:384031,384032:SAmbUka:1
 5099,a:SA(sA)yaka:384037,384037:sAyaka:2

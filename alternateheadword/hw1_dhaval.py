@@ -59,7 +59,7 @@ def glueto(hw):
 	# decide the place to change
 	prelev = levenshtein.levenshtein(pre[-len(mid):],mid)
 	postlev = levenshtein.levenshtein(post[:len(mid)],mid)
-	out = pre+post+":404"
+	out = hw+":404"
 	if re.search('.{1}[(].{1}[)]',hw): # a(A)nEpuRa
 		#print hw, "5"
 		out = mid+post+":5"
