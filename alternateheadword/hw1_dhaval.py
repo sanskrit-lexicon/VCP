@@ -20,6 +20,7 @@ import re
 import sys
 import codecs
 import levenshtein
+import alphabetdistance
 hw_override = {'UrdDa(rdDva)':'UrdDva',
   'UrdDa(rdDva)kaca':'UrdDvakaca',
   'UrdDa(rdDva)kaRWa':'UrdDvakaRWa',
@@ -55,8 +56,9 @@ def glueto(hw):
 	hw = hw.replace(' ','')
 	hw = hw.replace('*','')
 	m = re.search('(.*)[(](.+)[)](.*)',hw)
-	pre, mid, post = m.group(1), m.group(2), m.group(3)
+	pre, mid, post = re.sub('[^a-zA-Z]','',m.group(1)), re.sub('[^a-zA-Z]','',m.group(2)), re.sub('[^a-zA-Z]','',m.group(3))
 	# decide the place to change
+	print pre, mid, post
 	prelev = levenshtein.levenshtein(pre[-len(mid):],mid)
 	postlev = levenshtein.levenshtein(post[:len(mid)],mid)
 	out = hw+":404"
@@ -83,6 +85,12 @@ def glueto(hw):
 		elif post[:len(mid)].endswith(mid[-1]) and len(post)>=len(mid) and not post[:len(mid)]==mid:
 			#print hw, "4"
 			out = pre+mid+post[len(mid):]+":4"
+	elif alphabetdistance.distancescore(pre[:-len(mid)],mid) < alphabetdistance.distancescore(post[:len(mid)],mid):
+		print hw, "8"
+		out = pre[:-len(mid)]+mid+post+":8"
+	elif alphabetdistance.distancescore(pre[:-len(mid)],mid) > alphabetdistance.distancescore(post[:len(mid)],mid):
+		print hw, "9"
+		out = pre+mid+post[len(mid):]+":9"
 	return out
 def bracketanalyser(filein):
  fin = codecs.open(filein,'r','utf-8')
