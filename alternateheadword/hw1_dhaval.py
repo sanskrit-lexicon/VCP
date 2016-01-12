@@ -37,14 +37,21 @@ hw_override = {'UrdDa(rdDva)':'UrdDva',
 def bracketseparator(filein):
  fin = codecs.open(filein,'r','utf-8')
  fout = codecs.open('bracketwords.txt','w','utf-8')
+ fout2 = codecs.open('otherthanbracketwords.txt','w','utf-8')
  data = fin.readlines()
  counter = 0
+ counter2 = 0
  for hw in data:
   hw = hw.strip()
   if re.search('\(.*\)',hw):
    fout.write(hw+"\n")
    counter += 1
+  elif re.search(':[^:]*[^a-zA-Z:]+[^:]*:',hw):
+   fout2.write(hw+"\n")
+   counter2 += 1
+ print len(data), "words in input file"
  print counter, "words have brackets and are put in bracketwords.txt"
+ print counter2, "words are those other than brackets and are put in otherthanbracketwords.txt"
  fout.close()
 def separator(hw):
  hw = hw.strip()
@@ -58,7 +65,6 @@ def glueto(hw):
 	m = re.search('(.*)[(](.+)[)](.*)',hw)
 	pre, mid, post = re.sub('[^a-zA-Z]','',m.group(1)), re.sub('[^a-zA-Z]','',m.group(2)), re.sub('[^a-zA-Z]','',m.group(3))
 	# decide the place to change
-	print pre, mid, post
 	prelev = levenshtein.levenshtein(pre[-len(mid):],mid)
 	postlev = levenshtein.levenshtein(post[:len(mid)],mid)
 	out = hw+":404"
@@ -86,10 +92,10 @@ def glueto(hw):
 			#print hw, "4"
 			out = pre+mid+post[len(mid):]+":4"
 	elif alphabetdistance.distancescore(pre[:-len(mid)],mid) < alphabetdistance.distancescore(post[:len(mid)],mid):
-		print hw, "8"
+		#print hw, "8"
 		out = pre[:-len(mid)]+mid+post+":8"
 	elif alphabetdistance.distancescore(pre[:-len(mid)],mid) > alphabetdistance.distancescore(post[:len(mid)],mid):
-		print hw, "9"
+		#print hw, "9"
 		out = pre+mid+post[len(mid):]+":9"
 	return out
 def bracketanalyser(filein):
