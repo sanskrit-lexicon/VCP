@@ -1,0 +1,16 @@
+; These are cases where there is no '0' in the line, but it is a verb.
+  92876:Iga¦ gatO idit igivat . INgati ENgIt INgate ityeke .
+ 155531:kartta¦ SETilyeSiTilIkaraRe AramBasaMyogaSiTilatApAdane
+ 183916:kiwakiwAya¦ kiwakiwetyavyaktaSabdakaraRe qAc--kyac--nAmaDAtuH
+ 195196:kUrdda¦ krIqAyAM kurddavat .
+ 288885:qapa¦ saMhatO uktO qapavat idit . qampayate aqiqampata .
+ 289330:Rawa¦ nftye sABinaye nawakAryye hiMsAyAmayaM na RopadeSI
+ 294928:taruza¦ hiMsAyAM baDakarmmasu “vanuzyati taruzyati” niGaRwUkteH
+ 315843:danSa¦ hiMsane radakaraRakavyApAraBede daMSane (kAmaqAna)
+ 332718:duha¦ dohane antaHsTitadravadravyasyAkarzaRena bahirnismAraRe
+ 358029:DvraRa¦ Sabde DraRavat sarvam .
+ 445810:mrunca¦ gatO sarvaM mrucavat . mruYcati amrucat amnuYcIt .
+ 445835:mlunca¦ gatO mlucavat sarvam . mluYcati amlucat amluYcIt
+ 456074:varRRa¦ stutO vistAre SuklAdivarRakaraRe udyoge dIpane ca
+; And here are cases of verbs with no 'e/O/Am' ending
+  81446:Asa¦ upaveSaneadAdi0 A0 aka0 sew . Aste AstAm

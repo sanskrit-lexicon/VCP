@@ -1,0 +1,192 @@
+;Case 001: L=5696, k1=asa
+49809 old <HI>parA--nirAkAraRe “etena KaRqanakAramatamapi parAstam” cintA0
+49809 new <HI>parA + nirAkAraRe “etena KaRqanakAramatamapi parAstam” cintA0
+;
+;Case 002: L=5696, k1=asa
+49810 old <HI>pari--parAvarttanena sTApane “muKena paryyastavilocanena” kumA0 .
+49810 new <HI>pari + parAvarttanena sTApane “muKena paryyastavilocanena” kumA0 .
+;
+;Case 003: L=5696, k1=asa
+49816 old <HI>pra--prakzepe “apsu prAsya vinazwAni gfhRItAnyAni mantravat”
+49816 new <HI>pra + prakzepe “apsu prAsya vinazwAni gfhRItAnyAni mantravat”
+;
+;Case 004: L=5696, k1=asa
+49818 old <HI>anu--pra--Anulomyena anugatatayA ekarUpeRa niveSane anuprAsaH
+49818 new <HI>anu + pra + Anulomyena anugatatayA ekarUpeRa niveSane anuprAsaH
+;
+;Case 005: L=5696, k1=asa
+49819 old <HI>prati--pratirUpakzepaRe . “tadyaTA'hinirlayaRI valmIke mftA pra-
+49819 new <HI>prati + pratirUpakzepaRe . “tadyaTA'hinirlayaRI valmIke mftA pra-
+;
+;Case 006: L=5696, k1=asa
+49821 old <HI>vi--viSezarUpeRa samyagavaboDanAya niveSane vyAsaH vigrahavAkyam
+49821 new <HI>vi + viSezarUpeRa samyagavaboDanAya niveSane vyAsaH vigrahavAkyam
+;
+;Case 007: L=5696, k1=asa
+49831 old <HI>vi--ni--arpaRe . “vizRorvakzasi viSvanATakftinA sidDAntamuktAvalI
+49831 new <HI>vi + ni + arpaRe . “vizRorvakzasi viSvanATakftinA sidDAntamuktAvalI
+;
+;Case 008: L=5696, k1=asa
+49833 old <HI>sam--saMkzepe “samAsena niboData” purA0 samasyA . saMkzipyanyasane
+49833 new <HI>sam + saMkzepe “samAsena niboData” purA0 samasyA . saMkzipyanyasane
+;
+;Case 009: L=7029, k1=Apa
+69051 old <HI>pra--prakarzeRAptO prApnoti prAptaH prAptiH “aprAptasya ca yAprAptiHsaMyogaH sa udAhftaH” BAzA0 .
+69051 new <HI>pra + prakarzeRAptO prApnoti prAptaH prAptiH “aprAptasya ca yAprAptiHsaMyogaH sa udAhftaH” BAzA0 .
+;
+;Case 010: L=7853, k1=Asa
+81464 old <HI>aDi--aDyArohaRe saka0 . gaganamaDyamaDyAste divAkaraH
+81464 new <HI>aDi + aDyArohaRe saka0 . gaganamaDyamaDyAste divAkaraH
+;
+;Case 011: L=7853, k1=Asa
+81470 old <HI>anu--paScAdupaveSanena sevane saka0 . “anvAsitamarunDatyA
+81470 new <HI>anu + paScAdupaveSanena sevane saka0 . “anvAsitamarunDatyA
+;
+;Case 012: L=7853, k1=Asa
+81473 old <HI>aBi--ABimuKyena sTitO nEkawye ca aka0 aByAsaH a-
+81473 new <HI>aBi + ABimuKyena sTitO nEkawye ca aka0 aByAsaH a-
+;
+;Case 013: L=7853, k1=Asa
+81475 old <HI>ud--OdAsye prakftakarmmaRa uparame aka0 “viDAya vEraM sAmarze
+81475 new <HI>ud + OdAsye prakftakarmmaRa uparame aka0 “viDAya vEraM sAmarze
+;
+;Case 014: L=7853, k1=Asa
+81477 old <HI>upa--sevane saka0 . “nopAste yaSca paScimAm” manuH .
+81477 new <HI>upa + sevane saka0 . “nopAste yaSca paScimAm” manuH .
+;
+;Case 015: L=7853, k1=Asa
+81481 old <HI>pari--upa--upAsanasya prakarzArTe “yaTEva kzuDitA bAlA mAtaraM
+81481 new <HI>pari + upa + upAsanasya prakarzArTe “yaTEva kzuDitA bAlA mAtaraM
+;
+;Case 016: L=7853, k1=Asa
+81484 old <HI>sam--upa--samyagupAsane saka0 . “samupAsyata putraBogyayA” raGuH
+81484 new <HI>sam + upa + samyagupAsane saka0 . “samupAsyata putraBogyayA” raGuH
+;
+;Case 017: L=7853, k1=Asa
+81485 old <HI>pari--paritaH sTitO aka0 samyak sevane saka0 . tAmetaddevASca
+81485 new <HI>pari + paritaH sTitO aka0 samyak sevane saka0 . tAmetaddevASca
+;
+;Case 018: L=7853, k1=Asa
+81487 old <HI>sam--samyak sTitO upaveSane ca . “BogiBogasamAsInam”
+81487 new <HI>sam + samyak sTitO upaveSane ca . “BogiBogasamAsInam”
+;
+;Case 019: L=8130, k1=iR
+85410 old <HI>aBi--AmimuKyena gatO saka0 “dehAn yaTezwamaByeti hitve-
+85410 new <HI>aBi + AmimuKyena gatO saka0 “dehAn yaTezwamaByeti hitve-
+;
+;Case 020: L=8130, k1=iR
+85415 old <HI>ava--avagame, jYAne, saka0 “avEmi te sAramataH Kalu tvAm”
+85415 new <HI>ava + avagame, jYAne, saka0 “avEmi te sAramataH Kalu tvAm”
+;
+;Case 021: L=8130, k1=iR
+85427 old <HI>A--Agamane saka0 . “paYcAlanAM samitimeyAya” “stabDa-
+85427 new <HI>A + Agamane saka0 . “paYcAlanAM samitimeyAya” “stabDa-
+;
+;Case 022: L=8130, k1=iR
+85436 old <HI>ud--udgatO aka0 . “udeti savitA tAmrastAmra evAstameti
+85436 new <HI>ud + udgatO aka0 . “udeti savitA tAmrastAmra evAstameti
+;
+;Case 023: L=8130, k1=iR
+85447 old <HI>nir--nirgamane . “rniyadantraviBUzitam” durgADyAnam . niragAcCatruhastaM tvam” BawwiH
+85447 new <HI>nir + nirgamane . “rniyadantraviBUzitam” durgADyAnam . niragAcCatruhastaM tvam” BawwiH
+;
+;Case 024: L=8130, k1=iR
+85448 old <HI>parA--pretaBAvaprAptO paretaH . palAyane ca “yaH parEti
+85448 new <HI>parA + pretaBAvaprAptO paretaH . palAyane ca “yaH parEti
+;
+;Case 025: L=8130, k1=iR
+85452 old <HI>pari--vyAptO saka0 parItaH “pavitraM paryyozi viSvataH” f0 7,
+85452 new <HI>pari + vyAptO saka0 parItaH “pavitraM paryyozi viSvataH” f0 7,
+;
+;Case 026: L=8489, k1=Ikza
+92728 old <HI>apa--AkANkzAyAmanuroDe avaDiniyame ca . “apekzate
+92728 new <HI>apa + AkANkzAyAmanuroDe avaDiniyame ca . “apekzate
+;
+;Case 027: L=10162, k1=uza
+124967 old <HI>aBi--sarvvato dAhe . “yo'ByuzwamiSra iva” Sata0 brA0
+124967 new <HI>aBi + sarvvato dAhe . “yo'ByuzwamiSra iva” Sata0 brA0
+;
+;Case 028: L=10162, k1=uza
+124970 old <HI>ava--aDaHsantApanena dAhe . avozaH aDoBAge dagDo annaBedaH apUpAdi0 .
+124970 new <HI>ava + aDaHsantApanena dAhe . avozaH aDoBAge dagDo annaBedaH apUpAdi0 .
+;
+;Case 029: L=10162, k1=uza
+124971 old <HI>ud--ADikyena dAhe . “mA modozizwam mA mA hiMsizwa-
+124971 new <HI>ud + ADikyena dAhe . “mA modozizwam mA mA hiMsizwa-
+;
+;Case 030: L=10162, k1=uza
+124974 old <HI>upa--sAmIpyena dAhe . “agninA vA kakzamupozet” ASva0
+124974 new <HI>upa + sAmIpyena dAhe . “agninA vA kakzamupozet” ASva0
+;
+;Case 031: L=10162, k1=uza
+124977 old <HI>prati--pratidAhe . “sa tvamagne pratIkena pratyozaH yAtuDAnyaH”
+124977 new <HI>prati + pratidAhe . “sa tvamagne pratIkena pratyozaH yAtuDAnyaH”
+;
+;Case 032: L=10274, k1=UrRRu
+126033 old <HI>A--samagAcCAdane . “indraM somErorRRuta jUrRRavastrEH” f0 2, 14, 3
+126033 new <HI>A + samagAcCAdane . “indraM somErorRRuta jUrRRavastrEH” f0 2, 14, 3
+;
+;Case 033: L=10274, k1=UrRRu
+126034 old <HI>pra--pracCAdane . prOrRRuvan SaravarzeRa tAnapOhInniSAcaraH” .
+126034 new <HI>pra + pracCAdane . prOrRRuvan SaravarzeRa tAnapOhInniSAcaraH” .
+;
+;Case 034: L=10274, k1=UrRRu
+126036 old <HI>vi--vigatApavaraRe prakASane . “savitarvyUrRuze'nucInA” f04,
+126036 new <HI>vi + vigatApavaraRe prakASane . “savitarvyUrRuze'nucInA” f04,
+;
+;Case 035: L=10356, k1=Uha
+126861 old <HI>ati--ekadeSasTitasya tadviparItadeSapreraRe “droRakalasamatyU-
+126861 new <HI>ati + ekadeSasTitasya tadviparItadeSapreraRe “droRakalasamatyU-
+;
+;Case 036: L=10356, k1=Uha
+126908 old <HI>sam--samavetaBavane saMhanane samyakprApaRe ca . “yadgavyantA
+126908 new <HI>sam + samavetaBavane saMhanane samyakprApaRe ca . “yadgavyantA
+;
+;Case 037: L=10356, k1=Uha
+126914 old <HI>pari--sam--samantAt parimArjane “vediM parisamuhya” kAtyA0
+126914 new <HI>pari + sam + samantAt parimArjane “vediM parisamuhya” kAtyA0
+;
+;Case 038: L=12456, k1=kala
+160527 old <HI>ava--avagame avakalayati vi + ava viyojane “yadi vyakte
+160527 new <HI>ava + avagame avakalayati vi + ava viyojane “yadi vyakte
+;
+;Case 039: L=14622, k1=kf
+195620 old <HI>dur--duzwAcaraRe duzkftaM duzkftiH .
+195620 new <HI>dur + duzwAcaraRe duzkftaM duzkftiH .
+;
+;Case 040: L=14737, k1=kfpa
+197566 old <HI>sam--kalpi idaM karizyAmItyebaMrUpe mAnasavyApAraBede .
+197566 new <HI>sam + kalpi idaM karizyAmItyebaMrUpe mAnasavyApAraBede .
+;
+;Case 041: L=15904, k1=kzipa
+213956 old <HI>aDi--tiraskAre “tasmAdetEraDikziptaH saMhetAsaMjvaraH sadA”
+213956 new <HI>aDi + tiraskAre “tasmAdetEraDikziptaH saMhetAsaMjvaraH sadA”
+;
+;Case 042: L=20539, k1=jana
+273144 old <HI>ati--atikramya janane saka0 .
+273144 new <HI>ati + atikramya janane saka0 .
+;
+;Case 043: L=22121, k1=tapa
+292760 old <HI>ava--aDastAse . avataptenakulasTitam” si0 kO0 .
+292760 new <HI>ava + aDastAse . avataptenakulasTitam” si0 kO0 .
+;
+;Case 044: L=23509, k1=trapa
+305541 old <HI>apa--anyato lajjAyAm “tasmAdbalErapatrepe” BawwiH . “lajjA
+305541 new <HI>apa + anyato lajjAyAm “tasmAdbalErapatrepe” BawwiH . “lajjA
+;
+;Case 045: L=25071, k1=diSa
+327303 old <HI>prati--upa + upadeSasya pratirUpopadeSe “vyAGiM prati pratyupade-
+327303 new <HI>prati + upa + upadeSasya pratirUpopadeSe “vyAGiM prati pratyupade-
+;
+;Case 046: L=36708, k1=BU
+434795 old <HI>aDi--ADikyena Bavane ESvaryye .
+434795 new <HI>aDi + ADikyena Bavane ESvaryye .
+;
+;Case 047: L=36708, k1=BU
+434796 old <HI>anu--anuBave jYAnaBede saka0 anuBavaSabde dfSyam .
+434796 new <HI>anu + anuBave jYAnaBede saka0 anuBavaSabde dfSyam .
+;
+;Case 048: L=36708, k1=BU
+434800 old <HI>ud--utpattO aka0 .
+434800 new <HI>ud + utpattO aka0 .
+;
