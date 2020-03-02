@@ -4996,7 +4996,7 @@ graha¦ hastavyApAraBede svIkAre jYAne ca kryA0 uBa0 saka0 sew .
 <>graBIt” yaju017 . 63 . UrdDaM vigfjya dAmam udgrahaH”
 <>vedadI0 “udgfhRate svAhodgfhItAya svAhA” 22 . 26 .
 <>udDftya uttolya grahaRe “SaktiM yo'gryAmudagrahIt” BawwiH .
-*<HI>uda + graha + Ric . udgrAhi--upanyAse “udgrAhitamu-
+*<HI>ud + graha + Ric . udgrAhi--upanyAse “udgrAhitamu-
 <>panyastam” vEjayantI “viSezaviduzaH SAstraM yattavodgrA-
 <>hyate mayA” mAGaH . “mojjigrahaH sunItAni” BawwiH
 *<HI>upa + ud + jYAne . “tasya hi muKamupodgfhRannuvAca” CA0 u0
@@ -10633,8 +10633,8 @@ pF¦ pAlane pUrttO ca kyrA0 BvA0 para0 saka0 sew SnApratyaye pare
 <>hrasvaH . pfRAti apArIt . papAra paparatuH papratuH .
 ;----------------------------------------------------------------------
 ;
-;; Case 1212: L=33219, k1=pf, k2=pf, #upasargas=0, mw=pf (same)
-pf¦ pUrttO cra0 uma0 saka0 sew . pArayati-te apIparat ta .
+;; Case 1212: L=33219, k1=pF, k2=pF, #upasargas=0, mw=pF (same)
+pF¦ pUrttO cra0 uma0 saka0 sew . pArayati-te apIparat ta .
 ;----------------------------------------------------------------------
 ;
 ;; Case 1213: L=33232, k1=peRa, k2=peRa, #upasargas=0, mw=peR (diff)

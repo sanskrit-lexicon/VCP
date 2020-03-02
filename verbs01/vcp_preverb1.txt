@@ -859,7 +859,7 @@
 ;; Case 0500: L=18426, k1=granTa, k2=granTa, #upasargas=0, mw=granT (diff)
 ;; Case 0501: L=18451, k1=grasa, k2=grasa, #upasargas=0, mw=gras (diff)
 ;; Case 0502: L=18452, k1=grasa, k2=grasa, #upasargas=0, mw=gras (diff)
-;; Case 0503: L=18461, k1=graha, k2=graha, #upasargas=23 (21/2), mw=grah (diff)
+;; Case 0503: L=18461, k1=graha, k2=graha, #upasargas=23 (20/3), mw=grah (diff)
 01        ati      graha             atigraha              atigrah yes ati+grah
 02        anu      graha             anugraha              anugrah yes anu+grah
 03     samanu      graha          samanugraha           samanugrah yes sam+anu+grah
@@ -871,7 +871,7 @@
 09          A      graha               Agraha                Agrah yes A+grah
 10       Asam      graha            Asamgraha             AsaMgrah yes A+sam+grah
 11         ud      graha              udgraha               udgrah yes ud+grah
-12         ud      graha              udgraha               udgrah yes ud+grah
+12    udgraha      graha         udgrahagraha          udgrahagrah no 
 13       upod      graha            upodgraha             upodgrah yes upa+ud+grah
 14        upa      graha             upagraha              upagrah yes upa+grah
 15         ni      graha              nigraha               nigrah yes ni+grah
@@ -1933,7 +1933,7 @@
 ;; Case 1209: L=33106, k1=pfTa, k2=pfTa, #upasargas=0, mw=pfT (diff)
 ;; Case 1210: L=33170, k1=pfza, k2=pfza, #upasargas=0, mw=pfz (diff)
 ;; Case 1211: L=33218, k1=pF, k2=pF, #upasargas=0, mw=pF (same)
-;; Case 1212: L=33219, k1=pf, k2=pf, #upasargas=0, mw=pf (same)
+;; Case 1212: L=33219, k1=pF, k2=pF, #upasargas=0, mw=pF (same)
 ;; Case 1213: L=33232, k1=peRa, k2=peRa, #upasargas=0, mw=peR (diff)
 ;; Case 1214: L=33242, k1=pela, k2=pela, #upasargas=0, mw=pel (diff)
 ;; Case 1215: L=33246, k1=peva, k2=peva, #upasargas=0, mw=pev (diff)

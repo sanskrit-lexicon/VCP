@@ -3631,8 +3631,8 @@
 ;; Case 1211: L=33218, k1=pF, k2=pF, code=1
 407625: pF¦ pAlane pUrttO ca kyrA0 BvA0 para0 saka0 sew SnApratyaye pare
 ;
-;; Case 1212: L=33219, k1=pf, k2=pf, code=2
-407630: pf¦ pUrttO cra0 uma0 saka0 sew . pArayati-te apIparat ta .
+;; Case 1212: L=33219, k1=pF, k2=pF, code=2
+407630: pF¦ pUrttO cra0 uma0 saka0 sew . pArayati-te apIparat ta .
 ;
 ;; Case 1213: L=33232, k1=peRa, k2=peRa, code=2
 407676: peRa¦ gatO peze ca saka0 Sleze aka0 BvA0 para0 sew . peRati

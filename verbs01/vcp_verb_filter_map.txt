@@ -1209,7 +1209,7 @@
 ;; Case 1209: L=33106, k1=pfTa, k2=pfTa, mw=pfT
 ;; Case 1210: L=33170, k1=pfza, k2=pfza, mw=pfz
 ;; Case 1211: L=33218, k1=pF, k2=pF, mw=pF
-;; Case 1212: L=33219, k1=pf, k2=pf, mw=pf
+;; Case 1212: L=33219, k1=pF, k2=pF, mw=pF
 ;; Case 1213: L=33232, k1=peRa, k2=peRa, mw=peR
 ;; Case 1214: L=33242, k1=pela, k2=pela, mw=pel
 ;; Case 1215: L=33246, k1=peva, k2=peva, mw=pev
