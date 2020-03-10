@@ -602,9 +602,9 @@
 03         ud      kruSa              utkruSa               utkruS yes ud+kruS
 ;
 ;; Case 0326: L=15673, k1=klaTa, k2=klaTa, #upasargas=0, mw=klaT (diff)
-;; Case 0327: L=15674, k1=klada, k2=klada, #upasargas=0, mw=kland (diff)
-;; Case 0328: L=15675, k1=klada, k2=klada, #upasargas=0, mw=kland (diff)
-;; Case 0329: L=15676, k1=klada, k2=klada, #upasargas=0, mw=kland (diff)
+;; Case 0327: L=15674, k1=klada, k2=klada, #upasargas=0, mw=klad (diff)
+;; Case 0328: L=15675, k1=klada, k2=klada, #upasargas=0, mw=klad (diff)
+;; Case 0329: L=15676, k1=klada, k2=klada, #upasargas=0, mw=klad (diff)
 ;; Case 0330: L=15677, k1=klapa, k2=klapa, #upasargas=0, mw=klap (diff)
 ;; Case 0331: L=15678, k1=klama, k2=klama, #upasargas=0, mw=klam (diff)
 ;; Case 0332: L=15679, k1=klama, k2=klama, #upasargas=0, mw=klam (diff)
@@ -1238,12 +1238,12 @@
 ;; Case 0709: L=21438, k1=jeza, k2=jeza, #upasargas=0, mw=jez (diff)
 ;; Case 0710: L=21439, k1=jeha, k2=jeha, #upasargas=0, mw=jeh (diff)
 ;; Case 0711: L=21440, k1=jE, k2=jE, #upasargas=0, mw=jE (same)
-;; Case 0712: L=21477, k1=jYA, k2=jYA, #upasargas=14 (12/2), mw=jYA (same)
+;; Case 0712: L=21477, k1=jYA, k2=jYA, #upasargas=14 (13/1), mw=jYA (same)
 01        anu        jYA               anujYA               anujYA yes anu+jYA
 02        apa        jYA               apajYA               apajYA yes apa+jYA
 03        aBi        jYA               aBijYA               aBijYA yes aBi+jYA
 04   pratyaBi        jYA          pratyaBijYA          pratyaBijYA yes prati+aBi+jYA
-05     samaBi        jYA            samaBijYA            samaBijYA no 
+05     samaBi        jYA            samaBijYA            samaBijYA yes sam+aBi+jYA
 06        ava        jYA               avajYA               avajYA yes ava+jYA
 07          A        jYA                 AjYA                 AjYA yes A+jYA
 08        upa        jYA               upajYA               upajYA yes upa+jYA
@@ -1736,7 +1736,7 @@
 ;; Case 1026: L=26972, k1=Danva, k2=Danva, #upasargas=0, mw=Danv (diff)
 ;; Case 1027: L=26992, k1=Dama, k2=Dama, #upasargas=0, mw=Dam (diff)
 ;; Case 1028: L=27159, k1=Dava, k2=Dava, #upasargas=0, mw=Dav (diff)
-;; Case 1029: L=27174, k1=DA, k2=DA, #upasargas=39 (36/3), mw=DA (same)
+;; Case 1029: L=27174, k1=DA, k2=DA, #upasargas=39 (37/2), mw=DA (same)
 01        ati         DA                atiDA                atiDA yes ati+DA
 02        aDi         DA                aDiDA                aDiDA yes aDi+DA
 03        anu         DA                anuDA                anuDA yes anu+DA
@@ -1770,7 +1770,7 @@
 31         vi         DA                 viDA                 viDA yes vi+DA
 32      anuvi         DA              anuviDA              anuviDA yes anu+vi+DA
 33    prativi         DA            prativiDA            prativiDA yes prati+vi+DA
-34       trad         DA               tradDA               tradDA no 
+34       Srad         DA               SradDA               SradDA yes Srad+DA
 35        sam         DA                samDA                saMDA yes sam+DA
 36     atisam         DA             atisamDA             atisaMDA yes ati+sam+DA
 37     anusam         DA             anusamDA             anusaMDA yes anu+sam+DA
@@ -2123,12 +2123,12 @@
 ;; Case 1349: L=36705, k1=BU, k2=BU, #upasargas=0, mw=BU (same)
 ;; Case 1350: L=36706, k1=BU, k2=BU, #upasargas=0, mw=BU (same)
 ;; Case 1351: L=36707, k1=BU, k2=BU, #upasargas=0, mw=BU (same)
-;; Case 1352: L=36708, k1=BU, k2=BU, #upasargas=12 (10/2), mw=BU (same)
+;; Case 1352: L=36708, k1=BU, k2=BU, #upasargas=12 (11/1), mw=BU (same)
 01        aDi         BU                aDiBU                aDiBU no 
 02        anu         BU                anuBU                anuBU yes anu+BU
 03      antar         BU              antarBU              antarBU yes antaH+BU
 04        aBi         BU                aBiBU                aBiBU yes aBi+BU
-05 AvisprAdus         BU         AvisprAdurBU         AvisprAdurBU no 
+05       Avis         BU               AvirBU               AvirBU yes Avis+BU
 06         ud         BU                 udBU                 udBU yes ud+BU
 07       parA         BU               parABU               parABU yes parA+BU
 08       pari         BU               pariBU               pariBU yes pari+BU

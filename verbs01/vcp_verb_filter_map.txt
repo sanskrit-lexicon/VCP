@@ -324,9 +324,9 @@
 ;; Case 0324: L=15595, k1=krunTa, k2=krunTa, mw=krunT
 ;; Case 0325: L=15598, k1=kruSa, k2=kruSa, mw=kruS
 ;; Case 0326: L=15673, k1=klaTa, k2=klaTa, mw=klaT
-;; Case 0327: L=15674, k1=klada, k2=klada, mw=kland
-;; Case 0328: L=15675, k1=klada, k2=klada, mw=kland
-;; Case 0329: L=15676, k1=klada, k2=klada, mw=kland
+;; Case 0327: L=15674, k1=klada, k2=klada, mw=klad
+;; Case 0328: L=15675, k1=klada, k2=klada, mw=klad
+;; Case 0329: L=15676, k1=klada, k2=klada, mw=klad
 ;; Case 0330: L=15677, k1=klapa, k2=klapa, mw=klap
 ;; Case 0331: L=15678, k1=klama, k2=klama, mw=klam
 ;; Case 0332: L=15679, k1=klama, k2=klama, mw=klam

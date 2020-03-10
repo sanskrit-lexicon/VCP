@@ -3515,17 +3515,17 @@ klaTa¦ baDe vA curA0 uBa0 pakze mbA0 pa0 sewa GawAdi0 . klaTayati
 <>39, 5, “klaTanaM maDye DftasyApavartanam” vedadIpaH
 ;----------------------------------------------------------------------
 ;
-;; Case 0327: L=15674, k1=klada, k2=klada, #upasargas=0, mw=kland (diff)
+;; Case 0327: L=15674, k1=klada, k2=klada, #upasargas=0, mw=klad (diff)
 klada¦ rodane aka0 AhvAne saka0 idit BvA0 para0 sew .
 <>klandati aklandIt . caklanda . krandyate
 ;----------------------------------------------------------------------
 ;
-;; Case 0328: L=15675, k1=klada, k2=klada, #upasargas=0, mw=kland (diff)
+;; Case 0328: L=15675, k1=klada, k2=klada, #upasargas=0, mw=klad (diff)
 klada¦ vEkalye di0 Atma0 aka0 sew GawAdi0 . kladyate aklAdazwa
 <>caklade . kladayati ta acikladat ta .
 ;----------------------------------------------------------------------
 ;
-;; Case 0329: L=15676, k1=klada, k2=klada, #upasargas=0, mw=kland (diff)
+;; Case 0329: L=15676, k1=klada, k2=klada, #upasargas=0, mw=klad (diff)
 klada¦ rodane BvA0 uBa0 idit aka0 sew . klandati te akla-
 <>ndIt aklandizwa . caklanda caklanda . klandyate “yAH
 <>klandAstamizIcayo 'kzakAmAmano muhaH tAByo ganDarva-
@@ -9747,7 +9747,7 @@ DA¦ DAraRe pozaRe dAne ca juho0 uBa0 saka0 aniw .
 <>viDIyatAm” rAmA0 sunda0 pratIkAre ca “kziprameva kasmAnna
 <>prativihitamAryyeRa” mudrArA0 candraguptoktiH “na pAritaM
 <>prativiDA tum” tatrEva cARakyoktiH .
-*<HI>trad + Adare viSvAse ca . “SraddaDAti ka iveha na sAkzAt” nEza0 .
+*<HI>Srad + Adare viSvAse ca . “SraddaDAti ka iveha na sAkzAt” nEza0 .
 *<HI>sam + samyagviDAne yojane SlezaRe aBisanDO . “manasyetAni
 <>sanGAya manasA sampraDArayet” BA0 ASva0 42 a0 .
 <>“yaTA sUcyA vAsaH saMdaDyAt” E0 vrA0 83 . 48 .
