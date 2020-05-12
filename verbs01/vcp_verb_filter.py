@@ -96,7 +96,9 @@ def mark_entries_verb(entries,exclusions,inclusions):
   linenum1 = entry.linenum1  # integer line number of metaline  
   datalines = entry.datalines
   line0 = datalines[0]
-  regexes = [u'¦ *[a-zA-Z]+e ', u'¦ *[a-zA-Z]+O ', u'¦ *[a-zA-Z]+A[mM] ']
+  #regexes = [u'¦ *[a-zA-Z]+e ', u'¦ *[a-zA-Z]+O ', u'¦ *[a-zA-Z]+A[mM] ']
+  # 05-11-2020. Allow trailing space 'OR' comma
+  regexes = [u'¦ *[a-zA-Z]+e[ ,]', u'¦ *[a-zA-Z]+O[ ,]', u'¦ *[a-zA-Z]+A[mM][ ,]']
   for iregex,regex in enumerate(regexes):
    if re.search(regex,line0):
     code = iregex + 1
@@ -107,6 +109,9 @@ def mark_entries_verb(entries,exclusions,inclusions):
   elif not re.search(r'0',line0) :
    code = None
    continue
+  if True:  #dbg
+   if L=='10344':
+    print('chk:',k1,L,code,line0)
   if (linenum1+1) in exclusions:
    nexc = nexc + 1
    continue
