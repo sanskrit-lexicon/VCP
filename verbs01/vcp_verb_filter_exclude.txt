@@ -1,30 +1,30 @@
-  32050:ayaSas¦ viroDe na0 ta0 . yaSoviroDini apavAde . ayaSo-
-  66722:ADimanyava¦ aDimanyave hitaH aR . jvarAgnO hArA0
- 153359:karatAlI¦ strO kareRa dIyamAnastAlo yatra gOrA0 NIz .
- 161902:kalABft¦ kalAM biBartti Bf--kvip 6 ta0 . kalADArake candre
- 210725:kroqaparRRI¦ kroqe kaRwakamaDye parRRaM yasyAH gOrA0 NIz .
- 212528:kzatodara¦ kzatajAte udararogaBede udaraSabde 1150 pf0 vivf-
- 233598:gAloqi¦ gAloqitamAcazwe Yi italopaH mugDa0
- 237925:gfzwyAdi¦ apatyArTe Qakpratyayanimitte pA0 ga0 sUtrokte Sabda-
- 297368:tArakAdi¦ saMjAtArTe itac pratyayanimitte pA0 gaRa sU0
- 304480:tejonATa¦ tIrTaBede Sivapu0 dfSyam .
- 346902:dvArayantraM¦ dvAre sTitaM yantram . (tAlA) (kulupa) KyAte padArTe hemaca0 .
- 375890:niSvAsasaMhitA¦ SivapraRIte pASupate SAstraBede “eva0
- 380415:nyaNkvAdi¦ kutvanimitte SabdagaRaBede saca pA0 ga0 sU0 ukto yaTA
- 384402:paYcAvawa¦ varaskawe bAlopavIte hArA0 .
- 397474:pAlIvata¦ kARqaropye vfkzaBede vf0 saM0 54 a0 .
- 405188:pUtikeSvaratIrTa¦ tIrTaBede Sivapu0 .
- 405540:pUrRakoSA¦ omaDiBede vf0 sa0 4840 .
- 411165:pratira¦ jaWare cirakAlAvasTAne f0 8 . 48 . 10 .
- 411806:pratisAma¦ vIpsAyAm avyayI0 ac samA0 . pratye kasAmani
- 413808:praBAtIrTa¦ tIrTaBede Sivapu0 .
- 414353:pramucu¦ fziBede BA0 anu0 150 a0 .
- 417148:prAcInayoginIputra¦ yajurvedavaMSyasTe fziBede Sata0 brA0
- 420770:prOQamanoramA¦ prOQAnAM pragalBAnAM manoramayati rama0
- 422039:PalgulukA¦ bAyukARasTe deSaBede vf0 saM0 14 a0 .
- 426578:bra(vra)hmadatta¦ ikzAkuvaMSye nfpaBede 2 ta0 . 2 hiraRyagarBeRa
- 451665:rocI¦ strO rocayati ruc--Ric--ac gArA0 NIz . hila-
- 453078:lAlAsrAva¦ lAlAM srAvayati sru--Ric--aR . lUtAkIwe hemaca0 .
- 493487:sanDyAnAwin¦ sanDyAyAM nawati nawa--Rini . 1 Sive trikA0
- 510724:srugdAru¦ sruce yajYapAtrAya dAru yasya . vikaNkatavfkze jawA0 .
- 516824:hetvapahnuti¦ alaNkAraBede alaNkAraSabde 408 pf0 dfSyam .
+<L>4071<pc>0341,b<k1>ayaSas<k2>ayaSas
+<L>6859<pc>0714,b<k1>ADimanyava<k2>ADimanyava
+<L>12062<pc>1694,b<k1>karatAlI<k2>karatAlI
+<L>12535<pc>1792,a<k1>kalABft<k2>kalABft
+<L>15622<pc>2338,b<k1>kroqaparRRI<k2>kroqaparRRI
+<L>15763<pc>2358,a<k1>kzatodara<k2>kzatodara
+<L>17470<pc>2587,b<k1>gAloqi<k2>gAloqi
+<L>17885<pc>2632,a<k1>gfzwyAdi<k2>gfzwyAdi
+<L>22567<pc>3277,b<k1>tArakAdi<k2>tArakAdi
+<L>23336<pc>3349,a<k1>tejonATa<k2>tejonATa
+<L>26622<pc>3809,a<k1>dvArayantraM<k2>dvArayantraM
+<L>29288<pc>4112,b<k1>niSvAsasaMhitA<k2>niSvAsasaMhitA
+<L>29895<pc>4155,a<k1>nyaNkvAdi<k2>nyaNkvAdi
+<L>30208<pc>4198,a<k1>paYcAvawa<k2>paYcAvawa
+<L>31947<pc>4321,a<k1>pAlIvata<k2>pAlIvata
+<L>32906<pc>4395,b<k1>pUtikeSvaratIrTa<k2>pUtikeSvaratIrTa
+<L>32960<pc>4398,b<k1>pUrRakoSA<k2>pUrRakoSA
+<L>33780<pc>4449,b<k1>pratira<k2>pratira
+<L>33858<pc>4456,a<k1>pratisAma<k2>pratisAma
+<L>34134<pc>4474,b<k1>praBAtIrTa<k2>praBAtIrTa
+<L>34196<pc>4480,a<k1>pramucu<k2>pramucu
+<L>34574<pc>4506,a<k1>prAcInayoginIputra<k2>prAcInayoginIputra
+<L>34964<pc>4542,b<k1>prOQamanoramA<k2>prOQamanoramA
+<L>35156<pc>4554,a<k1>PalgulukA<k2>PalgulukA
+<L>35850<pc>4594,b<k1>brahmadatta<k2>bra(vra)hmadatta
+<L>39830<pc>4814,b<k1>rocI<k2>rocI
+<L>40102<pc>4825,b<k1>lAlAsrAva<k2>lAlAsrAva
+<L>45123<pc>5215,a<k1>sanDyAnAwin<k2>sanDyAnAwin
+<L>47497<pc>5375,b<k1>srugdAru<k2>srugdAru
+<L>48224<pc>5435,a<k1>hetvapahnuti<k2>hetvapahnuti

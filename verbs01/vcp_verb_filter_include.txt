@@ -1,42 +1,69 @@
-; These are cases where there is no '0' in the line, but it is a verb.
-  92876:Iga¦ gatO idit igivat . INgati ENgIt INgate ityeke .
- 155531:kartta¦ SETilyeSiTilIkaraRe AramBasaMyogaSiTilatApAdane
- 183916:kiwakiwAya¦ kiwakiwetyavyaktaSabdakaraRe qAc--kyac--nAmaDAtuH
- 195196:kUrdda¦ krIqAyAM kurddavat .
- 288885:qapa¦ saMhatO uktO qapavat idit . qampayate aqiqampata .
- 289330:Rawa¦ nftye sABinaye nawakAryye hiMsAyAmayaM na RopadeSI
- 294928:taruza¦ hiMsAyAM baDakarmmasu “vanuzyati taruzyati” niGaRwUkteH
- 315843:danSa¦ hiMsane radakaraRakavyApAraBede daMSane (kAmaqAna)
- 332718:duha¦ dohane antaHsTitadravadravyasyAkarzaRena bahirnismAraRe
- 358029:DvraRa¦ Sabde DraRavat sarvam .
- 445810:mrunca¦ gatO sarvaM mrucavat . mruYcati amrucat amnuYcIt .
- 445835:mlunca¦ gatO mlucavat sarvam . mluYcati amlucat amluYcIt
- 456074:varRRa¦ stutO vistAre SuklAdivarRakaraRe udyoge dIpane ca
-; And here are cases of verbs with no 'e/O/Am' ending
-  81446:Asa¦ upaveSaneadAdi0 A0 aka0 sew . Aste AstAm
- 206454:krama¦ pAdavikzepaRena gatO BvA0 para0 saka0 saw . asya sArvva-
- 282243:ji¦ jo aBiBave BvA0 para0 saka0 aniw . jayati ajezIt
- 304540:tepa¦ kampe, cyutO ca BvA0 A0 aka0 sew . tepate ate-
- 324028:dAsa¦ --dAne BvA0 uBa0 saka0 sew . dAsati te adAsIt adA-
- 357189:rasa¦ kaRaSa AdAne kyrA0 para0 saka0 sew . DrasnAti aDra-
- 399333:pila¦ preraRa cu0 uBa0 saka0 zew . pelayati te apIvilat--ta .
- 406905:pfja¦ samparke, adA0 A0 aka0 sew . pfkte aparjizwa .
- 422772:baBra¦ gatO BvA0 para0 saka0 sew . baBrati abaBrIt babaBra .
- 424890:bukka¦ na0 bukva aca . 1 hfdayasTe mAMsapiRqe 2 agramAMse 3 hfdaye
- 432033:BAja¦ pfTakkaraRe, ada0 cu0 uBa0 saka0 sew . BAjayati te avaBAjat ta .
- 433572:BAza¦ vacane BvA0 Atma0 dvika0 sew . BAzate aBAzizwa .
- 443843:miSra¦ (sra) yojane ada0 ca0 uBa0 saka0 seW . miSra(sra) yati--te amimiSra(sra)t ta .
- 445405:meDa¦ meTavat sarvam . meDati te ameDIt ameDizwa .
- 446008:yaja¦ devapUjane, dAne, saNgakftO ca BvA0 uBa0 yajAdi0
- 447789:yOqa¦ yOwavat sarvam . yOqati ayOqIt fdit .
- 450958:rIva¦ grahaRe, saMvaraRe ca BvA0 uBa0 saka0 sew . rIvati te
- 451356:rUza¦ DUlyAdinA miSrIkaraRe ada0 cu0 uBa0 aka0 sew . rUza-
- 453336:lipa¦ lepane, tudA0 uBa0 mucA0 saka0 aniw . limpati te alipat alipata alipta .
- 453476:luRwa¦ avajYAya cOryye ca vA cu0 uBa0 pakze BvA0 para0
- 484237:Sulka¦ kaTane, sarjane, varjane ca cu0 uBa0 saka0 sew . Sulka0
- 486452:Srama¦ tapasi, AyAsa Kawe ca aka0 BvA0 SamAdi0 para0 sew
- 488873:zila¦ udDftaSasyakzetrAt kaRaSa AdAne tudA0 para0 saka0 sew .
- 505638:sU(zU)rkza(rkzya)¦) anAdare BvA0 para0 saka0 sew . sUrkza(rkzya)ti
-; not sure of next one
- 509907:spfSa¦ sparSa tu0 para0 saka0 anid . spfSati asprAkzIt
- 510749:srE¦ vikxttO--BvA0 para0 aka0 aniw . srAyati asrAsIt .
+<L>7853<pc>0878,a<k1>Asa<k2>Asa
+<L>8496<pc>1008,a<k1>Iga<k2>Iga
+<L>12326<pc>1715,b<k1>kartta<k2>kartta
+<L>13622<pc>2046,a<k1>kiwakiwAya<k2>kiwakiwAya
+<L>14588<pc>2166,a<k1>kUrdda<k2>kUrdda
+<L>15474<pc>2287,b<k1>krama<k2>krama
+<L>21199<pc>3117,b<k1>ji<k2>ji
+<L>21748<pc>3189,b<k1>qapa<k2>qapa
+<L>21823<pc>3193,b<k1>Rawa<k2>Rawa
+<L>22303<pc>3253,a<k1>taruza<k2>taruza
+<L>23349<pc>3349,b<k1>tepa<k2>tepa
+<L>24377<pc>3468,a<k1>danSa<k2>danSa
+<L>24852<pc>3561,a<k1>dAsa<k2>dAsa
+<L>25611<pc>3653,a<k1>duha<k2>duha
+<L>27612<pc>3915,b<k1>Drasa<k2>Drasa
+<L>27686<pc>3924,b<k1>DvraRa<k2>DvraRa
+<L>32213<pc>4338,a<k1>pila<k2>pila
+<L>33098<pc>4412,b<k1>pfja<k2>pfja
+<L>35286<pc>4560,b<k1>baBra<k2>baBra
+<L>35646<pc>4578,a<k1>bukka<k2>bukka
+<L>36385<pc>4651,a<k1>BAja<k2>BAja
+<L>36489<pc>4668,a<k1>BAza<k2>BAza
+<L>38274<pc>4754,a<k1>miSra<k2>miSra
+<L>38660<pc>4764,a<k1>meDa<k2>meDa
+<L>38758<pc>4766,b<k1>mrunca<k2>mrunca
+<L>38765<pc>4767,a<k1>mlunca<k2>mlunca
+<L>38796<pc>4768,b<k1>yaja<k2>yaja
+<L>39117<pc>4783,a<k1>yOqa<k2>yOqa
+<L>39686<pc>4809,a<k1>rIva<k2>rIva
+<L>39767<pc>4812,a<k1>rUza<k2>rUza
+<L>40126<pc>4828,b<k1>lipa<k2>lipa
+<L>40161<pc>4829,a<k1>luRwa<k2>luRwa
+<L>40650<pc>4850,a<k1>varRRa<k2>varRRa
+<L>43833<pc>5129,b<k1>Sulka<k2>Sulka
+<L>44165<pc>5149,b<k1>Srama<k2>Srama
+<L>44569<pc>5170,a<k1>zila<k2>zila
+<L>46815<pc>5327,b<k1>sUrkza<k2>sU(zU)rkza(rkzya)
+<L>47347<pc>5368,b<k1>spfSa<k2>spfSa
+<L>47504<pc>5375,b<k1>srE<k2>srE
+<L>2184<pc>0194,b<k1>anca<k2>anca
+<L>8598<pc>1053,a<k1>ukza<k2>ukza
+; k1=fkza, L=10371 in vcp but as pu0 strI
+<L>10441<pc>1429,a<k1>fta<k2>fta
+; Also k1=fta, L=10442 in vcp, but as na0
+<L>11359<pc>1617,a<k1>kaja<k2>kaja
+; Also k1=kaja, L=11360 in vcp as na0
+<L>13558<pc>2042,a<k1>kAsa<k2>kAsa
+; Also k1=kAsa, L=13559 in vcp as tri0
+; k1=kleSa, L=15711 in vcp as pu0
+<L>16372<pc>2463,b<k1>Kada<k2>Kada
+; Also k1=Kada, L=16373 in vcp as pu0
+<L>16508<pc>2471,a<k1>Kava<k2>Kava
+<L>16596<pc>2477,b<k1>Ku<k2>Ku
+<L>17187<pc>2548,a<k1>gardDa<k2>gardDa
+; Also k1=gardDa, L=17188 in vcp as pu0
+<L>19770<pc>2942,a<k1>citra<k2>citra
+; Also k1=citra, L=19771 in vcp as na0
+<L>20049<pc>2957,b<k1>culla<k2>culla
+; Also k1=culla, L=20050 in vcp as na0
+<L>22955<pc>3323,a<k1>tuwa<k2>tuwa
+; k1=nivAsa, L=29198 in vcp as pu0
+<L>35467<pc>4568,b<k1>bAqa<k2>bA(vA)qa
+; k1=vIra, L=42117 in vcp as na0
+; k1=Sasta, L=43216 in vcp as na0
+; k1=su, L=46270 in vcp as avya0
+; k1=sura, L=46529 in vcp as pu0
+; k1=seva, L=46895 in vcp as pu0
+; k1=stamBa, L=47093 in vcp as pu0
+<L>47108<pc>5342,a<k1>stunBa<k2>stunBa

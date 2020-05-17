@@ -92,6 +92,7 @@ def mark_entries_verb(entries,exclusions,inclusions):
   # first exclude known non-verbs
   k1 = entry.metad['k1']
   L  = entry.metad['L']
+  metaline = entry.metaline
   code = None
   linenum1 = entry.linenum1  # integer line number of metaline  
   datalines = entry.datalines
@@ -103,17 +104,19 @@ def mark_entries_verb(entries,exclusions,inclusions):
    if re.search(regex,line0):
     code = iregex + 1
     break
-  if (linenum1+1)  in inclusions:
+  if L in inclusions: #(linenum1+1)  in inclusions:
     ninc = ninc + 1
     code = len(regexes)+1
+    #print('include:',metaline)
   elif not re.search(r'0',line0) :
    code = None
    continue
   if True:  #dbg
    if L=='10344':
     print('chk:',k1,L,code,line0)
-  if (linenum1+1) in exclusions:
+  if L in exclusions: #(linenum1+1) in exclusions:
    nexc = nexc + 1
+   #print('exclude:',metaline)
    continue
   entry.markcode = code
   entry.marked = True
@@ -235,6 +238,18 @@ def write_verbs(fileout,entries):
  print(n,"verbs written to",fileout)
 
 def init_extras(filein):
+ with codecs.open(filein,encoding='utf-8',mode='r') as f:
+  d = {}
+  for line in f:
+   line = line.rstrip('\r\n')
+   if not line.startswith(';'):
+    m = re.search(r'<L>(.*?)<',line)
+    L = m.group(1)
+    d[L] = line
+ print(len(d.keys()),"records read from",filein)
+ return d
+
+def previous_init_extras(filein):
  with codecs.open(filein,encoding='utf-8',mode='r') as f:
   d = {}
   for line in f:
