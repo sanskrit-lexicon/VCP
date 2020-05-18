@@ -2167,12 +2167,12 @@
 ;; Case 1380: L=36705, k1=BU, k2=BU, #upasargas=0, mw=BU (same)
 ;; Case 1381: L=36706, k1=BU, k2=BU, #upasargas=0, mw=BU (same)
 ;; Case 1382: L=36707, k1=BU, k2=BU, #upasargas=0, mw=BU (same)
-;; Case 1383: L=36708, k1=BU, k2=BU, #upasargas=12 (11/1), mw=BU (same)
+;; Case 1383: L=36708, k1=BU, k2=BU, #upasargas=12 (10/2), mw=BU (same)
 01        aDi         BU                aDiBU                aDiBU no 
 02        anu         BU                anuBU                anuBU yes anu+BU
 03      antar         BU              antarBU              antarBU yes antaH+BU
 04        aBi         BU                aBiBU                aBiBU yes aBi+BU
-05       Avis         BU               AvirBU               AvirBU yes Avis+BU
+05 AvisprAdus         BU         AvisprAdurBU         AvisprAdurBU no 
 06         ud         BU                 udBU                 udBU yes ud+BU
 07       parA         BU               parABU               parABU yes parA+BU
 08       pari         BU               pariBU               pariBU yes pari+BU

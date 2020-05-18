@@ -121,7 +121,6 @@ anusaMsmf:7542:preverb::anu+sam+smf
 anusaMsyand:7543:preverb::anu+sam+syand
 anusaMhf:7545:preverb::anu+sam+hf
 anusaMkal:7546:preverb::anu+sam+kal
-anusaMkram:7547:preverb::anu+sam+kram
 anusaMKyA:7548:preverb:P:anu+sam+KyA
 anusaMgrah:7549:preverb::anu+sam+grah
 anusaMcar:7550:preverb:P:anu+sam+car
@@ -135,7 +134,6 @@ anusaMdfS:7559:preverb::anu+sam+dfS
 anusamprAp:7585:preverb::anu+sam+pra+Ap
 anUkz:7684:preverb:Ā:anu+ukz
 anUjji:7702:preverb::anu+ud+ji
-anUtkram:7710:preverb::anu+ud+kram
 anUtTA:7711:preverb::anu+ud+sTA
 anUtpat:7712:preverb::anu+ud+pat
 anUtpA:7713&7714:preverb::anu+ud+pA,anu+ud+pA
@@ -179,7 +177,6 @@ anvarc:8762:preverb::anu+arc
 anvarj:8763:preverb::anu+arj
 anvav:8771:preverb::anu+av
 anvavakF:8773:preverb::anu+ava+kF
-anvavakram:8775:preverb::anu+ava+kram
 anvavagA:8776:preverb::anu+ava+gA
 anvavacar:8777:preverb::anu+ava+car
 anvavaDA:8779:preverb::anu+ava+DA
@@ -319,7 +316,6 @@ aBivyan:12442:preverb::aBi+vi+an
 aBivyAdA:12443:preverb::aBi+vi+A+dA
 aBivyAp:12445:preverb::aBi+vi+Ap
 aBivyAhf:12452:preverb::aBi+vi+A+hf
-aBivyukz:12462:preverb::aBi+vi+ukz
 aBivyudas:12463:preverb::aBi+vi+ud+as
 aBiSI:12521&12522:preverb:Ā:aBi+SI,aBi+SI
 aBiSuc:12526&12527:preverb::aBi+Suc,aBi+Suc
@@ -395,7 +391,6 @@ aBIr:13041:preverb::aBi+Ir
 aByaGAya:13156:preverb:P:aBi+aGAya
 aByaj:13158:preverb::aBi+aj
 aByaYj:13159:preverb:PĀ:aBi+aYj
-aByatikram:13170:preverb::aBi+ati+kram
 aByatikzar:13171:preverb::aBi+ati+kzar
 aByatinI:13173:preverb::aBi+ati+nI
 aByatiric:13174:preverb::aBi+ati+ric
@@ -447,6 +442,7 @@ aByavAs:13317:preverb::aBi+ava+as
 aByave:13318:preverb::aBi+ava+i
 aByaS:13321:preverb:PĀ:aBi+aS
 aByas:13326&13328:preverb:PĀ:aBi+as,aBi+as
+aByasUya:13361:preverb:PĀ:aBi+asUya
 aByAkruS:13372:preverb::aBi+A+kruS
 aByAKyA:13373:preverb::aBi+A+KyA
 aByAgA:13389:preverb::aBi+A+gA
@@ -475,7 +471,6 @@ aByAsad:13477:preverb::aBi+A+sad
 aByAsic:13480:preverb::aBi+A+sic
 aByAhan:13481:preverb:Ā:aBi+A+han
 aByAhve:13490:preverb::aBi+A+hve
-aByukz:13492:preverb:PĀ:aBi+ukz
 aByuc:13495:preverb::aBi+uc
 aByuccar:13497:preverb::aBi+ud+car
 aByujji:13507:preverb::aBi+ud+ji
@@ -543,6 +538,7 @@ avAn:18539:preverb::ava+an
 avApoh:18566:preverb::ava+apa+Uh
 avAruh:18589:preverb::ava+A+ruh
 avArC:18590:preverb::ava+fC
+avArj:18591:preverb::ava+fj
 avAloc:18592:preverb:Ā:ava+A+loc
 avAs:18596:preverb::ava+as
 avAsic:18598:preverb::ava+A+sic
@@ -607,7 +603,6 @@ utkUrd:30833:preverb:PĀ:ud+kUrd
 utkft:30845&30850:preverb:P,P:ud+kft,ud+kft
 utkFt:30904:preverb:P:ud+kFt
 utkxp:30911:preverb:P:ud+kxp
-utkram:30917:preverb:PĀ:ud+kram
 utkliS:30952:preverb:P:ud+kliS
 utkvaT:30964:preverb:P:ud+kvaT
 utkzvid:30993:preverb:P:ud+kzvid
@@ -669,6 +664,7 @@ unmanT:33875.1:preverb:P:ud+manT
 unmaTAy:33881:preverb:P:ud+maTAy
 unmad:33901:preverb:P:ud+mad
 unmand:33964:preverb:P:ud+mand
+unmA:33967:preverb::ud+mA
 unmi:33990:preverb:P:ud+mi
 unmiz:33992:preverb:PĀ:ud+miz
 unmI:34004:preverb:PĀ:ud+mI
@@ -722,7 +718,6 @@ upasaMsfj:36023:preverb::upa+sam+sfj
 upasaMsfp:36028:preverb::upa+sam+sfp
 upasaMsTA:36034:preverb::upa+sam+sTA
 upasaMkxp:36060:preverb:P:upa+sam+kxp
-upasaMkram:36062:preverb:PĀ:upa+sam+kram
 upasaMgam:36071:preverb:Ā:upa+sam+gam
 upasaMgrah:36075:preverb:P:upa+sam+grah
 upasaMcar:36088:preverb:P:upa+sam+car
@@ -806,7 +801,6 @@ upe:36910&36953:preverb:PĀ,P:upa+i,upa+i
 upen:36974:preverb::upa+in
 upez:36986&36987&36988&36989:preverb:P,P,Ā,P:upa+iz,upa+Iz,upa+Iz,upa+ez
 upED:36991:preverb:Ā:upa+eD
-upokz:36993:preverb:P:upa+ukz
 upotkram:36997:preverb:P:upa+ud+kram
 upotTA:37000:preverb:P:upa+ud+sTA
 upotsad:37003:preverb:P:upa+ud+sad
@@ -839,7 +833,6 @@ env:40127:preverb:P:A+inv
 er:40131:preverb:PĀ:A+Ir
 ez:40243:preverb:PĀ:A+Iz
 o:40588:preverb::A+u
-okz:40605:preverb:P:A+ukz
 nirakz:106500.1:preverb::nis+akz
 niHkzi:107740:preverb:P:nis+kzi
 niHSAs:107747:preverb::nis+SAs
@@ -891,6 +884,7 @@ nizkft:110861:preverb:PĀ:nis+kft
 nizkram:110873:preverb:PĀ:nis+kram
 nizkvaT:110895:preverb::nis+kvaT
 nizKid:110898:preverb:P:nis+Kid
+nizwaNk:110900:preverb::nis+waNk
 nizwan:110901:preverb:PĀ:nis+stan
 nizwap:110906:preverb::nis+tap
 nizwu:110913:preverb:P:ni+stu
@@ -1038,7 +1032,6 @@ paryAvap:119832:preverb:P:pari+A+vap
 paryAvft:119835:preverb:Ā:pari+A+vft
 paryASvas:119841:preverb:P:pari+A+Svas
 paryAhve:119851:preverb:Ā:pari+A+hve
-paryukz:119855:preverb:PĀ:pari+ukz
 paryutTA:119859:preverb:P:pari+ud+sTA
 paryutsfj:119865:preverb:P:pari+ud+sfj
 paryudas:119868:preverb:P:pari+ud+as
@@ -1108,12 +1101,10 @@ pratisaMvezw:133339:preverb:Ā:prati+sam+vezw
 pratisaMSri:133340:preverb:P:prati+sam+Sri
 pratisaMSru:133341:preverb::prati+sam+Sru
 pratisaMsfj:133342:preverb:P:prati+sam+sfj
-pratisaMskf:133346:preverb::prati+sam+skf
 pratisaMstamB:133350:preverb::prati+sam+stamB
 pratisaMsmf:133353:preverb:P:prati+sam+smf
 pratisaMhf:133355:preverb:PĀ:prati+sam+hf
 pratisaMhfz:133366:preverb:P:prati+sam+hfz
-pratisaMkram:133369:preverb:Ā:prati+sam+kram
 pratisaMKyA:133373:preverb::prati+sam+KyA
 pratisaMgrah:133379:preverb:PĀ:prati+sam+grah
 pratisaMcar:133381:preverb:P:prati+sam+car
@@ -1217,6 +1208,7 @@ pratyudIr:134351:preverb::prati+ud+Ir
 pratyudgA:134362:preverb::prati+ud+gA
 pratyudgrah:134365:preverb:P:prati+ud+grah
 pratyuddIp:134369:preverb:Ā:prati+ud+dIp
+pratyudDA:134374:preverb::prati+ud+hA
 pratyudyam:134375:preverb:P:prati+ud+yam
 pratyudyA:134381:preverb:P:prati+ud+yA
 pratyudvad:134385:preverb::prati+ud+vad
@@ -1296,7 +1288,6 @@ preNK:141029:preverb:PĀ:pra+INK
 preq:141051:preverb:Ā:pra+Iq
 prenv:141057:preverb:P:pra+inv
 prED:141139:preverb:1Ā:pra+eD
-prokz:141154:preverb:P:pra+ukz
 proccar:141172:preverb:P:pra+ud+car
 proccal:141174:preverb:P:pra+ud+cal
 procCal:141177:preverb:P:pra+ud+Sal
@@ -1357,6 +1348,7 @@ vipare:197717:preverb::vi+parA+i
 viparyas:197719:preverb:Ā:vi+pari+as
 viparyAvft:197738:preverb:Ā:vi+pari+A+vft
 viparyUh:197739:preverb:P:vi+pari+Uh
+vipalAy:197741:preverb::vi+palA+i
 vipalyay:197747:preverb:Ā:vi+pari+ay
 vipraRaS:197867:preverb:P:vi+pra+naS
 vipraRI:197871:preverb::vi+pra+nI
@@ -1398,7 +1390,6 @@ vyakz:208318:preverb:P:vi+akz
 vyac:208360:preverb:PĀ:vi+ac
 vyaj:208362:preverb:P:vi+aj
 vyaYj:208378:preverb:PĀ:vi+aYj
-vyatikram:208502:preverb:PĀ:vi+ati+kram
 vyatigA:208521:preverb:P:vi+ati+gA
 vyaticar:208522:preverb:Ā:vi+ati+car
 vyatiji:208526:preverb:Ā:vi+ati+ji
@@ -1539,9 +1530,7 @@ vyAhan:210119:preverb:P:vi+A+han
 vyAhf:210130:preverb:PĀ:vi+A+hf
 vyAhve:210153:preverb:Ā:vi+A+hve
 vyu:210155:preverb:P:vi+u
-vyukz:210156:preverb:PĀ:vi+ukz
 vyucCid:210159:preverb::vi+ud+Cid
-vyutkram:210170:preverb:P:vi+ud+kram
 vyuttF:210184:preverb::vi+ud+tF
 vyuttras:210185:preverb::vi+ud+tras
 vyutTA:210186:preverb:PĀ:vi+ud+sTA
@@ -1738,8 +1727,8 @@ saMkuYc:228013.1:preverb:PĀ:sam+kuYc
 saMkup:228045:preverb:P:sam+kup
 saMkft:228071:preverb::sam+kft
 saMkFt:228148:preverb::sam+kFt
+saMketaya:228234:preverb:P:sam+ketaya
 saMkrand:228240:preverb::sam+krand
-saMkram:228250:preverb:PĀ:sam+kram
 saMkrIq:228301:preverb:PĀ:sam+krIq
 saMkruD:228307:preverb:P:sam+kruD
 saMkruS:228309:preverb:PĀ:sam+kruS
@@ -1766,6 +1755,7 @@ saMcakAs:229063:preverb:P:sam+cakAs
 saMcal:229144:preverb:P:sam+cal
 saMcit:229179:preverb:PĀ:sam+cit
 saMcint:229181:preverb:P:sam+cint
+saMcIvaraya:229189:preverb:Ā:sam+cIvaraya
 saMcud:229191:preverb::sam+cud
 saMcUrR:229197:preverb:P:sam+cUrR
 saMcUz:229200:preverb::sam+cUz
@@ -1801,6 +1791,7 @@ saMtras:231364:preverb:P:sam+tras
 saMtrE:231370:preverb::sam+trE
 saMtvar:231374:preverb:Ā:sam+tvar
 saMdaMS:231378:preverb:P:sam+daMS
+saMdaSasya:231417:preverb:P:sam+daSasya
 saMdas:231418:preverb:P:sam+das
 saMdah:231419:preverb:PĀ:sam+dah
 saMdA:231424&231428&231432:preverb:PĀ,P,P:sam+dA,sam+dA,sam+dA
@@ -1966,6 +1957,7 @@ samer:235925:preverb:Ā:sam+A+Ir
 samparizvaYj:236116:preverb:PĀ:sam+pari+svaYj
 samparI:236120:preverb:P:sam+pari+i
 samparyAp:236123:preverb::sam+pari+Ap
+sampalAy:236125:preverb::sam+palA+i
 samprakAS:236245:preverb:Ā:sam+pra+kAs
 sampracCid:236287:preverb:PĀ:sam+pra+Cid
 sampraRad:236307:preverb:PĀ:sam+pra+nad
@@ -1986,7 +1978,6 @@ samprAS:236686:preverb:P:sam+pra+aS
 sampre:236700:preverb:P:sam+pra+i
 samprer:236709:preverb:Ā:sam+pra+Ir
 samprez:236711:preverb:P:sam+pra+iz
-samprokz:236721:preverb:PĀ:sam+pra+ukz
 samprorRu:236726:preverb:PĀ:sam+pra+UrRu
 sambfh:236834&236835:preverb:P,P:sam+bfh,sam+bfh
 svASliz:259762:preverb:P:su+A+Sliz
