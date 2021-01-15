@@ -1,15 +1,18 @@
 # coding=utf-8
 """ vac-vcp-cmp2/len2.py  Jan 15, 2021
 
-    Usage - python3 len2.py vcp1.txt vac1.txt hwdiff.tsv len2.txt
+    Usage - python3 len2.py vcp1.txt vac1.txt hwdiff.tsv len2.tsv
 
     Compare the data of vac1.txt and vcp1.txt.
     Highlight the different words for typo correction
+
+    Requirements: simplediff (for diff highlighting)
 """
 import sys
 import codecs
 import re
 from collections import defaultdict
+from simplediff import html_diff
 from parseheadline import parseheadline
 
 
@@ -46,6 +49,9 @@ def trim_entry(entry):
     ent = re.sub(r'[^a-zA-Z]', ' ', ent)
     # Only one space remains between words
     ent = re.sub(r'[ ]+', ' ', ent)
+    # Remove preceding and trailing whitespaces
+    ent = ent.lstrip()
+    ent = ent.rstrip()
     return ent
 
 
@@ -91,17 +97,36 @@ def init_vcp(vcpfile):
     return result
 
 
-def compare_hw(vcprecs, vacrecs, hwdifffile):
+def compare_hw(vcprecs, vacrecs, hwdifffile, outputfile):
+    fout = codecs.open(outputfile, 'w', 'utf-8')
     with codecs.open(hwdifffile, 'w', 'utf-8') as flog:
         keysToSearch = []
         keysToSearch += vcprecs.keys()
         keysToSearch += vacrecs.keys()
         keysToSearch = uniq(keysToSearch)
+        keysToSearch = sorted(keysToSearch)
 
         for key in keysToSearch:
             if len(vcprecs[key]) != len(vacrecs[key]):
-                print(key, len(vcprecs[key]), len(vacrecs[key]))
+                print(key)
+                # print(key, len(vcprecs[key]), len(vacrecs[key]))
                 flog.write(key + '\t' + str(len(vcprecs[key])) + '\t' + str(len(vacrecs[key])) + '\n')
+
+                """
+                for vac in vacrecs[key]:
+                    print('VAC', vac.entry)
+                """
+                joinedVacEntry = ' '.join([vac.entry for vac in vacrecs[key]])
+                joinedVacEntry = trim_entry(joinedVacEntry)
+                joinedVcpEntry = ' '.join([vcp.entry for vcp in vcprecs[key]])
+                joinedVcpEntry = trim_entry(joinedVcpEntry)
+                if joinedVcpEntry == '' or joinedVacEntry == '':
+                    fout.write(key + '\t' + joinedVacEntry + '\t' + joinedVcpEntry + '\n')
+                elif joinedVacEntry != joinedVcpEntry:
+                    diff2 = html_diff(joinedVacEntry, joinedVcpEntry)
+                    fout.write(key + '\t' + diff2 + '\t' + joinedVcpEntry + '\n')
+    fout.close()
+
 
 
 if __name__ == "__main__":
@@ -116,4 +141,4 @@ if __name__ == "__main__":
     vacrecs = init_vac(vacfile)
     # print(vacrecs)
     print('Comparing the headwords.')
-    compare_hw(vcprecs, vacrecs, hwdifffile)
+    compare_hw(vcprecs, vacrecs, hwdifffile, outputfile)

@@ -4,7 +4,7 @@ Begun Jan 15, 2021
 This continues the work begun in vac-vcp-cmp1 folder.
 
 # Usage 
-python3 len2.py vcp1.txt vac1.txt hwdiff.tsv len2.txt
+python3 len2.py vcp1.txt vac1.txt hwdiff.tsv len2.tsv
 
 
 # vac1.txt
