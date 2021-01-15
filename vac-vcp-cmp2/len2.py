@@ -97,7 +97,7 @@ def init_vcp(vcpfile):
     return result
 
 
-def compare_hw(vcprecs, vacrecs, hwdifffile, outputfile):
+def compare_dicts(vcprecs, vacrecs, hwdifffile, outputfile):
     fout = codecs.open(outputfile, 'w', 'utf-8')
     with codecs.open(hwdifffile, 'w', 'utf-8') as flog:
         keysToSearch = []
@@ -128,6 +128,12 @@ def compare_hw(vcprecs, vacrecs, hwdifffile, outputfile):
     fout.close()
 
 
+def create_html(diffTsvfile, htmlfile):
+    fout = codecs.open(htmlfile, 'w', 'utf-8')
+    with codecs.open(diffTsvFile, 'r', 'utf-8') as fin:
+        for lin in fin:
+            lin = lin.rstrip()
+
 
 if __name__ == "__main__":
     vcpfile = sys.argv[1]
@@ -141,4 +147,4 @@ if __name__ == "__main__":
     vacrecs = init_vac(vacfile)
     # print(vacrecs)
     print('Comparing the headwords.')
-    compare_hw(vcprecs, vacrecs, hwdifffile, outputfile)
+    compare_dicts(vcprecs, vacrecs, hwdifffile, outputfile)
