@@ -30,7 +30,17 @@ It is the Cologne edition of Vacaspatyam, in slp1 transliteration and with utf-8
 Usage - `python3 len2.py vcp1.txt vac1.txt hwdiff.tsv len2.tsv`
 
 
-Takes vcp1.txt and vac1.txt as input and calculates the differences and stores them in two files. The contents of output files hwdiff.tsv and len2.tsv are explained later.
+Takes vcp1.txt and vac1.txt as input and calculates the differences and stores them in two files. 
+
+There are certain assumptions in the process.
+
+1. All non alphabet items `[^a-zA-Z]` are ignored for comparing.
+2. All XML like tags are removed. `<[^>]*>`
+3. Trailing numbers are removed from headwords in vac1.txt (`aMSa#1 -> aMSa`)
+4. Only one parse is retained from headword from vac1.txt (`aMsa(se)BAra -> aMsaBAra`)
+5. vac1.txt usually has one headword per line. If there are more than one entries, they are clubbed together in vac1.txt. vcp1.txt treats them separately. To make them at par, the following method is followed. All the entries for a particular headword are concatenated. e.g. vac1.txt has `a#1`  and `a#2` headwords. If their entries are `e1` and `e2`, the text which is generated for headword `a` is `e1 e2`. Similarly for vcp1.txt. 
+
+The contents of output files hwdiff.tsv and len2.tsv are explained later.
 
 # hwdiff.tsv
 
