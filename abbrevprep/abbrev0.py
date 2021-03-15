@@ -277,10 +277,43 @@ def write_md(fileout,tranout,recs,minabbrev):
   for out in outarr:
    f.write(out+'\n')
 
+def write_summary(fileout,tranout,recs,minabbrev):
+ outarr = []
+ tranin = 'slp1'
+ for irec,rec in enumerate(recs):
+  # Outrec object
+  outa = []  
+  nrec = irec+1
+  #outa.append("%s"%nrec) # sequence number
+  a = transcoder.transcoder_processString(rec.abbrev,tranin,tranout)
+  n = rec.ngr + rec.nls
+  outarr.append('%s %s' %(a,n))
+  continue
+  # skip this for now
+  outa.append(a)  # the abbreviation
+  outa.append('%s'% rec.ngr)
+  outa.append('%s'% rec.nls)
+  gr_refs = [make_link_md(k1,tranout) for k1 in rec.gr_hws]
+  ls_refs = [make_link_md(k1,tranout) for k1 in rec.ls_hws]
+  outa.append(' '.join(gr_refs))
+  outa.append(' '.join(ls_refs))
+  # make a markdown table row
+  out = ' | '.join(outa)
+  out = '|' + out + '|'  
+  outarr.append(out)
+ with codecs.open(fileout,"w","utf-8") as f:
+  for out in outarr:
+   f.write(out+'\n')
+ print('also write %s abbreviations to %s' %(len(outarr),fileout))
+
 if __name__=="__main__": 
  option = sys.argv[1]  # tranout,format-option
  filein = sys.argv[2] #  xxx.txt (path to digitization of xxx)
- fileout = sys.argv[3] # 
+ fileout = sys.argv[3] #
+ if len(sys.argv) > 4:
+  fileout1 = sys.argv[4]
+ else:
+  fileout1 = temp.txt
  entries = init_entries(filein)
  mark_entries(entries)
  tranout,printopt,minabbrev_str = option.split(',')
@@ -291,3 +324,5 @@ if __name__=="__main__":
  else:
   print('unknown print option',printopt)
   exit(1)
+ write_summary(fileout1,tranout,outrecs,minabbrev)
+ 
