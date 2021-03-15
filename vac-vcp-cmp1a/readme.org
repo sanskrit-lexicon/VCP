@@ -32,7 +32,7 @@ temp_vcp1a.txt:
 <>vA qa . vizRO “akArovizRuruddizwOkArastu maheSvaraH .
 
 vcp2a.txt:
-000004:2:  te: vA+qa. </vkr><reN1> vizRO <q>akAro vizRuruddizwa ukArastu maheSvaraH
+000004:2: vcp: <>vA qa . vizRO “akArovizRuruddizwOkArastu maheSvaraH .
 
 
 The diff number  in vcp2a.txt in this line is '2'.
