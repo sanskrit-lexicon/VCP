@@ -1,4 +1,4 @@
-readme.org for vac-vcp-cmp1a
+readme.txt for vac-vcp-cmp1a
 Begun Mar 14, 2021
 Builds on vac-vcp-cmp1, using current 2021 vcp.txt 
  from csl-orig/
@@ -9,7 +9,7 @@ Here, 'vac' refers to this Scharf version of Tirupati edition of Vacaspatyam.
 Also, 'vcp' refers to the Cologne edition of Vacaspatyam.
 
 * temp_vcp1a.txt
-temp_vcp.txt is a copy from csl-orig/v02/vcp/vcp.txt at 03-14-2021
+temp_vcp.txt is a copy from csl-orig/v02/vcp/vcp.txt at 03-15-2021
 
 # make temp_vcp1a.txt in same format as ../vac-vcp-cmp1/vcp1.txt
 # removes the '<L>, '<LEND>', lines, AND
