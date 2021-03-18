@@ -1,0 +1,124 @@
+; TE error: DvaryuiraizutaH -> DvaryuBiraBizutaH
+034829 old 034829:2:  te: aSnEH aSmaBiH karaRaBUtEH suto'DvaryuiraizutaH<q> BA
+034829 new 034829:2:  te: aSnEH aSmaBiH karaRaBUtEH suto'DvaryuBiraizutaH<q> BA
+;
+; error in TE  'smAkenaiyug' -> 'smAkenABiyug'
+040714 old 040714:2:  te: asmatsambanDini</1> <reN><q>sa raTena raTItamo'smAkenaiyugvanA
+040714 new 040714:2:  te: asmatsambanDini</1> <reN><q>sa raTena raTItamo'smAkenaBiyugvanA
+;
+; TE error: SudDaityarTaH -> SudDAtyarTaH
+045076 old 045076:2:  te: SudDaityarTaH<q>.</reN> <reN><q>na tizWannudDftodakenAcAmenna SUdrASucyeka
+045076 new 045076:2:  te: SudDAtyarTaH<q>.</reN> <reN><q>na tizWannudDftodakenAcAmenna SUdrASucyeka
+;
+; also TE error: daSamaf -> daSamaH
+050478 old 050478:3:  te: BedAn anuvadati sargaiti. yastu prAkftovEkftaSca sa tu daSamaf
+050478 new 050478:3:  te: BedAn anuvadati sargaiti. yastu prAkftovEkftaSca sa tu daSamaH
+;
+; NOTE: Also TE error: PUkAraiva -> PUtkAraiva
+054541 old 054541:0:  te:  %APUka% na0 <vkr><vg>Izat PUkAraiva Peno'tra</vg> pf0 talopaH.</vkr> (1)aPene vEdyakam.</1><page>vp1_757.pdf</page><column>1</column><br/>
+054541 new 054541:0:  te:  %APUka% na0 <vkr><vg>Izat PUtkAraiva Peno'tra</vg> pf0 talopaH.</vkr> (1)aPene vEdyakam.</1><page>vp1_757.pdf</page><column>1</column><br/>
+;
+; TE error: tatsaMbanDaitvAcca -> tatsaMbanDitvAcca
+079181 old 079181:3:  te: KyA purI AsIt tatsaMbanDaitvAcca taddeSasyotkalatvam
+079181 new 079181:3:  te: KyA purI AsIt tatsaMbanDitvAcca taddeSasyotkalatvam
+;
+; ? TE error: sazaiBArka -> sazaqBArka
+095171 old 095171:1:  te: tattulye sazaiBArkarUpacCAyAkzetrAdinA same candrapAte api
+095171 new 095171:1:  te: tattulye sazaqBArkarUpacCAyAkzetrAdinA same candrapAte api
+;
+; TE Error: suSrau0 -> suSru0
+112882 old 112882:1:  te: SlezmABiharaRam<q> iti ca suSrau0.</reN> <vn>kvacit ratnamAlAyAm
+112882 new 112882:1:  te: SlezmABiharaRam<q> iti ca suSru0.</reN> <vn>kvacit ratnamAlAyAm
+;
+; TE errpr: tuRqikApri -> tuRqikAri
+120510 old 120510:3:  te: svArTe kan ataittvaM kawutuRqikApritatrEva.</vkr></1> <reN>kawutuRqI
+120510 new 120510:3:  te: svArTe kan ataittvaM kawutuRqikAritatrEva.</vkr></1> <reN>kawutuRqI
+;
+; TE error: sakarmakatvyavahAro -> sakarmmakatvavyavahAro
+162182 old 162182:5:  te: naca kfYAdO sakarmakatvyavahAroBAktaiti nEyAyi
+162182 new 162182:5:  te: naca kfYAdO sakarmmakatvavyavahAroBAktaiti nEyAyi
+;
+; TE error: yajYaijyo -> yajYaIjyo
+170673 old 170673:1:  te: rUpatvamapIzwaM yaTAha <q>yajYaijyo mahejyaSca kratuH satraM satAM
+170673 new 170673:1:  te: rUpatvamapIzwaM yaTAha <q>yajYaIjyo mahejyaSca kratuH satraM satAM
+;
+; TE error: rudai -> rui
+173250 old 173250:2:  te:  %krimiSEla% pU0 <vg>kriminirmmitaH SElaH.</vg> (1)valmIke (rudai
+173250 new 173250:2:  te:  %krimiSEla% pU0 <vg>kriminirmmitaH SElaH.</vg> (1)valmIke (rui
+;
+; TE error: kuyedendu -> kuvedendu
+176840 old 176840:3:  te: vatsaraH. kuyedenduvarzErityatra kurekaH vedAScatvAraindu
+176840 new 176840:3:  te: vatsaraH. kuvedenduvarzErityatra kurekaH vedAScatvAraindu
+;
+; ? TE error indra -> ? inda
+205893 old 205893:2:  te: tIyastu paYcamonavamastaTA. sitaSanikujajIvArkAstaindra
+205893 new 205893:2:  te: tIyastu paYcamonavamastaTA. sitaSanikujajIvArkAstainda
+;
+; TE Error Raini -> Rini
+209416 old 209416:1:  te:  %GUkanAdinI% strI <vg>GUka iva nadati</vg> <vkr>nada-Raini NIp
+209416 new 209416:1:  te:  %GUkanAdinI% strI <vg>GUka iva nadati</vg> <vkr>nada-Rini NIp
+;
+; TE error: daime -> taime
+226348 old 226348:3:  te: daime kurupAYcAlAH SAlvAScEva sajANgalAH. SUra
+226348 new 226348:3:  te: taime kurupAYcAlAH SAlvAScEva sajANgalAH. SUra
+;
+; TE error: adaukte -> a0 ukte
+229768 old 229768:2:  te: connatayA<q> vf0 sa0 11</reN> (1)adaukte ketuBede.</1><page>vp4_592.pdf</page><column>1</column><br/>
+229768 new 229768:2:  te: connatayA<q> vf0 sa0 11</reN> (1)a0 ukte ketuBede.</1><page>vp4_592.pdf</page><column>1</column><br/>
+;
+; TE error: samudrAhftam -> samudAhftam
+242264 old 242264:3:  te: tat tAmasamudrAhftamiti<q> gItA.</reN></vn> (13) manaindriyARAmE
+242264 new 242264:3:  te: tat tAmasamudAhftamiti<q> gItA.</reN></vn> (13) manaindriyARAmE
+;
+; TE error: qaqa -> qau
+246692 old 246692:7:  te:  %titau% pu0 <vkr>tana-qaqa sanvacca qau iti nirdeSAt na sanDiH
+246692 new 246692:7:  te:  %titau% pu0 <vkr>tana-qau sanvacca qau iti nirdeSAt na sanDiH
+;
+; TE error: klIba -> klIva
+246694 old 246694:3:  te: samopetaM cAlanaM titau smftamityukterasya klIbatvamapi
+246694 new 246694:3:  te: samopetaM cAlanaM titau smftamityukterasya klIvatvamapi
+;
+; TE error: bruvaiw -> bruvaIw
+248996 old 248996:1:  te: bruvaiw<q> 7/3/93 pA0 sUtrAt</reN> <vkr><reN><q>IwaH yaNo vA<q> sU0</reN> vetyasya
+248996 new 248996:1:  te: bruvaIw<q> 7/3/93 pA0 sUtrAt</reN> <vkr><reN><q>IwaH yaNo vA<q> sU0</reN> vetyasya
+;
+; TE error: SairorugArtta => SirorugArtta
+260015 old 260015:1:  te: madapIqitaH. SairorugArtta stfzitaH SrAntaH pAnaklamA
+260015 new 260015:1:  te: madapIqitaH. SirorugArtta stfzitaH SrAntaH pAnaklamA
+;
+; te error: Januka -> Jinuka
+271107 old 271107:3:  te: ataittvam(Januka)</vkr> (1)durRAmAyAm amaraH.</1> <vn>tAlavyama
+271107 new 271107:3:  te: ataittvam(Jinuka)</vkr> (1)durRAmAyAm amaraH.</1> <vn>tAlavyama
+;
+; te Error: acCainnaDArayA -> acCinnaDArayA
+279860 old 279860:1:  te: kavacaM tatra cAzwaSataM yajet. acCainnaDArayA siYcan
+279860 new 279860:1:  te: kavacaM tatra cAzwaSataM yajet. acCannaDArayA siYcan
+;
+; TE error: SairodeSe -> SirodeSe
+279964 old 279964:2:  te: raRAni ca. SairodeSe ca nidrAKyaM vastraratnayataM Gawam
+279964 new 279964:2:  te: raRAni ca. SirodeSe ca nidrAKyaM vastraratnayataM Gawam
+;
+; TE error: sarvaSaudDInAmiyaM -> sarvaSudDInAmiyaM
+285804 old 285804:1:  te: sarvaSaudDInAmiyaM SudDirviSizyate. tannAmakIrttana
+285804 new 285804:1:  te: sarvaSudDInAmiyaM SudDirviSizyate. tannAmakIrttana
+;
+; minor TE error: citsaYjYA -> citsaMjYA
+332911 old 332911:4:  te: citsaYjYA kAtyA0 16.5.9.</vn> (2)SastraviSeze</2> <reN>praugmukTya
+332911 new 332911:4:  te: citsaMjYA kAtyA0 16.5.9.</vn> (2)SastraviSeze</2> <reN>praugmukTya
+;
+;  TE error:  aRasaMkide -> aRRasaMkide 
+334696 old 334696:7:  te: ai aRasaMkide RaM cittaPalaasma. - Dftistu parihA
+334696 new 334696:7:  te: ai aRRasaMkide RaM cittaPalaasma. - Dftistu parihA
+;
+; TE error: muKauktyantara -> muKavyaktyantara; sUnya -> SUnya
+334891 old 334891:5:  te: muKauktyantararahitastajjanmakAraRasUnyatvAt yaTA vizARa
+334891 new 334891:5:  te: muKavyaktyantararahitastajjanmakAraRasUnyatvAt yaTA vizARa
+;
+; TE: minor error naKaukaY -> naKa-ukaY
+364836 old 364836:0:  te:  %vanAKuka% pu0 <vkr>ava+naKaukaY avAllopaH.</vkr> (1)mudge trikA0.</1><page>vp6_0454.pdf</page><column>1</column><br/>
+364836 new 364836:0:  te:  %vanAKuka% pu0 <vkr>ava+naKa-ukaY avAllopaH.</vkr> (1)mudge trikA0.</1><page>vp6_0454.pdf</page><column>1</column><br/>
+;
+; TE error: Cainna -> Cinna
+370759 old 370759:1:  te: saMyuktasamavetaviSezaRatayA, SabdABAvaH  kevalaSrotrAvacCainna
+370759 new 370759:1:  te: saMyuktasamavetaviSezaRatayA, SabdABAvaH  kevalaSrotrAvacCinna
+;
