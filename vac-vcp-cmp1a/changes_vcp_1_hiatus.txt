@@ -1,0 +1,2612 @@
+;
+; (ai) 000019:2:  te: ityukteH zaqviDAH. tatra abrAhmaRaityAdO brAhmaRasAdfSya
+23 old <>ityukteH zaqviDAH . tatra abrAhmaREtyAdO brAhmaRasAdfSya-
+23 new <>ityukteH zaqviDAH . tatra abrAhmaRaityAdO brAhmaRasAdfSya-
+;
+; 
+; (ai) 000022:2:  te: alpodaratvasya, apaSavo vE anye go'SveByaityAdO gavASva
+26 old <>alpodaratvasya, apaSavo vE anye go'SveByEtyAdO gavASva-
+26 new <>alpodaratvasya, apaSavo vE anye go'SveByaityAdO gavASva-
+;
+; (ai) 000815:2:  te: (Ataica).</1><page>vp1_049.pdf</page><column>2</column><br/>
+1186 old <>(AtEca) .
+1186 new <>(Ataica) .
+;
+; (ai) 003837:3:  te: na0 ta0. BallUke pu0. acCaBallukaityektaM nAmetyanye.<page>vp1_089.pdf</page><column>2</column><br/>
+5232 old <>na0 ta0 . BallUke pu0 . acCaBallukEtyekaM nAmetyanye .
+5232 new <>na0 ta0 . BallUke pu0 . acCaBallukaityekaM nAmetyanye .
+;
+; (ai) 004020:2:  te: syurajAdayaiti<q> jyotizam tasya mezarUpatve'pi mezasya
+5458 old <>syurajAdayEti” jyotizam tasya mezarUpatve'pi mezasya
+5458 new <>syurajAdayaiti” jyotizam tasya mezarUpatve'pi mezasya
+;
+; (ai) 004061:2:  te:  %ajakAva% na0 ajakA ajAgalastanaiva vAti prakASate
+5512 old ajakAva¦ na0 ajakA ajAgalastanEva vAti prakASate
+5512 new ajakAva¦ na0 ajakA ajAgalastanaiva vAti prakASate
+;
+; (ai) 004782:2:  te: yane'nvayaH ityataH lambakarRaityAdistadguRasaMvijYAnaH
+6592 old <>yane'nvayaH ityataH lambakarRREtyAdistadguRasaMvijYAnaH
+6592 new <>yane'nvayaH ityataH lambakarRRaityAdistadguRasaMvijYAnaH
+;
+; (ai) 005300:2:  te:  %ativizA% strI <vg>atikrAntA vizam</vg> atyA0 sa0.<vn> (Ataic)
+7383 old ativizA¦ strI atikrAntA vizam atyA0 sa0 . (AtEc)
+7383 new ativizA¦ strI atikrAntA vizam atyA0 sa0 . (Ataic)
+;
+; (ai) 007499:2:  te: lyuw. (mai) iti, (siqi)iti ca prasidDe kAzWavaMSAdi
+10336 old <>lyuw . (mE) iti, (siqi) iti ca prasidDe kAzWavaMSAdi-
+10336 new <>lyuw . (mai) iti, (siqi) iti ca prasidDe kAzWavaMSAdi-
+;
+; (ai) 007724:2:  te: rUpeRa tato'Dokzajaizyate<q> iti BAzye taTA ca aRqa
+10671 old <>rUpeRa tato'DokzajEzyate” iti BAzye taTA ca aRqa-
+10671 new <>rUpeRa tato'Dokzajaizyate” iti BAzye taTA ca aRqa-
+;
+; (au) 010522:2:  te:  %anuttara% tri0 <vg>uttarauttamaH</vg> na0 5 ba0. (1)atyantaSrezWe.</1> <vn>6 ba
+14493 old anuttara¦ tri0 uttarOttamaH na0 5 ba0 . atyantaSrezWe . 6 ba0 .
+14493 new anuttara¦ tri0 uttarauttamaH na0 5 ba0 . atyantaSrezWe . 6 ba0 .
+;
+; (ai) 017876:5:  te:  %abjakarRikA% strI <vg>abjasya karRikA karRABaraRaBedaiva tulyAkA
+24670 old abjakarRRikA¦ strI abjasya karRRikA karRRABaraRaBedEva tulyAkA-
+24670 new abjakarRRikA¦ strI abjasya karRRikA karRRABaraRaBedaiva tulyAkA-
+;
+; (ai) 017895:3:  te:  %abjabAnDava% pu0 <vg>abjAnAM bAnDavaiva prakASakatvAt
+24694 old abjabAnDava¦ pu0 abjAnAM bAnDabEva prakASakatvAt .
+24694 new abjabAnDava¦ pu0 abjAnAM bAnDabaiva prakASakatvAt .
+;
+; (ai) 017898:2:  te:  %abjaBoga% pu0<vg> abjasya SaNKasya BogaH avayavaiva Bogoyasya
+24699 old abjaBoga¦ pu0 abjasya SaNKasya BogaH avayavEva Bogoyasya .
+24699 new abjaBoga¦ pu0 abjasya SaNKasya BogaH avayavaiva Bogoyasya .
+;
+; 
+; (ai) 018220:2:  te: na dozaityAdikaM tu dEvAdikarmmAdO anujYAtamAMsAdi
+25123 old <>na dozEtyAdikaM tu dEvAdikarmmAdO anujYAtamAMsAdi-
+25123 new <>na dozaityAdikaM tu dEvAdikarmmAdO anujYAtamAMsAdi-
+;
+; (au) 018886:2:  te: nABAvaupalabDeH SAM sU0.</reN> <reN><q>nAsatovidyate BAvo
+25851 old <>“nABAvOpalabDeH SAM0 sU0 . “nAsatovidyate BAvo
+25851 new <>“nABAvaupalabDeH SAM0 sU0 . “nAsatovidyate BAvo
+;
+; (ai) 019015:0:  te: gUrRaityeva aByudyate tri0.</vn><page>vp1_289.pdf</page><column>1</column><br/>
+26047 old <>gUrRREtyeva aByudyate tri0 .
+26047 new <>gUrRRaityeva aByudyate tri0 .
+;
+; (ai) 021813:3:  te: vA.</vkr> (1)ripujayaSIle balini</1> <reN><q>SAsaitTA mahAz asyamitra
+30041 old <>vA . ripujayaSIle balini “SAsEtTA mahA~ asyamitra
+30041 new <>vA . ripujayaSIle balini “SAsaitTA mahA~ asyamitra
+;
+; (ai) 023173:3:  te: mate anyamate tu saNkrAntyupalakzitastAdfSasUkzmakAlaiti
+31917 old <>mate anyamatetu saMkrAntyupalakzitastAdfSasUkzmakAlEti
+31917 new <>mate anyamatetu saMkrAntyupalakzitastAdfSasUkzmakAlaiti
+;
+; (ai) 023272:2:  te: hAro yuktaH.</vn> <reN>yattu ajAgalastanaivetyAdi prAguktavacanam
+32018 old <>hAro yuktaH yattu ajAgalastanEvetyAdi prAguktavacanam
+32018 new <>hAro yuktaH yattu ajAgalastanaivetyAdi prAguktavacanam
+;
+; (ai) 023320:3:  te: vikAraH aR AyasaH.</vkr> (4)lohavikAre</4> <reN>`ayaskAntaivAyasam
+32084 old <>vikAraH aR AyasaH . lOhavikAre ‘ayaskAntEvAyasam’
+32084 new <>vikAraH aR AyasaH . lOhavikAre ‘ayaskAntaivAyasam’
+;
+; (ai) 023616:2:  te: nAto'Dikaiti niyamahetvaBAvAt kalpanAyASca svAyattatvAt
+32467 old <>nAto'DikEti niyamahetvaBAvAt kalpanAyASca svAyattatvAt
+32467 new <>nAto'Dikaiti niyamahetvaBAvAt kalpanAyASca svAyattatvAt
+;
+; (ai) 023707:2:  te:  %ayogavAha% pu0 <vn>akzarasamAmnAyasUtrezu <q>aiuR<q> ityAdizu
+32581 old ayogavAha¦ pu0 akzarasamAmnAyasUtrezu “EuR” ityAdizu
+32581 new ayogavAha¦ pu0 akzarasamAmnAyasUtrezu “aiuR” ityAdizu
+;
+; 
+; (ai) 025745:3:  te: praSne <reN><q>yo'yaM pavate<q></reN> ityuttaraM dattvA <reN><q>tadAhuryadayamekaivEDa
+35370 old <>praSne “yo'yaM pavate” ityuttaraM dattvA “tadAhuryadayamekEvEza
+35370 new <>praSne “yo'yaM pavate” ityuttaraM dattvA “tadAhuryadayamekaivEza
+;
+; (ai) 027388:2:  te: mAKyAtumurageByaiva priyam<q>..</reN> atrAKyAtumiti BUpraveSasya
+37325 old <>mAKyAtumurageByEva priyam” .. atrAKyAtumiti BUpraveSasya
+37325 new <>mAKyAtumurageByaiva priyam” .. atrAKyAtumiti BUpraveSasya
+;
+; (ai) 028438:4:  te: lanDanaH<q> manuH</reN>'<vg> alamastyasya Danam</vg> <vkr>ac bahuDanaityarTaH
+38440 old <>lanDanaH” mamuH alamastyasya Danam ac bahuDanEtyarTaH
+38440 new <>lanDanaH” mamuH alamastyasya Danam ac bahuDanaityarTaH
+;
+; (ai) 029533:2:  te: nagnajinnAma rAjAsIdBuvi viKyAtavikramaH. ekacakraiti
+39946 old <>nagnajinnAma rAjAsIdBuvi viKyAtavikramaH . ekacakrEti
+39946 new <>nagnajinnAma rAjAsIdBuvi viKyAtavikramaH . ekacakraiti
+;
+; (ai) 029551:2:  te: DipaH. arkkaityaBiviKyAto yastu dAnavapuNgavaH
+39965 old <>DipaH . arkkEtyaBiviKyAto yastu dAnavapuNgavaH .
+39965 new <>DipaH . arkkaityaBiviKyAto yastu dAnavapuNgavaH .
+;
+; (ai) 029556:2:  te: viKyAtaH SrImAn yastu mahAsuraH. sa viSvaiti viKyAto
+39970 old <>viKyAtaH SrImAn yastu mahAsuraH . sa viSvEti viKyAto
+39970 new <>viKyAtaH SrImAn yastu mahAsuraH . sa viSvaiti viKyAto
+;
+; (ai) 030256:2:  te: dinakaryyAm. <q>bOdDaH SaNkate nanviti nanvayaM GawaityAdi
+40920 old <>dinakaryyAm . “bOdDaH SaNkate nanviti nanvayaM GawEtyAdi
+40920 new <>dinakaryyAm . “bOdDaH SaNkate nanviti nanvayaM GawaityAdi
+;
+; (ai) 031026:4:  te: saMjYakezu (a)varRezu<q> <q>aityazwAdaSAnAM saMjYA<q> si0 kO
+41791 old <>saMjYakezu (a)varRRezu” “EtyazwAdaSAnA saMjYA” si0 kO0 .
+41791 new <>saMjYakezu (a)varRRezu” “aityazwAdaSAnA saMjYA” si0 kO0 .
+;
+; (au) 031970:2:  te: atrocyate. vizamaupanyAsaH yuktaM yat surApARaprati
+43117 old <>atrocyate . vizamOpanyAsaH yuktaM yat surApARaprati-
+43117 new <>atrocyate . vizamaupanyAsaH yuktaM yat surApARaprati-
+;
+; (ai) 032134:2:  te: BUtA iti BA0</reN> <vn>loke tu aviDuraityeva.</vn><page>vp1_462.pdf</page><column>1</column><br/>
+43328 old <>BUtA iti BA0 loke tu aviDurEtyeva .
+43328 new <>BUtA iti BA0 loke tu aviDuraityeva .
+;
+; (ai) 032546:2:  te: viSvAyAm ativizayAm</6> <vkr>(Ataic) strI wAp.</vkr><page>vp1_467.pdf</page><column>1</column><br/>
+43899 old <>viSvAyAm ativizayAm (AtEc) strI wAp .
+43899 new <>viSvAyAm ativizayAm (Ataic) strI wAp .
+;
+; (ai) 032595:5:  te: aByAso dfQatarasaMskAraH udDoDakatyeBoktaiti kecit liNgaM
+43977 old <>aByAsodfQatarasaMskAraH udboDakatvenoktEti kecit liNgaM
+43977 new <>aByAsodfQatarasaMskAraH udboDakatvenoktaiti kecit liNgaM
+;
+; (au) 032847:4:  te: stvyaktaSabda iti atauttaramucyate <reN><q>sUkzmantviha<q></reN> kAraRA
+44327 old <>stvavyaktaSabda iti atOttaramucyate “sUkzmantviha” kAraRA-
+44327 new <>stvavyaktaSabda iti atauttaramucyate “sUkzmantviha” kAraRA-
+;
+; (au) 033376:2:  te: rmmitaH yena vftraSiro harttA mattejaupavfMhitaH<q></reN> iti
+45018 old <>rmmitaH . yena vftraSiro harttA mattejOpavfMhitaH” . iti
+45018 new <>rmmitaH . yena vftraSiro harttA mattejaupavfMhitaH” . iti
+;
+; TE error: DvaryuiraizutaH -> DvaryuBiraBizutaH
+; (ai) 034829:2:  te: aSnEH aSmaBiH karaRaBUtEH suto'DvaryuiraizutaH<q> BA
+;46638 old <>aSnEH aSmaBiH karaRaBUtEH suto'DvaryuBiraBizutaH” BA0 .
+;46638 new <>aSnEH aSmaBiH karaRaBUtEH suto'DvaryuBiraBizutaH” BA0 .
+;
+; 
+; (ai) 036029:2:  te: SvetaH pucCaindrAya svapasyAya, vehadvEzRavovAmanaH 1 rohi
+48077 old <>SvetaH, pucCEndrAya svapasyAya, vehadvEzRavovAmanaH 1 . rohi-
+48077 new <>SvetaH, pucCaindrAya svapasyAya, vehadvEzRavovAmanaH 1 . rohi-
+;
+; (au) 036040:2:  te: YjisakTastaEndrAgnAH kfzRAYjiralpAYjirmahAYjistau
+48089 old <>YjisakTastaEndrAgnAH” kfzRAYjiralpAYjirmahAYjistO-
+48089 new <>YjisakTastaEndrAgnAH” kfzRAYjiralpAYjirmahAYjistau-
+;
+; (ai) 036111:3:  te: rAtryA, fkzo jatUH suzilIkA taitarajanAnAM, jahakA
+48161 old <>rAtryA, fkzo jatUH muzilIkA tEtarajanAnAM, jahakA
+48161 new <>rAtryA, fkzo jatUH muzilIkA taitarajanAnAM, jahakA
+;
+; (ai) 036410:2:  te:  %aSvaSiras% na0 6 ta0 <vg>vAjimastake aSvasya Siraiva Siro'sya
+48524 old aSvaSiras¦ na0 6 ta0 1 vAjimastake . aSvasya SirEva Siro'sya ..
+48524 new aSvaSiras¦ na0 6 ta0 1 vAjimastake . aSvasya Siraiva Siro'sya ..
+;
+; error in TE  'smAkenaiyug' -> 'smAkenABiyug'
+; (ai) 040714:2:  te: asmatsambanDini</1> <reN><q>sa raTena raTItamo'smAkenaiyugvanA
+;53870 old <>asmatsambanDini “sa raTena raTItamo'smAkenABiyugvanA”
+;53870 new <>asmatsambanDini “sa raTena raTItamo'smAkenABiyugvanA”
+;
+; (au) 042326:2:  te: SabdautpadyatAmiti vAcyam ayAvaddravyaBAvitvena vAyu
+55928 old <>SabdOtpadyatAmiti vAcyam ayAvaddravyaBAvitvena vAyu-
+55928 new <>SabdautpadyatAmiti vAcyam ayAvaddravyaBAvitvena vAyu-
+;
+; (ai) 043635:4:  te: gamanaityAdAvivAdInAM pUrvvoktAnAYca saMgrahaH. dUzaRA
+57482 old <>gamanEtyAdAvivAdInAM pUrbboktAnAYca saMgrahaH . dUzaRA-
+57482 new <>gamanaityAdAvivAdInAM pUrbboktAnAYca saMgrahaH . dUzaRA-
+;
+; (ai) 043640:2:  te: mapyudakakartfkaprAptikarmmagrAmaityarTAlABAt. prApteti
+57487 old <>mapyudakakartfkaprAptikarmmagrAmEtyarTAlABAt . prApteti
+57487 new <>mapyudakakartfkaprAptikarmmagrAmaityarTAlABAt . prApteti
+;
+; (ai) 043646:2:  te: devadattaH pacyataityatra kartftAsambanDena devadattasyAnvayasamBa
+57493 old <>devadattaH pacyatEtyatra kartftAsambanDena devadattasyAnvayasamBa-
+57493 new <>devadattaH pacyataityatra kartftAsambanDena devadattasyAnvayasamBa-
+;
+; 
+; (ai) 043657:2:  te: prAptikarmmatvaviSizwe prAptodakaityAdisamudAyaSaktyEva nirvA
+57504 old <>prAptikarmmatvaviSizwe prAptodakEtyAdisamudAyaSaktyEva nirvA-
+57504 new <>prAptikarmmatvaviSizwe prAptodakaityAdisamudAyaSaktyEva nirvA-
+;
+; (ai) 043658:5:  te: haitiBAvaH. sADakAntaramAha. aSakyarTeti. ayaM BAvaH
+57505 old <>hEti BAvaH . sADakAntaramAha . azazWyarTeti . ayaM BAvaH
+57505 new <>haiti BAvaH . sADakAntaramAha . azazWyarTeti . ayaM BAvaH
+;
+; (ai) 043687:2:  te: nDyaBinnaH puruzaiti boDopapatteH. ataeva rAjYaH padA
+57535 old <>nDyaBinnaH puruzEti boDopapatteH . ataeva rAjYaH padA-
+57535 new <>nDyaBinnaH puruzaiti boDopapatteH . ataeva rAjYaH padA-
+;
+; (ai) 043689:2:  te: vA GanaSyAmanizkoSAmbirgoraTaityAdO ivAdiprayogA
+57537 old <>vA GanaSyAmanizkoSAmbirgoraTEtyAdO ivAdiprayogA-
+57537 new <>vA GanaSyAmanizkoSAmbirgoraTaityAdO ivAdiprayogA-
+;
+; (ai) 043692:2:  te: Binnaiti buboDayizAyAM samAsasya, rAjasambanDavAniti
+57540 old <>BinnEti buboDayizAyAM samAsasya, rAjasambanDavAniti
+57540 new <>Binnaiti buboDayizAyAM samAsasya, rAjasambanDavAniti
+;
+; (ai) 043706:3:  te: pratyayArTAnvayasOlaByAyottarapade eva sA kalpyataiti viSezaH
+57554 old <>pratyayArTAnvayasolaByAyottarapade eva sA kalpyatEti viSezaH
+57554 new <>pratyayArTAnvayasolaByAyottarapade eva sA kalpyataiti viSezaH
+;
+; (ai) 043721:2:  te: prAtipadikasaMjYArUpaM kAryyamevArTavattvamanumApayati DUmaiva
+57570 old <>prAtipadikasaMjYArUpaM kAryyamevArTavattvamanumApayati DUmEva
+57570 new <>prAtipadikasaMjYArUpaM kAryyamevArTavattvamanumApayati DUmaiva
+;
+; (ai) 043757:2:  te: rAjapuruzaityAdeH sambanDini sambanDe vA lakzaRA. nAdyaH
+57607 old <>rAjapuruzEtyAdeH sambanDini sambanDe vA lakzaRA . nAdyaH
+57607 new <>rAjapuruzaityAdeH sambanDini sambanDe vA lakzaRA . nAdyaH
+;
+; 
+; (ai) 043772:0:  te: jEminIyEravaSyAByupeyaityAstAM vistaraH<q>.</reN></vn><page>vp1_608.pdf</page><column>1</column><br/>
+57622 old <>jEminIyEravaSyAByupeyEtyaHstAM vistaraH” .
+57622 new <>jaiminIyEravaSyAByupeyaityaHstAM vistaraH” .
+;
+; (ai) 043787:2:  te: kAlaityAdO tumAdinA DAtvarTAvacCinno'nukUlatvAdiH
+57640 old <>kAlEtyAdO tumAdinA DAtvarTAvacCinno'nukUlatvAdiH,
+57640 new <>kAlaityAdO tumAdinA DAtvarTAvacCinno'nukUlatvAdiH,
+;
+; (ai) 043854:2:  te: guRaitivad gatirguRo'nekASritA ityAdiprayogApatteSca na
+57708 old <>guREtivadgatirguRo'nekASritA ityAdiprayogApatteSca na
+57708 new <>guRaitivadgatirguRo'nekASritA ityAdiprayogApatteSca na
+;
+; (ai) 043907:2:  te: vAcyaH so'pi candraiva muKaM dfSyate, devadatto BuktvA
+57763 old <>vAcyaH so'pi candrEva muKaM dfSyate, devadattoBuktvA
+57763 new <>vAcyaH so'pi candraiva muKaM dfSyate, devadattoBuktvA
+;
+; (ai) 043932:3:  te: NgaH. evamapi dvitIyAyA durvAratvena paSya mfgaityAdivA
+57788 old <>NgaH . evamapi dvitIyAyAdurvvAratvena paSya mfgEtyAdivA-
+57788 new <>NgaH . evamapi dvitIyAyAdurvvAratvena paSya mfgaityAdivA-
+;
+; (ai) 044316:3:  te: SrOtAdiDarmasya kalAvasamBavaiti tAdfSAnAM tantrADikA
+58210 old <>SrOtAdiGarmasya kalAvasamBavEti tAdfSAnAM tantrADikA-
+58210 new <>SrOtAdiGarmasya kalAvasamBavaiti tAdfSAnAM tantrADikA-
+;
+; (ai) 044690:4:  te: vAstaM gate gurO. malamAsaivEtAni varjjayet<q>vfdDagargAkte.</reN></4><page>vp1_626.pdf</page><column>1</column><br/>
+58690 old <>vAstaM gate gurO . malamAsEvetAni varjjayet” vfdDagargokte .
+58690 new <>vAstaM gate gurO . malamAsaivetAni varjjayet” vfdDagargokte .
+;
+; (au) 044970:2:  te: vizwaudaNmuKaH. prAgvA brAhmeRa tIrTena dvijo nitya
+59062 old <>vizwOdaNmuKaH . prAgvA brAhmeRa tIrTena dvijo nitya-
+59062 new <>vizwaudaNmuKaH . prAgvA brAhmeRa tIrTena dvijo nitya-
+;
+; TE error: SudDaityarTaH -> SudDAtyarTaH
+; (ai) 045076:2:  te: SudDaityarTaH<q>.</reN> <reN><q>na tizWannudDftodakenAcAmenna SUdrASucyeka
+;59171 old <>SudDAtyarTaH” . “na tizWannudDftodakenAcAmenna SUdrASucyeka-
+;59171 new <>SudDAtyarTaH” . “na tizWannudDftodakenAcAmenna SUdrASucyeka-
+;
+; (ai) 046294:2:  te: jyAmiva Danvane vite manyu nnayAmasi mfqatAM naiha asma
+60635 old <>jyAmiva Danvane vite manyunnayAmasi mfqatAM nEha asma-
+60635 new <>jyAmiva Danvane vite manyunnayAmasi mfqatAM naiha asma-
+;
+; (ai) 046295:2:  te: Byam. iqA 2,3,BA. yaidaM viSvaM BUtaM yuyo
+60636 old <>Byam . iqA 2, 3, BA . yEdaM viSvaM BUtaM yuyo
+60636 new <>Byam . iqA 2, 3, BA . yaidaM viSvaM BUtaM yuyo
+;
+; (au) 046933:2:  te: tftvaM SrutamityatauttaraM paWati. <q>vEdyutenEva tacCruteH
+61456 old <>tftvaM SrutamityatOttaraM paWati . “vEdyutenEva tacCruteH” .
+61456 new <>tftvaM SrutamityatauttaraM paWati . “vEdyutenEva tacCruteH” .
+;
+; (ai) 046985:3:  te: eva vA utaplu, tya dehAddehAntaraM pratipadyate Sukaiva vfkzAdvf
+61510 old <>eva vA utplutya dehAddehAntaraM pratipadyate SukEva vfkzAdvf-
+61510 new <>eva vA utplutya dehAddehAntaraM pratipadyate Sukaiva vfkzAdvf-
+;
+; (au) 046990:2:  te: sUkzmEH saMparizvakto raMhatItyatauttaraM paWati. <reN><q>tryAtmaka
+61515 old <>sUkzmEH saMparizvakto raMhatItyatOttaraM paWati . “tryAtmaka-
+61515 new <>sUkzmEH saMparizvakto raMhatItyatauttaraM paWati . “tryAtmaka-
+;
+; (ai) 046997:8:  te: tammAdBUyatrayavApekzo'yam<q>ApaH puruzavacasaiti<q> praSnaprativa
+61522 old <>tasmAdBUyastvApekzo'yam “ApaH puruzavacasEti” praSnaprativa-
+61522 new <>tasmAdBUyastvApekzo'yam “ApaH puruzavacasaiti” praSnaprativa-
+;
+; (au) 047234:2:  te: dehabalasatvasAtmyaprakftiBezajadeSAnusAreRaupakramaRIye1 vyA
+61783 old <>dehabalasatvasAtmyaprakftiBezajadeSAnusAreROpakramaRIye 1 vyA-
+61783 new <>dehabalasatvasAtmyaprakftiBezajadeSAnusAreRaupakramaRIye 1 vyA-
+;
+; (au) 047315:4:  te: ftavaH. SIte SItapratIkArauzRe copmanivAraRam. kftvA
+61866 old <>ftavaH . SIte SItapratIkArOzRe cozkanivAraRam . kftvA
+61866 new <>ftavaH . SIte SItapratIkArauzRe cozkanivAraRam . kftvA
+;
+; (au) 047375:2:  te: 'lpavarzaprasravaRodapAnodakaprAyauzRadAruRavAtaH praviralA
+61928 old <>'lpavarzaprasravaRodapAnodakaprAyOzRadAruRavAtaH praviralA-
+61928 new <>'lpavarzaprasravaRodapAnodakaprAyauzRadAruRavAtaH praviralA-
+;
+; (au) 047456:2:  te: aDyA0 darSitAH.</reN> <reN>kfzRauvAca. SfRuzva jvara. sandeSaM
+62015 old <>183 aDyA0 darSitAH . “kfzROvAca . SfRuzva jvara . sandeSaM
+62015 new <>183 aDyA0 darSitAH . “kfzRauvAca . SfRuzva jvara . sandeSaM
+;
+; (ai) 047634:2:  te: rvikalpaiti BedaH. tryahASOcamiti raGunandanAdayaH. sadyaH
+62222 old <>rvikalpEti BedaH . tryahASOcamiti raGunandanAdayaH . sadyaH
+62222 new <>rvikalpaiti BedaH . tryahASOcamiti raGunandanAdayaH . sadyaH
+;
+; (au) 047720:2:  te: gAjjIvaH sUkzmaudAhftaH. mahataH paramavyaktamavyaktAt
+62332 old <>gAjjIvaH sUkzmOdAhftaH . mahataH paramavyaktamavyaktAt
+62332 new <>gAjjIvaH sUkzmaudAhftaH . mahataH paramavyaktamavyaktAt
+;
+; 
+; (ai) 048101:6:  te: DArA nirAbADEva mfgamadavAsanAyA vasanaiva pUrvva pUrvva
+62725 old <>DArA nirAbADEva mfgamadavAsanAyA vasanEva pUrbbapUrbba-
+62725 new <>DArA nirAbADaiva mfgamadavAsanAyA vasanaiva pUrbbapUrbba-
+;
+; (ai) 048238:2:  te: kalpaityapi na yuktaM. nIlAdivikalpasADAraRyAt. iha
+62866 old <>kalpEtyapi na yuktaM, nIlAdivikalpasADAraRyAt . iha
+62866 new <>kalpaityapi na yuktaM, nIlAdivikalpasADAraRyAt . iha
+;
+; (ai) 048489:2:  te: vyApinaH sataH kiM viBornaBasai va, Ahosviccandanavindo
+63123 old <>vyApinaH sataH kiM viBornaBasEva, Ahosviccandanavindo-
+63123 new <>vyApinaH sataH kiM viBornaBasaiva, Ahosviccandanavindo-
+;
+; (au) 048734:2:  te: stanyABilAzauktaH samprati tu patagAdInAM kaRAdiBakzaRA
+63375 old <>stanyABilAzOktaH samprati tu patagAdInAM kaRAdiBakzaRA-
+63375 new <>stanyABilAzauktaH samprati tu patagAdInAM kaRAdiBakzaRA-
+;
+; 
+; (ai) 048757:2:  te: pradIpajanyajYAnAdAvanEkAntikatvAdanapadeSaityarTaH 2. nanu
+63398 old <>pradIpajanyajYAnAdAvanEkAntikatvAdanapadeSEtyarTaH 2 . nanu
+63398 new <>pradIpajanyajYAnAdAvanEkAntikatvAdanapadeSaityarTaH 2 . nanu
+;
+; (au) 049299:2:  te: trEva satyAtmani DIguhAyAmavyAkftAkASauruprakASaH
+63955 old <>trEva satyAtmani DIguhAyAmavyAkftAkASOruprakASaH .
+63955 new <>trEva satyAtmani DIguhAyAmavyAkftAkASauruprakASaH .
+;
+; (ai) 049331:4:  te: maRaaqalantasya maDyasTa AtmA dIpaivAcalaH. sajYeyastaM
+63987 old <>maRqalantasya maDyasTa AtmA dIpEvAcalaH . sajYeyastaM
+63987 new <>maRqalantasya maDyasTa AtmA dIpaivAcalaH . sajYeyastaM
+;
+; (ai) 049340:3:  te: tasyadIpaivAcalaH prakASamAna Aste. saevamBUto jYA
+63997 old <>tasTadIpEvAcalaH prakASamAna Aste . saevamBUto jYA-
+63997 new <>tasTadIpaivAcalaH prakASamAna Aste . saevamBUto jYA-
+;
+; (au) 049762:2:  te: kAraRam. taTA ajautpattirahitaH. atastasya yadyapi
+64550 old <>kAraRam . taTA ajOtpattirahitaH . atastasya yadyapi
+64550 new <>kAraRam . taTA ajautpattirahitaH . atastasya yadyapi
+;
+; (au) 049774:2:  te:  %Atmopama% tri0 <vg>AtmA dehaupamA yasya</vg>(1) putre(2)nijasadfSe ca tri0.</2><page>vp1_694.pdf</page><column>1</column><br/>
+64568 old Atmopama¦ tri0 AtmA dehOpamA yasya 1 putre 2 nijasadfSe ca tri0 .
+64568 new Atmopama¦ tri0 AtmA dehaupamA yasya 1 putre 2 nijasadfSe ca tri0 .
+;
+; (au) 049910:2:  te: durvvAsasaM somamAtmeSabrahmasaMBavAn. SrIvidUrauvAca
+64720 old <>durvvAsasaM somamAtmeSabrahmasaMBavAn . SrIvidUrOvAca .
+64720 new <>durvvAsasaM somamAtmeSabrahmasaMBavAn . SrIvidUrauvAca .
+;
+; (au) 049912:3:  te: kIrzavIjatA etadAKyAhi me guro. SrImEtreyauvAca
+64722 old <>kIrzavIjAtA etadAKyAhi me guro . SrImEtreyOvAca .
+64722 new <>kIrzavIjAtA etadAKyAhi me guro . SrImEtreyauvAca .
+;
+; (au) 049934:2:  te: ha vismayome. SrImEtreyauvAca. iti tasya vacaH SrutvA
+64744 old <>ha vismayome . SrImEtreyOvAca . iti tasya vacaH SrutvA-
+64744 new <>ha vismayome . SrImEtreyauvAca . iti tasya vacaH SrutvA-
+;
+; 
+; (ai) 050093:2:  te: kriyAvAcitvena DAtavaityarTaH. evameva vEyA0 BU
+64944 old <>kriyAvAcitvena DAtavEtyarTaH . evameva vEyA0 BU0 .
+64944 new <>kriyAvAcitvena DAtavaityarTaH . evameva vEyA0 BU0 .
+;
+; (ai) 050161:3:  te: navAvatAraiti vyAKyAne tu na ko'pi doza iti yuktama.</vn></2><page>vp1_698.pdf</page><column>2</column><br/>
+65025 old <>navAvatArEti vyAKyAne tu na ko'pi doza iti yuktam .
+65025 new <>navAvatAraiti vyAKyAne tu na ko'pi doza iti yuktam .
+;
+; (au) 050205:3:  te: BAzye</reN> ca cakzurvftteniroDakaM SArvvarAdikaM tamaucyate tasyA
+65084 old <>BAzye ca cakzurvftterniroDakaM SArvvarAdikaM tamOcyate tasyA
+65084 new <>BAzye ca cakzurvftterniroDakaM SArvvarAdikaM tamaucyate tasyA
+;
+; (au) 050324:6:  te: sidDamAsIt.</reN> tacca kramaSaucCinnaprAyaM saMskfta SAlAyAntu
+65239 old <>sidDamAsIt . tacca kramaSOcCinnaprAya saMskfta SAlAyAntu
+65239 new <>sidDamAsIt . tacca kramaSaucCinnaprAya saMskfta SAlAyAntu
+;
+; (ai) 050410:2:  te: ikoyaRAdizwaityucyate.</vkr>(5) AjYapte(6) ucCizwe(7) anuSizwe
+65349 old <>ikoyaRAdizwEtyucyate . 5 AjYapte 6 ucCizwe 7 anuSizwe
+65349 new <>ikoyaRAdizwaityucyate . 5 AjYapte 6 ucCizwe 7 anuSizwe
+;
+; also TE error: daSamaf -> daSamaH
+; (ai) 050478:3:  te: BedAn anuvadati sargaiti. yastu prAkftovEkftaSca sa tu daSamaf
+65423 old <>BedAn anuvadati sargEti . yastu prAkftovEkftaSca sa tu daSamaH
+65423 new <>BedAn anuvadati sargaiti . yastu prAkftovEkftaSca sa tu daSamaH
+;
+; (au) 050510:2:  te: gavAdayauzwrAntAH dviSaPAH dviKurAnava. KarAdayaH ca
+65456 old <>gavAdayOzwrAntAH dviSaPAH dviKurAnava . KarAdayaH ca-
+65456 new <>gavAdayauzwrAntAH dviSaPAH dviKurAnava . KarAdayaH ca-
+;
+; (au) 050653:2:  te: AdInAm Bavautpattiriti 24. tasminnfpAsyaMvyUha
+65602 old <>AdInAm BavOtpattiriti 24 . tasminnfpAsyaMvyUha
+65602 new <>AdInAm Bavautpattiriti 24 . tasminnfpAsyaMvyUha
+;
+; (au) 050701:2:  te: viSezauktaH. vyaktisaMsTAtvaM dravyasya yA saMsTA sanniveSaH
+65652 old <>viSezOktaH . vyaktisaMsTAtvaM dravyasya yA saMsTA sanniveSaH
+65652 new <>viSezauktaH . vyaktisaMsTAtvaM dravyasya yA saMsTA sanniveSaH
+;
+; (ai) 050708:2:  te: Bidyate sa rasaityarTaH 41. kledanamArdrIkaraRaM mfdAdeH pi
+65659 old <>Bidyate sa rasEtyarTaH 41 . kledanamArdrIkaraRaM mfdAdeH pi-
+65659 new <>Bidyate sa rasaityarTaH 41 . kledanamArdrIkaraRaM mfdAdeH pi-
+;
+; (ai) 050716:2:  te: dyate sa ganDaityarTaH 44. brahmaRoBAvanaM pratimAdirUpeRa sA
+65667 old <>dyate sa ganDEtyarTaH 44 . brahmaRoBAvanaM pratimAdirUpeRa sA-
+65667 new <>dyate sa ganDaityarTaH 44 . brahmaRoBAvanaM pratimAdirUpeRa sA-
+;
+; (ai) 050738:3:  te: nuzaNgaH 52. GrARAdanantaraM bAyuH. prARotaiti viSezaRaM
+65690 old <>nuzaNgaH 52 . GrARAdanantaraM vAyuH . prARotEti viSezaRaM
+65690 new <>nuzaNgaH 52 . GrARAdanantaraM vAyuH . prARotaiti viSezaRaM
+;
+; (au) 050834:3:  te: sa vE puruzaucyate. AdikarttA sa BUtAnAM brahmAgre samava
+65788 old <>sa vE puruzOvyate . AdikarttA sa BUtAnAM brahmAgre samava-
+65788 new <>sa vE puruzauvyate . AdikarttA sa BUtAnAM brahmAgre samava-
+;
+; multiple changes of O to au
+; (au) 050936:2:  te: vadAdeSo'nalviDO<q> pA0</reN> <reN><q>lopo'pyAdeSaucyate<q> vyA
+65917 old <>vadAdeSo'nalviDO” pA0 “lopo'pyAdeSOcyate” vyA0
+65917 new <>vadAdeSo'nalviDau” pA0 “lopo'pyAdeSaucyate” vyA0
+;
+; (ai) 051363:3:  te: kriyataityADiH sa vijYeyodvilakzaRaH. kftakolo'paneyaSca
+66415 old <>kriyatEtyADiH sa vijYeyodvilakzaRaH . kftakAlo'paneyaSca-
+66415 new <>kriyataityADiH sa vijYeyodvilakzaRaH . kftakAlo'paneyaSca-
+;
+; (ai) 051369:2:  te: udyatoniyataH sTApitaityarTaH. yAvaddeyam, udyatoyAva
+66421 old <>udyatoniyataH sTApitEtyarTaH . yAvaddeyam udyatoyAva-
+66421 new <>udyatoniyataH sTApitaityarTaH . yAvaddeyam udyatoyAva-
+;
+; (au) 051381:2:  te: tatkAlAtikrame nASauktaH <q>kAle kAlakftonaSyediti
+66433 old <>tatkAlAtikrame nASOktaH “kAle kAlakftonaSyediti .
+66433 new <>tatkAlAtikrame nASauktaH “kAle kAlakftonaSyediti .
+;
+; (au) 051382:2:  te: akftakAlasya Bogyasya nASABAvauktaH <q>PalaBogyo na naSya
+66434 old <>akftakAlasya Bogyasya nASABAvOktaH “PalaBogyo na naSya-
+66434 new <>akftakAlasya Bogyasya nASABAvauktaH “PalaBogyo na naSya-
+;
+; (ai) 051806:4:  te: anandaSabdaH duHKABAve lAkzaRikaityahuH brahmaRi
+66966 old <>AnandaSabdaH duHKABAve lAkzaRikEtyAhuH brahmaRi
+66966 new <>AnandaSabdaH duHKABAve lAkzaRikaityAhuH brahmaRi
+;
+; (au) 051893:2:  te: bAhyADyAtmikasADanasampattinimittautkfzwaH. sa ya eza
+67055 old <>bAhyADyAtmikasADanasampattinimittOtkfzwaH . sa ya eza
+67055 new <>bAhyADyAtmikasADanasampattinimittautkfzwaH . sa ya eza
+;
+; (ai) 052269:2:  te: aByAsAdramate na tu vizayasuKaiva sahasA ratiM prApnoti
+67441 old <>aByAsAdramate na tu vizayasuKEva sahasA ratiM prApnoti
+67441 new <>aByAsAdramate na tu vizayasuKaiva sahasA ratiM prApnoti
+;
+; (ai) 052329:5:  te: pravIRaH tAlaiti gItapramARaNkaTyate tatsvarUpajYaSca
+67502 old <>pravIRaH tAlEti nItapramARaNkaTyate tatKarUpajYaSca
+67502 new <>pravIRaH tAlaiti nItapramARaNkaTyate tatKarUpajYaSca
+;
+; (ai) 052677:4:  te: Raiva sarpaBrAntiH saMsAritvaBrAntirbrahyasvarUpaSravaRAmA
+67916 old <>REva sarpaBrAntiH saMsAritvaBrAntirbrahmasvarUpaSravaRamA-
+67916 new <>Raiva sarpaBrAntiH saMsAritvaBrAntirbrahmasvarUpaSravaRamA-
+;
+; (ai) 052696:2:  te: kriyataityaviSizwamarTavattvaM kriyAsADanavastUpadeSena. <reN>api
+67935 old <>kriyatEtyaviSizwamarTavattvaM kriyAsADanavastUpadeSena . api
+67935 new <>kriyataityaviSizwamarTavattvaM kriyAsADanavastUpadeSena . api
+;
+; 
+; (ai) 053208:2:  te: viDivihitasyAnukaTanamanuvAdaityanuvAdalakzaRam. vedE
+68663 old <>viDivihitasyAnukaTanamanuvAdEtyanuvAdalakzaRam . vedE-
+68663 new <>viDivihitasyAnukaTanamanuvAdaityanuvAdalakzaRam . vedE-
+;
+; (ai) 053956:2:  te: mugDa0.</reN> <reN>anyopasargapUrbbakatve tu saMpyAnaityeva AN
+69554 old <>mugDa0 . anyopasargapUrbbakatve tu saMpyAnEtyeva AN
+69554 new <>mugDa0 . anyopasargapUrbbakatve tu saMpyAnaityeva AN
+;
+; NOTE: Also TE error: PUkAraiva -> PUtkAraiva
+; (ai) 054541:0:  te:  %APUka% na0 <vkr><vg>Izat PUkAraiva Peno'tra</vg> pf0 talopaH.</vkr> (1)aPene vEdyakam.</1><page>vp1_757.pdf</page><column>1</column><br/>
+70251 old APUka¦ na0 Izat PUtkArEva Peno'tra pf0 talopaH . aPenevEdyakam .
+70251 new APUka¦ na0 Izat PUtkAraiva Peno'tra pf0 talopaH . aPenevEdyakam .
+;
+; (ai) 054611:2:  te: mABAsaityAdAvapi prAmARyAdyaBAvavattve sati pramA
+70364 old <>mABAsEtyAdAvapi prAmARyAdyaBAvavattve sati pramA-
+70364 new <>mABAsaityAdAvapi prAmARyAdyaBAvavattve sati pramA-
+;
+; (au) 054817:2:  te: tatautTAya dASArhaH SaNKamAdAya pUjitam. aByaziYca
+70610 old <>tatOtTAya dASArhaH SaNKamAdAya pUjitam . aByaziYca-
+70610 new <>tatautTAya dASArhaH SaNKamAdAya pUjitam . aByaziYca-
+;
+; 
+; (ai) 055057:2:  te: ByudayikaSrAdDamiti prayojyam. tatra yavEstilArTaityanena
+70900 old <>ByudayikaSrAdDamiti prayojyam . tatra yavEstilArTEtyanena
+70900 new <>ByudayikaSrAdDamiti prayojyam . tatra yavEstilArTaityanena
+;
+; (ai) 055059:4:  te: pArvvayaRaprakftikatvaM pratIyate. anyaTA tilArTaityupA
+70902 old <>pArvvaRaprakftikatvaM pratIyate . anyaTA tilArTEtyupA-
+70902 new <>pArvvaRaprakftikatvaM pratIyate . anyaTA tilArTaityupA-
+;
+; (ai) 055298:7:  te:  %AmaganDi% tri0 <vkr><vg>AmasyApakvasya ganDaiva ganDo</vg> it
+71158 old AmaganDi¦ tri0 AmasyApakvasya ganDEva ganDo yatra it
+71158 new AmaganDi¦ tri0 AmasyApakvasya ganDaiva ganDo yatra it
+;
+; (au) 055600:2:  te: sA. sUtraDArasadfSatvAt sTApako'pi sUtraDAraucyate
+71551 old <>sA . sUtraDArasadfSatvAt sTApako'pi sUtraDArOcyate .
+71551 new <>sA . sUtraDArasadfSatvAt sTApako'pi sUtraDAraucyate .
+;
+; (ai) 055624:2:  te: lAyAm. nepaTye <q>itaito'vataratvAryyA<q> sUtra0 ko'yaM
+71576 old <>lAyAm . nepaTye “itEto'vataratvAryyA” sUtra0 ko'yaM
+71576 new <>lAyAm . nepaTye “itaito'vataratvAryyA” sUtra0 ko'yaM
+;
+; (ai) 055814:2:  te:  %AmrAvartta% pu0 <vkr><vg>Amraiva tulyarasatayA Izat varttate</vg> A
+71841 old AmrAvartta¦ pu0 AmrEva tulyarasatayA Izat varttate A +
+71841 new AmrAvartta¦ pu0 Amraiva tulyarasatayA Izat varttate A +
+;
+; (ai) 056331:2:  te: pibet. jIrRe payaH sarpirodanaityAhAraH. evaM dvAdaSa
+72472 old <>pibet . jIrRe payaH sarpirodanEtyAhAraH . evaM dvAdaSa-
+72472 new <>pibet . jIrRe payaH sarpirodanaityAhAraH . evaM dvAdaSa-
+;
+; (ai) 056657:2:  te: SamopAyaityuktvA DyAnamAsTitAH. aTa te SaraRaM SakraM
+72808 old <>SamopAyEtyuktvA DyAnamAsTitAH . aTa te SaraRaM SakraM
+72808 new <>SamopAyaityuktvA DyAnamAsTitAH . aTa te SaraRaM SakraM
+;
+; (ai) 057861:2:  te: GanArabDam meGAvarudDam<q> malli0.</reN> <vn>GanArudDaityeva jyAyAn
+74124 old <>“GanArabDam meGAvarudDam” malli0 . GanArudDEtyeva jyAyAn
+74124 new <>“GanArabDam meGAvarudDam” malli0 . GanArudDaityeva jyAyAn
+;
+; (ai) 058020:2:  te: roti. sa ca vAdaitTaM samuttizWati. pawAdIni hi sAvayavAni
+74305 old <>roti . sa ca vAdEtTaM samuttizWati . pawAdIni hi sAvayavAni
+74305 new <>roti . sa ca vAdaitTaM samuttizWati . pawAdIni hi sAvayavAni
+;
+; (ai) 058487:2:  te: dDerbADaniScayapratibaDyatvAt. sa ca pratyakzaiva SAbdo'pi yaTA
+74882 old <>dDerbADaniScayapratibaDyatvAt . sa ca pratyakzEva SAbdo'pi yaTA
+74882 new <>dDerbADaniScayapratibaDyatvAt . sa ca pratyakzaiva SAbdo'pi yaTA
+;
+; (ai) 058922:2:  te: ua RiccalaRippandaBisiRIpattammi reai balAA
+75419 old <>“ua Riccala RippandaBisiRIpattammi reE balAA .
+75419 new <>“ua Riccala RippandaBisiRIpattammi reai balAA .
+;
+; (au) 059323:2:  te: vAsizWavasizWAnAM yo'nyaupamanyuparASarakuRqineByaH. upa
+75904 old <>vAsizWavasizWAnAM yo'nyOpamanyuparASarakuRqineByaH . upa-
+75904 new <>vAsizWavasizWAnAM yo'nyaupamanyuparASarakuRqineByaH . upa-
+;
+; 
+; (ai) 060427:5:  te: pawaityukte utpadyata iti na vAcyaM pOnaruktyAt vinaSyatItya
+77337 old <>pawEtya kte utpadyatEti na vAcyaM pOnaruktyAt vinaSyatItya-
+77337 new <>pawaityukte utpadyataiti na vAcyaM pOnaruktyAt vinaSyatItya-
+;
+; (au) 060685:2:  te: saMskarttavyaH sasTARuH AvraScanaSabdenaucyate <reN><q>atastvamityA
+77682 old <>saMskarttavyaHsasTARuH AvraScanaSabdenOcyate “atastvamityA-
+77682 new <>saMskarttavyaHsasTARuH AvraScanaSabdenaucyate “atastvamityA-
+;
+; (ai) 060909:4:  te:  %ASis% strI <vkr>A+SAs kvip ANpUrvvakatvAt ataittvam
+78004 old ASis¦ strI A + SAs kvip ANpUrvakatvAt atEttvam .
+78004 new ASis¦ strI A + SAs kvip ANpUrvakatvAt ataittvam .
+;
+; (ai) 062866:2:  te: visaMsTitasaYcAraityuktiH. 29 sU05 a03ka
+80183 old <>visaMsTitasaYcArEtyuktiH . 29 sU0 5 a0 3 ka0 .
+80183 new <>visaMsTitasaYcAraityuktiH . 29 sU0 5 a0 3 ka0 .
+;
+; (ai) 062871:2:  te: ityudDftya tayoH sTAne AgUrvazawkArO kftvA yAgaityuktiH
+80188 old <>ityudDftya tayoH sTAne AgUrvazawkArO kftvA yAgEtyuktiH .
+80188 new <>ityudDftya tayoH sTAne AgUrvazawkArO kftvA yAgaityuktiH .
+;
+; (au) 062994:2:  te: darSateti saptAnAM tfcasaMjYA6 Sastrasya praugasaMjYA
+80314 old <>darSateti saptAnAM tfcasaMjYA 6 Sastrasya prOgasaMjYA .
+80314 new <>darSateti saptAnAM tfcasaMjYA 6 Sastrasya praugasaMjYA .
+;
+; (au) 062999:2:  te: praugasya BADucCanda Arzatvam. 10 ukTaM vAci SlokAya
+80319 old <>9 prOgasya BADucCandaArzatvam . 10 ukTaM vAci SlokAya-
+80319 new <>9 praugasya BADucCandaArzatvam . 10 ukTaM vAci SlokAya-
+;
+; (au) 063603:2:  te: SiraundanamantraH. 8 kuSapiYjUlaniDAnamantraH
+80939 old <>7 SirOndanamantraH . 8 kuSapiYjUlaniDAnamantraH .
+80939 new <>7 SiraundanamantraH . 8 kuSapiYjUlaniDAnamantraH .
+;
+; (au) 063878:2:  te: pfzWato'nabavekzaRAdi kftvA pratyAgatyApa upauspfSya keSA
+81221 old <>4 pfzWato'nabavekzaRAdi kftvA pratyAgatyApa upOspfSya keSA-
+81221 new <>4 pfzWato'nabavekzaRAdi kftvA pratyAgatyApa upauspfSya keSA-
+;
+; (ai) 064201:2:  te: saMKyABihiteti cet na, devadattasya pAkaityatra tftIyApatteH
+81619 old <>saMKyABihiteti cet na, devadattasya pAkEtyatra tftIyApatteH
+81619 new <>saMKyABihiteti cet na, devadattasya pAkaityatra tftIyApatteH
+;
+; (ai) 065041:2:  te: yanayugAsecanakam<q> sA0 da0.</reN> <vkr>rAyamukuwastu asecanaitye
+82571 old <>yanayugAsecanakam” sA0 da0 . rAyamukuwastu asecanEtye-
+82571 new <>yanayugAsecanakam” sA0 da0 . rAyamukuwastu asecanaitye-
+;
+; (ai) 065359:3:  te: gajaivAsrAbI praBaYYan viviDAn drumAn<q> BA0 va0 pa
+83033 old <>gajEvAsrAbI praBaYjan viviDAn drumAn” BA0 va0 pa0 146
+83033 new <>gajaivAsrAbI praBaYjan viviDAn drumAn” BA0 va0 pa0 146
+;
+; (ai) 065377:2:  te: sItAdiBiH sAmAjikaratyAdyudboDaityucyate. vyApA
+83056 old <>sItAdiBiH sAmAjikaratyAdyudboDEtyucyate . vyApA-
+83056 new <>sItAdiBiH sAmAjikaratyAdyudboDaityucyate . vyApA-
+;
+; (ai) 065381:2:  te: tsAhodboDaityucyate. utsAhAdisamudboDaH sADAraRyA
+83060 old <>tsAhodboDEtyucyate . utsAhAdisamudboDaH sADAraRyA-
+83060 new <>tsAhodboDaityucyate . utsAhAdisamudboDaH sADAraRyA-
+;
+; (au) 065839:2:  te: janaSAlAyAM BIktukAmaupaspfSet. AsanasTonacAnyatra
+83576 old <>janaSAlAyAM BIktukAmOpaspfSet . AsanasTonacAnyatra
+83576 new <>janaSAlAyAM BIktukAmaupaspfSet . AsanasTonacAnyatra
+;
+; (au) 066188:2:  te: DIyate. vedAByAsohi viprARAM paramaM tapaucyate. brahma
+84006 old <>DIyate . vedAByAsohi viprARAM paramaM tapOcyate . brahma-
+84006 new <>DIyate . vedAByAsohi viprARAM paramaM tapaucyate . brahma-
+;
+; (au) 066194:4:  te: tiTiScAnyaH zozyavargaudAhftaH. jYAtirbanDujanaH kzIRasta
+84012 old <>tiTiScAnyaH pozyavargOdAhftaH . jYAtirbarnDujanaH kzIRasta-
+84012 new <>tiTiScAnyaH pozyavargaudAhftaH . jYAtirbarnDujanaH kzIRasta-
+;
+; (au) 066211:3:  te: upasTAnaM tataH paScAt sAvitryAjapaucyate. savitA devatA
+84030 old <>upasTAnaM tataH paScAt sAvitryAjapOcyate . savitA debatA
+84030 new <>upasTAnaM tataH paScAt sAvitryAjapaucyate . savitA debatA
+;
+; (au) 066228:2:  te: kftajYatA. ete yasya guRAH santi sa gfhI muKyaucyate
+84047 old <>kftajYatA . ete yasya guRAH santi sa gfhI muKyOcyate .
+84047 new <>kftajYatA . ete yasya guRAH santi sa gfhI muKyaucyate .
+;
+; (ai) 066411:3:  te: tu grahAH samastAH svAdikkavAlaiti rAjyasuKAptihetuH
+84275 old <>tu grahAH samastAH syAdikkavAlEti rAjyasuKApti hetuH”
+84275 new <>tu grahAH samastAH syAdikkavAlaiti rAjyasuKApti hetuH”
+;
+; (ai) 066434:2:  te: BAva0 pra0 <q>bAlayuvavfdDekzuguRAH bAlaikzuH kaPaM kuryA
+84301 old <>BAva0 pra0 “bAlayuvavfdDekzuguRAH bAlEkzuH kaPaM kuryA-
+84301 new <>BAva0 pra0 “bAlayuvavfdDekzuguRAH bAlaikzuH kaPaM kuryA-
+;
+; 
+; (ai) 066651:3:  te: rastatrEvoktaH kzuvatastumanoH putraikzvAkuraBavattataH<q>.</reN> <reN><q>tasya
+84593 old <>rastatrEvIktaH kzuvatastu manoH putrEkzvAkuraBavattataH” . “tasya
+84593 new <>rastatrEvoktaH kzuvatastu manoH putraikzvAkuraBavattataH” . “tasya
+;
+; (au) 066705:4:  te: kAtyA0 10,1,6,</reN> <vn>yataupAMSusavanasyAniNganasacAlanam
+84665 old <>kAtyA0 10'1, 6, yatOpAMSusavanasyAniNganamacAlanam
+84665 new <>kAtyA0 10'1, 6, yataupAMSusavanasyAniNganamacAlanam
+;
+; 
+; (ai) 066750:2:  te: kzaRaiva mayA sArdDamicCAratEryA<q> meGa0.</reN> <reN><q>mahIM mahe
+84725 old <>kzaREva mayA sArdDamicCAratEryA” meGa0 . “mahIM mahe-
+84725 new <>kzaRaiva mayA sArdDamicCAratEryA” meGa0 . “mahIM mahe-
+;
+; 
+; (ai) 066814:3:  te: narAgaiva janmantarIyatatsaMskArajajYAnasyEva hetutvamastu
+84791 old <>narAgEva janmAntarIyatatsaMskArajajYAnasyEva hetutvamastu
+84791 new <>narAgaiva janmAntarIyatatsaMskArajajYAnasyEva hetutvamastu
+;
+; (ai) 067158:2:  te: meSvare (5)vizRO ca. <reN><q>yajYaijyo mahejyaSca<q> vizRu 0sa
+85160 old <>meSvare 5 vizRO ca . “yajYEjyo mahejyaSca” vizRu0 sa0 .
+85160 new <>meSvare 5 vizRO ca . “yajYaijyo mahejyaSca” vizRu0 sa0 .
+;
+; (ai) 067180:3:  te: kfRvateqaH<q> f 07,47,1</reN> <reN><q>iqaiqAyA BUmeH<q> BA0</reN></2> <vkr>Idyate
+85196 old <>kfRvateqaH” f0 7, 47, 1, “iqEqAyA BUmeH” BA0 Iqyate
+85196 new <>kfRvateqaH” f0 7, 47, 1, “iqaiqAyA BUmeH” BA0 Iqyate
+;
+; 
+; (ai) 067245:2:  te: tadvE devAnAmAgaAsa. kanIyainnvato dvizandvizate'rA
+85263 old <>tadvE devAnAmAgaAsa . kanIyEnnvatodvizandvizate'rA-
+85263 new <>tadvE devAnAmAgaAsa . kanIyainnvatodvizandvizate'rA-
+;
+; (ai) 067439:2:  te: vawaHSyAmaiti pratItaH<q> raGuH</reN> <reN><q>taM pratItaM svaDarmeRa
+85474 old <>vawaHSyAmEti pratItaH” raGuH “taM pratItaM svaDarmeRa”
+85474 new <>vawaHSyAmaiti pratItaH” raGuH “taM pratItaM svaDarmeRa”
+;
+; (ai) 067490:3:  te: nIce pAmare <reN><q>itaraiva pariBUya jYAnam, avigaRayya
+85534 old <>1 nIce pAmare “itarEva parimUya jYAnam, avigaRayya
+85534 new <>1 nIce pAmare “itaraiva parimUya jYAnam, avigaRayya
+;
+; (au) 067808:2:  te: prakAramAha. <q>prAgagre yUnaudagagraM barhirAcinoti<q> sU
+85947 old <>prakAramAha . “prAgagre yUnOdagagraM barhirAcinoti” sU0 .
+85947 new <>prakAramAha . “prAgagre yUnaudagagraM barhirAcinoti” sU0 .
+;
+; 
+; (ai) 067844:2:  te: mAtrARyevopAdAya pariDIn paridaDati <reN><q>tadDekaiDmasyEvEtAn
+85984 old <>mAtrARyevopAdAya pariDIn paridaDati “tadDekEDmasyEvEtAn
+85984 new <>mAtrARyevopAdAya pariDIn paridaDati “tadDekaiDmasyEvEtAn
+;
+; (ai) 067918:2:  te: f0 1,132,6,</reN> <reN><q> inakzat vyApnoti Rakza gatO CAndasai
+86070 old <>f0 1, 132, 6, “inakzat vyApnoti Rakza gatO CAndasE-
+86070 new <>f0 1, 132, 6, “inakzat vyApnoti Rakza gatO CAndasai-
+;
+; (ai) 067926:2:  te: BirvardDate sAnupAtataH. sArdDamaMSadvayaM mAsaityAhuH ke'pi
+86082 old <>BirvardDate sAnupAtataH . sArdDamaMSadvayaM mAsEtyAhuH ke'pi
+86082 new <>BirvardDate sAnupAtataH . sArdDamaMSadvayaM mAsaityAhuH ke'pi
+;
+; (ai) 068014:3:  te: daDeH pUraivendudarSanA<q>raGuH</reN> <reN><q>rAmasyendoriva SriyaH<q> raGuH
+86194 old <>daDeH pUrEvendudarSanAt” raGuH “rAmasyendoriva SriyaH” raGuH
+86194 new <>daDeH pUraivendudarSanAt” raGuH “rAmasyendoriva SriyaH” raGuH
+;
+; (ai) 068320:6:  te:  %indukAnta% pu0 <vg>induH kAntaiva nizyandakAritvAt priyo'sya
+86520 old indukAnta¦ pu0 induHkAntEba nizyandakAritvAt priyo'rA .
+86520 new indukAnta¦ pu0 induHkAntaiba nizyandakAritvAt priyo'rA .
+;
+; (ai) 068322:2:  te: dISo yasyAH.</vg> (2)rAtrO.</2> <vg>induHkAntaiva prakASakatvAt
+86522 old <>dISo yasyAH . 2 rAtrO . induHkAntEva prakASakatvAt
+86522 new <>dISo yasyAH . 2 rAtrO . induHkAntaiva prakASakatvAt
+;
+; 
+; (ai) 068809:2:  te: harayo vIrA devAstriSiKa ISvaraH<q> tatrEva.</reN> <reN><q>ISvaraindraH
+87066 old <>harayo vIrA devAstriSiKa ISvaraH” tatrEva . ‘ISvarEndraH’
+87066 new <>harayo vIrA devAstriSiKa ISvaraH” tatrEva . ‘ISvaraindraH’
+;
+; (ai) 068995:3:  te:  %indrakoza% pu0 <vg>indrasya kozaiva <vn>suKadAyakatvAt.</vn></vg> (1)maYje
+87271 old indrakoza¦ pu0 indrasya kozEva suKadAyakatvAt . 1 maYce,
+87271 new indrakoza¦ pu0 indrasya kozaiva suKadAyakatvAt . 1 maYce,
+;
+; (ai) 069504:3:  te:  %indraprasTa% na0 <vg>indrasya indrasTAnameroH prasTaiva</vg> (1)(dillIti)
+87861 old indraprasTa¦ na0 indrasya indrasTAnaBeroH prasTEva (dillIti)
+87861 new indraprasTa¦ na0 indrasya indrasTAnaBeroH prasTaiva (dillIti)
+;
+; (au) 069766:5:  te: varRitaM yaTA <q>SakrauvAca Bavasvendro mahAbAho! sarvvezAM
+88192 old <>varRRita yaTA “SakrOvAca Bavasvendro mahAvAho! sarvvezAM
+88192 new <>varRRita yaTA “SakrauvAca Bavasvendro mahAvAho! sarvvezAM
+;
+; (au) 069958:2:  te: tyAdyA rajautTitAH. AlasyaBrAntitantrAdyA vikArAsta
+88423 old <>tyAdyA rajOtTitAH . AlasyaBrAntitantrAdyA vikArAsta-
+88423 new <>tyAdyA rajautTitAH . AlasyaBrAntitantrAdyA vikArAsta-
+;
+; (au) 069959:2:  te: mautTitAH. sAtvikEH puRyanizpattiH pApotpattiSca rA
+88424 old <>mOtTitAH . sAtvikEH puRyanizpattiH pApotpattiSca rA-
+88424 new <>mautTitAH . sAtvikEH puRyanizpattiH pApotpattiSca rA-
+;
+; (au) 070429:3:  te: suKAya pecake dErGyaM pfzWapArSvodarAntaram. AnAhaucCraya
+88965 old <>suKAya pecake dEGyaM pfzWapArSvodarAntaram . AnAhOcCraya
+88965 new <>suKAya pecake dEGyaM pfzWapArSvodarAntaram . AnAhaucCraya
+;
+; (ai) 070474:2:  te: yo gajaH. so'pi SoBana eva syAnmandaBadraiti smftaH. evaM
+89011 old <>yo gajaH . so'pi SoBana eva syAnmandaBadrEti smftaH . evaM
+89011 new <>yo gajaH . so'pi SoBana eva syAnmandaBadraiti smftaH . evaM
+;
+; (au) 070977:2:  te: manasA sa vegauttamomataH. (dvipaYcapadasaMsTitaM daSapadasTitaM
+89527 old <>manasA sa vegOttamomataH . (dvipaYcapadasaMsTitaM daSapadasTitaM
+89527 new <>manasA sa vegauttamomataH . (dvipaYcapadasaMsTitaM daSapadasTitaM
+;
+; multiple changes of O to au
+; (au) 071147:2:  te: SirauraHkarajihvAmUlaM galakapolO ca. gamBIrasOmyahf
+89702 old <>SirOraHkarajihvAmUlaM galakapolO ca . gamBIrasOmyahf-
+89702 new <>SirauraHkarajihvAmUlaM galakapolau ca . gamBIrasaumyahf-
+;
+; (ai) 071178:4:  te: manAH muKaranDranivizwakarastadA'rivijayo'BavedBarttuH. Ganaiva
+89733 old <>manAH muKaranDunivizwakarastadA'rivijayo'BavedBarttuH . GanEva
+89733 new <>manAH muKaranDunivizwakarastadA'rivijayo'BavedBarttuH . Ganaiva
+;
+; (ai) 071632:2:  te: sANGrimehanaH. vyAlaityavagantavyo nirmado dantidUzaRaH
+90199 old <>sANGrimehanaH . vyAlEtyavagantavyo nirmado dantidUzaRaH .
+90199 new <>sANGrimehanaH . vyAlaityavagantavyo nirmado dantidUzaRaH .
+;
+; (ai) 071635:2:  te: hanU ca kfSaromage. suQakkAkftayaH pAdA qimbaityapi viSrutaH
+90203 old <>hanU ca kfSaromage . suQakkAkftayaH pAdA qimbEtyapi viSrutaH .
+90203 new <>hanU ca kfSaromage . suQakkAkftayaH pAdA qimbaityapi viSrutaH .
+;
+; (ai) 072227:2:  te: pUrRacandraivAparaH<q> sA0da0</reN> <vn>ivAdiSabdaprayoge utprekzAyA
+90930 old <>pUrRacandrEvAparaH” sA0 da0 ivAdiSabdaprayoge utprekzAyA
+90930 new <>pUrRacandraivAparaH” sA0 da0 ivAdiSabdaprayoge utprekzAyA
+;
+; 
+; (ai) 072283:2:  te: sarvvalokaM maizARa<q> yaju0 31,22,a0.</reN></1> <vkr>EzRAt
+90996 old <>sarvvalokaM mEzARa” yaju0 31, 22, a0 . EzRAt
+90996 new <>sarvvalokaM maizARa” yaju0 31, 22, a0 . EzRAt
+;
+; 
+; (ai) 072684:2:  te: ketakamAlatIparimalaprAptEkakAlapriyAdUtAhUtaitastatoBrama
+91463 old <>ketakamAlatIparimalaprAptEkakAlapriyAdUtAhUtEtastatoBrama
+91463 new <>ketakamAlatIparimalaprAptEkakAlapriyAdUtAhUtaitastatoBrama
+;
+; (ai) 072756:2:  te: laBata uBe Sarmma ca sTaiti<q> (11,30 31) 25 sU0.</reN> <reN><q>uBe
+91539 old <>laBata uBe Sarmma ca sTEti” (11, 3031) 25 sU0 . “uBe
+91539 new <>laBata uBe Sarmma ca sTaiti” (11, 3031) 25 sU0 . “uBe
+;
+; (ai) 072760:2:  te: rAByAM dakziRaH<q> sABristvAmagnaiti
+91543 old <>rAByAM dakziRaH sABristvAmagnEti” (11, 32 38) .
+91543 new <>rAByAM dakziRaH sABristvAmagnaiti” (11, 32 38) .
+;
+; (ai) 072766:2:  te: saM taiti (11,29) vA tamapakzipati<q> 3sU0.</reN> <reN><q>SvaBra
+91549 old <>saM tEti (11, 29) vA tamapakzipati” 3 sU0 . “SvaBra-
+91549 new <>saM taiti (11, 29) vA tamapakzipati” 3 sU0 . “SvaBra-
+;
+; (au) 072832:2:  te: Sata0 brA0.</reN> <reN><q>vitftIyauttare vartiM sarvataH karotyadityE
+91617 old <>Sata0 brA0 . “vitftIyOttare vartiM sarvataH karotyadityE
+91617 new <>Sata0 brA0 . “vitftIyauttare vartiM sarvataH karotyadityE
+;
+; (ai) 072858:2:  te: mARAmupaSetaityupaSayA tAM mfdamatiricyamAnAM nida
+91644 old <>mARAmupaSetEtyupaSayA tAM mfdamatiricyamAnAM nida-
+91644 new <>mARAmupaSetaityupaSayA tAM mfdamatiricyamAnAM nida-
+;
+; (ai) 072912:2:  te: sU0.</reN> <reN><q>aparaSuvfkRAM yadagnaiti
+91699 old <>(11, 72) 37 sU0 . “aparaSuvfkRAM yadagnEti” (11, 73)
+91699 new <>(11, 72) 37 sU0 . “aparaSuvfkRAM yadagnaiti” (11, 73)
+;
+; (au) 072993:3:  te: ke'nyacitaM cinvanti droRacidraTacakracitkaNkacitpraugavidu
+91784 old <>ke'nyacitaM cinvanti droRacidraTacakracitkaNkacitprOgacidu-
+91784 new <>ke'nyacitaM cinvanti droRacidraTacakracitkaNkacitpraugacidu-
+;
+; (au) 072994:2:  te: BayataHpraugaH samuhya purIzaH<q> 16,5,9.</reN> <reN><q>ete hyagni
+91785 old <>BayataHprOgaH samuhya purIzaH” 16, 5, 9 . “ete hyagni-
+91785 new <>BayataHpraugaH samuhya purIzaH” 16, 5, 9 . “ete hyagni-
+;
+; (ai) 073051:3:  te: nyajya samiDaM vrate prate pratte'nnapataityADAnam
+91844 old <>“nyajya samiDaM vrate pratte--pratte'nnapatEtyADAnam . (11, 83)
+91844 new <>“nyajya samiDaM vrate pratte--pratte'nnapataityADAnam . (11, 83)
+;
+; (au) 073083:2:  te: Ram<q> ka0.</reN> <reN><q>vAse'vaharatyudDatAvokzitauttarataH sa
+91877 old <>Ram” ka0 . “vAse'vaharatyudDatAvokzitOttarataH sa-
+91877 new <>Ram” ka0 . “vAse'vaharatyudDatAvokzitauttarataH sa-
+;
+; (ai) 073113:3:  te: KamupatizWate boDAmaiti<q> (12,42) 30 sU0.</reN> <reN><q>yatta
+91907 old <>KAmupatizWate boDA mEti” (12, 42) 30 sU0 . “yatta-
+91907 new <>KAmupatizWate boDA maiti” (12, 42) 30 sU0 . “yatta-
+;
+; (ai) 073116:4:  te: AjyaM viSvakarmaRaiti (12,43) juhoti<q> 1sU
+91910 old <>“AjyaM viSvakarBaKEti (12, 43) juhoti” 1 sU0 .
+91910 new <>“AjyaM viSvakarBaKaiti (12, 43) juhoti” 1 sU0 .
+;
+; (ai) 073198:2:  te: pUrvApare<q> 25 sU0.</reN> <reN><q>yatra pUrvAparaiti deSavyapadeSaH
+91995 old <>pUrvApare” 25 sU0 . “yatra pUrvAparEti deSavyapadeSaH
+91995 new <>pUrvApare” 25 sU0 . “yatra pUrvAparaiti deSavyapadeSaH
+;
+; NO CHANGE: 'amartya iti' (VCP) vs. 'amartyaiti' (TE)
+; (ai) 073468:0:  te: pottamAyAH pfTupAjA amartyaiti dve<q> 26sU0.</reN> <reN><q>Avapate
+92310 old <>pottamAyAH pfTupAjA amartya iti dve” 26 sU0 . “Avapate
+92310 new <>pottamAyAH pfTupAjA amartya iti dve” 26 sU0 . “Avapate
+;
+; 
+; (ai) 074345:2:  te: kzAbudDirISvarasyEveti. viSvavidavyayaiti viSizwasyAvya
+93410 old <>kzAbudDirISvarasyEveti . viSvavidavyayEti viSizwasyAvya-
+93410 new <>kzAbudDirISvarasyEveti . viSvavidavyayaiti viSizwasyAvya-
+;
+; (ai) 075108:2:  te: vyAptigrahaityaprayojakaM sahacAradarSanAdisattve tada
+94193 old <>vyAptigrahEtyaprayojakaM sahacAradarSanAdisattve tada-
+94193 new <>vyAptigrahaityaprayojakaM sahacAradarSanAdisattve tada-
+;
+; (ai) 075391:2:  te: ISvarasadBAve yaH pramARABAsaH sa kutsitaityatra parasyApi
+94483 old <>ISvarasadBAve yaH pramARABAsaH sa kutsitEtyatra parasyApi
+94483 new <>ISvarasadBAve yaH pramARABAsaH sa kutsitaityatra parasyApi
+;
+; (ai) 075414:4:  te: viSezaityevottaram yaTA praSnakyagatasya viSezaSabdasya
+94507 old <>viSezEtyevottaram yaTA praSnavAkyagatasya viSezaSabdasya
+94507 new <>viSezaityevottaram yaTA praSnavAkyagatasya viSezaSabdasya
+;
+; (ai) 075485:2:  te: ruktatvAt varttataityAdyAkAreRa ca pratIyamAnasyABAva
+94580 old <>ruktatvAt varttatEtyAdyAkAreRa ca pratIyamAnasyABAva-
+94580 new <>ruktatvAt varttataityAdyAkAreRa ca pratIyamAnasyABAva-
+;
+; 
+; (ai) 075488:2:  te: yatrEkasyAstipadaprayogaH tatrEvAparasya varttataiti prayogAt
+94583 old <>yatrEkasyAstipadaprayogaH tatrEvAparasya varttatEti prayogAt .
+94583 new <>yatrEkasyAstipadaprayogaH tatrEvAparasya varttataiti prayogAt .
+;
+; (ai) 075548:4:  te: so'BAvaiti cenna pratikzepAniruktO pratikzepyAnirukteH
+94645 old <>so'BAvEti cenna pratikzepAniruktO pratikzepyAnirukteH
+94645 new <>so'BAvaiti cenna pratikzepAniruktO pratikzepyAnirukteH
+;
+; (au) 076576:4:  te: sambanDaH Srutaupapadyate yaTA kalpayitavya nacAnutpAdya
+95700 old <>sambanDaH SrutOpapadyate vaTA kalpayitavyaH nacAnutpAdya
+95700 new <>sambanDaH Srutaupapadyate vaTA kalpayitavyaH nacAnutpAdya
+;
+; (au) 076741:2:  te: tatsambanDaH prApta iti tatpratize Daupapadyata ityAha, yohyanena
+95869 old <>tatsambanDaH prApta iti tatpratizeDOpapadyata ityAha, yohyanena
+95869 new <>tatsambanDaH prApta iti tatpratizeDaupapadyata ityAha, yohyanena
+;
+; (au) 076756:3:  te: samBavatItyataukta, prakfzwasatvopAdAnAditi. neSvarasya pfTag
+95884 old <>samBavatItyatOktaM, prakfzwasatvopAdAnAditi . neSvarasya pfTag-
+95884 new <>samBavatItyatauktaM, prakfzwasatvopAdAnAditi . neSvarasya pfTag-
+;
+; (ai) 077320:3:  te: ukTe tu hotrakARAm<q>1. <q>tftIyasavanaityanuvarttate
+96549 old <>“ukTe tu hotrakARAm” 1 . “tftIyasavanEvyanuvarttate .
+96549 new <>“ukTe tu hotrakARAm” 1 . “tftIyasavanaivyanuvarttate .
+;
+; (ai) 077351:3:  te: mityarTaityevaM ASva0 SrO0 6,1,ka0 tasya prakAro'BihitaH
+96581 old <>mityarTEtyevaM ASva0 SrO0 6, 1, ka0 tasya prakAro'mihitaH
+96581 new <>mityarTaityevaM ASva0 SrO0 6, 1, ka0 tasya prakAro'mihitaH
+;
+; (ai) 077619:1:  te: tvoktyA tezAM BUzaRaviSezarUtayA yaTA sTaitistaTA tatrEva
+96900 old <>tvoktyA tezAM BUzaRaviSezarUtayA yaTA sTitistaTA tatrEva
+96900 new <>tvoktyA tezAM BUzaRaviSezarUtayA yaTA sTitistaTA tatraiva
+;
+; (au) 077884:3:  te: rdDasTo grahasTAnAt paScimaBAgasTarASizawkasTitaucca
+97208 old <>rdDasTo grahasTAnAt paScimaBAgasTarASizawkasyitOcca-
+97208 new <>rdDasTo grahasTAnAt paScimaBAgasTarASizawkasyitaucca-
+;
+; (ai) 079084:2:  te: unnatagrIve <reN><q>utkanDaraM dArukaityuvAca<q> mAGaH.</reN></1><page>vp2_262.pdf</page><column>1</column><br/>
+98694 old <>unnatagrIve “utkanDaraM dArukEtyuvAca” mAGaH .
+98694 new <>unnatagrIve “utkanDaraM dArukaityuvAca” mAGaH .
+;
+; TE error: tatsaMbanDaitvAcca -> tatsaMbanDitvAcca
+; (ai) 079181:3:  te: KyA purI AsIt tatsaMbanDaitvAcca taddeSasyotkalatvam
+98813 old <>KyA purI Asot tatsaMbanDitvAcca taddeSasyotkalatvama .
+98813 new <>KyA purI AsIt tatsaMbanDitvAcca taddeSasyotkalatvam .
+;
+; (au) 079442:2:  te: BAvaH tatra hfdayaupasaMhftya tezu yo'ntarvyApAraH sa
+99135 old <>BAvaH tatra hfdayOpasaMhftya tezu yo'ntarvyApAraH sa
+99135 new <>BAvaH tatra hfdayaupasaMhftya tezu yo'ntarvyApAraH sa
+;
+; (ai) 079463:2:  te: miha vivakzitam. eza AtmA savijYAno Bavati svapnaiva
+99157 old <>miha vivakzitam . eza AtmA savijYAno Bavati svapnEva
+99157 new <>miha vivakzitam . eza AtmA savijYAno Bavati svapnaiva
+;
+; (ai) 079545:2:  te: aTa yaduttaraM vAkyam <q>manaH prARaiti<q> kimatrApi vftti
+99241 old <>aTa yaduttaraM vAkyam “manaH prAREti” kimatrApi vftti-
+99241 new <>aTa yaduttaraM vAkyam “manaH prARaiti” kimatrApi vftti-
+;
+; (au) 079695:3:  te: nAM pratijYAya tatsidDaye <q>saucCvayatyAdmAyatyADmAtomftaH
+99395 old <>nAM pratijYAya tatsidDaye “sOcCvayatyADmAyatyADmAtomftaH
+99395 new <>nAM pratijYAya tatsidDaye “saucCvayatyADmAyatyADmAtomftaH
+;
+; (ai) 080127:2:  te: raRajaGanamUrdDaruhAdisparSanaM sABilAzaivAcarati. taTA
+99900 old <>raRajaGanamUrdDaruhAdisparSanaM sABilAzEvAcarati . taTA
+99900 new <>raRajaGanamUrdDaruhAdisparSanaM sABilAzaivAcarati . taTA
+;
+; (ai) 081446:2:  te: vA gataSabdalopaH.</vkr> (1)lAjAKye (Kai) BrazwaDAnye</1><page>vp2_293.pdf</page><column>1</column><br/>
+101440 old <>vA gataSabdalopaH . lAjAKye (KE) BrazwaDAnye
+101440 new <>vA gataSabdalopaH . lAjAKye (Kai) BrazwaDAnye
+;
+; (ai) 082445:2:  te: tu tAcCIlyamapekzate. tAcCIlye tu tanmayatvAtiSayaityayaM
+102515 old <>tu tAcCIlyamapekzate . tAcCIlye tu tanmayatvAtiSayEtyayaM
+102515 new <>tu tAcCIlyamapekzate . tAcCIlye tu tanmayatvAtiSayaityayaM
+;
+; (au) 083336:2:  te: carite'pi <q>atTi etTa ajjautta<q> ityAdinA
+103616 old <>carite'pi “atTi etTa ajjOtta” ityAdinA
+103616 new <>carite'pi “atTi etTa ajjautta” ityAdinA
+;
+; (au) 084493:2:  te: miti niScIyate. tadanusAreRa dvitIyAdyA api tiTayaupa
+104917 old <>miti niScIyate . tadanusAreRa dvitIyAdyAapi tiTayOpa
+104917 new <>miti niScIyate . tadanusAreRa dvitIyAdyAapi tiTayaupa
+;
+; (au) 084609:2:  te: dUrdDaudetA'rvAgastametA ityAdi<q></reN> <reN>CA0 u0 BAzye <q>paScAduttarata
+105038 old <>dUrdDOdetA'rvAgastametA ityAdi” CA0 u0 BAzye “paScAduttarata
+105038 new <>dUrdDaudetA'rvAgastametA ityAdi” CA0 u0 BAzye “paScAduttarata
+;
+; (au) 084880:3:  te: ekAdeSaudAttenodAttaH<q> pA0.</reN> udAttena sahEkAdeSa
+105394 old <>“ekAdeSOdAttenIdAttaH” pA0 . udAttena sahEkAdeSa
+105394 new <>“ekAdeSaudAttenIdAttaH” pA0 . udAttena sahEkAdeSa
+;
+; (au) 084924:2:  te: yaTA. <reN><q>Pizo'ntaudAntaH<q>1.</reN> prAtipadikaM Piw tasyAnta
+105440 old <>yaTA . “Pizo'ntOdAntaH” 1 . prAtipadikaM Piw tasyAnta-
+105440 new <>yaTA . “Pizo'ntaudAntaH” 1 . prAtipadikaM Piw tasyAnta-
+;
+; (au) 084926:2:  te: nAm<q> (2).</reN> edarTAnAmantaudAttaH. pAwalA PaleruhA
+105442 old <>nAm” 2 . edarTAnAmantOdAttaH . pAwalA PaleruhA
+105442 new <>nAm” 2 . edarTAnAmantaudAttaH . pAwalA PaleruhA
+;
+; (ai) 084940:2:  te: iByA. kzatriyA. yato'nAva ityAdyudAttaiByaSabdaH
+105456 old <>iByA . kzatriyA . yato'nAva ityAdyudAttEByaSabdaH .
+105456 new <>iByA . kzatriyA . yato'nAva ityAdyudAttaiByaSabdaH .
+;
+; (au) 084966:3:  te: antaudAttaH. varRAnAntaRetyAdyudAtte prApte antodA
+105483 old <>antOdAttaH . varRRAnAntaRetyAdyudAtte prApte antodA-
+105483 new <>antaudAttaH . varRRAnAntaRetyAdyudAtte prApte antodA-
+;
+; (au) 084976:3:  te: ca<q> (16).</reN> CandasyantaudAttaH syAt BAzAyAm vA. pfzWm
+105493 old <>ca” 16 . CandasyantOdAttaH syAt BAzAyAm vA . pfzWam .
+105493 new <>ca” 16 . CandasyantaudAttaH syAt BAzAyAm vA . pfzWam .
+;
+; (au) 084983:2:  te: RAm<q> (20).</reN> antaudAttaH syAt. aSlezA'nurADAdInAM
+105500 old <>RAm” 20 . antOdAttaH syAt . aSlezA'nurADAdInAM
+105500 new <>RAm” 20 . antaudAttaH syAt . aSlezA'nurADAdInAM
+;
+; OK: 'laGAvanta iti' (VCP) vs. 'laGAvantaiti' (TE)
+; (ai) 084984:0:  te: laGAvantaiti prApte. jyezWASravizWADanizWAnAmizWanna
+105501 old <>laGAvanta iti prApte . jyezWASravizWADanizWAnAmizWanna-
+105501 new <>laGAvanta iti prApte . jyezWASravizWADanizWAnAmizWanna-
+;
+; (ai) 085351:2:  te: vIryyaSabdasya yadantatve'pi yato nAvaityAdyudAttaM neti
+105878 old <>vIryyaSabdasya yadantatve'pi yatonAvEtyAdyudAttaM neti
+105878 new <>vIryyaSabdasya yadantatve'pi yatonAvaityAdyudAttaM neti
+;
+; (au) 085543:2:  te: raBitoBAvi maRqalam<q> pA0.</reN> pareH param aBitauBa
+106075 old <>raBitoBAvi maRqalam” pA0 . pareH param aBitOBa-
+106075 new <>raBitoBAvi maRqalam” pA0 . pareH param aBitauBa-
+;
+; (ai) 085562:4:  te: anujyozwaityAdi. atra pUrvvapadArTaprADAnyAt jyezWaSabda
+106094 old <>anujyozwEtyAdi . atra pUrbbapadArTaprADAnyAt jyezWaSabda-
+106094 new <>anujyozwaityAdi . atra pUrbbapadArTaprADAnyAt jyezWaSabda-
+;
+; multiple changes of O to au
+; (au) 086751:2:  te: aDikodrAvo yasya sauddrAvaH<q> vedadI0</reN> <vkr><reN><q>udi Srayati yOti
+107513 old <>aDikodrAvoyasya sOddrAvaH” vedadI0 “udi SrayatiyOti
+107513 new <>aDikodrAvoyasya sauddrAvaH” vedadI0 “udi Srayatiyauti
+;
+; (au) 086834:4:  te: jyezWasya vaMSaudDAraH sarvadravyAcca yadvaram. tato'rdDvaM
+107636 old <>“jyezWasya viMSOdDAraH sarvadravyAcca yadvaram . tato'rdDaM
+107636 new <>“jyezWasya viMSaudDAraH sarvadravyAcca yadvaram . tato'rdDaM
+;
+; (ai) 086941:2:  te: panyAsaH. aByAsodfQatarasaMskAraH udboDakatvenoktaiti
+107784 old <>panyAsaH . aByAsodfQatarasaMskAraH udboDakatvenoktEti
+107784 new <>panyAsaH . aByAsodfQatarasaMskAraH udboDakatvenoktaiti
+;
+; (au) 086949:2:  te: deranyatareRAparasmaraRam. atiSayaH saMskAraupanayanA
+107792 old <>deranyatareRAparasmaraRam . atiSayaH saMskArOpanayanA-
+107792 new <>deranyatareRAparasmaraRam . atiSayaH saMskAraupanayanA-
+;
+; (au) 087317:2:  te: pArakaH<q> BA0 A0 57a0 sarpasatrehatanAgauktAH.</reN><page>vp2_370.pdf</page><column>1</column><br/>
+108238 old <>pArakaH” BA0 A0 57 a0 sarpasatrehatanAgOktAH .
+108238 new <>pArakaH” BA0 A0 57 a0 sarpasatrehatanAgauktAH .
+;
+; (ai) 087958:3:  te: lakzaRAntaramAha. <reN><q>sa yApravfdDastaruRaityAdi<q> suSru
+109075 old <>lakzaRAntaramAha . “sa cApravfdDastaruREtyAdi” suSru0
+109075 new <>lakzaRAntaramAha . “sa cApravfdDastaruRaityAdi” suSru0
+;
+; (au) 089428:3:  te: pUrvvavarRe ca. <vkr><reN><q>anaupaDAlopino'nyatarasyAm<q></reN> <reN><q>ko
+110948 old <>5 pUrvvavarRe ca . “anOpaDAlopano'nyatarasyAm” “ko-
+110948 new <>5 pUrvvavarRe ca . “anaupaDAlopano'nyatarasyAm” “ko-
+;
+; multiple changes of O to au
+; (au) 089577:4:  te: RAnusArI ya upasaMhAraupanyAsaH prakftodAharaRopadarSita
+111147 old <>RAnusArI yOpasaMhArOpanyAsaH prakftodAharaRopadarSita-
+111147 new <>RAnusArI yaupasaMhAraupanyAsaH prakftodAharaRopadarSita-
+;
+; (ai) 091212:3:  te: iyamozaDI vizahAraRItyupamityA vizayIkriyataityAdi
+112983 old <>iyamozaDI vizaharaRItyupamityA vizayIkriyatEtyAdi” .
+112983 new <>iyamozaDI vizaharaRItyupamityA vizayIkriyataityAdi” .
+;
+; 
+; (ai) 091657:3:  te: yaTA candraiva muKamityAdO muKam. <reN><q>antaH puraYcEka
+113456 old <>yaTA candrEva muKamityAdO muKam . “anta puraYcEka
+113456 new <>yaTA candraiva muKamityAdO muKam . “anta puraYcEka
+;
+;  
+; (ai) 092040:3:  te: samAvarttanaM vA tait zaRmAsAntarna kAryyam. <reN>yadA
+113859 old <>samAvarttanaM vA tadvat zaRmAsAntarna kAryyam . yadA-
+113859 new <>samAvarttanaM vA tait zaRmAsAntarna kAryyam . yadA-
+;
+; (au) 092312:2:  te: kuraNgo hariRauditaH9. mUlArdrayoHSvA kukkuraH10. taTA
+114138 old <>kuraNgo hariROditaH9 . mUlArdrayoHSvA kukkuraH10 . taTA
+114138 new <>kuraNgo hariRauditaH9 . mUlArdrayoHSvA kukkuraH10 . taTA
+;
+; 
+; (ai) 092685:2:  te: BAgyavasuBatvAzwrAmbvahirbuDnyaBEH. anyErnAqyaihEkanA
+114521 old <>BAgyavasuBatvAzwrAmbvahirbuDnyaBEH . anyErnAqyEhEkanA-
+114521 new <>BAgyavasuBatvAzwrAmbvahirbuDnyaBEH . anyErnAqyaihEkanA-
+;
+; (ai) 093334:4:  te: H SuBamitrakftaH saptaSalAkAjaitaratreti<q>.</reN> <reN>SrIpatiH <q>vaDU
+115187 old <>SuBamitrakftaH saptaSalAkAjEtaratreti” . SrIpatiH “baDU-
+115187 new <>SuBamitrakftaH saptaSalAkAjaitaratreti” . SrIpatiH “baDU-
+;
+; (ai) 093358:3:  te: po0 DA0. <q>saptaSalAkAjaitaratreti<q> prAguktavacanAt
+115211 old <>pI0 DA0 . “saptaSalAkAjEtaratreti” prAguktavacanAt
+115211 new <>pI0 DA0 . “saptaSalAkAjaitaratreti” prAguktavacanAt
+;
+; (au) 094906:4:  te: duparavAn Kanati sadakziRasya havirDAnasyAvo'DaH praugaM
+116850 old <>duparavAn Kanati sadakziRasya havirDAnayADo'DaH prOgaM
+116850 new <>duparavAn Kanati sadakziRasya havirDAnayADo'DaH praugaM
+;
+; ? TE error: sazaiBArka -> sazaqBArka
+; (ai) 095171:1:  te: tattulye sazaiBArkarUpacCAyAkzetrAdinA same candrapAte api
+;117126 old <>tattulye sazaqBArkarUpacCAyAkzetrAdinA same candrapAte api
+;117126 new <>tattulye sazaqBArkarUpacCAyAkzetrAdinA same candrapAte api
+;
+; ? TE: lagbadf -> ? lagnadfN
+; (ai) 095625:6:  te: ata cAnIto'yaM dfkkzepastriBonalagbadfmaRqalastaito
+117592 old <>ata AnIto'yaM dfkkzepastrinonalagnadfNmaRqalasTito-
+117592 new <>ata AnIto'yaM dfkkzepastriBonalagnadfNmaRqalasTito-
+;
+; ? TE: viDuDaubimbam -> ? viDuvimbam
+; (au) 096146:4:  te: vati vA viDuDaubimbamevam<q> Si0</reN> <reN><q>ravergatiH svadaSAMSena (10) yutA'
+;118127 old <>vati vA viDuvimbamevam” Si0 “ravergatiH svadaSAMSena10 yutA'-
+;118127 new <>vati vA viDuvimbamevam” Si0 “ravergatiH svadaSAMSena10 yutA'-
+;
+; (ai) 098143:2:  te: asAmarTyaiva havizyAdiranukalpaH. tAni ca <q>azwO
+120268 old <>asAmarTyEva havizyAdiranukalpaH . tAni ca “azwO
+120268 new <>asAmarTyaiva havizyAdiranukalpaH . tAni ca “azwO
+;
+; (ai) 098337:2:  te: na0 hema0. (3)ativizAyAM (Ataic) strI.</3><page>vp2_515.pdf</page><column>1</column><br/>
+120484 old <>na0 hema0 . 3 ativizAyAM (AtEc) strI .
+120484 new <>na0 hema0 . 3 ativizAyAM (Ataic) strI .
+;
+; (ai) 099411:2:  te: mupAkaraRAya yadakrandaityekAdaSaBiH stOtya praRuvan
+121860 old <>mupAkaraRAya yadakrandEtyekAdaSaBiH stOtya praRuvan” 5
+121860 new <>mupAkaraRAya yadakrandaityekAdaSaBiH stOtya praRuvan” 5
+;
+; (ai) 100145:3:  te: praBayeva kusumapraBayA vyAptatvAt sPawiko lohitaivA
+122653 old <>praBayeva kusumapraBayA vyAptavAt sPawikolohitEvA
+122653 new <>praBayeva kusumapraBayA vyAptavAt sPawikolohitaivA
+;
+; (ai) 100800:2:  te: ataittvam.</vkr> (1)pUtikASAke amaraH</1> <reN>tatpAkAdi prakAraguRAdi
+123433 old <>atEttvam . pUtikASAke amaraH tatpAkAdi prakAraguRAdi
+123433 new <>ataittvam . pUtikASAke amaraH tatpAkAdi prakAraguRAdi
+;
+; 
+; (ai) 101164:2:  te: tatrEva. rAyamukuwastu uruvukasTAne uruvakaityaNgIcakAra
+123965 old <>tatrEva . rAyamukuwastu uruvukasTAne uruvakEtyaNgIcakAra
+123965 new <>tatrEva . rAyamukuwastu uruvukasTAne uruvakaityaNgIcakAra
+;
+; (ai) 101981:2:  te: cavyike (cai). (5)pippalyAM ca strI. <vn>UzaRaSabde vivftiH</vn></5><page>vp2_556.pdf</page><column>2</column><br/>
+124997 old <>4 cavyike(cE) . pippalyAM ca strI . UzaRaSabde vivftiH
+124997 new <>4 cavyike(cai) . pippalyAM ca strI . UzaRaSabde vivftiH
+;
+; (au) 102132:2:  te: BedovizagulmArSaudarakuzWaSoPArocakapARqurogaharARi
+125186 old <>BedovizagulmArSOdarakuzWaSoPArocakapARqurogaharARi
+125186 new <>BedovizagulmArSaudarakuzWaSoPArocakapARqurogaharARi
+;
+; (au) 102275:2:  te: yamuzRik tripadAntyodvAdaSakaH. AdyaScet purauzRik
+125383 old <>yamuzRik tripadAntyodvAdaSakaH . AdyaScet purOzRik,
+125383 new <>yamuzRik tripadAntyodvAdaSakaH . AdyaScet purauzRik,
+;
+; (ai) 103082:0:  te: tvAdaBedopacArAt vinduvarRaiha tadarTaH.</vn><page>vp2_577.pdf</page><column>2</column><br/>
+126414 old <>tvAdaBedopacArAt vinduvarRREha tadarTaH .
+126414 new <>tvAdaBedopacArAt vinduvarRRaiha tadarTaH .
+;
+; (ai) 103243:2:  te: (citA) (4)citrake pu0. (5)piplyAM (6)cavye ca (cai) strI
+126655 old <>(citA) 4 citrake pu0 . 5 piplyAM 6 cavye ca(cE) strI .
+126655 new <>(citA) 4 citrake pu0 . 5 piplyAM 6 cavye ca(cai) strI .
+;
+; (au) 106610:4:  te: rDAnaM praviSati<q> karkaH.</reN> <reN><q>uttarauttaraH pratiprastAtA para
+130357 old <>DAnaM praviSati” karkaH . “uttarOttaraH pratiprasTAtA para-
+130357 new <>DAnaM praviSati” karkaH . “uttarauttaraH pratiprasTAtA para-
+;
+; (ai) 108638:2:  te: ekataH. taindreRa saha ceruH yaTedaM brAhmaRo rAjAna
+132707 old <>ekataH . tEndreRa saha ceruH yaTedaM brAhmaRo rAjAna-
+132707 new <>ekataH . taindreRa saha ceruH yaTedaM brAhmaRo rAjAna-
+;
+; (au) 110514:2:  te: iti vaktumarDarAtraveDaupanyasto na tu veDABiprAyeRa
+134884 old <>iti vaktumarDarAtraveDOpanyasto na tu veDABiprAyeRa .
+134884 new <>iti vaktumarDarAtraveDaupanyasto na tu veDABiprAyeRa .
+;
+; (au) 110520:6:  te: dayaveDAScaturTaudayaveDaH. taccodayoDaNkaRvo'pyAha <reN><q>u
+134890 old <>dayaveDAScaturTOdayaveDaH . taYcodayaveDaNkaRvo'pyAha “u
+134890 new <>dayaveDAScaturTaudayaveDaH . taYcodayaveDaNkaRvo'pyAha “u
+;
+; (au) 111409:2:  te: catuzwayam akAraukAro makAraH ardDamAtrA ityevaM catu
+135809 old <>catuzwayam akArOkAromakAraH ardDamAtrA ityevaM catu-
+135809 new <>catuzwayam akAraukAromakAraH ardDamAtrA ityevaM catu-
+;
+; (ai) 111533:4:  te: tvasya boDakaiti Beda. grIvAreKA, kAlidAsakftakAvyaM kumA
+135936 old <>tvasya boDakEti Beda . grIvAresvA, kAlidAsakftakAvyaM kumA-
+135936 new <>tvasya boDakaiti Beda . grIvAresvA, kAlidAsakftakAvyaM kumA-
+;
+; (au) 112610:2:  te: uktA kvaciccArTasyEva tattatsaMKyAyogauktaH tenEva tatta
+137041 old <>uktA kvaciccArTasyEva tattatsaMKyAyogOktaH tenEva tatta-
+137041 new <>uktA kvaciccArTasyEva tattatsaMKyAyogauktaH tenEva tatta-
+;
+; TE Error: suSrau0 -> suSru0
+; (au) 112882:1:  te: SlezmABiharaRam<q> iti ca suSrau0.</reN> <vn>kvacit ratnamAlAyAm
+;137374 old <>SlezmABiharaRam” iti ca suSru0 . kvacit ratnamAlAyAm
+;137374 new <>SlezmABiharaRam” iti ca suSru0 . kvacit ratnamAlAyAm
+;
+; (ai) 113010:3:  te: pretetyUhyam. evaM vaityatra te iti. ASIH prArTane ca
+137516 old <>pretetyuhyam . evaM vEtyatra te iti . ASIHprArTane ca
+137516 new <>pretetyuhyam . evaM vaityatra te iti . ASIHprArTane ca
+;
+; (ai) 113012:2:  te: etadvaH pitaraityatra tu pretA iti vikftAvUho natu ba
+137518 old <>etadvaH pitarEtyatra tu pretA iti vikftAvUho na tu ba-
+137518 new <>etadvaH pitaraityatra tu pretA iti vikftAvUho na tu ba-
+;
+; 
+; (ai) 113538:2:  te: dvijottamaityatra sapiRqaka iti mETilAnAM pAWaH. svasva
+138058 old <>dvijottamEtyatra sapiRqaka iti mETilAnAM pAWaH . svasva-
+138058 new <>dvijottamaityatra sapiRqaka iti mETilAnAM pAWaH . svasva-
+;
+; (ai) 113712:2:  te: striyaityasyAsavarRoQA'pariRItAparatvavyAKyAnAt strIRAM
+138236 old <>striyEtyasyAsavarRoQA'pariRItAparatvavyAKyAnAt strIRAM
+138236 new <>striyaityasyAsavarRoQA'pariRItAparatvavyAKyAnAt strIRAM
+;
+; 
+; (ai) 113839:2:  te: mAnagotraityarTaH. yasmE SrAdDaM karttavyaM tasya svagotraje
+138367 old <>mAnagotrEtyarTaH . yasmE SrAdDaM karttavyaM tasya svagotraje
+138367 new <>mAnagotraityarTaH . yasmE SrAdDaM karttavyaM tasya svagotraje
+;
+; (ai) 113935:3:  te: eqakaivAcarati kyaceqakIyati upasargasTAvarRAt
+138487 old <>eqakEvAcarapi kyac eqakIyati upasargasTAvarRAt
+138487 new <>eqakaivAcarapi kyac eqakIyati upasargasTAvarRAt
+;
+; (ai) 114042:1:  te: vfdDaiyukte <vkr>tri0 Sabdara0 BAve catu.</vkr> (4)vfdDO strI. <reN><q>yuvaM
+138635 old <>3 vfdDiyukte tri0 Sabdara0 BAve catu . 4 vfdDO strI . “yuvaM
+138635 new <>3 vfdDiyukte tri0 Sabdara0 BAve catu . 4 vfdDO strI . “yuvaM
+;
+; (ai) 114315:2:  te: kzipA0 nAtaittvam qalayorekatrasmaraRAt.</vkr></1><page>vp2_726.pdf</page><column>1</column><br/>
+138943 old <>kzipA0 nAtEttvam qalayorekatrasmaraRAt .
+138943 new <>kzipA0 nAtaittvam qalayorekatrasmaraRAt .
+;
+; (ai) 114396:2:  te: prakAraityAdO dravyaviSezaRatvamiti BedaH</vn><q>evaMviDe
+139058 old <>prakArEtyAdO dravyaviSezaRatvamiti BedaH “evaMviDe-
+139058 new <>prakAraityAdO dravyaviSezaRatvamiti BedaH “evaMviDe-
+;
+; 
+; (ai) 115086:2:  te: nAmarUpaprayojanEH parasparatomidyantaiti viSezAH etezAM
+139965 old <>nAmarUpaprayojanEH parasparatomidyantEti viSezAH etezAM
+139965 new <>nAmarUpaprayojanEH parasparatomidyantaiti viSezAH etezAM
+;
+; (ai) 115485:4:  te: sanainduravyo<q> nIla0 tA0.</reN> ojas Sabdo'pyatra na
+140424 old <>samEnduravyoH” nIla0 tA0 . ojas Sabdo'pyatra na0 .
+140424 new <>samainduravyoH” nIla0 tA0 . ojas Sabdo'pyatra na0 .
+;
+; ? udgIya or udgITa ?
+; (ai) 115912:3:  te: katamA katamark, katamatkatamatsAm, katamaH katama udgIyaiti
+140904 old <>katamA katamark, katamatkatamatsAsa, katamaH katama udgITa iti
+140904 new <>katamA katamark, katamatkatamatsAm, katamaH katama udgIya iti
+;
+; (au) 116428:2:  te: dauvAca. nADunApyavamAnaM te sammAnaYcApi putraka!. lakza
+141552 old <>dOvAca . nADunApyavamAnaM te sammAnaYcApi putraka! . lakza-
+141552 new <>dauvAca . nADunApyavamAnaM te sammAnaYcApi putraka! . lakza-
+;
+; (au) 116489:2:  te: SrInAradauvAca. rAjan! kiM DyAyase dIrGaM muKena pari
+141615 old <>SrInAradOvAca . rAjan! kiM DyAyase dIrGaM muKena pari-
+141615 new <>SrInAradauvAca . rAjan! kiM DyAyase dIrGaM muKena pari-
+;
+; (au) 116496:3:  te: sattamaH. SrInAradauvAca. mA mA SucaH svatanyaM deva
+141622 old <>sattamaH . SrInAradOvAca . mA mA SucaH svatanayaM deva-
+141622 new <>sattamaH . SrInAradauvAca . mA mA SucaH svatanayaM deva-
+;
+; (au) 116506:2:  te: tftIyaYcAnayanmAsaM navame navame'hani. abBakzauttama
+141632 old <>tftIyaYcAnayanmAsaM navame navame 'hani . abBakzOttama-
+141632 new <>tftIyaYcAnayanmAsaM navame navame 'hani . abBakzauttama-
+;
+; (ai) 116957:2:  te:  %Opayaja% tri0 <vkr><vg>upayajaidam</vg> aR.</vkr> (1)upayajaH sambanDini <vn>upa
+142267 old Opayaja¦ tri0 upayajEdam aR . upayajaH sambanDini upa
+142267 new Opayaja¦ tri0 upayajaidam aR . upayajaH sambanDini upa
+;
+; No change. 
+; (ai) 117134:0:  te: tvAt. kimarTaM puruzasyApi kalpyate banDaityASaNkAyAmAha
+;142493 old <>tvAt . kimarTaM puruzasyApi kalpyate banDa ityASaNkAyAmAha
+;142493 new <>tvAt . kimarTaM puruzasyApi kalpyate banDa ityASaNkAyAmAha
+;
+; (ai) 117319:4:  te: homAtpUrvvaM prAtarhomaH kAryyaityAhuH <reN><q>AsAyakarmaRaH
+142691 old <>homAtpUrbbaM prAtarhomaH kAryyEtyAhuH “AsAyakarmaRaH
+142691 new <>homAtpUrvvaM prAtarhomaH kAryyaityAhuH “AsAyakarmaRaH
+;
+; 
+; (ai) 118418:2:  te: pittasya DarmmaityuktaM yaTA <reN><q>OzRyatEkzRyarOkzyalA
+143925 old <>pittasya DarmmEtyuktaM yaTA “OzRyatEkzRyarOkzyalA-
+143925 new <>pittasya DarmmaityuktaM yaTA “OzRyatEkzRyarOkzyalA-
+;
+; TE errpr: tuRqikApri -> tuRqikAri
+; (ai) 120510:3:  te: svArTe kan ataittvaM kawutuRqikApritatrEva.</vkr></1> <reN>kawutuRqI
+146576 old <>svArTekan atEttvaM kawutuRqikApi tatrEva . “kawutuRqI
+146576 new <>svArTekan ataittvaM kawutuRqikApi tatrEva . “kawutuRqI
+;
+; (ai) 124535:5:  te: yUpaBede ca.</2> <reN>`aTa yasyEtadvakrasya sataH mpUlaivAgraM
+151681 old <>2 yUpaBede ca . “aTa yasyetadvakrasya sataH SUlEvAgraM
+151681 new <>2 yUpaBede ca . “aTa yasyetadvakrasya sataH SUlaivAgraM
+;
+; (ai) 126273:2:  te: vallI.</vg> (1)cavikAvfkze (cai) rAjani0.</1><page>vp3_115.pdf</page><column>1</column><br/>
+153869 old <>vallI . cavikAvfkze (cE) rAjani0 .
+153869 new <>vallI . cavikAvfkze (cai) rAjani0 .
+;
+; 
+; (ai) 128754:2:  te: sattvAccEtreRa gamyate cEtraityapi prayogaH syAt tiNarTasaMyo
+156933 old <>sattvAccEtreRa gamyate cEtrEtyapi prayogaH syAt, tiNarTasaMyo-
+156933 new <>sattvAccEtreRa gamyate cEtraityapi prayogaH syAt, tiNarTasaMyo-
+;
+; 
+; (ai) 128769:3:  te: gacCatItyAdirapi. cEtreRa gamyate grAmaityAdO tu cEtra
+156949 old <>gacCatItyAdirapi . cEtreRa namyate grAmEtyAdO tu cEtra-
+156949 new <>gacCatItyAdirapi . cEtreRa gamyate grAmaityAdO tu cEtra-
+;
+;
+; (ai) 128771:2:  te: dvAn grAmaityanvayaboDanena kiYcidbADakamitiprAcyE
+156951 old <>dvAn grAmEtyanvayaboDanena kiYcidbADakamitiprAcyE-
+156951 new <>dvAn grAmaityanvayaboDanena kiYcidbADakamitiprAcyE-
+;
+; 
+; (ai) 128776:2:  te: cEtreRa gamyate dravyaM, dravyaM gacCati cEtraityAdO dravyAnya
+156956 old <>cEtreRa gamyate dravyaM, dravyaM, gacCati cEtrEtyAdO dravyAnya
+156956 new <>cEtreRa gamyate dravyaM, dravyaM, gacCati cEtraityAdO dravyAnya
+;
+; 
+; (ai) 128786:5:  te: ccEtraM gacCati cEtraityAdikona prayogaH. pratiyogitvaYca
+156966 old <>ccEtraM gacCati cEtrEtyAdikona prayogaH . pratiyogitvaYca
+156966 new <>ccEtraM gacCati cEtraityAdikona prayogaH . pratiyogitvaYca
+;
+; (ai) 128794:2:  te: vaDikaviBAgasya KagAdAvasattvAt KagaM tyajati KagaityA
+156974 old <>vaDikaviBAgasya KagAdAvasattvAt KagaM tyajati KagEtyA-
+156974 new <>vaDikaviBAgasya KagAdAvasattvAt KagaM tyajati KagaityA-
+;
+; (ai) 128795:3:  te: dikona prayogaH. Kagena tyajyate Kagaityapi prayogaH
+156975 old <>wikona prayogaH . Kagena tyajyate KagEtyapi prayogaH
+156975 new <>wikona prayogaH . Kagena tyajyate Kagaityapi prayogaH
+;
+; (ai) 128804:3:  te: spandona spandaityAderiva tyAgo na gatirityAderapi
+156985 old <>spandona spandEtyAderiva tyAgona natirityAderapi
+156985 new <>spandona spandaityAderiva tyAgona natirityAderapi
+;
+; (ai) 128850:2:  te: yajataityAdO dravyasya dravyABinnatvena SAbdAsattve'pi na
+157032 old <>yajatEtyAdO dravyasya dravyABinnatvena SAbdAsattve'pi na
+157032 new <>yajataityAdO dravyasya dravyABinnatvena SAbdAsattve'pi na
+;
+; (ai) 128857:2:  te: raRakatvABAvAnna tatra pitaraM yajataityAdikaH prayogaH
+157039 old <>raRakatvABAvAnna tatra pitaraM yajatEtyAdikaH prayogaH .
+157039 new <>raRakatvABAvAnna tatra pitaraM yajataityAdikaH prayogaH .
+;
+; (ai) 129018:3:  te: jYAnaM jAnAtyarTaityuktasTale muKyameva karmatvaM GawAde
+157204 old <>jYAnaM jAnAtyarTEtyuktasTale BuKyameva karmatvaM GawAde-
+157204 new <>jYAnaM jAnAtyarTaityuktasTale BuKyameva karmatvaM GawAde-
+;
+; (ai) 129043:3:  te: rTastatra na dvitIyA yaTA GawAya yatataityAdAvivetyAha
+157230 old <>rTastatra na dvitAyA yaTA GawAya yatatEtyAdAvivetyAha
+157230 new <>rTastatra na dvitAyA yaTA GawAya yatataityAdAvivetyAha
+;
+; (ai) 129438:2:  te: indriyARIndriyArTezu varttantaiti DArayan. brahmaRyADAya
+157663 old <>indriyARIndriyArTezu varttantEti DArayan . brahmaRyADAya
+157663 new <>indriyARIndriyArTezu varttantaiti DArayan . brahmaRyADAya
+;
+; (ai) 129590:4:  te: iti. ataekaBavikaH karmASaya uktaiti. dfzwajanmavedanIya
+157829 old <>iti . ataekaBavikaH karmASayOktEti . dfzwajanmavedanIya-
+157829 new <>iti . ataekaBavikaH karmASayOktaiti . dfzwajanmavedanIya-
+;
+; (ai) 132232:2:  te: prApte nizeDye cezwAvataityarTaH.</reN> tataSca prAgaBAva eva kAlA
+160653 old <>prApte nizeDye cezwAvatEtyarTaH . tataSca prAgaBAva eva kAlA-
+160653 new <>prApte nizeDye cezwAvataityarTaH . tataSca prAgaBAva eva kAlA-
+;
+; 
+; (ai) 133080:2:  te: ntarvarttI kAlaityarTaH. zaqBiH prARErekaM pAnIyapalam
+161613 old <>ntarvarttI kAlEtyarTaH . zaqBiH prARErekaM pAnIyapalam .
+161613 new <>ntarvarttI kAlaityarTaH . zaqBiH prARErekaM pAnIyapalam .
+;
+; (ai) 135544:2:  te: hetuH prakftiguRaityuttaratra paYcasvanuvarttate. gocarasya sato
+164272 old <>hetuH prakftiguREtyuttaratra paYcasvanuvarttate . gocarasya sato-
+164272 new <>hetuH prakftiguRaityuttaratra paYcasvanuvarttate . gocarasya sato-
+;
+; (ai) 136256:2:  te: gatO in kfdikArAntatvAt vA NIp.</vkr> (1)(kai) matsyaBede
+165099 old <>gatO in kfdikArAntatvAt vA NIp . (kE) matsyaBede .
+165099 new <>gatO in kfdikArAntatvAt vA NIp . (kai) matsyaBede .
+;
+; (ai) 136383:2:  te: kavikApuzpe rAjani0. (3)kavayImatsye (kai)BAvapra
+165271 old <>2 kavikApuzpe rAjani0 . 3 kavayImatsye(kE)BAvapra0 .
+165271 new <>2 kavikApuzpe rAjani0 . 3 kavayImatsye(kai)BAvapra0 .
+;
+; (ai) 141737:2:  te: puMsoliNge jawADaraH. <vg>kAmasyANkuSaiva.</vg> (3)kAma
+171658 old <>2 puMsoliNge jawADaraH . kAmasyANkuSEva . 3 kAma-
+171658 new <>2 puMsoliNge jawADaraH . kAmasyANkuSaiva . 3 kAma-
+;
+; (au) 142413:2:  te: pusaH SoRitakiwwapraBavauRqukaH
+172442 old <>pusaH SoRitakiwwapraBavORqukaH .
+172442 new <>pusaH SoRitakiwwapraBavauRqukaH .
+;
+; (ai) 144505:2:  te: kAryyasyAdyasattAkzaRaivAnyadApi sAmagrIsattA'viSezAttavApi
+174633 old <>kAryyasyAdyasattAkzaREvAnyadApi sAmagrIsattA'viSezAttavApi
+174633 new <>kAryyasyAdyasattAkzaRaivAnyadApi sAmagrIsattA'viSezAttavApi
+;
+; 
+; (ai) 145247:2:  te: sannikarzamaTAparam. candrArkayorbuDErmAsaScAndraityaBi
+175518 old <>sannikarzamaTAparam . candrArkayorbuDErmAsaScAndrEtyaBi-
+175518 new <>sannikarzamaTAparam . candrArkayorbuDErmAsaScAndraityaBi-
+;
+; 
+; (ai) 145955:2:  te: sTEryye guRopetA mOrvI daRqaiva sTitA. CAdayitvA
+176295 old <>sTEryye guRopetA mOrvI daRqEva sTitA . CAdayitvA
+176295 new <>sTEryye guRopetA mOrvI daRqaiva sTitA . CAdayitvA
+;
+; (ai) 146453:2:  te: samBavAt na hi nyAyanayaiva tanmate grAhyapadArTaSakti
+176810 old <>samBavAt na hi nyAyanayEva tanmate grAhyapadArTaSakti
+176810 new <>samBavAt na hi nyAyanayaiva tanmate grAhyapadArTaSakti
+;
+;
+; (ai) 148197:2:  te: ganDaityapsarasastaM yaTAyaTopAsate tadeva BavatIti<q>. tEtti
+178664 old <>ganDEtyapsarasastaM yaTAyaTopAsate tadeva BavatIti” . tEtti-
+178664 new <>ganDaityapsarasastaM yaTAyaTopAsate tadeva BavatIti” . tEtti-
+;
+; (ai) 148258:2:  te: nAmaDyakzaH saMvatsaraiti tatra praveSo'BiDIyate. <reN>taTAca
+178727 old <>nAmaDyakzaH saMvatsarEti tatra praveSo'BiDIyate . taTAca
+178727 new <>nAmaDyakzaH saMvatsaraiti tatra praveSo'BiDIyate . taTAca
+;
+; (ai) 148713:4:  te: upa0 sa0, <vg>kAlasya mftyoH kUwaiva vA kAlavarRasya kUwa
+179230 old <>upa0 sa0, kAlasya mftyoH kUwEva vA kAlabarRRasya kUwa-
+179230 new <>upa0 sa0, kAlasya mftyoH kUwaiva vA kAlabarRRasya kUwa-
+;
+; (ai) 149053:2:  te: cakraM naraiva.</reN> mezAdidvAdaSarASirUpamastakAdyaNgayukte
+179639 old <>cakraM narEva . mezAdidvAdaSarASirUpamastakAdyaNgayukte
+179639 new <>cakraM naraiva . mezAdidvAdaSarASirUpamastakAdyaNgayukte
+;
+; (ai) 149250:2:  te:  %kAlamayUKa% pu0 <vg>kAlasya prakASakatvena mayUKaiva.</vg> (1)kAlasvarUpa
+179885 old kAlamayUKa¦ pu0 kAlasya prakASakatvena mayUKEva . kAlasvarUpa
+179885 new kAlamayUKa¦ pu0 kAlasya prakASakatvena mayUKaiva . kAlasvarUpa
+;
+; (au) 150765:3:  te: SuzkamAMsAtiBEravA<q> ityAdi devImA0 tadAvirBAvauktaH
+181614 old <>SuzkamAMsAtiBErabA” ityAdi devImA0 tadAvirBAvOktaH .
+181614 new <>SuzkamAMsAtiBErabA” ityAdi devImA0 tadAvirBAvauktaH .
+;
+; (ai) 150797:2:  te:  %kAlIka% puM strI0 <vg>ke jale'lIkaiva</vg> (1)matsyaGAtAya niScezwa
+181648 old kAlIka¦ puMstrI0 ke jale'lIkEva matsyaGAtAya niScezwa-
+181648 new kAlIka¦ puMstrI0 ke jale'lIkaiva matsyaGAtAya niScezwa-
+;
+; (ai) 151030:2:  te: apaoharaM pekKi a uRa jai vasasi tA vasasu
+181942 old <>apaoharaM pekKia uRa jE vasasi tA vasasu” .
+181942 new <>apaoharaM pekKia uRa jai vasasi tA vasasu” .
+;
+; (ai) 151070:4:  te: ApaRei juvaijaRalakKasahe. ahiRa arasahaAramuhe
+181983 old <>ApaRei juvEjaRalakKasahe . ahiRaasahaAramuhe
+181983 new <>ApaRei juvaijaRalakKasahe . ahiRaasahaAramuhe
+;
+; (ai) 151205:3:  te: reai balAA. RimmalamaranaaBAaRapariWWiA saMKa
+182121 old <>reE balAA . RimmalamaragaaBAaRapariWWiA saMKa-
+182121 new <>reai balAA . RimmalamaragaaBAaRapariWWiA saMKa-
+;
+; (au) 151295:3:  te: bARIrakuquNguqIRasauRikolAhalaM suRantIe
+182214 old <>“bARIrakuquNguqqIRasORikolAhalaM suRantIe .
+182214 new <>“bARIrakuquNguqqIRasauRikolAhalaM suRantIe .
+;
+; (ai) 151478:2:  te: pu0 ucCala0. (4)muzwO niru0 7. <reN><q>1 Apaiva kASinA saMgf
+182447 old <>pu0 ucCala0 . 4 muzwO niru0 6 . “1 ApEva kASinA saMgf-
+182447 new <>pu0 ucCala0 . 4 muzwO niru0 6 . “1 Apaiva kASinA saMgf-
+;
+; (ai) 151484:2:  te: YiWait uccAraRArTaH striyAM zWaYi NIz YiWi WAp.</vkr> <vn>sAca vA
+182454 old <>YiWEt uccAraRArTaH striyAM zWaYi NIz YiWi WAp . sAca vA
+182454 new <>YiWait uccAraRArTaH striyAM zWaYi NIz YiWi WAp . sAca vA
+;
+; (ai) 151636:3:  te: candnAni vanitASca nitAntaramyAH. svargo'pyagamyaiha no
+182622 old <>candanAni vanitASca nitAntaramyAH . svargo'pyagamyEha no-
+182622 new <>candanAni vanitASca nitAntaramyAH . svargo'pyagamyaiha no-
+;
+; 
+; (ai) 151642:2:  te: hyArIpyamARa iha mAnyaihEkarudraH. nAnopasargaja
+182628 old <>hyArIpyamARa iha mAnyEhEkarudraH . nAnopasargaja
+182628 new <>hyArIpyamARa iha mAnyaihEkarudraH . nAnopasargaja
+;
+; (au) 152097:2:  te: Anu0 25 a0.</reN> <vkr><vg>kASmIradeSautpattisTAnatvenAstyasyAH
+183121 old <>Anu025 a0 . kASmIradeSOtpattisTAnatvenAstyasyAH
+183121 new <>Anu025 a0 . kASmIradeSautpattisTAnatvenAstyasyAH
+;
+; (au) 152196:4:  te: tatautpattyukteH (4)asurAdizu ca.</4> kaSyapaSabde d
+183236 old <>tatOtpattyukteH 4 asurAdizu ca . kaSyapaSabde 1837 pf0
+183236 new <>tatautpattyukteH 4 asurAdizu ca . kaSyapaSabde 1837 pf0
+;
+; (ai) 152380:2:  te: rAvataivAkUjan kAsavegAt kzatodBavAt. vizamA'sAtmya
+183511 old <>rAvatEvAkUjan kAsavegAt kzatodBavAt . vizamA'sAtmya-
+183511 new <>rAvataivAkUjan kAsavegAt kzatodBavAt . vizamA'sAtmya-
+;
+; (ai) 152613:2:  te:  %kiNkirin% pu0 <vkr>kiNkara+ini.</vkr> (1)(vaici) vikaNkatavfkze jawA0</1><page>vp3_465.pdf</page><column>2</column><br/>
+183856 old kiNkirin¦ pu0 kiNkara + ini . (vEci) vikaNkatavfkze jawA0
+183856 new kiNkirin¦ pu0 kiNkara + ini . (vaici) vikaNkatavfkze jawA0
+;
+; (ai) 153161:4:  te:  %kirAtatikta% pu0 <vg>kirAto mUnimbaiva tiktaH</vg> (1)(cirAtA) vfkze
+184543 old kirAtatikta¦ pu0 kirAto BUnimbEva tiktaH (carAtA) vfkze
+184543 new kirAtatikta¦ pu0 kirAto BUnimbaiva tiktaH (carAtA) vfkze
+;
+; (ai) 153295:3:  te: karttfkakuruvijayaH samBavanAvizayaityArTaH.</reN> <reN>hetO <q>sa
+184718 old <>karttfkakuruvijayaH samBavanAvizayEtyarTaH . hetO “sa
+184718 new <>karttfkakuruvijayaH samBavanAvizayaityarTaH . hetO “sa
+;
+; (au) 153489:3:  te: maryyAdena kAmena voreRAmipariplutaH. kIcakauvAca
+184989 old <>maryyAdena kAmena voreRABipariplutaH . kIcakOvAca .
+184989 new <>maryyAdena kAmena voreRABipariplutaH . kIcakauvAca .
+;
+; (au) 153508:3:  te: kIcakauvAca. anyA Badre! nayizyanti rAjaputtyAH pra
+185009 old <>kIcakOvAca . anyA Badre! nayizyanti rAjaputtryAH pra-
+185009 new <>kIcakauvAca . anyA Badre! nayizyanti rAjaputtryAH pra-
+;
+; (ai) 153870:4:  te:  %kukIla% pu0 <vg>koH pfTivyA. kIlaiva.</vg> (1)parvate trikA0 <vn>tasya
+185482 old kukIla¦ pu0 koH pfTivyA . kIlEva . pUrvvate trikA0 tasya
+185482 new kukIla¦ pu0 koH pfTivyA . kIlaiva . pUrvvate trikA0 tasya
+;
+; (ai) 153872:2:  te:  %kukuwa% pu0 <vkr><vg>kO kuwati</vg> kuwa--ka, koH kuwaiva vA.</vkr> (1)(suzuRi)
+185486 old kukuwa¦ pu0 kO kuwati kuwa--ka, koH kuwEva vA . (suzuRi)
+185486 new kukuwa¦ pu0 kO kuwati kuwa--ka, koH kuwaiva vA . (suzuRi)
+;
+; (ai) 153970:0:  te:  %kukuwamastaka% pu0 <vg>kukkuwasyeva mastakaM SiKA yasya.</vg> (1)cavye (cai). rAjani0</1><page>vp3_483.pdf</page><column>2</column><br/>
+185609 old kukkuwamastaka¦ pu0 kukkuwasyeva mastakaM SiKA yasya . cavye (cE) . rAjani0
+185609 new kukkuwamastaka¦ pu0 kukkuwasyeva mastakaM SiKA yasya . cavye (cai) . rAjani0
+;
+; (ai) 153984:2:  te:  %kukkuwAhi% pu0 <vg>kukkuwa iva taccaraRaivAhiH.</vg> (1)sarpaBede hemaca0.</1><page>vp3_483.pdf</page><column>2</column><br/>
+185635 old kukkuwAhi¦ pu0 kukkuwa iva taccaraREvAhiH . sarpaBede hemaca0 .
+185635 new kukkuwAhi¦ pu0 kukkuwa iva taccaraRaivAhiH . sarpaBede hemaca0 .
+;
+; (au) 154540:2:  te: haMsaH paramahaMsaSca yo'tra paScAt sauttamaH<q> BA0 Anu
+186384 old <>haMsaH paramahaMsaSca yo'tra paScAt sOttamaH” BA0 Anu0
+186384 new <>haMsaH paramahaMsaSca yo'tra paScAt sauttamaH” BA0 Anu0
+;
+; (ai) 154621:3:  te: upAntimena svordDe hataityAdikaraRena jAtaM rASidvayam
+186497 old <>upAntimena svordDve hatEtyAdikaraRena jAtaM rASidvayam .
+186497 new <>upAntimena svordDve hataityAdikaraRena jAtaM rASidvayam .
+;
+; (ai) 154689:2:  te: Danakzepaiti nyAsaH BA (5)hA kze (3)pUrbbavajjAtO la
+186567 old <>DanakzepEti nyAsaH BA 5 hA 3 kze 2 pUrbbavajjAtOla-
+186567 new <>Danakzepaiti nyAsaH BA 5 hA 3 kze 2 pUrbbavajjAtOla-
+;
+; multiple changes of O to au
+; (au) 154734:2:  te: kyamagraM kftauktavadyaH saMSlizwasaMjYaH sPuwakuwwako'sO
+186613 old <>kyamagraM kftOktavadyaH saMSlizwasaMjYaH sPuwakuwwako'sO .
+186613 new <>kyamagraM kftauktavadyaH saMSlizwasaMjYaH sPuwakuwwako'sau .
+;
+; (ai) 155804:2:  te:  %kuRqakIwa% pu0 <vg>kuRqe yonikuRqe kIwaiva vicAraSUnyatvAt
+187823 old kuRqakIwa¦ pu0 kuRqe yonikuRqe kIwEva vicAraSUnyatvAt .
+187823 new kuRqakIwa¦ pu0 kuRqe yonikuRqe kIwaiva vicAraSUnyatvAt .
+;
+; (ai) 155813:3:  te:  %kuRqajaWara% pu0 <vg>kuRqaiva jaWaramasva.</vg> (1)kuRqAkArodare (2)f
+187840 old kuRqajaWara¦ pu0 kuRqEva jaWaramasya . 1 kuRqAkArodare 2 f
+187840 new kuRqajaWara¦ pu0 kuRqaiva jaWaramasya . 1 kuRqAkArodare 2 f
+;
+; 
+; (ai) 157088:3:  te: SatrumamitraGnaM trElokyeSaivAparaH. DunDorvaDAttadA
+189385 old <>SatrumamitraGnaM trElokyeSEvAparaH . DunDorbaDAttadA
+189385 new <>SatrumamitraGnaM trElokyeSaivAparaH . DunDorbaDAttadA
+;
+; (au) 157238:3:  te: varRo haMsahInoyaH sa suzuptaudAhftaH. mantrovApyaTa vA
+189575 old <>varRRo haMsahInoyaH sa suzuptOdAhftaH . mantrovApyaTa vA
+189575 new <>varRRo haMsahInoyaH sa suzuptaudAhftaH . mantrovApyaTa vA
+;
+; (ai) 157815:3:  te: gapadgatyaBAvaiti trayo'pyate deSena paridfzwAH, iyAnasya
+190263 old <>gapadgatyaBAvEti trayo'pyete deSena paridfzwAH, iyAnasya
+190263 new <>gapadgatyaBAvaiti trayo'pyete deSena paridfzwAH, iyAnasya
+;
+; (ai) 157880:2:  te: prARAyAmasyAvAntaraprayojanamAha tataiti.</reN> A
+190330 old <>“prARAyAmasyAvAntaraprayojanamAha tatEti . A-
+190330 new <>“prARAyAmasyAvAntaraprayojanamAha tataiti . A-
+;
+; (ai) 157934:3:  te: BArata!. viSezataSca kunBaSca nikumBaiti nAmataH
+190385 old <>BArata! . viSezataSca kumBaSca nikumBEti nAmataH”
+190385 new <>BArata! . viSezataSca kumBaSca nikumBaiti nAmataH”
+;
+; (ai) 158038:3:  te: kummakAraka</vkr> (2)kumBakarttari tri0 <vkr>striyAM wAp ataittvam.</vkr></2><page>vp3_539.pdf</page><column>1</column><br/>
+190502 old <>kumBakAraka kumBakarttari tri0 striyAM wAp atEttvam .
+190502 new <>kumBakAraka kumBakarttari tri0 striyAM wAp ataittvam .
+;
+; (au) 158151:1:  te: gastyavaSizWayostautpattikaTA kumBayoniSabde uktA</vn></3><page>vp3_540.pdf</page><column>2</column><br/>
+190656 old <>gastyavaSizWayostatOtpattikaTA kumBayoniSabde uktA
+190656 new <>gastyavaSizWayostatautpattikaTA kumBayoniSabde uktA
+;
+; 
+; (ai) 158710:4:  te: sa iva pAdo'sya</vg> hastyA0 nAntyalopaH kurutapAdaityeva.</vkr></1><page>vp3_548.pdf</page><column>1</column><br/>
+191342 old <>sEva pAdo'sya hastyA0 nAntyalopaH . kurutapAdEtyeva .
+191342 new <>sa iva pAdo'sya hastyA0 nAntyalopaH . kurutapAdaityeva .
+;
+; (ai) 158800:3:  te: durgAdAsaH AkulaH saNkulaityAdiprayogamapaSyan parAstaH
+191492 old <>durgAdAsaH AkulaH saNgulEtyAdiprayogamapaSyan parAstaH .
+191492 new <>durgAdAsaH AkulaH saNgulaityAdiprayogamapaSyan parAstaH .
+;
+; 
+; (ai) 159846:4:  te: yasyakumudasyAnandaiti ca Slezaiti<q> candrikA</reN></2><page>vp3_562.pdf</page><column>2</column><br/>
+192806 old <>yasyakumudasyAnandEti ca SlezEti” candrikA
+192806 new <>yasyakumudasyAnandaiti ca Slezaiti” candrikA
+;
+; (ai) 161634:2:  te: tvAt sTitaH kUwasTaizyate<q> ityuktalakzaRe (2)paramAtmani pu
+195001 old <>tvAt sTitaH kUwasTEzyate” ityuktalakzaRe 2 paramAtmani pu0 .
+195001 new <>tvAt sTitaH kUwasTaizyate” ityuktalakzaRe 2 paramAtmani pu0 .
+;
+; (ai) 162171:2:  te: stanmAtraM vAcyamaByupeyam. taTA ca yatI prayatnaiti
+195686 old <>stanmAtraM vAcyamaByupeyam . taTA ca yatI prayatnEti-
+195686 new <>stanmAtraM vAcyamaByupeyam . taTA ca yatI prayatnaiti-
+;
+; TE error: sakarmakatvyavahAro -> sakarmmakatvavyavahAro
+; (ai) 162182:5:  te: naca kfYAdO sakarmakatvyavahAroBAktaiti nEyAyi
+195697 old <>naca kfYAdO sakarmmakatvavyavahAroBAktEti nEyAyi-
+195697 new <>naca kfYAdO sakarmmakatvavyavahAroBAktaiti nEyAyi-
+;
+; (ai) 162189:3:  te: utpAdanam utpatirUpaPalasahitaM yatnAdi kaYarTaityarTaH
+195704 old <>“utpAdanam utpatirUpaPalasahitaM yatnAdikfYarTEtyarTaH .
+195704 new <>“utpAdanam utpatirUpaPalasahitaM yatnAdikfYarTaityarTaH .
+;
+; (ai) 162253:2:  te: na hi pAkayatnaityeva vivaraRaM pacatItyasya, tatpAryyaviva
+195770 old <>na hi pAkayatnEtyeva vivaraRaM pacatItyasya, tatpAryyaviva-
+195770 new <>na hi pAkayatnaityeva vivaraRaM pacatItyasya, tatpAryyaviva-
+;
+; (ai) 162255:2:  te: kaTantarhi raTogacCati, vidyate vyometi BAvanAnuBavaiti
+195772 old <>kaTantarhi raTogacCati, vidyate vyometi BAvanAnuBavEti
+195772 new <>kaTantarhi raTogacCati, vidyate vyometi BAvanAnuBavaiti
+;
+; (ai) 162325:2:  te: cavye (cai) (5)karavIrevfkze ca rAjani0. </5><page>vp3_595.pdf</page><column>2</column><br/>
+195852 old <>4 cavye (cE) 5 karavIrevfkze ca rAjani0 .
+195852 new <>4 cavye (cai) 5 karavIrevfkze ca rAjani0 .
+;
+; (au) 162537:4:  te: rAtramudakena varttanaM kfcCrAtikfcCrauktaH <q>abBakzasmatIyaH
+196083 old <>rAtramudakena varttanaM kfcCrAtikfcCrOktaH “amBakzasmftIyaH
+196083 new <>rAtramudakena varttanaM kfcCrAtikfcCrauktaH “amBakzasmftIyaH
+;
+; multiple changes of O to au
+; (au) 162546:2:  te: Digantavyam. <reN>jAvAlena caturahavyApI sOmyakfcCrauktaH
+196093 old <>Digantavyam . jAvAlena caturahavyApI sOmyakfcCrOktaH
+196093 new <>Digantavyam . jAvAlena caturahavyApI saumyakfcCrauktaH
+;
+; (au) 162554:2:  te: viMSatirAtrikastulApuruzauktaH <q>AcAmamaTa piRyAkaM
+196101 old <>viMSatirAtrikastulApuruzOktaH “AcAmamaTa piRyAkaM
+196101 new <>viMSatirAtrikastulApuruzauktaH “AcAmamaTa piRyAkaM
+;
+; (ai) 162920:4:  te: aTa (sevai). samitAM varttikAM kftvA sUkzyAM tu yavamanni
+196595 old <HI>aTa (sevE) . samitAM varttikAM kftvA sUkzmAM tu yavasanni-
+196595 new <HI>aTa (sevai) . samitAM varttikAM kftvA sUkzmAM tu yavasanni-
+;
+; (ai) 162961:3:  te: aTa (veWai). <reN>mApapizwikayA pUrRagarBA goDUmacUrRataH. racitA
+196637 old <HI>aTa (veWE) . mAzapizwikayA pUrRagarBA goDUmacUrRataH . racitA
+196637 new <HI>aTa (veWai) . mAzapizwikayA pUrRagarBA goDUmacUrRataH . racitA
+;
+; (au) 163648:2:  te: DAtUnanugataH SanEH. na SakyaunmUlayituM vfdDo vfkza
+197398 old <>DAtUnanugataH SanEH . na SakyaqanmUlayituM vfdDo vfkza
+197398 new <>DAtUnanugataH SanEH . na SakyaqanmUlayituM vfdDo vfkza
+;
+; (au) 163743:3:  te: annakozWe ujjvala0. (2)diSauttare ca na0 niru
+197519 old <>annakozWe ujjvala0 . 2 diSOttara ca na0 niru0 .
+197519 new <>annakozWe ujjvala0 . 2 diSauttara ca na0 niru0 .
+;
+; (ai) 163881:2:  te:  %kf(kri)mi% pu0 <vkr>krama--in ataittvam <reN><q>BrameH samprasAraRaYca<q> u
+197699 old kf(kri)mi¦ pu0 krama--in atEttvam “BrameH samprasAraRaYca” u0
+197699 new kf(kri)mi¦ pu0 krama--in ataittvam “BrameH samprasAraRaYca” u0
+;
+; (ai) 164204:2:  te: vidDakaH parikIrttitaH. navahastA tu madikA (mai) praSastA
+198116 old <>vidDakaH parikIrttitaH . navahastA tu madikA(mE)praSastA
+198116 new <>vidDakaH parikIrttitaH . navahastA tu madikA(mai)praSastA
+;
+; (ai) 164315:2:  te: dApayet. vinA madi (mai) pradAnena sasyajanma na jAyate
+198230 old <>dApayet . vinA madi(mE)pradAnena sasyajanma na jAyate” .
+198230 new <>dApayet . vinA madi(mai)pradAnena sasyajanma na jAyate” .
+;
+; (ai) 165986:2:  te: atra SrAvaRa iti muKyaH kalpaH. naBasyaityanukalpaH
+200191 old <>atra SrAvaRa iti muKyaH kalpaH . naBasyEtyanukalpaH .
+200191 new <>atra SrAvaRa iti muKyaH kalpaH . naBasyaityanukalpaH .
+;
+; (au) 166093:2:  te: ntIprayuktadAnAdiSaNkAvyAvfttaye kevalaSabdaupavAsaviSeza
+200301 old <>ntIprayuktadAnAdiSaNkAvyAvfttaye kevalaSabdOpavAsaviSeza-
+200301 new <>ntIprayuktadAnAdiSaNkAvyAvfttaye kevalaSabdaupavAsaviSeza-
+;
+; (au) 166159:3:  te: jayantI kApi vatsaraupalaByeta na tvevamupalaByate atovrata
+200369 old <>jayantI kkApi vatsarOpalaByeta na tvevamupalaByate atovrata
+200369 new <>jayantI kkApi vatsaraupalaByeta na tvevamupalaByate atovrata
+;
+; (ai) 167645:2:  te: BAvastu pratiyogivfttirasADAraRo Darmaiti. ucyate
+202074 old <>BAvastu pratiyogivfttirasADAraRo DarmEti . ucyate
+202074 new <>BAvastu pratiyogivfttirasADAraRo Darmaiti . ucyate
+;
+; (au) 167748:3:  te: bAlAstu tatparAH pASo racanA BArauccayaH. hastaH
+202190 old <>“vAlAstu tatparAH pASo racanA BArOccayaH . hastaH
+202190 new <>“vAlAstu tatparAH pASo racanA BArauccayaH . hastaH
+;
+; (ai) 167831:2:  te:  %keSapASa% pu0 <vkr><vg>keSAnAM samUhaH</vg> bA0 pASAdeSaH <vg>keSaH pASaiva
+202309 old keSapASa¦ pu0 keSAnAM samUhaH bA0 pASAdeSaH keSaH pASEva
+202309 new keSapASa¦ pu0 keSAnAM samUhaH bA0 pASAdeSaH keSaH pASaiva
+;
+; 
+; (ai) 167972:3:  te: jAdiH karttavyaH. yaTA SrI aM keSavAya kIrttyE namaityA
+202489 old <>jAdiH karttavyaH . yaTA SrIM aM keSavAya kIrttyE namEtyA-
+202489 new <>jAdiH karttavyaH . yaTA SrIM aM keSavAya kIrttyE namaityA-
+;
+; (au) 168070:4:  te: kaRWaumApatiH. eka eva hi pUjyato'tra sarvezAM sarvakAra
+202598 old <>kaRWOmApatiH . eka eva hi pUjyo'tra sarvezAM sarvakAra-
+202598 new <>kaRWaumApatiH . eka eva hi pUjyo'tra sarvezAM sarvakAra-
+;
+; (ai) 168208:5:  te: keSinaidaM svArTe vA aR. <reN><q>gATividaTikASItyAdinA
+202774 old <>keSinEdaMKa rTe vA aR . “gATividaTikASItyAdinA”
+202774 new <>keSinaidaMKa rTe vA aR . “gATividaTikASItyAdinA”
+;
+; (ai) 168396:2:  te: luk sa0 wAp ataittvam.</vkr> (1)sahadevIlatAyAM rAjani0. </1><page>vp3_675.pdf</page><column>2</column><br/>
+202987 old <>luksa0 wAp atEttvam . sahadevIlatAyAM rAjani0 .
+202987 new <>luksa0 wAp ataittvam . sahadevIlatAyAM rAjani0 .
+;
+; (ai) 168745:2:  te: nidiDyAsanahInasya bAhyapratyayaizyate. bravIti Sruti
+203423 old <>nidiDyAsanahInasya bAhyapratyayEzyate . bravIti Sruti-
+203423 new <>nidiDyAsanahInasya bAhyapratyayaizyate . bravIti Sruti-
+;
+;
+; (ai) 168815:2:  te: madaiti kalpanAdUram. nityAnandEkarasaM satyaM brahmAdvitI
+203495 old <>madEti kalpanAdUram . nityAnandEkarasaM satyaM brahmAdvitI-
+203495 new <>madaiti kalpanAdUram . nityAnandEkarasaM satyaM brahmAdvitI-
+;
+; (ai) 168918:7:  te: prajYAvabaDanaityAtmalakzaRaM satyamUcakam. avidyopADika
+203600 old <>prajYAnazanEtyAtmalakzaRaM satyasUcakam . avidyopADika-
+203600 new <>prajYAnazanaityAtmalakzaRaM satyasUcakam . avidyopADika-
+;
+; (ai) 168976:4:  te:  %kokadeva% puM strI <vkr><vg>kokaiva dOvyati</vg> diva--ac.</vkr> (1)kapote rAjani0</1><page>vp3_683.pdf</page><column>1</column><br/>
+203672 old kokadeva¦ puM strI kokEva dovyati diva--ac . kapite rAjani0
+203672 new kokadeva¦ puM strI kokaiva dovyati diva--ac . kapite rAjani0
+;
+; (ai) 168993:3:  te:  %kokAha% pu0 <vkr><vg>kokaivAhanti</vg> A+hana--qa.</vkr> (1)SvetASva hemaca0</1><page>vp3_683.pdf</page><column>1</column><br/>
+203705 old kokAha¦ pu0 kokEvAhanti A + hana--qa . SvetASve hemaca0
+203705 new kokAha¦ pu0 kokaivAhanti A + hana--qa . SvetASve hemaca0
+;
+; (ai) 169245:5:  te: ne'rstva (mai) (mugara) iti vA KyAte padArTe ratnako0 (2)hrasva
+204026 old <>ne'stra (mE)(nugara)iti vA KyAte padArTe ratnako0 hrasva-
+204026 new <>ne'stra (mai)(nugara)iti vA KyAte padArTe ratnako0 hrasva-
+;
+; (ai) 169281:2:  te: lohito'srakaPapitAt. kzaRikotpAdavinASaH koWaiti
+204077 old <>lohito'srakaPapitAt . kzaRikotpAdavinASaH koWEti
+204077 new <>lohito'srakaPapitAt . kzaRikotpAdavinASaH koWaiti
+;
+; (ai) 169407:2:  te: Rvul wAp ataittvam.</vkr> (1)jAlikAyAm. (Palera jAli)
+204256 old <>Rvul wAp atEttvam . jAlikAyAm (Palera jAli)
+204256 new <>Rvul wAp ataittvam . jAlikAyAm (Palera jAli)
+;
+; 
+; (ai) 169446:2:  te: marice na0 rAjani0 (13) cavye (cai) vEdya0. (14) tolaka
+204310 old <>12 marice na0 rAjani0 13 cavye(cE)vEdya0 . 14 tolaka
+204310 new <>12 marice na0 rAjani0 13 cavye(cai)vaidya0 . 14 tolaka
+;
+; (ai) 169481:4:  te:  %kolA% strI <vkr>kula-jvalA0 Ra wAp.</vkr> (1)pippalyAm, (2)cavye (cai) me
+204372 old kolA¦ strI kula--jvalA0 Ra wAp . 1 pippalyAm, 2 cavye(cE)
+204372 new kolA¦ strI kula--jvalA0 Ra wAp . 1 pippalyAm, 2 cavye(cai)
+;
+; (ai) 169850:2:  te: Sanfpe. <reN><q>kO(Sa) salyaityuttarako (Sa) salAnAm<q> raGuH</reN> <vkr>striyAM
+204789 old <>Sanfpe . “kO(Sa)salyavftyuttarako(Sa)salAnAm” raGuH striyAM
+204789 new <>Sanfpe . “kO(Sa)salyavftyuttarako(Sa)salAnAm” raGuH striyAM
+;
+; (ai) 169871:2:  te: Rvul 7 ta0 ataittvam.</vkr> (1)CurikAyAM jawADaraH</1><page>vp3_694.pdf</page><column>2</column><br/>
+204822 old <>Rvul 7 ta0 atEttvam . CurikAyAM jawADaraH
+204822 new <>Rvul 7 ta0 ataittvam . CurikAyAM jawADaraH
+;
+; (ai) 170338:2:  te: vAde hi BUmilagnaiva lokoBavatIti tasya taTAtvam
+205576 old <>vAde hi BUmilagnEva lokoBavatIti tasya taTAtvam .
+205576 new <>vAde hi BUmilagnaiva lokoBavatIti tasya taTAtvam .
+;
+; (ai) 170451:3:  te: tatogacCeta rAjendra! campakAraRyamuttamam<q> tataityukte
+205740 old <>“tatogacCeta rAjendra! . campakAraRyasuttamam” tatEtyukte-
+205740 new <>“tatogacCeta rAjendra! . campakAraRyasuttamam” tataityukte-
+;
+; (ai) 170466:2:  te:  %kOSikA% strI <vkr><vg>koSaeva</vg> svArTe ka ataittvam.</vkr> (1)pAnapAtre
+205761 old kOSikA¦ strI koSaeva svArTe ka atEttvam . pAnapAtre
+205761 new kOSikA¦ strI koSaeva svArTe ka ataittvam . pAnapAtre
+;
+; (ai) 170627:2:  te:  %krakacapfzWI% strI <vkr><vg>krakaca iva pfzWaM yasyAH</vg> NIz.</vkr> (kai) (1)ma tsyaBede. trikA0.</1><page>vp3_704.pdf</page><column>2</column><br/>
+206002 old krakacapfzWI¦ strI krakaca iva pfzWaM yasyAH NIz . (kE) matsyaBede . trikA0 .
+206002 new krakacapfzWI¦ strI krakaca iva pfzWaM yasyAH NIz . (kai) matsyaBede . trikA0 .
+;
+; TE error: yajYaijyo -> yajYaIjyo
+; (ai) 170673:1:  te: rUpatvamapIzwaM yaTAha <q>yajYaijyo mahejyaSca kratuH satraM satAM
+;206060 old <>rUpatvamapIzwaM yaTAha “yajYaIjyo mahejyaSca kratuH satraM satAM
+;206060 new <>rUpatvamapIzwaM yaTAha “yajYaIjyo mahejyaSca kratuH satraM satAM
+;
+; (au) 171445:2:  te: brahmARaM dIkzayati tataudgAtAraM tato hotAramiti<q> Ana
+206910 old <>brahmARaM dIkzayati tatOdgAtAraM tato hotAramiti” Ana-
+206910 new <>brahmARaM dIkzayati tataudgAtAraM tato hotAramiti” Ana-
+;
+; (ai) 172558:5:  te: BUyasA. vikrIRAn samayaM cakraindraM ka imamityfcA
+208108 old <>BUyasA . vikrIRan samayaM cakrEndraM ka imamityfvvA .
+208108 new <>BUyasA . vikrIRan samayaM cakraindraM ka imamityfvvA .
+;
+; (ai) 172568:4:  te: kaimaM daSaBirmamendraM krIRAti DenuBiH yadA vfttrARi
+208119 old <>“kEmaM daSaBirmaBendraM krIRAti GenuBiH yadA vfttrARi
+208119 new <>“kaimaM daSaBirmaBendraM krIRAti GenuBiH yadA vfttrARi
+;
+; (ai) 173249:2:  te:  %krimiSAtrava% pu, <vg>krimeH SAtravaiva nASakatvAt.</vg> (1)viwKadire Sabdaca.</1><page>vp3_739.pdf</page><column>2</column><br/>
+208900 old krimiSAtrava¦ pu0 krimeH SAtravEva nASakatvAt . viw Kadire Sabdaca0 .
+208900 new krimiSAtrava¦ pu0 krimeH SAtravaiva nASakatvAt . viw Kadire Sabdaca0 .
+;
+; TE error: rudai -> rui
+; (ai) 173250:2:  te:  %krimiSEla% pU0 <vg>kriminirmmitaH SElaH.</vg> (1)valmIke (rudai
+;208903 old krimiSEla¦ pU0 kriminirmmitaH SElaH . valmIke (rui-
+;208903 new krimiSEla¦ pU0 kriminirmmitaH SElaH . valmIke (rui-
+;
+; (ai) 174073:2:  te: pacatItyeva prayogaH natu paYcakftvaH pAkaityapi. kecittu
+209765 old <>pacatItyeva prayogaH natu paYcakftvaHpAkEtyapi . kecittu
+209765 new <>pacatItyeva prayogaH natu paYcakftvaHpAkaityapi . kecittu
+;
+; 
+; (ai) 174146:2:  te: ddeSEnEkavAkyatvAt pramARaM BUtikAmaityevamantoviDyu
+209844 old <>ddeSEnEkavAkyatvAt pramARaM BUtikAmEtyevamantoviDyu-
+209844 new <>ddeSEnEkavAkyatvAt pramARaM BUtikAmaityevamantoviDyu-
+;
+; (ai) 174385:2:  te: pratyaBijYAyAm <q>yataicCati tajjYAtuM karttuM vA svecCayA
+210100 old <>pratyaBijYAyAm “yatEcCati tajjYAtuM karttuM vA svecCayA
+210100 new <>pratyaBijYAyAm “yataicCati tajjYAtuM karttuM vA svecCayA
+;
+; TE error: kuyedendu -> kuvedendu
+; (ai) 176840:3:  te: vatsaraH. kuyedenduvarzErityatra kurekaH vedAScatvAraindu
+213115 old <>vatsaraH . kuvedenduvarzErityatra kurekaH vedAScatvArEndu-
+213115 new <>vatsaraH . kuvedenduvarzErityatra kurekaH vedAScatvAraindu-
+;
+; (au) 178836:2:  te: koRasaMlagnovarRomaDyauccAraRIyaH
+215812 old <>koRasaMlagnovarRomaDyOccAraRIyaH ..
+215812 new <>koRasaMlagnovarRomaDyauccAraRIyaH ..
+;
+; (ai) 179237:9:  te: H varRaiti jAtA ka
+216224 old <>rREti jAtA karaRA
+216224 new <>rRaiti jAtA karaRA
+;
+; (ai) 180394:5:  te: KaKolkaityAKyA tasyAdityasya tacCuRu<q> ityupakrame
+217639 old <>KaKolkEtyAKyA tasyAdityaKa tacCfRu” ityupakrame
+217639 new <>KaKolkaityAKyA tasyAdityaKa tacCfRu” ityupakrame
+;
+; (ai) 183870:2:  te: vA hrasvaH pakze'taittvam.</vkr> <vn>KawwakA KawwikApyatra.</vn><page>vp3_881.pdf</page><column>2</column><br/>
+221339 old <>vA hrasvaH pakze'tEttvam . KawwakA KawwikApyatra .
+221339 new <>vA hrasvaH pakze'taittvam . KawwakA KawwikApyatra .
+;
+; (ai) 184807:2:  te:  %Kasatila% pu0 <vg>KasaH KasapUyaiva tilati snihyate Sukla
+222719 old Kasatila¦ pu0 KasaH KasapUyEva tilati snihyate Sukla-
+222719 new Kasatila¦ pu0 KasaH KasapUyaiva tilati snihyate Sukla-
+;
+; multiple changes of O to au
+; (au) 186583:2:  te: avatArakaro'sO me guro'sti BavitA muKam. SivauvAca
+225030 old <>avatArakaro'sO me guro'sti BavitA muKam . SivOvAca
+225030 new <>avatArakaro'sau me guro'sti BavitA muKam . SivauvAca
+;
+; (au) 186595:2:  te: sAmprataM dvija!. SivauvAca. SrutvEvaM nAradaH prAha
+225043 old <>sAmprataM dvija! . SivOvAca . SrutvEvaM nAradaH prAha
+225043 new <>sAmprataM dvija! . SivauvAca . SrutvEvaM nAradaH prAha
+;
+; (au) 186596:3:  te: SiSurUpiRamISvaram. nAradauvAca. akiYcijjYA vayaM
+225044 old <>SiSurUpiRamoSvaram . nAradOvAca . akiYcijjYA vayaM
+225044 new <>SiSurUpiRamoSvaram . nAradauvAca . akiYcijjYA vayaM
+;
+; (au) 186598:2:  te: metanniyojaya. SivauvAca. vadatItTaM muniryAvattAvat
+225046 old <>metanniyojaya . SivOvAca . vadatItTaM muni ryAvattAvat
+225046 new <>metanniyojaya . SivauvAca . vadatItTaM muni ryAvattAvat
+;
+; (au) 186599:3:  te: sa dadfSe'KilEH. sarvAvayavasampUrRe. gajAnanaumAsutaH
+225047 old <>sa dadfSe'KilEH . sarvAvayavasampUrRo gajAnanOmAsutaH .
+225047 new <>sa dadfSe'KilEH . sarvAvayavasampUrRo gajAnanaumAsutaH .
+;
+; (ai) 188927:2:  te: muktakaiti jYeyaH sa kustumburuH.  SatapuzpAkundurukO pA
+227960 old <>muktakEti jYeyaH sa kustumburuH . SatapuzpAkundurukO pA-
+227960 new <>muktakaiti jYeyaH sa kustumburuH . SatapuzpAkundurukO pA-
+;
+; (ai) 190890:2:  te:  %garBagfha% na0 <vg>garBaiva maDyasTaM gfham.</vg> (1)gfhamaDyaBAge
+230319 old garBagfha¦ na0 garBEva maDyasTaM gfham . gfhamaDyaBAge .
+230319 new garBagfha¦ na0 garBaiva maDyasTaM gfham . gfhamaDyaBAge .
+;
+; (ai) 191580:3:  te:  %galaka% pu0 <vkr>gala-vA0 vun.</vkr> (gaqai) (1)matsye SabdArTaci0.</1><page>vp4_089.pdf</page><column>2</column><br/>
+231151 old galaka¦ pu0 gala--bA0 vun . (gaqE) 1 matsye SabdArTaci0 .
+231151 new galaka¦ pu0 gala--bA0 vun . (gaqai) 1 matsye SabdArTaci0 .
+;
+; (ai) 192369:2:  te: yaTA <reN><q>tadyosO kruzwatamaiva sAmnaH svarastaM devA upajI
+232261 old <>yaTA “tadyosO kruzwatamEva sAmnaH svarastaM devA upajI-
+232261 new <>yaTA “tadyosO kruzwatamaiva sAmnaH svarastaM devA upajI-
+;
+; (ai) 192535:3:  te: gAnArTamAkAroyakAraikAraSceti trin varRAn prayuYjate
+232431 old <>gAnArTamAkAroyakArEkAraSceti trIn varRAn prayuYjate,
+232431 new <>gAnArTamAkAroyakAraikAraSceti trIn varRAn prayuYjate,
+;
+; 
+; (ai) 192545:2:  te: kAro yakAraikArorePaAkAraScEtEH paYcaBivarRErnizpanna
+232441 old <>kAro yakArEkArorePaAkAraScEtEH paYcaBivarRErnizpanna-
+232441 new <>kAro yakAraikArorePaAkAraScEtEH paYcaBivarRErnizpanna-
+;
+; (ai) 192595:6:  te: dyasya varRavikAre aityasya sTAne orUpo vikAraH. evaM
+232492 old <>dyasya varRavikAre Etyasya sTAne orUpo vikAraH . evaM
+232492 new <>dyasya varRavikAre aityasya sTAne orUpo vikAraH . evaM
+;
+; (ai) 194232:2:  te:  %gucCa(tsa)mUlikA% <vg>gucCAkfti mUlamasyA</vg> <vkr>kap ataittvam.</vkr> (1)guRqAlinItfRe rAjani0.</1><page>vp4_124.pdf</page><column>2</column><br/>
+234531 old gucCa(tsa)mUlikA¦ gucCAkfti mUlamasyA kap atEttvam . guRqAlinItfRe rAjani0 .
+234531 new gucCa(tsa)mUlikA¦ gucCAkfti mUlamasyA kap ataittvam . guRqAlinItfRe rAjani0 .
+;
+; (ai) 194881:2:  te: mupazwamBakaM rajaiti. kasmAdityata uktaM calamiti
+235311 old <>mupazwamBakaM rajEti . kasmAdityata uktaM calamiti .
+235311 new <>mupazwamBakaM rajaiti . kasmAdityata uktaM calamiti .
+;
+; (ai) 194885:2:  te: vyAvarttya tamoniyAmakamuktaM guru varaRakameva tamaiti
+235315 old <>vyAvarttya tamoniyAmakamuktaM guru varaRakameva tamEti .
+235315 new <>vyAvarttya tamoniyAmakamuktaM guru varaRakameva tamaiti .
+;
+; (ai) 195283:3:  te: balAtkAropaBogaH sPuwatayA vAcyAyamAnaityagUQam
+235799 old <>balAtkAropaBogaH sTuwatayA vAcyAyamAnEtyagUQam 7 .
+235799 new <>balAtkAropaBogaH sTuwatayA vAcyAyamAnaityagUQam 7 .
+;
+; (au) 195284:2:  te: vARIrakuquNguqqIRasauRikolAhalaM suRantIe. vara
+235800 old <>“vARIrakuquNguqqIRasORikolAhalaM suRantIe . vara
+235800 new <>“vARIrakuquNguqqIRasauRikolAhalaM suRantIe . vara
+;
+; ok. space in VCP
+; (ai) 196395:0:  te: akzaramatItya uttamaityarTaH. puruzottama ityatra puruzapadA
+237116 old <>akzaramatItya uttama ityarTaH . puruzottama ityatra puruzapadA-
+237116 new <>akzaramatItya uttama ityarTaH . puruzottama ityatra puruzapadA-
+;
+; (ai) 200772:2:  te: tavfkze (vaici) rAjani0. (2)goH kzure ca medi0 (3)tatrasTe
+242037 old <>tavfkze (vEci) rAjani0 . 2 goH kzure ca medi0 3 tatrasTe
+242037 new <>tavfkze (vaici) rAjani0 . 2 goH kzure ca medi0 3 tatrasTe
+;
+; (ai) 200809:2:  te: paNkasTagavyAM kulikaH jaqaiva.</vg> (2)paNkasTagavyupekzake ca
+242093 old <>paNkasTagavyAM kulikaH jaqEva . 2 paNkasTagavyupekzake ca
+242093 new <>paNkasTagavyAM kulikaH jaqaiva . 2 paNkasTagavyupekzake ca
+;
+; (au) 203623:2:  te: SatakowiyojanaSca SElaucCrita eva ca. dErGyaM tasya
+245451 old <>SatakowiyojanaSca SElOcCrita eva ca . dErGyaM tasya
+245451 new <>SatakowiyojanaSca SElaucCrita eva ca . dErGyaM tasya
+;
+; (ai) 203859:3:  te: daRqaityaBiDIyate. daRqAdUrdDaM yadanyena praharedvA
+245757 old <>daRqEtyaBiDIyate . daRqAdUrdDvaM yadanyena praharedvA
+245757 new <>daRqaityaBiDIyate . daRqAdUrdDvaM yadanyena praharedvA
+;
+; (au) 203870:3:  te: mApnoti yoktre Bavati tadvaDaH. mattaH pramattaunmattaSce
+245768 old <>mApnoti yoktre Bavati tadbaDaH . mattaH pramattOnmattaSce-
+245768 new <>mApnoti yoktre Bavati tadbaDaH . mattaH pramattaunmattaSce-
+;
+; (ai) 204158:2:  te: pasarge<q> pA0</reN> anupasargaityukteH na kaH kintu aR
+246144 old <>pasarge” pA0 anupasargEtyukteH na kaH kintu aR .
+246144 new <>pasarge” pA0 anupasargaityukteH na kaH kintu aR .
+;
+; (ai) 204337:2:  te:  %gostanA(nI)% strI <vg>goH stanaiva PalamasyAH</vg> <vkr>svANgatvAt vA
+246349 old gostanA(nI)¦ strI goH stanEva PalamasyAH svANgatvAt vA
+246349 new gostanA(nI)¦ strI goH stanaiva PalamasyAH svANgatvAt vA
+;
+; multiple changes of O to au
+; (au) 204437:2:  te: pAdautpannamAtre tu dvO pAdO dfQatAM gate. pAdonaM
+246462 old <>“pAdOtpannamAtre tu dvO pAdO dfQatAM gate . pAdonaM
+246462 new <>“pAdautpannamAtre tu dvau pAdau dfQatAM gate . pAdonaM
+;
+; (ai) 205340:2:  te: vikaNkatavfkze (vaici)(5)karIravfkze ca amaraH. (6)taRqu
+247647 old <>4 vikaNkatavfkze (vEci) 5 karIravfkze ca amaraH . 6 taRqu-
+247647 new <>4 vikaNkatavfkze (vaici) 5 karIravfkze ca amaraH . 6 taRqu-
+;
+; (ai) 205662:3:  te: 'paraH. aBikAmastaTEvAnyaityeza triviDo grahaH
+248009 old <>'paraH . aBikAmastaTevAnyEtyeza triviDo grahaH .
+248009 new <>'paraH . aBikAmastaTevAnyaityeza triviDo grahaH .
+;
+; ? TE error indra -> ? inda
+; (ai) 205893:2:  te: tIyastu paYcamonavamastaTA. sitaSanikujajIvArkAstaindra
+248254 old <>tIyastu paYcamonavamastaTA . sitaSanikujajIvArkAstadinda-
+248254 new <>tIyastu paYcamonavamastaTA . sitaSanikujajIvArkAstainda-
+;
+; (ai) 208561:2:  te:  %GaRwASabda% pu0 <vg>GaRwAyAH Sabdaiva Sabdo yasya.</vg> (1)kAMsye
+251450 old GaRwASabda¦ pu0 GaRwAyAH SabdEva Sabdoyasya . 1 kAMsye
+251450 new GaRwASabda¦ pu0 GaRwAyAH Sabdaiva Sabdoyasya . 1 kAMsye
+;
+; (ai) 208763:2:  te:  %GanaSyAma% pu0 <vg>GanaH meGaiva SyAmaH.</vg> (1)niviqakfzRavarRe
+251723 old GanaSyAma¦ pu0 GanaH meGEva SyAmaH . niviqakfzRavarRe .
+251723 new GanaSyAma¦ pu0 GanaH meGaiva SyAmaH . niviqakfzRavarRe .
+;
+; (ai) 208942:2:  te: tri0amaraH.</2></reN> <vn>amuM GAwikaityapyamarawIkAyAM BarataH
+252003 old <>tri0 amaraH . amuM GAwikEtyapyamarawIkAyAM BarataH
+252003 new <>tri0 amaraH . amuM GAwikaityapyamarawIkAyAM BarataH
+;
+; TE Error Raini -> Rini
+; (ai) 209416:1:  te:  %GUkanAdinI% strI <vg>GUka iva nadati</vg> <vkr>nada-Raini NIp
+;252601 old GUkanAdinI¦ strI GUka iva nadati nada--Rini NIp .
+;252601 new GUkanAdinI¦ strI GUka iva nadati nada--Rini NIp .
+;
+; (ai) 210046:2:  te: statra samuccayaScaSabdArTaiti BAvaH. na tvanvaya eva samuccaya
+253492 old <>statra samuccayaScaSabdArTEti BAvaH . na tvanvayaeva samuccaya
+253492 new <>statra samuccayaScaSabdArTaiti BAvaH . na tvanvayaeva samuccaya
+;
+; (ai) 210438:2:  te: svarAttaTA. piRqe Sarahfte Seze piRqasvaraihocyate
+253910 old <>svarAttaTA . piRqe Sarahfte Seze piRqasvarEhocyate
+253910 new <>svarAttaTA . piRqe Sarahfte Seze piRqasvaraihocyate
+;
+; (au) 210459:2:  te: nAqyaScAzwatriMSat palAni ca. antarodayaukto'
+253932 old <>nAqyaScAzwatriMSat palAni ca . antarodayOkto'
+253932 new <>nAqyaScAzwatriMSat palAni ca . antarodayaukto'
+;
+; (ai) 210805:2:  te: vadanusvAravisargayorekaveDAduBayaveDaityarTaH).</vn> <reN><q>koRasTa
+254287 old <>vadanusvAravisargayorekaveDAduBayaveDEtyarTaH) . “koRasTa-
+254287 new <>vadanusvAravisargayorekaveDAduBayaveDaityarTaH) . “koRasTa-
+;
+; (au) 210981:2:  te: nErfte. duTaJaNo Bavet stamBe vAyavye BAdrauttare
+254468 old <>nErfte . duTaJaNo Bavet stamBe vAyavye BAdrOttare .
+254468 new <>nErfte . duTaJaNo Bavet stamBe vAyavye BAdrauttare .
+;
+; (ai) 212431:2:  te:  %cakragaja% pu0 <vg>cakre cakrAkAre dadruroge gajaiva marddakatvAt
+255964 old cakragaja¦ pu0 cakre cakrAkAre dadruroge gajEva marddakatvAt .
+255964 new cakragaja¦ pu0 cakre cakrAkAre dadruroge gajaiva marddakatvAt .
+;
+; (ai) 212539:2:  te:  %cakrapAda% pu0 <vg>cakraM pAdaiva yasya.</vg> (1)raTe ajayapAlaH.</1><page>vp4_364.pdf</page><column>2</column><br/>
+256137 old cakrapAda¦ pu0 cakraM pAdEva yasya . raTe ajayapAlaH .
+256137 new cakrapAda¦ pu0 cakraM pAdaiva yasya . raTe ajayapAlaH .
+;
+; (au) 213058:2:  te: tpAta16 iti pradizwaH.. mahAnsirotpAtaupekzitastu jAyeta
+256811 old <>tpAta16 iti pradizwaH .. mahAnsirotpAtOpekzitastu jAyeta
+256811 new <>tpAta16 iti pradizwaH .. mahAnsirotpAtaupekzitastu jAyeta
+;
+; (ai) 213795:2:  te: karRyeti catuHSlokI fzervacaH. tenAjYaptaiti Sloka
+257710 old <>karRyeti catuHSlokI fzervacaH . tenAjYaptEti Sloka
+257710 new <>karRyeti catuHSlokI fzervacaH . tenAjYaptaiti Sloka
+;
+; (ai) 213846:3:  te: rukto'rDamantrakaH. uvAcANkitaityevaM mantraH pokto'tra
+257762 old <>rukto'rDamantrakaH . uvAcANkitEtyevaM mantraH prokto'tra
+257762 new <>rukto'rDamantrakaH . uvAcANkitaityevaM mantraH prokto'tra
+;
+; (au) 214113:2:  te: ditam. sarvvABIzwaprasidDyarTaM viniyogaudAhftaH
+258036 old <>ditam . sarvvABIzwaprasidDyarTaM viniyogOdAhftaH .
+258036 new <>ditam . sarvvABIzwaprasidDyarTaM viniyogaudAhftaH .
+;
+; (ai) 214868:2:  te: aTa vA yogarUQa? iti.</reN> kintAvatprAptam. rUQaiti
+258903 old <>aTa vA yogarUQa? iti . kintAvatprAptam . rUQEti .
+258903 new <>aTa vA yogarUQa? iti . kintAvatprAptam . rUQaiti .
+;
+; (ai) 214947:2:  te: yAni tasmAtsaMskAraM brUtaityekaH pakzaH. jAtiM brUta
+258984 old <>yAni tasmAtsaMskAraM brUtEtyekaH pakzaH . jAtiM brUta
+258984 new <>yAni tasmAtsaMskAraM brUtaityekaH pakzaH . jAtiM brUta
+;
+; (au) 215016:2:  te: svIkAre satyanyavizayaM SAstrantadanugrAhakaudAhfto
+259055 old <>svIkAre satyanyavizayaM SAstrantadanugrAhakOdAhfto
+259055 new <>svIkAre satyanyavizayaM SAstrantadanugrAhakaudAhfto
+;
+; (ai) 216208:2:  te: raktaSyAmoBAskarogOraindu rnAtyuccANgoraktagOromahI
+260464 old <>“raktaSyAmoBAskarogOrEndurnAtyuccANgoraktagOromahI-
+260464 new <>“raktaSyAmoBAskarogOraindurnAtyuccANgoraktagOromahI-
+;
+; (ai) 217042:2:  te: cIrRAni pARquzu<q> BA0 ka0 31a0.</reN> <vkr>upaDAtaittvam
+261596 old <>cIrRAni pARquzu” BA0 ka0 31 a0 . upaDAtEttvam .
+261596 new <>cIrRAni pARquzu” BA0 ka0 31 a0 . upaDAtaittvam .
+;
+; multiple changes of O to au
+; (au) 217124:2:  te: si0 Si0</reN> <reN><q>yaudayAntarakarmaRA laNkAyAmOdayikA grahA
+261684 old <>si0 Si0 “yOdayAntarakarmaRA laNkAyAmOdayikA grahA
+261684 new <>si0 Si0 “yaudayAntarakarmaRA laNkAyAmaudayikA grahA
+;
+; (ai) 217393:2:  te: jalahara! saMhara eha kobamai ARattao, avirala
+262026 old <>“jalahara! saMhara eha kobamE ARattao, avirala
+262026 new <>“jalahara! saMhara eha kobamai ARattao, avirala
+;
+; (ai) 217395:2:  te: jai pia pekKihimi, taveva jaM ju karIhisi, taMtu
+262029 old <>jE pia pekKihimi, taveva jaM ju karIhisi taMtu
+262029 new <>jai pia pekKihimi, taveva jaM ju karIhisi taMtu
+;
+; (ai) 217399:3:  te: Raccai kappaarU' iti ca vikramorva
+262033 old <>RaccE kappaarU” iti ca vikramorva0 .
+262033 new <>Raccai kappaarU” iti ca vikramorva0 .
+;
+; (ai) 218433:2:  te:  %cApapawa% pu0 <vg>cApaScApAvayavaiva pawaH patramasya.</vg> (1)piyAlavfkze SabdArTa ci0.</1><page>vp4_442.pdf</page><column>1</column><br/>
+263448 old cApapawa¦ pu0 cApaScApAvayavEva pawaH patramasya . piyAlavfkze SabdArTa ci0 .
+263448 new cApapawa¦ pu0 cApaScApAvayavaiva pawaH patramasya . piyAlavfkze SabdArTa ci0 .
+;
+; (ai) 218580:4:  te: ndaDmahaityAdiH SezaH. itTaYca mahAsarasvatyAdirUpeRa
+263617 old <>ndaDmahEtyAdiH SezaH . itTaYca mahAsaraKatyAdirUpeRa
+263617 new <>ndaDmahaityAdiH SezaH . itTaYca mahAsaraKatyAdirUpeRa
+;
+; No problem!
+; (au) 218649:2:  te:  %cAyu% tri0 <vkr>cAya-uR.</vkr> (1)pUjake.</1> <reN><q>yajYezu yau cAyavaH
+;263702 old cAyu¦ tri0 cAya--uR . pUjake . “yajYezu yau cAyavaH”
+;263702 new cAyu¦ tri0 cAya--uR . pUjake . “yajYezu yau cAyavaH”
+;
+; (ai) 218710:2:  te: ataittvam.</vkr> (1)nalInAmaganDadravye rAjani0.</1><page>vp4_445.pdf</page><column>2</column><br/>
+263774 old <>atEttvam . nalInAmaganDadravye rAjani0 .
+263774 new <>ataittvam . nalInAmaganDadravye rAjani0 .
+;
+; (au) 219117:0:  te: samopevaM cAlanaM titauH smftaH<q> iti karmapradIpaH.</reN><page>vp4_451.pdf</page><column>1</column><br/>
+264280 old <>samopetaM cAlanaM titOH smftaH” iti karmmapradIpaH .
+264280 new <>samopetaM cAlanaM titauH smftaH” iti karmmapradIpaH .
+;
+; (ai) 219689:2:  te: sa nirvIjaH samADiH, na tatra kiYcit samprajYAyataityasa
+264975 old <>sa nirvIjaH samADiH, na tatra kiYcit samprajYAyatEtyasa-
+264975 new <>sa nirvIjaH samADiH, na tatra kiYcit samprajYAyataityasa-
+;
+; (au) 219959:2:  te: nAgatayoH Darmma pratyutpannayuktaH tasmAt svatantro'rTaupa
+265252 old <>nAgatayoH Darmma pratyutpannayuktaH tasmAt svatantro'rTOpa-
+265252 new <>nAgatayoH Darmma pratyutpannayuktaH tasmAt svatantro'rTaupa-
+;
+; (au) 220259:2:  te: SIlezUpekzAm--evamasya BAvayataH SukloDarmaupajAyate
+265574 old <>SIlezUpekzAm .--evamasya BAvayataH SukloDarmmOpajAyate-
+265574 new <>SIlezUpekzAm .--evamasya BAvayataH SukloDarmmaupajAyate-
+;
+; (ai) 220292:5:  te: BAvito vivekaKyAtirUpohAnopAyaityezA catuzwayI
+265612 old <>BAvito vivekaKyAtirUpohAnopAyEvyeDA catuzWayI
+265612 new <>BAvito vivekaKyAtirUpohAnopAyaivyeDA catuzWayI
+;
+; (ai) 220299:3:  te: M prAntaBUmiprajYAmanupaSyan puruzaH kuSalaityAKyAyate pati
+265619 old <>prAntaBUmiprajYAmanupaSyan puruzaH kuSalEtyAKyAyate pati
+265619 new <>prAntaBUmiprajYAmanupaSyan puruzaH kuSalaityAKyAyate pati
+;
+; (au) 220592:3:  te: jfmBasya yAH syuH. caraRarajaupAste yasya BUtirvvayaM
+265996 old <>jfmBasya yAH syuH . caraRarajOpAste yasya mUtirvvayaM
+265996 new <>jfmBasya yAH syuH . caraRarajaupAste yasya mUtirvvayaM
+;
+; (au) 220614:3:  te: RyaH. dadfSurasakfdetattannaKasparSatIvrasmararujaupamantran
+266018 old <>RyaH . dadfSurasakfdetattannaKasparSatIvrasmararujOpamantrin!
+266018 new <>RyaH . dadfSurasakfdetattannaKasparSatIvrasmararujaupamantrin!
+;
+; (ai) 220669:3:  te: ataittvam.</vkr> (1)citraparRIvfkze ratnamAlA (2)droRapuzpyAM
+266097 old <>atEttvam . 1 citraparRRIvfkze ratnamAlA 2 droRapuzpyAM
+266097 new <>ataittvam . 1 citraparRRIvfkze ratnamAlA 2 droRapuzpyAM
+;
+; (ai) 222513:2:  te: jAtinihnavo nAhaM SUdraityevaMrUpaH. nAmanihnavo
+268725 old <>jAtinihnavo nAhaM SUdrEtyevaMrUpaH . nAmanihnavo
+268725 new <>jAtinihnavo nAhaM SUdraityevaMrUpaH . nAmanihnavo
+;
+; (ai) 224783:2:  te: ataittvam.</vkr> (1)pAWAyAm (AkanAdI) Sabdaca0.</1><page>vp4_526.pdf</page><column>1</column><br/>
+271440 old <>atEttvam . pAWAyAm (AkanAdI) Sabdaca0 .
+271440 new <>ataittvam . pAWAyAm (AkanAdI) Sabdaca0 .
+;
+; (ai) 225348:2:  te: PalAnvayaiti vadanti. brahmapurARe <q>tataH pUjya svama
+272177 old <>PalAnvayEti vadanti . brahmapurARe “tataH pUjya svama-
+272177 new <>PalAnvayaiti vadanti . brahmapurARe “tataH pUjya svama-
+;
+; (ai) 225925:2:  te: vAtavarzezu vfzaivApAvftANgaH pInasaMhananANgaH sTa
+272921 old <>vAtavarzezu vfzEvApAvftANgaH pInasaMhananANgaH sTa-
+272921 new <>vAtavarzezu vfzaivApAvftANgaH pInasaMhananANgaH sTa-
+;
+; (au) 225948:2:  te: tezAM vfzalAnAM rajastamaHprakftInAM Danamadarajaut
+272945 old <>tezAM vfzalAnAM rajastamaHprakftInAM DanamadarajOt
+272945 new <>tezAM vfzalAnAM rajastamaHprakftInAM Danamadarajaut
+;
+; (ai) 225967:2:  te: aTa sinDusOvIrapaterahUgaRasya vrajataikzumatyAstawe
+272964 old <>“aTa sinDusOvIrapaterahUgaRasya vrajatEkzumatyAstawe
+272964 new <>“aTa sinDusOvIrapaterahUgaRasya vrajataikzumatyAstawe
+;
+; (au) 225969:2:  te: sAditaH sa dvijavaraupalabDaH. eza pIvAnasaMhananANgo
+272966 old <>sAditaH sa dvijavarOpalabDaH . eza pIvAnasaMhananANgo-
+272966 new <>sAditaH sa dvijavaraupalabDaH . eza pIvAnasaMhananANgo-
+;
+; TE error: daime -> taime
+; (ai) 226348:3:  te: daime kurupAYcAlAH SAlvAScEva sajANgalAH. SUra
+273437 old <>“tEme kurupAYcAlAH SAlvAScEva sajANgalAH . SUra-
+273437 new <>“taime kurupAYcAlAH SAlvAScEva sajANgalAH . SUra-
+;
+; (ai) 226878:3:  te: purARAt niSITAdaDaityanena ardDarAtrapUrvakAlatvena
+274087 old <>purARAt niSITAdaDEtyanena ardDarAtrapUrvvakAlatvena
+274087 new <>purARAt niSITAdaDaityanena ardDarAtrapUrvvakAlatvena
+;
+; (ai) 226953:3:  te: sAryate vARaiva jantuSCidreRa sajvaraH. manasaSca
+274170 old <>sAryyate vAREva jantuSCidreRa sajvaraH . manasaSca-
+274170 new <>sAryyate vARaiva jantuSCidreRa sajvaraH . manasaSca-
+;
+; (ai) 227238:2:  te: deva uddizwo'pyaTavA kfzRa ucyate. laindraI tuzwivAcI
+274493 old <>deva uddizwo'pyaTavA kfzRa ucyate . lEndraI tuzwivAcI
+274493 new <>deva uddizwo'pyaTavA kfzRa ucyate . laindraI tuzwivAcI
+;
+; (au) 227243:4:  te: gauktaste bindurduHKahurArTakaH. gaMvIjArTastu kaTitastava
+274498 old <>gOktaste vindurduHKaharArTakaH . gaMvIjArTastu kaTitastava
+274498 new <>gauktaste vindurduHKaharArTakaH . gaMvIjArTastu kaTitastava
+;
+; (au) 227248:3:  te: mAdivarRaH sarvezAM nAmauktaM svayamBUvA. tenEvArTantu
+274503 old <>mAdivarRaH sarvezAM nAmOktaM svayamBuvA . tenEvArTantu-
+274503 new <>mAdivarRaH sarvezAM nAmauktaM svayamBuvA . tenEvArTantu-
+;
+; OK space 'a u'
+; (au) 227493:1:  te: tuvijYeyauttamaH parikIrttitaH. akArAdi kzakArAntA
+;274758 old <>tu vijYeya uttamaH parikIttitaH . akArAdi kzakArAntA
+;274758 new <>tu vijYeya uttamaH parikIttitaH . akArAdi kzakArAntA
+;
+; TE error: adaukte -> a0 ukte
+; (au) 229768:2:  te: connatayA<q> vf0 sa0 11</reN> (1)adaukte ketuBede.</1><page>vp4_592.pdf</page><column>1</column><br/>
+;277407 old <>connatayA” vf0 sa0 11 a0 ukte ketuBede .
+;277407 new <>connatayA” vf0 sa0 11 a0 ukte ketuBede .
+;
+; (ai) 230429:2:  te: miyamAdattaiti SudDamAdadAnAmapanayet. aTa SoRita
+278398 old <>miyamAdattEti SudDamAdadAnAmapanayet . aTa SoRita-
+278398 new <>miyamAdattaiti SudDamAdadAnAmapanayet . aTa SoRita-
+;
+; (ai) 230477:2:  te: guRaH proktastaqAgaiti niScayaH<q>.</reN> DanurhastacatuzwayaM
+278467 old <>guRaH proktastaqAgEti niScayaH” . DanurhastacatuzwayaM
+278467 new <>guRaH proktastaqAgaiti niScayaH” . DanurhastacatuzwayaM
+;
+; OK: 'a iti'
+; (ai) 231119:0:  te: hAn. fzyo nIlANgako loke sArohyaiti kI
+279308 old <>hAn . fzyo nIlANgako loke sArohya iti kI-
+279308 new <>hAn . fzyo nIlANgako loke sArohya iti kI-
+;
+; (ai) 231770:2:  te: haMsaityupadeSe haMsaM dfzwavatastasya saMsTAnena haMsatvaM vyaYjitu
+280032 old <>haMsEtyupadeSe haMsaM dfzwavatastasya saMsTAnena haMsatvaM vyaYjitu
+280032 new <>haMsaityupadeSe haMsaM dfzwavatastasya saMsTAnena haMsatvaM vyaYjitu
+;
+; (ai) 232219:2:  te: tadarTaityapi vadanti
+280493 old <>tadarTEtyapi vadanti” .
+280493 new <>tadarTaityapi vadanti” .
+;
+; (au) 234648:1:  te: stamayavarjitaM kEvalyamanuBavati, <q>aTa tataurdDa udetya
+283486 old <>stamayavarjitaM kEvalyamanuBavati, “aTa tataUrdDa, udetya
+283486 new <>stamayavarjitaM kEvalyamanuBavati, “aTa tataUrdDa, udetya
+;
+; (ai) 236595:3:  te: samavAyasambanDena GawatvaprakArakaityuktAveza vyaBicAra
+285838 old <>samavAyasambanDena GawatvaprakArakEtyuktAveva vyaBicAra-
+285838 new <>samavAyasambanDena GawatvaprakArakaityuktAveva vyaBicAra-
+;
+; 
+; (ai) 238084:2:  te: gAtrARAmAmaityAmaSabditaH. tenAmena samAyuktAH dozA
+287504 old <>gAtrARAmAmamatyAmaSabditaH . tenAmena samAyuktAH dozA
+287504 new <>gAtrARAmAmaityAmaSabditaH . tenAmena samAyuktAH dozA
+;
+; 
+; (ai) 239397:2:  te: ud+uccEH SabdakaraRe.</vkr> <reN><q>kAlameGaivonnadan<q> BA0 dro
+289366 old <HI>ud + uccEHSabdakaraRe . “kAlameGEvonnadan” BA0 dro0 6814
+289366 new <HI>ud + uccEHSabdakaraRe . “kAlameGaivonnadan” BA0 dro0 6814
+;
+; (ai) 240056:2:  te: takzakanAgaScaindrasya saKA KARqavavanavAsI arjju
+290156 old <>takzakanAgaScEndrasya saKA KARqavavanavAsI arjju-
+290156 new <>takzakanAgaScaindrasya saKA KARqavavanavAsI arjju-
+;
+; 
+; (au) 241318:2:  te: tanAdikfYByauH<q>.</reN> <reN><q>tanAdiByastaTAsoH<q> pA0.</reN> tanAdO
+291730 old <>“tanAdikfYByOH” . “tanAdiByastaTAsoH” pA0 . tanAdO
+291730 new <>“tanAdikfYByauH” . “tanAdiByastaTAsoH” pA0 . tanAdO
+;
+; TE error: samudrAhftam -> samudAhftam
+; (ai) 242264:3:  te: tat tAmasamudrAhftamiti<q> gItA.</reN></vn> (13) manaindriyARAmE
+292932 old <>tat tAmasamudAhftamiti” gItA . 13 manEndriyARAmE-
+292932 new <>tat tAmasamudAhftamiti” gItA . 13 manaindriyARAmE-
+;
+; 
+; (ai) 242311:3:  te: tapaScaraRIyaM na yAvatA DAtuvEzasyamApadyataityarTaH
+292981 old <>tapaScaraRIyaM na yAvatA DAtuvEzamyamApadyatEtyarTaH”
+292981 new <>tapaScaraRIyaM na yAvatA DAtuvEzasyamApadyataityarTaH”
+;
+; (ai) 244895:2:  te: Sabdaityanye.</vkr></2><page>vp4_792.pdf</page><column>2</column><br/>
+296249 old <>SabdEtyanye .
+296249 new <>Sabdaityanye .
+;
+; TE error: qaqa -> qau
+; (au) 246692:7:  te:  %titau% pu0 <vkr>tana-qaqa sanvacca qau iti nirdeSAt na sanDiH
+298679 old titau¦ pu0 tana--qau sanvacca qau iti nirdeSAt na sanDiH .
+298679 new titau¦ pu0 tana--qau sanvacca qau iti nirdeSAt na sanDiH .
+;
+; TE error: klIba -> klIva
+; (au) 246694:3:  te: samopetaM cAlanaM titau smftamityukterasya klIbatvamapi
+;298681 old <>samopetaM cAlanaM titau smftamityukterasya klIvatvamapi .
+;298681 new <>samopetaM cAlanaM titau smftamityukterasya klIvatvamapi .
+;
+; no change
+; (au) 246695:2:  te: saktumiva titaunA punantaH<q> f0 10/71/2.</reN> <reN><q>imAmfca
+;298682 old <>“saktumiva titaunA punantaH” f0 10 . 71 . 2 . “imAmfca-
+;298682 new <>“saktumiva titaunA punantaH” f0 10 . 71 . 2 . “imAmfca-
+;
+; No change
+; (au) 246696:2:  te: maDikftya<q> niru0 4/9.</reN> <reN><q>titau paripavanaM Bavati tata
+;298683 old <>maDikftya” niru0 4 . 9 . “titau paripavanaM Bavati tata-
+;298683 new <>maDikftya” niru0 4 . 9 . “titau paripavanaM Bavati tata-
+;
+; (ai) 248821:2:  te: ScAgAdamareSaitIritam. liNgaM yaddarSanAdeva nAmaratvaM
+301190 old <>ScAgAdamareSEtIritam . liNgaM yaddarSanAdeva nAmaratvaM
+301190 new <>ScAgAdamareSaitIritam . liNgaM yaddarSanAdeva nAmaratvaM
+;
+; TE error: bruvaiw -> bruvaIw
+; (ai) 248996:1:  te: bruvaiw<q> 7/3/93 pA0 sUtrAt</reN> <vkr><reN><q>IwaH yaNo vA<q> sU0</reN> vetyasya
+;301408 old <>“bruvaIw” 7 . 3 . 93 pA0 sUtrAt “IwaH yaNo vA” sU0 vetyasya
+;301408 new <>“bruvaIw” 7 . 3 . 93 pA0 sUtrAt “IwaH yaNo vA” sU0 vetyasya
+;
+; 
+; (ai) 251450:2:  te:  %tEvradArava% tri0 <vkr><vg>tIvradAruRaidam</vg> rajatA0 aY.</vkr> (1)tIvradArusambanDini <vkr>striyAM NIp.</vkr></1><page>vp4_878.pdf</page><column>2</column><br/>
+304916 old tEvradArava¦ tri0 tIvradAruREdam rajatA0 aY . tIvradArusambanDini striyAM NIp .
+304916 new tEvradArava¦ tri0 tIvradAruRaidam rajatA0 aY . tIvradArusambanDini striyAM NIp .
+;
+; (ai) 256532:2:  te: dagDAnne BarataH.</1> <vkr>dagDa+svArTe ka. ataittvam
+311630 old <>1 dagDAnne BarataH . dagDa + svArTe ka . atEttvam .
+311630 new <>1 dagDAnne BarataH . dagDa + svArTe ka . ataittvam .
+;
+; (ai) 259529:2:  te: mugDa0.</reN> <vkr>daDa- in.</vkr> (2)dugDavikftiBede, (dai) (3)vastre
+314884 old <>mugDa0 . daDa--in . 2 dugDavikftiBede, (dE) 3 vastre
+314884 new <>mugDa0 . daDa--in . 2 dugDavikftiBede, (dai) 3 vastre
+;
+; TE error: SairorugArtta => SirorugArtta
+; (ai) 260015:1:  te: madapIqitaH. SairorugArtta stfzitaH SrAntaH pAnaklamA
+;315515 old <>madapIqitaH . SirorugArttastfzitaH SrAntaHpAnaklamA-
+;315515 new <>madapIqitaH . SirorugArttastfzitaH SrAntaHpAnaklamA-
+;
+; (ai) 262490:4:  te: Bavati samyagbalinaityuktA punaH svatuNgaBAga ityane
+318595 old <>Bavati samyagvalinEtyuktvA punaH svatuNgaBAga ityane-
+318595 new <>Bavati samyagvalinaityuktvA punaH svatuNgaBAga ityane-
+;
+; 
+; (ai) 264286:2:  te: yajYasvADyAyamantritaH. BrURaityucyate SizwEH
+320663 old <>yajYa--svADyAyamantritaH . BrUREtyucyate SizwEH
+320663 new <>yajYa--svADyAyamantritaH . BrURaityucyate SizwEH
+;
+; VCP 'a i'
+; (ai) 266476:0:  te: sAvupAyAntareRArjayan pratyavetIti gamyataiti. tataSca
+;323000 old <>sAvupAyAntareRArjayan pratyavetIti gamyata iti . tataSca
+;323000 new <>sAvupAyAntareRArjayan pratyavetIti gamyata iti . tataSca
+;
+; te error: Januka -> Jinuka
+; (ai) 271107:3:  te: ataittvam(Januka)</vkr> (1)durRAmAyAm amaraH.</1> <vn>tAlavyama
+328591 old <>atEttvam (Jinuka) durRAmAyAm amaraH . tAlavyama-
+328591 new <>ataittvam (Jinuka) durRAmAyAm amaraH . tAlavyama-
+;
+; (au) 272372:2:  te: take'pi .</reN> <reN>tena sunaPAnaPAduruDurA'BAve kemadru mauktaH
+330321 old <>take'pi . tena sunaPAnaPAduruDurA'BAve kemadrumOktaH
+330321 new <>take'pi . tena sunaPAnaPAduruDurA'BAve kemadrumauktaH
+;
+; (au) 274700:2:  te: dayaMstataupaspfSya SezamapsvavasAdya yamaniyamAByAmAtmAnaM
+333251 old <>dayaMstatOpaspfSya SezamapsvavasAdya yamaniyamAByAmAtmAnaM
+333251 new <>dayaMstataupaspfSya SezamapsvavasAdya yamaniyamAByAmAtmAnaM
+;
+; (ai) 275303:2:  te: ataittvamiti BedaH.</vkr></2><page>vp5_232.pdf</page><column>2</column><br/>
+333970 old <>atEttvamiti BedaH .
+333970 new <>ataittvamiti BedaH .
+;
+; (ai) 275974:2:  te: manaH SailA devakAzWaM rajanyE triPalozaRam <q> suSru0 .</reN><page>vp5_241.pdf</page><column>2</column><br/>
+334890 old <>“manaHSilA devakAzWaM rajanyO triPalozaRam” suSru0 .
+334890 new <>“manaHSilA devakAzWaM rajanyO triPalozaRam” suSru0 .
+;
+; (ai) 276262:1:  te: brahmamandiraM BuvanantaTA. uttamBaH SaivikA veSma navEte
+335244 old <>brahmamandiraM BuvanantaTA . uttamBaH SivikA veSma navEte
+335244 new <>brahmamandiraM BuvanantaTA . uttamBaH SivikA veSma navaite
+;
+; (ai) 277065:1:  te: BEravaScArkahastaH syAt kUrparAsyo jawenduBft. KaigA
+336118 old <>“BEravaScArkahastaH syAt kUrparAsyo jawenduBft . KaqgA-
+336118 new <>“BairavaScArkahastaH syAt kUrparAsyo jawenduBft . KaqgA-
+;
+; te Error: acCainnaDArayA -> acCinnaDArayA
+; (ai) 279860:1:  te: kavacaM tatra cAzwaSataM yajet. acCainnaDArayA siYcan
+;338988 old <>kavacaM tatra cAzwaSataM yajet . acCinnaDArayA siYcan
+;338988 new <>kavacaM tatra cAzwaSataM yajet . acCinnaDArayA siYcan
+;
+; (ai) 279914:1:  te: nayettAM snAnamaRqapam. SailpinantozayeddravyErgurave gAM
+339044 old <>nayettAM snAnamaRqapam . SilpinantozayeddravyErgurave gAM
+339044 new <>nayettAM snAnamaRqapam . Silpinantozayeddravyairgurave gAM
+;
+; TE error: SairodeSe -> SirodeSe
+; (ai) 279964:2:  te: raRAni ca. SairodeSe ca nidrAKyaM vastraratnayataM Gawam
+;339095 old <>raRAni ca . SirodeSe ca nidrAKyaM vastraratnayutaM Gawam .
+;339095 new <>raRAni ca . SirodeSe ca nidrAKyaM vastraratnayutaM Gawam .
+;
+; (ai) 281597:2:  te: dIvyati diva- Rvul kApi ataittvam.</vkr> (2)nadIBede strI
+341193 old <>dIvyati diva--Rvul kApi atEttvam . 2 nadIBede strI
+341193 new <>dIvyati diva--Rvul kApi ataittvam . 2 nadIBede strI
+;
+; (ai) 283567:2:  te: daDni (jalodai)amaraH</1> <vkr>pfzo0 drapsya drApsa ityete api
+343817 old <>daDni(jalodE) amaraH pfzo0 drapsya drApsa ityete api
+343817 new <>daDni(jalodai) amaraH pfzo0 drapsya drApsa ityete api
+;
+; (au) 284631:3:  te: cinvanti droRacidraTacakracitkaNkacitpraugacidBayataH
+345171 old <>cinvanti droRacidraTacakracitkaNkacitprOgaciduBayataH
+345171 new <>cinvanti droRacidraTacakracitkaNkacitpraugaciduBayataH
+;
+; (au) 284635:2:  te: praugacitaM vA<q> Sata0 vrA0 6.7.2.8</reN></1><page>vp5_355.pdf</page><column>2</column><br/>
+345175 old <>prOgacitaM vA” Sata0 vrA0 6 . 7 . 2 . 8
+345175 new <>praugacitaM vA” Sata0 vrA0 6 . 7 . 2 . 8
+;
+; TE error: sarvaSaudDInAmiyaM -> sarvaSudDInAmiyaM
+; (au) 285804:1:  te: sarvaSaudDInAmiyaM SudDirviSizyate. tannAmakIrttana
+;346517 old <>sarvaSudDInAmiyaM SudDirviSizyate . tannAmakIrttana-
+;346517 new <>sarvaSudDInAmiyaM SudDirviSizyate . tannAmakIrttana-
+;
+; (ai) 286306:4:  te: samAsE kfte dikprUrvapadAdasaMjYAyAM Yaiti YaH. sarva
+347146 old <>samAse kfte dikpUrvapadAdasaMjYAyAM YEti YaH . sarva-
+347146 new <>samAse kfte dikpUrvapadAdasaMjYAyAM Yaiti YaH . sarva-
+;
+; (ai) 287210:1:  te: ganturdakzaiRe syAt. tadA pUrvottare diSO na
+348292 old <>ganturdakziRe syAt . tadA pUrvottare diSO na
+348292 new <>ganturdakziRe syAt . tadA pUrvottare diSO na
+;
+; (ai) 287469:2:  te:  %dviSfNgikA% strI <vg>dve SfNge iva Pale asyAH</vg> <vkr>kap ataittvam
+348624 old dviSfNgikA¦ strI dve SfNge iva Pale asyAH kap atEttvam .
+348624 new dviSfNgikA¦ strI dve SfNge iva Pale asyAH kap ataittvam .
+;
+; (ai) 290738:2:  te: SabdovyavasTAvAcI BuvA saha tadanvayAt BUpraBftayaityarTa
+352769 old <>SabdovyavasTAvAcI BuvA saha tadanvayAt BUpraBftayEtyarTa-
+352769 new <>SabdovyavasTAvAcI BuvA saha tadanvayAt BUpraBftayaityarTa-
+;
+; (ai) 291943:2:  te: sambanDaH . bAhyadeSamAha bAhyaiti . bAhye ca na
+354172 old <>sambanDaH . bAhyadeSamAha bAhyEti . bAhye ca na
+354172 new <>sambanDaH . bAhyadeSamAha bAhyaiti . bAhye ca na
+;
+; (ai) 294730:2:  te: sPowolakzyataityarTaH . DvanivikAre ca vAyusaMyogavi
+357828 old <>sPowolakzyatEtyarTaH . DvanivikAre ca vAyusaMyogavi-
+357828 new <>sPowolakzyataityarTaH . DvanivikAre ca vAyusaMyogavi-
+;
+; (ai) 296008:3:  te: aci anAdeSaM Jasi ca aityAdeSaM vidaDO namrAqi
+359488 old <>aci anAdeSaM Jasi ca EtyAdeSaM vidaDO naBrAqi-
+359488 new <>aci anAdeSaM Jasi ca aityAdeSaM vidaDO naBrAqi-
+;
+; (ai) 296392:2:  te: eva BUtale na GawaityAdivAkyajanyaboDaH. evaYca tAdfSa
+359886 old <>eva BUtale na GawEtyAdivAkyajanyaboDaH . evaYca tAdfSa-
+359886 new <>eva BUtale na GawaityAdivAkyajanyaboDaH . evaYca tAdfSa-
+;
+; VCP 'a i'
+; (ai) 296987:0:  te: naqa cara vaka muYjaitika itiSa upaka eka lamaka SalaNka
+;360545 old <>naqa cara vaka muYja itika itiSa upaka eka lamaka SalaNka
+;360545 new <>naqa cara vaka muYja itika itiSa upaka eka lamaka SalaNka
+;
+; (ai) 297970:2:  te: rvfzwimavagraivAntare<q> raGuH.</reN> (3)meGe amaraH <vn>naBasyaSabde
+361780 old <>rvfzwimavagrEvAntare” raGuH . 3 meGe amaraH naBasyaSabde
+361780 new <>rvfzwimavagraivAntare” raGuH . 3 meGe amaraH naBasyaSabde
+;
+; (ai) 301562:3:  te: (raikAWa) <vn>tadviDAnaM tadaDizWAtfnAganAmajYApanaM ca
+366170 old <>(rEkAWa) tadviDAnaM tadaGizWAtfnAganAmajYApanaM ca
+366170 new <>(raikAWa) tadviDAnaM tadaGizWAtfnAganAmajYApanaM ca
+;
+; (ai) 302973:4:  te: mftyumApnoti yaiha nAneva paSyati<q> SrutiH</reN> <reN><q>bahvIzu
+367872 old <>nftyumApnoti yEha nAneva paSyati” SrutiH “bahvozu
+367872 new <>nftyumApnoti yaiha nAneva paSyati” SrutiH “bahvozu
+;
+; (ai) 307999:5:  te: yAnyo naraH SUra Binno narABinnaH kzatriyaSca SUraitye
+374251 old <>yAnyo naraH SUraBinno narABinnaH kzatriyaSca SUrEtye-
+374251 new <>yAnyo naraH SUraBinno narABinnaH kzatriyaSca SUraitye-
+;
+; multiple changes of O to au
+; (au) 314921:2:  te: nIqaM raTinaupaveSasTAnaM yasmin. dvO SokamohO
+383451 old <>nIqaM raTinOpaveSasTAnaM yasmin . dvO SokamohO
+383451 new <>nIqaM raTinaupaveSasTAnaM yasmin . dvau Sokamohau
+;
+; (au) 315625:3:  te: tapanaM cEva pUjAkramaudAhftaH. yadA tu maDye go
+384356 old <>tamanaM cEva pUjAkramOdAhftaH . yadA tu maDye go-
+384356 new <>tamanaM cEva pUjAkramaudAhftaH . yadA tu maDye go-
+;
+; (ai) 316118:6:  te:  %pataNgikA% strI <vkr>pataNga+saYjYAyAM kan krApi ataittvam.</vkr>  (1)maDumakzikABede amaraH </1><page>vp5_770.pdf</page><column>1</column><br/>
+385139 old pataNgikA¦ strI pataNga + sajYAyAM kan kApi satEttvam . saDumakzikABede amaraH .
+385139 new pataNgikA¦ strI pataNga + sajYAyAM kan kApi sataittvam . saDumakzikABede amaraH .
+;
+; (ai) 317435:2:  te: (pAtAlAdai)hemaca0. </1><page>vp5_787.pdf</page><column>2</column><br/>
+386647 old <>(pAtAlAdE) hemaca0 .
+386647 new <>(pAtAlAdai) hemaca0 .
+;
+; (au) 318312:4:  te:  %paraurvI% strI <vg>paraurvyAH</vg> <vkr>ni0 pAraskarA0 suw.</vkr> (1)upasadBede
+388027 old paraurvI¦ strI parOrvyAH ni0 pAraskarA0 suw . 1 upasadBede
+388027 new paraurvI¦ strI paraurvyAH ni0 pAraskarA0 suw . 1 upasadBede
+;
+; (au) 318314:2:  te: paraurvyIrupasadastAH kecanAnutizWanti<q> Sata0 brA
+388029 old <>parOrvyIrupasadastAH kecanAnutizWanti” Sata0 brA0 2 . 4 . 4
+388029 new <>paraurvyIrupasadastAH kecanAnutizWanti” Sata0 brA0 2 . 4 . 4
+;
+; (ai) 320802:2:  te: kap vA kApi ataittvam.</vkr> (1)kolaSimbyAm rAjani0. </1><page>vp5_832.pdf</page><column>1</column><br/>
+391623 old <>kap vA kApi atEttvam . kolaSimbyAm rAjani0 .
+391623 new <>kap vA kApi ataittvam . kolaSimbyAm rAjani0 .
+;
+; (ai) 321927:3:  te: ka kApi ataittvam.</vkr> (1)kawvyAM (2)latAyAm rAjani0. </2><page>vp5_846.pdf</page><column>2</column><br/>
+393189 old <>ka kApa atEttvam . 1 kawvyAM 2 latAyAm rAjani0 .
+393189 new <>ka kApa ataittvam . 1 kawvyAM 2 latAyAm rAjani0 .
+;
+; Is it  'bA0' or 'vA0' ?
+; (ai) 322074:6:  te:  %pahnikA% strI <vkr>apa+hanu+bA0 qa saYjYAyAM kankApi ataittva
+393406 old pahnikA¦ strI apa + hnu + vA0 qa saMjYAyAM kan kApi atadva-
+393406 new pahnikA¦ strI apa + hnu + vA0 qa saMjYAyAM kan kApi atai-
+;
+; (ai) 322606:3:  te: kApi ataittvam.</vkr> <vn>pAWikA tatrArTe BAvapra0. pAWaka
+394150 old <>kAbi atEttvam . pAWikA tatrArTe BAvapra0 . pAWaka-
+394150 new <>kApi ataittvam . pAWikA tatrArTe BAvapra0 . pAWaka-
+;
+; (ai) 323648:3:  te: saYjYAyAM kan kApi ataittvam.</vkr> <vn>pAdapIWikA0 (1)nApitA
+395512 old <>saMjYAyAM kan kApi atEttvam . pAdapIWikA0 nApitA-
+395512 new <>saMjYAyAM kan kApi ataittvam . pAdapIWikA0 nApitA-
+;
+; (ai) 323894:2:  te: ka kApi ataittvam.</vkr> (1)prapAyAm (jalasatragfhe) amaraH
+395900 old <>ka kApi atEttvam . prapAyAm (jalasatragfhe) amaraH .
+395900 new <>ka kApi ataittvam . prapAyAm (jalasatragfhe) amaraH .
+;
+; (ai) 324322:5:  te: sUto mardanAcca sunirmalaH<q>. </reN>mUlakam (sUrai) analaScitra
+396455 old <>sfto mardanAcca sunirmalaH” . mUlakam (murE) analaScitra-
+396455 new <>sfto mardanAcca sunirmalaH” . mUlakam (murai) analaScitra-
+;
+; (ai) 325153:2:  te: mBanArTapaSubanDanasTAnAdO (2)vedyAM strI</2> <vkr>kApi ataittvam
+397696 old <>mBanArTapaSubanDanasTAnAdO 2 vedyAM strI kApi atEttvam
+397696 new <>mBanArTapaSubanDanasTAnAdO 2 vedyAM strI kApi ataittvam
+;
+; (ai) 325304:3:  te:  %piNgalA% strI (1)veSyABede</1> <vkr>saYjYAyAM kan. kApi ataittvam
+397917 old piNgalA¦ strI 1 veSyABede saMjYAyAM kan . kApi atEttvam .
+397917 new piNgalA¦ strI 1 veSyABede saMjYAyAM kan . kApi ataittvam .
+;
+; (ai) 327722:4:  te: ataittvam.</vkr> (2)puttalikA tatrArTe strI. </2><page>vp5_923.pdf</page><column>1</column><br/>
+401311 old <>atEttvam . puttAlakA tatrArTe strI .
+401311 new <>ataittvam . puttAlakA tatrArTe strI .
+;
+; (ai) 328296:2:  te: AdidevaH purandaraH<q> vizRu sa0.</reN> (4)cavye (cai) KyAte
+402086 old <>“AdidevaH purandaraH” vizRusa0 . 4 cavye (cE) KyAte
+402086 new <>“AdidevaH purandaraH” vizRusa0 . 4 cavye (cai) KyAte
+;
+; (ai) 329347:3:  te: akApi ataittvam.</vkr> (1)medAyAM rAjani0. </1><page>vp5_944.pdf</page><column>2</column><br/>
+403341 old <>kApi atEttvam . medAyAM rAjani0 .
+403341 new <>kApi ataittvam . medAyAM rAjani0 .
+;
+; already changed
+; (au) 332909:2:  te:  %prauga% na0 <vg>prAgyugam</vg> <vkr>pfzo0.</vkr> (1) prAgvarttini yuge IzAntare
+;408550 old prauga¦ na0 prAgyugam pfzo0 . 1 prAgvarttini yuge IzAntare
+;408550 new prauga¦ na0 prAgyugam pfzo0 . 1 prAgvarttini yuge IzAntare
+;
+; already changed
+; (au) 332910:2:  te: kAtyA0 7.9.5. karkaH.</1> <vn>tatra cIyamAnasyAgneH prauga
+;408551 old <>kAtyA0 7 . 9 . 5 . karkaH . tatra cIyamAnasyAgneH prauga-
+;408551 new <>kAtyA0 7 . 9 . 5 . karkaH . tatra cIyamAnasyAgneH prauga-
+;
+; minor TE error: citsaYjYA -> citsaMjYA
+; (au) 332911:4:  te: citsaYjYA kAtyA0 16.5.9.</vn> (2)SastraviSeze</2> <reN>praugmukTya
+;408552 old <>citsaMjYA kAtyA0 16 . 5 . 9 . 2 SastraviSeze praugamukTya-
+;408552 new <>citsaMjYA kAtyA0 16 . 5 . 9 . 2 SastraviSeze praugamukTya-
+;
+; (au) 332912:2:  te: mavyaTAyE<q>yaju0 15.11.</reN> <reN><q>praugaM SaMsati nizkebalyaM SaMsati
+408553 old <>mavyaTAyE” yaju0 15 . 11 . “praugaM SaMsati nizkebalyaM SaMsati”
+408553 new <>mavyaTAyE” yaju0 15 . 11 . “praugaM SaMsati nizkebalyaM SaMsati”
+;
+; (au) 332913:2:  te: sA0sa0 BAzyaDftA SrutiH<q>prauganizkebalyaSabdO SastraviSeza
+408554 old <>sA0 sa0 BAzyaDftA SrutiH” prauganizkebalyaSabdO SastraviSeza
+408554 new <>sA0 sa0 BAzyaDftA SrutiH” prauganizkebalyaSabdau SastraviSeza
+;
+; (au) 334527:3:  te: (CowaucCe)rAjani0. </1><page>vp6_0052.pdf</page><column>2</column><br/>
+410807 old <>(CIwOcCe) rAjani0 .
+410807 new <>(CIwaucCe) rAjani0 .
+;
+; (au) 334688:6:  te: vo antauravirahapajjulmu eoRa rAesiRA uyarudDeRa
+411060 old <>bo antOravirahapajjusmueRa rAesiRA ubarudDeRa” .
+411060 new <>bo antauravirahapajjusmueRa rAesiRA ubarudDeRa” .
+;
+; (ai) 334692:9:  te: yasahi! visamaM pemaM maraRaM saraRaM narai ekka<q>.</reN> <reN><q>pa
+411064 old <>Riyasahi! visamaM pemma maraRaM saraRaM barE ekkaM” .
+411064 new <>Riyasahi! visamaM pemma maraRaM saraRaM barai ekkaM” .
+;
+;  TE error:  aRasaMkide -> aRRasaMkide 
+; (ai) 334696:7:  te: ai aRasaMkide RaM cittaPalaasma. - Dftistu parihA
+;411068 old <>ai aRRasaMkide RaM cittaPalaassa” . --Dftistu parihA-
+;411068 new <>ai aRRasaMkide RaM cittaPalaassa” . --Dftistu parihA-
+;
+; 
+; (ai) 334717:6:  te: vedaismaM. --upanyAsaH prasAdanam<q>.</reN> yaTA tatrEva
+411090 old <>TedERRa .--upanyAsaH prasAdanam” . yaTA tatrEva
+411090 new <>vedaismaM .--upanyAsaH prasAdanam” . yaTA tatrEva
+;
+; TE error: muKauktyantara -> muKavyaktyantara; sUnya -> SUnya
+; (au) 334891:5:  te: muKauktyantararahitastajjanmakAraRasUnyatvAt yaTA vizARa
+411336 old <>muKavyaktyantararahitastajjanmakAraRaSUmyatvAt yaTA vizARa
+411336 new <>muKavyaktyantararahitastajjanmakAraRaSUnyatvAt yaTA vizARa
+;
+; (ai) 335078:2:  te: (Ataic) amaraH. </1><page>vp6_0059.pdf</page><column>2</column><br/>
+411536 old <>(AtEc) amaraH .
+411536 new <>(Ataic) amaraH .
+;
+; (ai) 335502:2:  te:  %pratUlikA% strI <vg>prakfzwaM tUlamatra</vg> <vkr>kap kApi ataittvam</vkr> (tozaka)
+412160 old pratUlikA¦ strI prakfzwaM tUlamatra kap kApi atEttvam (tozaka)
+412160 new pratUlikA¦ strI prakfzwaM tUlamatra kap kApi ataittvam (tozaka)
+;
+; (ai) 338024:4:  te:  %pravizA% strI <vg>prahataM vizaM</vg> yaTA. (1)ativizAyAm (Ataic)
+415576 old pravizA¦ strI prahataM vizaM yayA . ativizAyAs (AtEc)
+415576 new pravizA¦ strI prahataM vizaM yayA . ativizAyAs (Ataic)
+;
+; (ai) 339397:1:  te: paricCainnAScEte prARA ityaDyavasyAmaH<q>BA0</reN> <reN><q>SrezWaSca<q> sU
+417565 old <>paricCinnAScEte prARA ityaDyavasyAmaH” BA0 “SrezWaSca” sU0
+417565 new <>paricCinnAScaite prARA ityaDyavasyAmaH” BA0 “SrezWaSca” sU0
+;
+; 
+; (ai) 342078:2:  te: mA 3n. <reN><q>plutAvEcaidutO <q>pA0</reN> yatra dUrAdDUtAdizu
+421105 old <>mA3n . “plutAvEcEdutO” pA0 yatra dUrAdDUtAdizu
+421105 new <>mA3n . “plutAvEcaidutO” pA0 yatra dUrAdDUtAdizu
+;
+; (ai) 342343:2:  te:  %PakkikA% strI <vkr>Pakka-DAtunirdeSe BAve Rvul-wAp atai
+421429 old PakkikA¦ strI Pakka--DAtunirdeSe BAve Rvul--wAp atE-
+421429 new PakkikA¦ strI Pakka--DAtunirdeSe BAve Rvul--wAp atai-
+;
+; vcp 'kta iw' ok
+; (ai) 345189:0:  te:  %buDita% tri0 <vkr>BvA0 buDa-ktaiw.</vkr> (1)jYAte amaraH.</1><page>vp6_0197.pdf</page><column>1</column><br/>
+;425660 old buDita¦ tri0 BvA0 buDa--kta iw . jYAte amaraH .
+;425660 new buDita¦ tri0 BvA0 buDa--kta iw . jYAte amaraH .
+;
+; (ai) 352604:2:  te: taPale ca (vaici)medi0</2> <vg>BUmilInA jambUH</vg> SAka0 ta
+435365 old <>taPale ca (vEci) medi0 BUmilInA jambUH SAka0 ta0
+435365 new <>taPale ca (vaici) medi0 BUmilInA jambUH SAka0 ta0
+;
+; (ai) 355432:2:  te: (kavai)<q>kavikA maDurA snigDA kaPaGnI rucikAriRI
+439621 old <>(kavE) “kavikA maDurA snigDA kaPaGnI rucikAriRI .
+439621 new <>(kavai) “kavikA maDurA snigDA kaPaGnI rucikAriRI .
+;
+; (au) 355799:3:  te: suKarogAstrikagrahaH. CardirviqBedautkleSo vAta
+440160 old <>muKarogAstrikagrahaH . CardirviqBedOtkleSo vAta-
+440160 new <>muKarogAstrikagrahaH . CardirviqBedautkleSo vAta-
+;
+; (ai) 358075:3:  te:  %muRqaPala% pu0 <vg>muRqaM Siraiva Palamasya.</vg> (1)nArikele Sabdara0.</1><page>vp6_0365.pdf</page><column>1</column><br/>
+444284 old muRqaPala¦ pu0 muRqaM SirEva PalamasTa . nArikele Sabdara0 .
+444284 new muRqaPala¦ pu0 muRqaM Siraiva PalamasTa . nArikele Sabdara0 .
+;
+; (ai) 358506:2:  te:  %mfduPala% na0 <vg>mfdUni PalAnyasya.</vg> (1)vikaNkate (vaici) (2) maDu
+445156 old mfduPala¦ na0 mfdUni PalAnyasya . 1 vikaNkate (vEci) 2 maDu-
+445156 new mfduPala¦ na0 mfdUni PalAnyasya . 1 vikaNkate (vaici) 2 maDu-
+;
+; (ai) 359105:5:  te:  %yajYIyabrahmapAdapa% pu0 karma0. (1)vikaNkatavfkze (vaizci)
+446229 old yajYIyabrahmapAdapa¦ pu0 kame0 . vikaNkatavfkze (vEci)
+446229 new yajYIyabrahmapAdapa¦ pu0 kame0 . vikaNkatavfkze (vaici)
+;
+; (ai) 359121:2:  te: yaityarTe.</1><page>vp6_0378.pdf</page><column>2</column><br/>
+446261 old <>yEtyarTe .
+446261 new <>yaityarTe .
+;
+; (ai) 359122:2:  te:  %yatara% tri0. <vg>anayormaDye yaH</vg> <vkr>yad+qatarac.</vkr> (1)anayormaDye yaityarTe</1><page>vp6_0378.pdf</page><column>2</column><br/>
+446264 old yatara¦ tri0 . anayormaDyeyaH yad + qatarac . anayormaDye yEtyarTe .
+446264 new yatara¦ tri0 . anayormaDyeyaH yad + qatarac . anayormaDye yaityarTe .
+;
+; (ai) 363266:3:  te: BfzwaDAnye (Kai) pu0 ba0 va0 amaraH. <vn>strItvamapyatra mediH.</vn></3><page>vp6_0433.pdf</page><column>2</column><br/>
+453030 old <>3 BfzwaDAnye (KE) pu0 ba0 va0 amaraH . strItvamapyatra medi0 .
+453030 new <>3 BfzwaDAnye (Kai) pu0 ba0 va0 amaraH . strItvamapyatra medi0 .
+;
+; TE: minor error naKaukaY -> naKa-ukaY
+; (au) 364836:0:  te:  %vanAKuka% pu0 <vkr>ava+naKaukaY avAllopaH.</vkr> (1)mudge trikA0.</1><page>vp6_0454.pdf</page><column>1</column><br/>
+455501 old vanAKuka¦ pu0 ava + naKa--ukaY avAllopaH . mudge trikA0 .
+455501 new vanAKuka¦ pu0 ava + naKa--ukaY avAllopaH . mudge trikA0 .
+;
+; (ai) 365325:2:  te: spfzwA ityarTaH nemaityardDavAcI. SalaH SazasahA nema
+456267 old <>spfzwA ityarTaH nemEtyardDavAcI . SalaH SazasahA nema-
+456267 new <>spfzwA ityarTaH nemaityardDavAcI . SalaH SazasahA nema-
+;
+; (ai) 367634:2:  te: haiva lomavAn<q> BAvapra0.</reN><page>vp6_0491.pdf</page><column>1</column><br/>
+459647 old <>hEva lomavAn” BAvapra0 .
+459647 new <>haiva lomavAn” BAvapra0 .
+;
+; (au) 369856:7:  te: acyate. vidyayA yAti vipratvaM triBiH Srotriyaucyate
+462881 old <>ucyata . vidyabayAti vipratva triBiH SrotriyOcyate”
+462881 new <>ucyata . vidyabayAti vipratva triBiH Srotriyaucyate”
+;
+; TE error: Cainna -> Cinna
+; (ai) 370759:1:  te: saMyuktasamavetaviSezaRatayA, SabdABAvaH  kevalaSrotrAvacCainna
+;464230 old <>saMyuktasamavetaviSezaRatayA, SabdABAvaH kevalaSrotrAvacCinna-
+;464230 new <>saMyuktasamavetaviSezaRatayA, SabdABAvaH kevalaSrotrAvacCinna-
+;
+; (ai) 371462:2:  te: ka.</vkr> (1)ativizAyAm (Ataica) rAjani0.</1><page>vp6_0539.pdf</page><column>1</column><br/>
+465144 old <>ka . ativizAyAm (AtEca) rAjani0 .
+465144 new <>ka . ativizAyAm (Ataica) rAjani0 .
+;
+; (ai) 371479:2:  te: (Ataica)</vkr> (1)ativizayAyAm amaraH (2)vudDO ca uRAdi0</2><page>vp6_0539.pdf</page><column>2</column><br/>
+465185 old <>(AtEca) 1 ativizayAyAm amaraH 2 vudDO ca uRAdi0
+465185 new <>(Ataica) 1 ativizayAyAm amaraH 2 vudDO ca uRAdi0
+;
+; (ai) 372463:2:  te:  %vftiNkara% pu0 <vg>vftiNkaroti</vg> <vkr>kf-Kac.</vkr> (1)vikaNkate (vaici) Sabdaca0</1><page>vp6_0552.pdf</page><column>2</column><br/>
+466683 old vftiNkara¦ pu0 vftiNkaroti kf--Kac . vikaNkate (vEci) Sabdaca0
+466683 new vftiNkara¦ pu0 vftiNkaroti kf--Kac . vikaNkate (vaici) Sabdaca0
+;
+; (ai) 375531:5:  te:  %vyAGrapucCa% pu0 <vg>vyAGrasya pucCaiva dalamasya.</vg> (1)eraRqavfkze amaraH. data0. (2)vyaGralANgule ca.</2><page>vp6_0593.pdf</page><column>1</column><br/>
+470790 old vyAGrapucCa¦ pu0 vyAGrasya pucCEva dalamasya . 1 eraRqavfkze amaraH . 6 ta0 . 2 vyaGralANgUle ca .
+470790 new vyAGrapucCa¦ pu0 vyAGrasya pucCaiva dalamasya . 1 eraRqavfkze amaraH . 6 ta0 . 2 vyaGralANgUle ca .
+;
+; (ai) 375807:2:  te:  %vyomaDUma% pu0 <vg>vyomnaH DUmaiva nIlatvAt.</vg> (1)meGe trikA0.</1><page>vp6_0596.pdf</page><column>2</column><br/>
+471235 old vyomaDUma¦ pu0 vyomnaH DUmEva nIlatvAt . meGe trikA0 .
+471235 new vyomaDUma¦ pu0 vyomnaH DUmaiva nIlatvAt . meGe trikA0 .
+;
+; (au) 377220:2:  te: kumBIvrataM skandapu0 <q>ekAdaSyAM kArttikasya Sukaupakze tu
+472733 old <HI>kumBIvrataM skandapu0 “ekAdaSyAM kArttikasya SukOpakze tu
+472733 new <HI>kumBIvrataM skandapu0 “ekAdaSyAM kArttikasya Sukaupakze tu
+;
+; (au) 382136:2:  te:  %Sakula% puM strI0 <vkr>Saka-ulac.</vkr> (1)matsyaBede (Saula) amaraH
+477903 old Sakula¦ puMstrI0 Saka--ulac . matsyaBede (SOla) amaraH .
+477903 new Sakula¦ puMstrI0 Saka--ulac . matsyaBede (Saula) amaraH .
+;
+; (ai) 385984:4:  te:  %SukacCada% na0 <vg>Sukasya Cadaiva Cado dalanasya.</vg> (1)grAnTiparRe jawA0</1><page>vp6_0730.pdf</page><column>2</column><br/>
+483586 old SukacCada¦ na0 Sukasya CadEva Cado dalamasya . granTiparRe jawA0
+483586 new SukacCada¦ na0 Sukasya Cadaiva Cado dalamasya . granTiparRe jawA0
+;
+; (ai) 385998:4:  te:  %Sukapuzpa% puM0 <vg>Sukaiva harit puzpamasya.</vg> (1)SurIzavfkze rAjani0.</1><page>vp6_0730.pdf</page><column>2</column><br/>
+483618 old Sukapuzpa¦ pu0 SukEva harit puzpamasya . 1 SirIzavfkze rAjani0 .
+483618 new Sukapuzpa¦ pu0 Sukaiva harit puzpamasya . 1 SirIzavfkze rAjani0 .
+;
+; (ai) 386001:3:  te:  %SukaPala% puM0 <vg>Sukaiva Palamasya.</vg> (1)arkavfkze rAjani0. </1><page>vp6_0730.pdf</page><column>2</column><br/>
+483625 old SukaPala¦ pu0 SukEva Palamasya . arkavfkze rAjani0 .
+483625 new SukaPala¦ pu0 Sukaiva Palamasya . arkavfkze rAjani0 .
+;
+; (ai) 386005:4:  te:  %SukaSi(si)mbI% strI <vg>Sukaiva Si(si)mbvIH</vg> (1)kapikacCvAM Sabdara0. </1><page>vp6_0730.pdf</page><column>2</column><br/>
+483635 old SukaSi(si)mbI¦ strI SukEva Si(si)mbvI . kapikacCAM Sabdara0 .
+483635 new SukaSi(si)mbI¦ strI Sukaiva Si(si)mbvI . kapikacCAM Sabdara0 .
+;
+; (ai) 386302:3:  te:  %SunaHSePa% puM0 <vg>Sunaiva SePo'sya</vg> <vkr>aluksamA0.</vkr> (1)viSvAmitra
+484084 old SunaHSePa¦ pu0 SunEva SePo'sya aluksamA0 . viSvAmitra-
+484084 new SunaHSePa¦ pu0 Sunaiva SePo'sya aluksamA0 . viSvAmitra-
+;
+; (ai) 387380:3:  te:  %SocizkeSa% puM0 <vg>SociH keSaiva yasya.</vg> (1)vahnO (2)citrakavfkze ca amaraH.</2><page>vp6_0749.pdf</page><column>1</column><br/>
+485661 old SocizkeSa¦ pu0 SociH keSEva yasya . 1 vahnO 2 citrakavfkze ca amaraH .
+485661 new SocizkeSa¦ pu0 SociH keSaiva yasya . 1 vahnO 2 citrakavfkze ca amaraH .
+;
+; 
+; (ai) 387394:3:  te:  %SoRaka% puM0 <vg>SoRaiva kAyati</vg> <vkr>kE-ka.</vkr> (1)SoRAkavfkze amaraH.</1><page>vp6_0749.pdf</page><column>1</column><br/>
+485689 old SoRaka¦ pu0 SoREva kAyati kE--ka . SoRAkavfkze amaraH .
+485689 new SoRaka¦ pu0 SoRaiva kAyati kE--ka . SoRAkavfkze amaraH .
+;
+; (ai) 388876:2:  te:  %SvetavacA% strI <vg>SvetA vaceva.</vg> (1)ativizAyAM (Ataica) rA
+488004 old SvetavacA¦ strI SvetA vaceva . ativizAyAM (AtEca) rA-
+488004 new SvetavacA¦ strI SvetA vaceva . ativizAyAM (Ataica) rA-
+;
+; (au) 389602:3:  te:  %zoQA% avya0 <vg>zaw prakArAH</vg> <vkr>DAc zazauttvaM Dasya wutvam
+489099 old zoQA¦ avya0 zaw prakArAH DAc zamOttvaM Dasya wutvam .
+489099 new zoQA¦ avya0 zaw prakArAH DAc zamauttvaM Dasya wutvam .
