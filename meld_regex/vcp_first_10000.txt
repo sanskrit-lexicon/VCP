@@ -103,14 +103,14 @@
 000103:0: vcp: <>praBA, sA ca ratnAdivastunaH . candrAdestu anyApekzayA'Dika-
 000104:0: vcp: <>prasftatvAt kiraRasamBavaH ataeva tatra SItAMSuH sitakiraRa
 000105:0: vcp: <>ityAdiprayogaH . sparSayogyaH tejaHpadArTasya kiraRAdapi
-000106:1: vcp: <>niviqaH sUkzmAMSaH AtapaH, kiraRApekzayA ativirala-
+000106:1: vcp: <>nibiqaH sUkzmAMSaH AtapaH, kiraRApekzayA ativirala-
 000107:0: vcp: <>prasArI sparSAyogyaH paraprakASasADanamatisUkzmAMSaviSezaH
 000108:0: vcp: <>AlokaH . praBAyAm Aloke vA na sparSo'nuBUyate .
 000109:1: vcp: <>tatra aMSuSabdasya kiraRavAcitve sahasrAMSuH uzRAMSuH
 000110:0: vcp: <>SItAMSurityAdayaH . praBAparatve ratnAMSuH naKAMSurityA-
 000111:0: vcp: <>dayaH . “ajasramASrAvitavallakIguRakzatojjvalANguzWanaKAMSu-
 000112:0: vcp: <>Binnayeti” “dvijAvalIbAlaniSAkarAMSuBiriti” ca
-000113:0: vcp: <>mAGaH . sUtrAMSaparatve aMSukaM pawwAMSukaM cInA-
+000113:0: vcp: <>mAGaH . sUtrAMSaparatve aMSukaM pawwAMSukaM cInAM-
 000114:1: vcp: <>SukamityAdayaH . prakASaparatve upAMSu upahftaprakASa-
 000115:0: vcp: <>tvAccAsya guptatvaM pratIyate taccArTikam . sUkzmaviBAgaparatve
 000116:0: vcp: <>prAMSuH pronnatAvayavatvA ccAsya dIrGatvaM pratIyate taccA-
@@ -125,9 +125,9 @@
 000125:0: vcp: <>Gawitapawwavastre . “SrIPalEraMSupawwAnAmiti” vizRu0 .
 000126:0: vcp: <HI>{@aMSupati@}¦ pu0 6 ta0 . sUryye, tasya sarvvatejasvinAM kiraRA-
 000127:0: vcp: <>DAyakatvAt candrAdigrahAdO tejodAyakatvAccAsya taTAtvam
-000128:2: vcp: <>ataevoktaM vfhatsahitAyAm “salilamaye SaSini rave-
-000129:2: vcp: <>dIrDitaya” iti “mUrttitve parikalpitaH SaSiBfta” iti
-000130:3: vcp: <>vfhajjAtake ca . “ambiM vAvAdityaH sAyaM praviSatIti”
+000128:2: vcp: <>ataevoktaM bfhatsaMhitAyAm “salilamaye SaSini rave-
+000129:2: vcp: <>rdIDitaya” iti “mUrttitve parikalpitaH SaSiBfta” iti
+000130:3: vcp: <>bfhajjAtake ca . “agniM vAvAdityaH sAyaM praviSatIti”
 000131:0: vcp: <>“udyantaM vAvAdityamagniranusamArohatIti” ca SrutO
 000132:0: vcp: <>agnO sUryyAMSupraveSABiDAnam . ata eva mAGe tasya
 000133:0: vcp: <>tvizAM patitvena tasyAstamaye tAsAmanumaraRArTaM jvalanapraveSa
