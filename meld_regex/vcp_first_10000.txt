@@ -36,7 +36,7 @@
 000036:1: vcp: <>upa0 sa0 . tasya ca kriyAyogAt pratizeDArTakatA .
 000037:0: vcp: <HI>{@afRin@}¦ tri0 na fRI naY ta0 fkArasyAtra haltvA-
 000038:0: vcp: <>ByupagamAt na nuw nalopamAtram . fRiBinne, fRaSUnye, .
-000039:2: vcp: <>divasyAzwame BAge SAkaM pacati yo naraH .
+000039:2: vcp: <>divasasyAzwame BAge SAkaM pacati yo naraH .
 000040:0: vcp: <>afRI cApravAsI ca sa vAricara! modate iti BAratam
 000041:0: vcp: <>haltvAnASrayaRe nuwi anfRItyapi tatrEvArTe .
 000042:0: vcp: <HI>{@aMSa@}¦ viBAjane ada0 cu0 uBa0 . aMSayati te AMSiSat ta .
@@ -48,7 +48,7 @@
 000048:0: vcp: <>pratipadyeta viBajannAtmanaH piteti” “dvyaMSaharo'rdDaharo vA
 000049:1: vcp: <>putravittArjjanAt piteti” ca smftiH . saMKyAsUcakANkaviBAjye
 000050:0: vcp: <>taTANke, ca “anyonyahArABihatO harAMSAviti” aMSAhati-
-000051:2: vcp: <>SCedabaDena Bakteti” BajecCido'SEraTa tErvimiSrEriti
+000051:2: vcp: <>SCedabaDena Bakteti” BajecCido'MSEraTa tErvimiSrEriti
 000052:0: vcp: <>ca lIlA0 . karaRe ac . avayave “aMSuraMSuzwe deva!
 000053:0: vcp: <>somApyAyasveti” yaju0 . aMSuraMSuH sarvvopyavayava iti veda-
 000054:0: vcp: <>dIpaH . “aMSinaH svAMSagAtyantABAvaM prati mfzAtmateti”
@@ -64,7 +64,7 @@
 000064:0: vcp: <>triMSASaSceti vijYeyaH zaqvarga iti ca jyotizam navamito-
 000065:1: vcp: <>'MSaH (rASetriMSaBAgaH) navAMSaH evaM dvAdaSAMSAdayaH .
 000066:2: vcp: <>sa ca aMSaH zazwikalAtmakaH kalA tu zazwivikalAtmikA .
-000067:1: vcp: <>navamirviBakte rASeH triMSAtmake navAMSe ca . “dviBarttfkA
+000067:1: vcp: <>navaBirviBakte rASeH triMSAtmake navAMSe ca . “dviBarttfkA
 000068:2: vcp: <>mezanavAMSake syAt” ityupakramya “niHsvA mfgAMSe” iti,
 000069:2: vcp: <>“viguRA GawAMSe” iti ca vyavahAracamatkAraH . 6, 1,
 000070:3: vcp: <>203 pA0 sU0 vfzAdizu pAWAt asya AdyudAttatvam .
@@ -80,18 +80,18 @@
 000080:0: vcp: <>karaRArTe Rici BAve lyuw savarRanam aMSayoH atulya-
 000081:0: vcp: <>cCedayoH rASyoH samacCedakaraRam 6 ta0 . lIlAvatyukte
 000082:0: vcp: <>atulyacCedarASyoH yogaviyogayogyatAsampAdake samacCeda-
-000083:1: vcp: <>sADane kriyAviSeze, tatrAdAvaMSasavarRanamityuktamya “anyonya-
+000083:1: vcp: <>sADane kriyAviSeze, tatrAdAvaMSasavarRanamityuktasya “anyonya-
 000084:0: vcp: <>hArABihatO harAMSO rASyoH samacCedaviDAnamevamiti
 000085:0: vcp: <>lIlAvatyAmuktam .
 000086:0: vcp: <HI>{@aMSahara@}¦ tri0 aMSaM harati hf--ac . aMSahArake “dvyaMSaharo-
 000087:0: vcp: <>'rdDaharo vA putravittArjjanAt piteti” smftiH . anudyamane
 000088:0: vcp: <>eva hfYo'c iti niyamAt anyatra aR . BArahAraH .
 000089:0: vcp: <HI>{@aMSAvataraRa@}¦ na0 6 ta0 . BArate A0 pa0 64 a0 ukte
-000090:1: vcp: <>devAnAM svasvaBAgaviSezeRa vAsudevaAdirUpeRa pfTivyAmA-
+000090:1: vcp: <>devAnAM svasvaBAgaviSezeRa vAsudevAdirUpeRa pfTivyAmA-
 000091:0: vcp: <>virBAvena naradehagrahaRarUpe avataraRe .
 000092:0: vcp: <HI>{@aMSin@}¦ tri0 aMSa--Rini . aMSakArake “punarviBAgakaraRe
 000093:0: vcp: <>sarvve vA syuH samAMSina” iti smftiH aMSa + matvarTe ini .
-000094:1: vcp: <>avayavini . “aMSinaH svAMSagAtyantABAva prati mfzAtmateti”
+000094:1: vcp: <>avayavini . “aMSinaH svAMSagAtyantABAvaM prati mfzAtmateti”
 000095:0: vcp: <>vedAntapariBAzA .
 000096:0: vcp: <HI>{@aMSu@}¦ pu0 aMSa--mfga0 ku . kiraRe sUtre sUkzmAMSe prakASe
 000097:0: vcp: <>praBAyAM vege ca “aMSavo'tra patitA raveH kimu”? ityudBawaH

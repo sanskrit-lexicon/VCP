@@ -17,7 +17,7 @@
 000017:0:  te: tatsAdfSyamaBAvaSca tadanyatvaM tadalpatA
 000018:0:  te: aprASastyaM viroDaSca naYarTAH zaw prakIrttitAH
 000019:2:  te: ityukteH zaqviDAH. tatra abrAhmaRaityAdO brAhmaRasAdfSya
-000020:1:  te: vattvena kzatriyAdInAM boDakatA, aGawamityAdO GawA
+000020:1:  te: vattvena kzattriyAdInAM boDakatA, aGawamityAdO GawA
 000021:2:  te: BAvasya, apawa ityAdO pawaBinnasya, anudarA kanyetyAdO
 000022:2:  te: alpodaratvasya, apaSavo vE anye go'SveByaityAdO gavASva
 000023:2:  te: BinnapaSUnAmaprASastyasya, asuraH asita ityAdO ca surasita
@@ -62,17 +62,17 @@
 000062:1:  te: viBAjake avayave,</5><reN10> <q>akzasyAMSAH samAKyAtAH zazwyuttara
 000063:1:  te: Satatrayamiti <q>kzetraM horA ca drekkARaM navAMSodvAdaSAMSakaH
 000064:0:  te: triMSASaSceti vijYeyaH zaqvarga<q> iti ca jyotizam.</reN10><reN11> navamito
-000065:1:  te: 'SaH (rASetriMSaBAgaH) navAMSaH evaM dvAdaSAMSAdayaH
-000066:2:  te: sa ca aMSaH zazWikalAtmakaH kalA tu zazWivikalAtmikA
+000065:1:  te: 'MSaH (rASetriMSaBAgaH) navAMSaH evaM dvAdaSAMSAdayaH
+000066:2:  te: sa ca aMSaH zazwikalAtmakaH kalA tu zazwivikalAtmikA
 000067:1:  te: navaBirviBakte rASeH triMSAtmake navAMSe ca. </reN11><reN12><q>dviBarttfkA
-000068:2:  te: mezanavAMSake syAt<q> ityupakramasya <q>niHsvA mfgAMSe<q> iti
+000068:2:  te: mezanavAMSake syAt<q> ityupakramya <q>niHsvA mfgAMSe<q> iti
 000069:0:  te: viguRA GawAMSe<q> iti ca vyavahAracamatkAraH
 000070:0:  te: pA0 sU0 vfzAdizu pAWAt asya AdyudAttatvam.</swr><page>vp1_039.pdf</page><column>2</column><br/>
 000071:0:  te:  %aMSaka% tri0<vkr> aMSa+Rvul.</vkr> (1)viBAjake striyAm aMSikA
 000072:2:  te: jYAtO dAyAde pu0</2><vkr> aMSa+(svArTe)kan.</vkr><reN1> aMSaSabdArTe
 000073:0:  te: triMSAMSakastaTA rASerBAga<q> ityaBiDIyate iti jyotizam
 000074:0:  te: navamiterASitriMSaBAgAtmake navAMSe, <q>dviBartfkA mezanavAMSake
-000075:3:  te: syAt<q> ityupakramya<q> <q>zazWAMSake sA paSuSIlayukteti<q> <q>siMhAM
+000075:3:  te: syAt<q> ityupakramya<q> <q>vfzAMSake sA paSuSIlayukteti<q> <q>siMhAM
 000076:0:  te: Sake sA pitfvAsasaMsTiteti,<q> ca jyo0</reN2> (3)sOradine na0.</3><page>vp1_040.pdf</page><column>1</column><br/>
 000077:2:  te:  %aMSala% tri0 <vkr>aMSa+(balopADike matvarTe) lac.</vkr>(1) balavati.</1><vkr><vg> aMSaM
 000078:0:  te: lAti</vg> lA+ka.</vkr>(2) aMSagrAhake tri0.</2><page>vp1_040.pdf</page><column>1</column><br/>
@@ -99,7 +99,7 @@
 000099:0:  te: prakASakasya tejaH padArTasya samantAt prasftaH sparSayogyaH
 000100:0:  te: kiYcinniviqaH sUkzmAMSaviSezaH kiraRaH, sa ca prAyaSaH
 000101:0:  te: sUryyasya, tasya tejasA pradIptacandrAdeSca. tadapekzayA alpa
-000102:1:  te: sTAnaprasAro kiYcidviralaH sparSAyogyaH tejaHsUkzmAMSaH
+000102:1:  te: sTAnaprasArI kiYcidviralaH sparSAyogyaH tejaHsUkzmAMSaH
 000103:0:  te: praBA, sA ca ratnAdivastunaH. candrAdestu anyApekzayA'Dika
 000104:0:  te: prasftatvAt kiraRasamBavaH ataeva tatra SItAMSuH sitakiraRa
 000105:0:  te: ityAdiprayogaH. sparSayogyaH tejaHpadArTasya kiraRAdapi
