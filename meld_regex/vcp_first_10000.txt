@@ -164,7 +164,7 @@
 000164:0: vcp: <>“aMsanizaktabAhuH” “aMsAropicApeneti” SAnto'pi
 000165:7: vcp: <>skanDe .
 000166:0: vcp: <HI>{@aMsatra@}¦ na0 aMsaM skanDaM trAyate trE--ka . skanDAvarake kavacaBede .
-000167:2: vcp: <HI>{@aMsakUwa@}¦ puMna0 aMsaH kUwa iva vfhattvAt . vfhatskanDe “rAja-
+000167:2: vcp: <HI>{@aMsakUwa@}¦ puMna0 aMsaH kUwa iva bfhattvAt . bfhatskanDe “rAja-
 000168:0: vcp: <>nyoccAMsakUwakraTanapawurawadGoraDAraH kuWAra iti praboDa0
 000169:0: vcp: <HI>{@aMsa(se)BAra@}¦ pu0 aMse DftaH BAraH SA0 ta0 vA aluk .
 000170:0: vcp: <>skanDaDftaBAre .
@@ -173,7 +173,7 @@
 000173:0: vcp: <HI>{@aMsya@}¦ tri0 aMse BavaH aMsa + yat . skanDaBave, “ye aMsyA ye
 000174:2: vcp: <>aNgyAH sUcikA” iti vedaH . aMsa--karmmaRi yat .
 000175:0: vcp: <>viBAjye tri0 . [Page0037-b+ 38]
-000176:3: vcp: <HI>{@aMha@}¦ BAsane ada0 uBa0 . aMhayati te AYjihat ta .
+000176:3: vcp: <HI>{@aMha@}¦ BAsane ada0 cu0 uBa0 . aMhayati te AYjihat ta .
 000177:0: vcp: <HI>{@aMhati@}¦ strI0 hanti duritamanayA hana--ati, aMhAdeSaH . dAne .
 000178:1: vcp: <HI>{@aMhas@}¦ na0 amati gacCati prAyaScittena ama--asun huk ca .
 000179:0: vcp: <>pApe “muYcantvaMhasa” iti vedaH svaDarmmatyAge “loBo'nftaM
@@ -190,7 +190,7 @@
 000190:1: vcp: <>vfkzAdInAM mUle, tena aMhripo vfkzaH . catuHsaMKyAyAYca .
 000191:0: vcp: <HI>{@aMhripa@}¦ pu0 aMhriRA mUlena pibati siktatoyam pA--ka .
 000192:0: vcp: <>vfkzamAtre .
-000193:2: vcp: <HI>{@aMhriskanDa@}¦ pu0 ahreH skanDEva . gulPe aNguzWANgulimaDyaBAgasya upariBAge ca .
+000193:2: vcp: <HI>{@aMhriskanDa@}¦ pu0 ahreH skanDa iva . gulPe aNguzWANgulimaDyaBAgasya upariBAge ca .
 000194:0: vcp: <HI>{@aka@}¦ vakragatO BvA0 pa0 GawAdi . akati AkIt . akayati .
 000195:0: vcp: <HI>{@aka@}¦ na0 na kam suKam guRavacanasya naYyoge viro-
 000196:0: vcp: <>DyarTABiDAyitA na0 ta0 . duHKe . nAsti kaM suKaM

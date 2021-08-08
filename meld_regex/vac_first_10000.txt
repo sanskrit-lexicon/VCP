@@ -149,7 +149,7 @@
 000149:0:  te:  %aMSula% pu0 <vp>aMSuM praBAM budDipratiBAM lAti</vp><vkr> lA+ka.</vkr> (1)cARakye
 000150:0:  te: munO, (2)munimAtre ca. (3)aMSugrAhake tri0.</3><page>vp1_041.pdf</page><column>1</column><br/>
 000151:0:  te:  %aMSuhasta% pu0 <vg>aMSuH kiraRo hasta iva jalAdyAkarzaRasADanaM
-000152:1:  te: yasya.</vg>(1) sUryye.</1><reN1> <q>SarErustrErivodIcyAn udDarizyan
+000152:1:  te: yasya.</vg>(1) sUryye.</1><reN1> <q>SarErusrErivodIcyAn udDarizyan
 000153:0:  te: rasAniveti<q> raGO .</reN1><vn1>sUryyakiraRAnAM rasAkarzakatvasya dfzwA
 000154:0:  te: ntaviDayoktatvAdasya kiraRasya rasAkarzakatvAdDastatvam. tasya
 000155:0:  te: ca sahasrAMSUnAM rasAkarzakatvamagre sahasrAMSuSabde vakzyate.</vn1><page>vp1_041.pdf</page><column>1</column><br/>
@@ -160,7 +160,7 @@
 000160:4:  te:  %aMsa% (1)viBAjane</1> ada0 vyaM cu0 uBa0<vp> aMsayati te AMsisat ta
 000161:0:  te: Apuki aMsApayatItyeke.<vkr> vi+viSlezakaraRe pracyAvane ca
 000162:0:  te: vyaMsayAmAsa tat sEnyamiti<q> BAratam.</reN1><vkr> ac+ aMsaH
-000163:6:  te: puM <vkr>aMsa+(karmmaBAvAdO)ac.</vkr> (1)aMSaSabdArTe, (2)skanDe ca
+000163:6:  te: %aMsa% puM <vkr>aMsa+(karmmaBAvAdO)ac.</vkr> (1)aMSaSabdArTe, (2)skanDe ca
 000164:0:  te: aMsanizaktabAhuH<q> <q>aMsAropicApeneti<q>. SAnto'pi
 000165:9:  te: (aMSa iti)skanDe.</reN2><page>vp1_041.pdf</page><column>1</column><br/>
 000166:0:  te:  %aMsatra% na0 <vp>aMsaM skanDaM trAyate </vp><vkr> trE+ka.</vkr> (1)skanDAvarake (2)kavacaBede.</2><page>vp1_041.pdf</page><column>1</column><br/>
@@ -171,13 +171,13 @@
 000171:2:  te:  %aMsa(se)BArika% tri0 <vp>aMsa(se) BAreRa harati .</vp><vkr> BastrA0 +zWan.</vkr>(1) skanDaBArahArake,</1><vkr> (striyAM)NIz.</vkr><page>vp1_041.pdf</page><column>1</column><br/>
 000172:2:  te:  %aMsala% tri0<vkr> aMsa+(balopADike astyarTe)lac.</vkr>(1) balavati.</1><page>vp1_041.pdf</page><column>1</column><br/>
 000173:0:  te:  %aMsya% tri0 <vp>aMse BavaH</vp><vkr> aMsa+yat .</vkr>(1) skanDaBave,</1><reN> <q>ye aMsyA ye
-000174:4:  te: aNgrAH sUcikA<q> iti vedaH.</reN><vkr> aMsa+(karmaRi)yat
+000174:4:  te: aNgyAH sUcikA<q> iti vedaH.</reN><vkr> aMsa+(karmaRi)yat
 000175:0:  te: viBAjye tri0.</2><page>vp1_041.pdf</page><column>1</column><br/>
 000176:2:  te:  %aMha% (1)BAsane .</1><vkr> ada0 cu0 uBa0. aMhayati te AYjihat ta.</vkr><page>vp1_041.pdf</page><column>2</column><br/>
 000177:0:  te:  %aMhati% strI0 <vp>hanti duritamanayA</vp><vkr> hana+ati, aMhAdeSaH.</vkr>(1) dAne.</1><page>vp1_041.pdf</page><column>2</column><br/>
-000178:1:  te:  %aMhas% na0 <vp>amati gacCati prAyaScittena</vp><vkr> ama+asun+huMk ca
+000178:1:  te:  %aMhas% na0 <vp>amati gacCati prAyaScittena</vp><vkr> ama+asun+huk ca
 000179:0:  te: pApe</1><reN1> <q>muYcantvaMhasa<q> iti vedaH.</reN1>(2) svaDarmmatyAge</2><reN2> <q>loBo'nftaM
-000180:4:  te: cOryyamanAryyamaMho jyezWA mAyA ca kalahaSca daRqa<q> iti
+000180:4:  te: cOryyamanAryyamaMho jyezWA ca mAyA kalahaSca daRqa<q> iti
 000181:0:  te: BAgavate kaliM prati parIkzidvAkyam .</reN2><reN3> aMhaH svaDarmmatyAgaH iti
 000182:0:  te: SrIDarasvAmiraGunandanAdayaH.</reN3><page>vp1_041.pdf</page><column>2</column><br/>
 000183:0:  te:  %aMhiti% strI0<vkr> ahi+ktin grahAditvAt iw.</vkr>(1) dAne.</1><page>vp1_041.pdf</page><column>2</column><br/>
@@ -185,7 +185,7 @@
 000185:0:  te: sumatirvavftyAdaMhoScidyA<q> iti (ya0 8,7)</reN1><reN2> <q>aMhoH
 000186:0:  te: pApakAriRaH hananaSIlasyeti vedadIpaH.</reN2><page>vp1_041.pdf</page><column>2</column><br/>
 000187:0:  te:  %aMhura% tri0 <vkr>ahi+madgurAdi0 urac.</vkr>(1) gatiyukte</1><reN> <q>sapta maryyAdAH
-000188:0:  te: kavayastatakzustAsAmekAmidamaByaMharo gAt<q> iti vedaH.</reN><page>vp1_041.pdf</page><column>2</column><br/>
+000188:0:  te: kavayastatakzustAsAmekAmidamaByaMhuro gAt<q> iti vedaH.</reN><page>vp1_041.pdf</page><column>2</column><br/>
 000189:0:  te:  %aMhri% pu0 <vp>aMhati gacCatyanena .</vp><vkr> ahi+vaNkryAdi0 krin.</vkr> (1)pAde
 000190:0:  te: vfkzAdInAM mUle,</2><vn> tena aMhripo vfkzaH.</vn> (3)catuHsaNKyAyAYca.</3><page>vp1_041.pdf</page><column>2</column><br/>
 000191:0:  te:  %aMhripa% pu0<vp> aMhriRA mUlena pibati siktatoyam</vp><vkr> pA+ka
