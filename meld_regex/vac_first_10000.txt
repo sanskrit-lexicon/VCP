@@ -251,7 +251,7 @@
 000251:0:  te: DipaBede.</1> na0 ta0.(2) kanizWaBinnapAlake tri0.</2><page>vp1_042.pdf</page><column>1</column><br/>
 000252:0:  te:  %akampita% pu0<vg> kampitaM budDivftteScAlanaM tannAsti yasya.</vg>(1) budDa
 000253:0:  te: Bede.</1><vkr> kapi+karttarikta</vkr> na0 ta0.(2) saNkalpitavastuByo'nuparate
-000254:3:  te: dfQADyavasAye tri0.</2><vkr> (BAve)kta</vkr> na0 ba0.(3) kampanaSUnye tri0.</3><page>vp1_042.pdf</page><column>2</column><br/>
+000254:3:  te: dfQADyavasAye tri0.</2><vkr> (BAve)kta</vkr> na0 va0.(3) kampanaSUnye tri0.</3><page>vp1_042.pdf</page><column>2</column><br/>
 000255:2:  te:  %akaraRa% na0 <vkr>kf+(BAve)lyuw</vkr> arTABAve na0 ta0.(1) karaRA
 000256:0:  te: BAve</1>(2) nivfttO</2><reN1> <q>akaraRe pratyavAyAnubanDitvaM nityatvamiti
 000257:0:  te: mImAMsakAdayaH.</reN1><reN2> <q>akaraRAt mandakaraRaM Sreya<q> iti smArttAH
@@ -283,13 +283,13 @@
 000283:3:  te: na0 ta0.(1) uccaviroDihrasvatvavati Karve.</1><vkr>kfta+(BAve
 000284:1:  te: )lyuw</vkr> na0 ba0.(2) CedanAkarttari tri0.</2><page>vp1_042.pdf</page><column>2</column><br/>
 000285:2:  te:  %akarttavya% tri0<vkr> kf+(karmmAdO)tavya </vkr>na0 ta0. (1)karaRAnarhe
-000286:5:  te: nizidDe padArTe.</1><vkr> (BAve)tavya</vkr> na0 ba0.(2) kriyASUnye kUwasTe
+000286:5:  te: nizidDe padArTe.</1><vkr> (BAve) kta</vkr> na0 ba0.(2) kriyASUnye kUwasTe
 000287:0:  te: cEtanye na0.</2><reN> <q>na me pArTAsti karttavyaM trizu lokezu
 000288:0:  te: kiYcaneti<q> gItAyAmISvarasya sarvakriyAnizeDAt taTAtvam.</reN><page>vp1_042.pdf</page><column>2</column><br/>
 000289:1:  te:  %akarttf% tri0<vkr> karttf+na0 ta0.</vkr> (1)karttfBinne karttfsadfSe kArake
 000290:1:  te: akarttari ca kArake<q> pA0.</swr><reN1>(2) karttfBinne, kriyASUnye ca
 000291:0:  te: puruzo'karttA BoktA<q>ceti sANKyamatam.</reN2><page>vp1_042.pdf</page><column>2</column><br/>
-000292:2:  te:  %akarmmaka% tri0 <vg>nAsti karmma yasya</vg><vkr>na0 ba0+ kap.</vkr>(1) vyAkaraRokte
+000292:2:  te:  %akarmmaka% tri0 <vg>nAsti karmma yasya</vg><vkr> ba0+ kap.</vkr>(1) vyAkaraRokte
 000293:0:  te: karmmaSUnye DAtO,</1><reN1><swr> <q>laH karmmaRi ca BAve cAkarmmakeBya iti
 000294:0:  te: pA0.</swr></reN1><reN2> <q>PalavyApArayorekanizWatAyAmakarmmaka iti<q> hariH
 000295:4:  te: (striyAM)wApi kApi ata ittvam akarmmikA.</vkr><reN3> <q>prasidDera
@@ -301,12 +301,12 @@
 000301:3:  te: karmmaRohyapi bodDavyaM bodDavyaYca vikarmmaRaH. aka
 000302:0:  te: rmmaRaSca bodDavyaM gahanA karmmaRo gatiriti<q> gItA</reN1><reN2> aka
 000303:0:  te: rmmaRaH akriyAyA iti tadBAzyam. </reN2>(3) duzwaM karmma aprASastye
-000304:7:  te: na0 ta0.<reN3> duzwakAryye akarmmAdasyuraBita iti smftiH
+000304:7:  te: na0 ta0.<reN3> duzwakAryye akarmmAdAvaBirata iti smftiH
 000305:0:  te: na0 ba0.(4) kAryyaSUnye tri0</4><reN4> <q>akarmmAdasyuraBita<q> iti vedaH.</reN4><page>vp1_043.pdf</page><column>1</column><br/>
 000306:0:  te:  %akala% pu0 <vp>nAsti kalA'vayavo'sya.</vp>(1) niraMSe paramAtmani
 000307:0:  te: cinmayasyAdvitIyasya nizkalasye<q>tyuktestasya taTAtvam
 000308:0:  te: gItAdikalASUnye, (3)avayavaSUnye ca tri0.</3><page>vp1_043.pdf</page><column>1</column><br/>
-000309:2:  te:  %akalkana% tri0<vg>na kalkanaM damBaH </vg>na0 ba0. (1)damBarahite</1><reN1> <q>akalkano
+000309:2:  te:  %akalkana% tri0<vg> kalkanaM damBaH </vg>na0 ba0. (1)damBarahite</1><reN1> <q>akalkano
 000310:0:  te: nirAramBaH<q> iti gItA.</reN1> (2)vEdyakoktOzaDapAkaviSezaH kalkanaM
 000311:0:  te: tacCUnye ca.</2><vg> nAsti kalko'sya </vg><vkr> ba0 kap.</vkr> <vn>akalkako'
 000312:0:  te: pyatra. ata eva gItAyAmakalkaka ityapi kvacit pAWaH.</vn><page>vp1_043.pdf</page><column>1</column><br/>

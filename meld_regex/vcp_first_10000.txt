@@ -256,11 +256,11 @@
 000256:0: vcp: <>BAve nivfttO “akaraRe pratyavAyAnubanDitvaM nityatvamiti”
 000257:0: vcp: <>mImAMsakAdayaH . “akaraRAt mandakaraRaM Sreya” iti smArttAH
 000258:0: vcp: <>akaraRaYca nyAyAdimate karaRABAvaH, mImAMsakavedAntimate
-000259:1: vcp: <>nivfttiH . ata eva azwasyAM mAMsaM nASnIyAdityAdO
+000259:1: vcp: <>nivfttiH . ata eva azwamyAM mAMsaM nASnIyAdityAdO
 000260:0: vcp: <>sarvatra nizeDasamaBivyAhftakriyAvizayakanivfttAveva viDyarTA-
 000261:0: vcp: <>nvayaH ityuktaM mImAMsakEH . SaNkarAcAryyeRa ca
 000262:0: vcp: <>“nAsato vidyate BAvonABAvo vidyate sata” iti gItA
-000263:0: vcp: <>SlokaBAzye mahatA prabanDena satpadArTAdaBAvotpatti
+000263:0: vcp: <>SlokaBAzye mahatA prabanDena satpadArTAdaBAvotpattiM
 000264:1: vcp: <>nirasyatA nizeDasya nivfttirUpatvamurarIkftam . nivfttiSca
 000265:0: vcp: <>pravfttiviroDI BAvarUpoDarmaviSezaH . nAsti karaRaM dehe-
 000266:1: vcp: <>ndriyAdikamasya . sarvvakaraRaSUnye parAtmani pu0 .
@@ -280,25 +280,25 @@
 000280:1: vcp: <>ndriyaSUnyatvam . rADeyaH karRRaH taCUnye tri0 . “anarjuna
 000281:0: vcp: <>makarRaM vA jagadadyeti niScitamiti” BAratam .
 000282:0: vcp: <HI>{@akarttana@}¦ tri0 uccasTaM PalaM karttituM SIlamasya kfta--yuc
-000283:2: vcp: <>na0 ta0 . uccaviroDihrasvatvavati svarve . kfta--BAve
+000283:2: vcp: <>na0 ta0 . uccaviroDihrasvatvavati Karve . kfta--BAve
 000284:0: vcp: <>lyuw na0 ba0 . CedanAkarttari tri0 .
 000285:0: vcp: <HI>{@akarttavya@}¦ tri0 kf--karmmAdO tavya na0 ta0 . karaRAnarhe
 000286:4: vcp: <>nizidDe padArTe . BAve kta na0 ba0 . kriyASUnye kUwasTe
 000287:0: vcp: <>cEtanye na0 . “na me pArTAsti karttavyaM trizu lokezu
 000288:0: vcp: <>kiYcaneti” gItAyAmISvarasya sarvakriyAnizeDAt taTAtvam .
-000289:1: vcp: <HI>{@akarttf@}¦ tri0 karttf + na0 ta0 . karttfBinne karttfsadaSe kArake [Page0039-a+ 38]
+000289:1: vcp: <HI>{@akarttf@}¦ tri0 karttf + na0 ta0 . karttfBinne karttfsadfSe kArake [Page0039-a+ 38]
 000290:1: vcp: <>“akarttari ca kArake” pA0 . kartfBinne, kriyASUnye ca
 000291:1: vcp: <>“puruzo'karttA BoktA” ceti sAMKyamatam .
 000292:3: vcp: <HI>{@akarmmaka@}¦ tri0 nAsti karmma yasya ba0 kap . vyAkaraRokte
 000293:0: vcp: <>karmmaSUnye DAtO, “laH karmmaRi ca BAve cAkarmmakeBya iti”
 000294:0: vcp: <>pA0 . “PalavyApArayorekanizWatAyAmakarmmaka iti” hariH .
-000295:2: vcp: <>striyAM wApi kApi atEttvam akarmmikA . “prasidDera-
+000295:2: vcp: <>striyAM wApi kApi ata ittvam akarmmikA . “prasidDera-
 000296:0: vcp: <>vivakzAtaH karmmaRo'karmikA kriyeti” hariH .
-000297:2: vcp: <HI>{@akarmmaRya@}¦ tri0 na karmmane praBavati karmman + yat na0 ta0 .
+000297:2: vcp: <HI>{@akarmmaRya@}¦ tri0 na karmmaRe praBavati karmman + yat na0 ta0 .
 000298:0: vcp: <>karmmAnarhe “akarmmaRyaM tiTimalaM vidyAdekAdaSIM vineti”
 000299:0: vcp: <>ti0 ta0 .
 000300:0: vcp: <HI>{@akarmman@}¦ anupalamBAdivat arTABAve na0 ta0 . karmmABAve
-000301:3: vcp: <>“karmmaRohyapi bodDavya boDyavyaYca vikarmmaRaH . aka-
+000301:3: vcp: <>“karmmaRohyapi bodDavyaM bodDavyaYca vikarmmaRaH . aka-
 000302:0: vcp: <>rmmaRaSca bodDavyaM gahanA karmmaRogatiriti” gItA aka-
 000303:0: vcp: <>rmmaRaH akriyAyA iti tadBAzyam . duzwaM karmma aprASastye
 000304:7: vcp: <>na0 ta0 . duzwakAryye akarmmAdAvaBirata iti smftiH .
