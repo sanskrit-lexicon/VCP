@@ -439,7 +439,7 @@
 000439:0:  te: kulasantatimiti<q> manuH.</reN><page>vp1_044.pdf</page><column>2</column><br/>
 000440:0:  te:  %akfzwapacya% tri0 <vp>akfzwe kzetre pacyate</vp><vkr> paca+kyap</vkr> 7 ta
 000441:0:  te: halAdyakfzwakzetre pacyamAne nIvArAdO Sasye.</1><page>vp1_044.pdf</page><column>2</column><br/>
-000442:2:  te:  %akfzRa% pu0 <vg>nAsti kfzRaH malo yasya </vg>ba0.(1) nizkalaNke candre
+000442:2:  te:  %akfzRa% pu0 <vg>nAsti kfzRaH malo yasya. </vg>(1) nizkalaNke candre
 000443:0:  te: candramA vE brahmA'kfzRa<q> iti SrutiH.</reN> na0 ta0.(2) kfzRatva
 000444:0:  te: viroDiSuBratve pu0. (3)tadvati,(4) SudDe ca tri0.</4><page>vp1_045.pdf</page><column>1</column><br/>
 000445:0:  te:  %akfzRakarmman% tri0<vg> na kfzRaM SudDaM karmma yasya.</vg>(1) SudDakarmmakAriRi puRyaSIle.</1><page>vp1_045.pdf</page><column>1</column><br/>
@@ -454,10 +454,10 @@
 000454:3:  te:  %akta% tri0<vkr> ajyate aYja+(karmmaRi)kta.</vkr>(1) kftAYjane,</1><reN> <q>aktaM
 000455:0:  te: rihAraRAM vyantu vaya iti<q> <q>aktAH SarkarA upadaDA
 000456:0:  te: tIti<q> ca SrutiH</reN>(2) parimite, (3)vyApte,(4) saNkule ca.</4><page>vp1_045.pdf</page><column>1</column><br/>
-000457:1:  te:  %aktu% pu0<vkr> aYja+tu ni0.</vkr>(1) rAtrO,(2) tadupalakzite tamasi ca</2><reN> <q>rudraM
+000457:1:  te:  %aktu% pu0<vkr> anja+tu ni0.</vkr>(1) rAtrO,(2) tadupalakzite tamasi ca</2><reN> <q>rudraM
 000458:0:  te: divA vardDayA rudramaktO<q> itivedaH.</reN><page>vp1_045.pdf</page><column>1</column><br/>
-000459:0:  te:  %aktra% na0<vkr> aYja+bA0 ktra.</vkr>(1) varmmaRi.</1><page>vp1_045.pdf</page><column>1</column><br/>
-000460:3:  te:  %akra% tri0<vkr> (aYcu)gatO+rak.</vkr>(1) sTire.</1><reN> <q>udu svarurnavajA nAkraH<q> iti vedaH.</reN><page>vp1_045.pdf</page><column>1</column><br/>
+000459:0:  te:  %aktra% na0<vkr> anja+bA0 ktra.</vkr>(1) varmmaRi.</1><page>vp1_045.pdf</page><column>1</column><br/>
+000460:3:  te:  %akra% tri0<vkr> (ancu)gatO+rak.</vkr>(1) sTire.</1><reN> <q>udu svarurnavajA nAkraH<q> iti vedaH.</reN><page>vp1_045.pdf</page><column>1</column><br/>
 000461:0:  te:  %akrama% tri0 <vp>nAsti kramaH paripAwI pAdaH kramaRaM vA'sya
 000462:0:  te: paripAwISUnye(2) tyaktakrame (3)ekakAle.</3><reN1> <q>taccArTakriyAcAritvaM
 000463:0:  te: kramAkramAByAM vyAptaM na ca kramAkramAByAmanyaH prakAraH
@@ -467,7 +467,7 @@
 000467:0:  te:  %akrAntA% strI <vp>na kramyate sma kaRwakAvftatvAt</vp><vkr> krama+kta</vkr> na
 000468:0:  te: ta0.(1) bfhatyAm.(2) krAntaBinne (3)vizRunA krAnte ca tri0.</3><page>vp1_045.pdf</page><column>1</column><br/>
 000469:1:  te:  %akratu% tri0<vp> nAsti kraturyajYaH saNkalpo vA yasya.</vp>(1) yajYarahite
-000470:2:  te: saNkalparahite ca paramAtmani pu0</2><reN> <q>nyakratUnyarTino gfDravAca
+000470:2:  te: saNkalparahite ca paramAtmani pu0</2><reN> <q>nyakratUnyarTino mfDravAca
 000471:0:  te: iti vedaH.</reN><page>vp1_045.pdf</page><column>1</column><br/>
 000472:0:  te:  %akriyA% strI0<vkr> aBAvArTe na0 ta0.</vkr> (1)kriyABAve</1><reN> <q>praDAnasyA
 000473:0:  te: kriyA yatra sANgaM tat kriyate punaH. tadaNgasyAkriyAyAntu
@@ -489,9 +489,9 @@
 000489:0:  te: azwiH Satf akzRuvan i akzi+kanin akza.</vkr><page>vp1_045.pdf</page><column>2</column><br/>
 000490:0:  te:  %akza% na0<vp> aSnute vyApnoti vizayAn svavfttyA saMyogena vA
 000491:0:  te: aSa+sa.</vkr> (1)indriye,</1><reN1> <q>akzARi paRqitajanA vidurindri
-000492:1:  te: yARi<q> u0</reN1> (2)netre, aDokzaja iti. (3)tutTe (tuzte)(4) sOvarcale
-000493:1:  te: ca. (5)jyotizokte rASicakrAvayavaBede. </5><reN2><q>SuNkurnaronA
-000494:2:  te: kaTitaH sa eva KArdDAdraveryA vizuvaddinArdDe. natiH
+000492:1:  te: yARi<q> u0</reN1> (2)netre, aDokzaja iti. (3)tutTe (tu~te)(4) sOvarcale
+000493:1:  te: ca. (5)jyotizokte rASicakrAvayavaBede. </5><reN2><q>SaNkurnaronA
+000494:2:  te: kaTitaH sa eva svArdDAdraveryA vizuvaddinArdDe. natiH
 000495:0:  te: palo'kzaSca sa eva tajjYEstatronnatiryAsya sa eva lamba iti
 000496:0:  te: sidDAntaSiromaRigaRitADyAyokte vizuvaddinArdDe KArdDApekzayA
 000497:0:  te: natirUpe palAMSaBede pu0.<reN2><reN3> etadvivaraRam BAskarAcAryyeRa
@@ -500,7 +500,7 @@
 000500:0:  te: kzitijAdanyadunmaRqalaM nAma valayaM nAsti tatra DruvO ca
 000501:0:  te: kzitijasaMjYe, aTa nirakzadeSAt drazwA yaTA yaTA
 000502:0:  te: uttarato gacCati taTA taTA udakDruvamunnataM paSyati
-000503:4:  te: taTA yErBAgErDruva unnatastEreva BAgEH akzasaMjYEH KasvastikAt
+000503:4:  te: taTA yErBAgErDruva unnatastEreva BAgEH akzasaMjYEH svasvastikAt
 000504:0:  te: dakziRato vizuvanmaRqalaM nataM paSyatIti<q>.</reN3><reN4> <q>candrASvi
 000505:0:  te: niGnA palaBArdDitA ca laNkAvaDiH syAdiha dakziRo'kza<q> iti
 000506:0:  te: BAsvatI.</reN4><reN5> <q>udagdiSaM yAti yaTA yaTA narastaTA taTA

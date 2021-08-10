@@ -402,7 +402,7 @@
 000402:0: vcp: <HI>{@akutoBaya@}¦ tri0 nAsti kuto'pi BayaM yasya mayU0 sa0 . kuta-
 000403:1: vcp: <>Scidapi BayaSUnye . [Page0040-b+ 38]
 000404:0: vcp: <HI>{@akupya@}¦ na0 gupyate nisvatAvyaYjakatayA--lajjAkaratvAt gupa--kyap
-000405:2: vcp: <>ni0 kasya paH kupyaM rEtyAdi na0 ta0 . svarRe, rUpye ca .
+000405:2: vcp: <>ni0 gasya kaH kupyaM rEtyAdi na0 ta0 . svarRe, rUpye ca .
 000406:0: vcp: <HI>{@akumAra@}¦ tri0 na kumAraH . atItakOmArAvasTe taruRe .
 000407:0: vcp: <HI>{@akula@}¦ tri0 apraSastaM kulamasya na0 ba0 . apraSastakule
 000408:0: vcp: <>“kulAnyakulatAM yAtIti” manuH .
@@ -446,7 +446,7 @@
 000446:0: vcp: <HI>{@aketu@}¦ pu0 nAsti ketuScihnaM yasya . cihnarahite ajYAne,
 000447:2: vcp: <>“ketuM kfRvannaketave” iti vedaH ya0 (29, 37) aketave
 000448:0: vcp: <>ajYAnAyeti vedadIpaH . cihnaDvajAByAM rahite tri0 .
-000449:1: vcp: <HI>{@akOSala@}¦ tri0 na--kuSalaH akuSalastato BavAdO aR Adya-
+000449:1: vcp: <HI>{@akOSala@}¦ tri0 na kuSalaH akuSalastato BavAdO aR Adya-
 000450:0: vcp: <>co vA na vfdDiH . akuSalaBavAdO . Adyaco vA vfdDO
 000451:1: vcp: <>AkOSalo'pyatra . kuSalasya BAvaH aR + na0 ta0 .
 000452:0: vcp: <>asOzWave na0 .
@@ -477,7 +477,7 @@
 000477:1: vcp: <HI>{@akrUra@}¦ tri0 na krUraH . krUraBinne sarale, svanAmaprasidDe vfzRivaMSye kzattriyaBede pu0 .
 000478:0: vcp: <HI>{@akroDa@}¦ pu0 na kroDaH aBAvArTe na0 ta0 . kroDABAve yamaBede
 000479:0: vcp: <>ahiMsA kzAntirakroDaH satyAsteyAparigrahA” iti purA- [Page0041-b+ 38]
-000480:1: vcp: <>Ram . “akroDaM Sikzayantyanye kroDanA ye tapIDanA iti
+000480:1: vcp: <>Ram . “akroDaM Sikzayantyanye kroDanA ye tapoDanA iti
 000481:0: vcp: <>nEza0 na0 ba0 . kroDaSUnye tri0 .
 000482:1: vcp: <HI>{@aklama@}¦ pu0 na klamaH aBAvArTe na0 ta0 . SramABAve . na0
 000483:0: vcp: <>ba0 . SramaSUnye tri0 .
@@ -500,7 +500,7 @@
 000500:0: vcp: <>kzitijAdanyadunmaRqalaM nAma valayaM nAsti tatra DruvO ca
 000501:0: vcp: <>kzitijasaMjYe, aTa nirakzadeSAt drazwA yaTA yaTA
 000502:0: vcp: <>uttarato gacCati taTA taTA udakDruvamunnataM paSyati
-000503:4: vcp: <>taTA yErBAgE rDruvOnnatastEreva BAgEH akzasaMjYEH svasvastikAt
+000503:4: vcp: <>taTA yErBAgErDruva unnatastEreva BAgEH akzasaMjYEH svasvastikAt
 000504:2: vcp: <>dakziRatovizuvanmaRqalaM nataM paSyatIti” . “candrASvi 12
 000505:0: vcp: <>niGnA palaBArdDitA ca laNkAvaDiH syAdiha dakziRo'kza” iti
 000506:0: vcp: <>BAsvatI . “udagdiSaM yAti yaTA yaTA narastaTA taTA
