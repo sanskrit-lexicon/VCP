@@ -1273,7 +1273,7 @@
 001273:0:  te: brahmaRA samam. mahAvyAhftiBirDyAtaH paYcaBistEstadA
 001274:0:  te: tvaTa. jajYe tejo mahArcizmAn paYcavarRaH praBAvanaH
 001275:0:  te: samidDo'gniH Sirastasya bAhU sUryyaniBO taTA. tvaNnetre
-001276:3:  te: ca suvarRABe kfzRe jadGe ca BArata!. paYcavarRaH sa tapasA
+001276:3:  te: ca suvarRABe kfzRe jaNGe ca BArata!. paYcavarRaH sa tapasA
 001277:0:  te: kftastEH paYcaBirjanEH. pAYcajanyaH Sruto devaH paYcavaMSa
 001278:0:  te: karastu saH. daSa varzasahasrARi tapastatvA mahAtapAH
 001279:1:  te: janayat pAvakaM GoraM pitFRAM sa prajAH sfjat. bfha
@@ -1304,7 +1304,7 @@
 001304:0:  te: matirnAma tuzwaH puzwiM prayacCati. Baratyeza prajAH sarvA
 001305:0:  te: stato Barata ucyate. agniryaSca Sivo nAma SaktipUjA
 001306:0:  te: paraSca saH. duHKArttAnAYca sarvezAM Sivakft satataM SivaH
-001307:1:  te: tapasastu PalaM dfzwvA sampravfdDaM tapo mahat. urdDartukAmo
+001307:1:  te: tapasastu PalaM dfzwvA sampravfdDaM tapo mahat. udDartukAmo
 001308:1:  te: matimAn putro jajYe purandaraH. UzmA cEvozmaRo jajYe
 001309:1:  te: so'gnirBUtezu lakzyate. agniScApi manurnAma prAjApatya
 001310:0:  te: makArayat. SamBumagnimaTa prAhurbrAhmaRA vedapAragAH
@@ -1313,7 +1313,7 @@
 001313:0:  te: paYca yajYasutAniha. praSAnto'gnirmahABAga. pariSrAnto
 001314:0:  te: gavAmpatiH. asurAn janayan GorAnmartyAMScEva pfTa
 001315:2:  te: gviDAn. tapasaSca manuM puttraM BAnuYcApyaNgirAH sfjat
-001316:2:  te: bfhadBAnuntuM taM prAhurbrAhmaRA vedapAragAH. BAnorBAryyA
+001316:2:  te: bfhadBAnuntu taM prAhurbrAhmaRA vedapAragAH. BAnorBAryyA
 001317:1:  te: suprajA tu bfhadBAsA tu sUryyajA. asfjetAntu zaw puttrAn
 001318:0:  te: SfRu tezAM prajAviDim. durbbalAnAntu BUtAnAmasUn
 001319:0:  te: yaH samprayacCati. tamagniM baladaM prAhuH praTamaM BAnutaH
@@ -1327,7 +1327,7 @@
 001327:1:  te: nayat kanyAmagnIzomAvuBO taTA. BAnorevABavadBAryyA
 001328:0:  te: suzuve paYca pAvakAn. pUjyate havizAgreRa cAturmmAsyezu
 001329:0:  te: pAvakaH. parjanyasahitaH SrImAnagnirvESvAnarastu saH
-001330:1:  te: asya lokasya sarvvasya yaH praBuH paripadyate. so'gni
+001330:1:  te: asya lokasya sarvvasya yaH praBuH paripaWyate. so'gni
 001331:0:  te: rvviSvapatirnAma dvitIyo vE manoH sutaH. tataH svizwaM
 001332:0:  te: BavedAjyaM svizwakft paramastu saH. kanyA sA rohiRI
 001333:0:  te: nAma hiraRyakaSipoH sutA. karmmaRA'sO baBO BAryyA
@@ -1338,7 +1338,7 @@
 001338:0:  te: paramarziYca yamprAhuryatayaH sadA. agniH sa kapilo nAma
 001339:0:  te: sANKyayogapravarttakaH. agraM yacCanti BUtAnAM yena BUtAni
 001340:0:  te: nityadA. karmmasviha vicitrezu so'graRIrvahnirucyate
-001341:1:  te: imAnanyAm samasfjat pAvakAn praTitAn Buvi. agni
+001341:1:  te: imAnanyAn samasfjat pAvakAn praTitAn Buvi. agni
 001342:1:  te: hotrasya duzwasya prAyaScittArTamulbaRAn. saMspfSeyuryadA
 001343:1:  te: 'nyo'nyaM kaTaYcidvAyunA'gnayaH. izwirazwAkapAlena kAryyA
 001344:0:  te: vE Sucaye'gnaye. dakziRAgniryadA dvAByAM saMsfjeta tadA
@@ -1361,7 +1361,7 @@
 001361:0:  te: rgfhapatirnAma nityaM yajYezu pUjyate. hutaM vahati yo
 001362:0:  te: havyamasya lokasya pAvakaH. apAM garBo mahABAgaH sattva
 001363:0:  te: Bugyo mahAdButaH. BUpatirBuvaBarttA ca mahataH patirucyate
-001364:1:  te: dahanmftAni BUtAni tasyAgniBarato'Bavat. agnizwome
+001364:1:  te: dahanmftAni BUtAni tasyAgnirBarato'Bavat. agnizwome
 001365:0:  te: ca niyataH kratuSrezWo Barasya tu. sa vahniH praTamo nityaM
 001366:1:  te: devEranvizyate praBuH. AyAntaM niyataM dfzwvA praviveSArRavaM
 001367:1:  te: BayAt. devAstatrADigacCanti mArgamARA yaTAdiSam
@@ -1392,8 +1392,8 @@
 001392:0:  te: carmmaRvatI satI cEva BeDyA meDAtiTistadA. tAmrAvatI
 001393:0:  te: vetravatI nadyastrisro'Ta kOSikI. tamasA narmadA cEva nadI
 001394:5:  te: godAvarI taTA. veRopaveRA BImA ca vaqavA cEva BArata
-001395:1:  te: BAratI suprayogA ca kAverI murmarA taTA. tuNgaveRA
-001396:1:  te: kfzRaveRA kapilA SoRa eva ca. etA nadyastu GizRyAnAM
+001395:1:  te: BAratI suprayogA ca kAverI murmurA taTA. tuNgaveRA
+001396:1:  te: kfzRaveRA kapilA SoRa eva ca. etA nadyastu DizRyAnAM
 001397:2:  te: mAtaro yAH prakIrttitAH. adButasya priyA BAryyA tasya putro
 001398:0:  te: viBUrasiH. yAvantaH pAvakAH proktA somAstAvanta eva tu
 001399:0:  te: atreScApyanvaye jAtA brahmaRo mAnasAH prajAH. atriH
@@ -1422,7 +1422,7 @@
 001422:1:  te: devatAnAM lakzaRasyABihitatvAdanantaraM yataH pratipadaM
 001423:0:  te: viSezeRa vaktavyatvamAkANkzitamato'nukrameRa vakzyAmaH. tatra
 001424:1:  te: pfTivIloke sTito'gniH praTamaM vyAKyAsyate. kasmAt
-001425:1:  te: pravfttinimittAdagniSabdena devatABiDIyate ? iti praSnasyA
+001425:1:  te: pravfttinimittAdagniSabdena devatABiDIyata ? iti praSnasyA
 001426:0:  te: graRIrityAdikamuttaram. devasenAmagre svayaM nayatItya
 001427:0:  te: graRIH. etadekamagniSabdasya pravfttinimittam. taTA ca
 001428:0:  te: brAhmaRAntaram. <q>agnirvE devAnAM senAnIriti<q>. eta
@@ -1432,7 +1432,7 @@
 001432:0:  te: ragre praTamo devatAnAmiti<q> mantraH. <q>agniravamo devatAnA
 001433:2:  te: miti<q>ca. vAjasaneyinastvevamAmananti. <q>sa vA ezo
 001434:0:  te: 'gre devatAnAmajAyata tasmAdagnirnAmeti<q>. yajYezvagniho
-001435:0:  te: trezwipaSusomarUpezvagraM pUrbbadigvartyAhavanIyadeSaM prati
+001435:0:  te: trezwipaSusomarUpezvagraM pUrvvadigvartyAhavanIyadeSaM prati
 001436:0:  te: gArhapatyAtpraRIyata iti dvitIyaM pravfttinimittam. sanna
 001437:2:  te: mamAnaH samyak svayameva prahvIBavannaNgaM svakIyaM SarIraM
 001438:0:  te: nayati kAzWadAhe haviH pAke ca prerayatIti tftIyaM pravftti
@@ -1441,7 +1441,7 @@
 001441:0:  te: knopayatItyukte na snehayati kintu kAzWAdikaM rUkzayatItyuktaM
 001442:0:  te: Bavati. SAkapURinAmako nirUktakAro DAtutrayAdagni
 001443:0:  te: SabdanizpattiM manyate. itaH iR gatO iti DAtuH
-001444:1:  te: akto'bju vyaktimnakzaRagatizu iti DAtuH. dagDo daha
+001444:1:  te: akto'nju vyaktimnakzaRagatizu iti DAtuH. dagDo daha
 001445:0:  te: BasmIkaraRe iti DAtuH. nIto RIY prApaRe iti
 001446:0:  te: DAtuH. agniSabdo hyakAragakAraniSabdAnapekzamARa
 001447:0:  te: etiDAtorutpannAdayanaSabdAdakAramAdatte. anaktiDAtu
