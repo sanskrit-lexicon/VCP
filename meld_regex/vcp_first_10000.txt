@@ -3604,10 +3604,10 @@
 003604:0: vcp: <>vyAptyarTakapratinA yogAt pratyakSabdaH tasya sarvavizaya-
 003605:0: vcp: <>vyApakatvAt pratyaktvam . ni + nyUnIBAve nyaYcati nyaN
 003606:0: vcp: <>nyagBAvaH nyakkAraH . ava + aDogatO, dakziRadigvfttO
-003607:1: vcp: <>ca . avAYcati avAN (aGomuKaH) avAcI (dakziRA dik)
-003608:1: vcp: <>yaTA ca uttaradakziRayoH UrdDAGoBAvastayA avAkSabde
+003607:1: vcp: <>ca . avAYcati avAN (aDomuKaH) avAcI (dakziRA dik)
+003608:1: vcp: <>yaTA ca uttaradakziRayoH UrdDADoBAvastayA avAkSabde
 003609:0: vcp: <>vakzyate .
-003610:3: vcp: <HI>{@aca@}¦ gatO pUjAyAm idit uBa0 saka0 seW ktvA vew .
+003610:3: vcp: <HI>{@aca@}¦ gatO pUjAyAm idit uBa0 saka0 sew ktvA vew .
 003611:0: vcp: <>aYcati te AYcIt AYcizwa . ktvA aNktvA--aYcitvA .
 003612:0: vcp: <>upasargAt ancuvat . “nyaYcate pratyahaM moho yasmAnnyaYcanti
 003613:0: vcp: <>cAraya” iti kavira0 .
@@ -3636,12 +3636,12 @@
 003636:0: vcp: <>nujamanujAdityadEtyaM samantAt . sarvataH parvatArAmagrAma-
 003637:0: vcp: <>cEtyacayEScitaH . kadambakusumagranTiH kesaraprakarEriva .
 003638:0: vcp: <>yaTozRatArkAnalayoSca, SItatA viDO, drutiH ke,
-003639:1: vcp: <>kaWinatvamaSmani . maruccalI BUracalA svaBAvato yato
-003640:1: vcp: <>vicitrA vata vastuSaktayaH . AkfzwaSaktiSca mahI tayA yat
+003639:1: vcp: <>kaWinatvamaSmani . maruccalo BUracalA svaBAvato yato
+003640:1: vcp: <>vicitrA bata vastuSaktayaH . AkfzwaSaktiSca mahI tayA yat
 003641:0: vcp: <>KasTaM guru svABimuKaM svaSaktyA . Akfzyate tatpatatIva BAti
 003642:0: vcp: <>same samantAt kva? patatviyaM Ke” iti . AryyaBawwamate tu
 003643:0: vcp: <>asyAScalatve'pi acalAH parvatAH santyatra astyarTe'ci .
-003644:1: vcp: <>acalavattvAt svakakzAto vahirgamanABAvAdvA acala-
+003644:1: vcp: <>acalavattvAt svakakzAto bahirgamanABAvAdvA acala-
 003645:0: vcp: <>tvam . tena ca tasyAScalatvaM dfzwAntaviDayoktaM tacca vistarato
 003646:0: vcp: <>BUgolaSabde vakzyate . calanaSUnye tri0 “tasmAttvamacaloBa-
 003647:1: vcp: <>veti” kalasasTApanamantraH . “tasmAnmama gfhe nityaM lakzmi!
@@ -3656,11 +3656,11 @@
 003656:1: vcp: <>raBavattasya menAyAH kanyakA suteti” SivapurARe prapaYcena
 003657:0: vcp: <>darSitA . tanmUlaM kumAre coktam “aTAvamAnena pituH prayuktA
 003658:2: vcp: <>dakzasya kanyA BavapUrvvapatnI . satI satI yogavisfzwadehA
-003659:1: vcp: <>tAM janmane SElabaDUM prapede . sA BUDarARAmaDipena
+003659:1: vcp: <>tAM janmane SElavaDUM prapede . sA BUDarARAmaDipena
 003660:0: vcp: <>tasyAM samADimatyAmudapAdi Bavyeti” iti acalasutA-
 003661:0: vcp: <>dayopyatra .
 003662:0: vcp: <HI>{@acalakIlA@}¦ strI acalAH kIlA iva yasyAH . pfTivyAm .
-003663:2: vcp: <>acalasya sumeroH kIla iva, acalaH kIlEvAva-
+003663:2: vcp: <>acalasya sumeroH kIla iva, acalaH kIla ivAva-
 003664:0: vcp: <>zwamBakatvAdvA . kizkamBaparvatezu mandarAdizu pu0 . te ca
 003665:0: vcp: <>sumerumupavarRya, “vizkamBaSElAH Kalu mandaro'sya suganDaSElo
 003666:0: vcp: <>vipulaH supArSva iti” si0 Si0 go0 darSitAstezAM svarU-
@@ -3681,7 +3681,7 @@
 003681:0: vcp: <>“SElAnAM himavantaM ca nadInAYcEva sAgaram . ganDarvvARA-
 003682:1: vcp: <>maDipatiM cakre citraraTaM viDiriti” brahmapurARe tasyA-
 003683:0: vcp: <>calarAjatvamuktam acalADipAdayopyatra .
-003684:1: vcp: <HI>{@acApala@}¦ na0 capalasya BAvaH aR na0 ta0 . cAYcalyaviroGi-
+003684:1: vcp: <HI>{@acApala@}¦ na0 capalasya BAvaH aR na0 ta0 . cAYcalyaviroDi-
 003685:0: vcp: <>sTiratAyAm . ba0 . cAYcalyaSUnye sTire tri0 .
 003686:0: vcp: <HI>{@acApalya@}¦ na0 capalasya BAvaH zyaY na0 ta0 . cAYcalya
 003687:0: vcp: <>viroDisTiratAyAm va0 . ba0 . cAYcalyaSUnye tri0 .
@@ -3704,9 +3704,9 @@
 003704:0: vcp: <>Druvamiti purA0 . acirAMSuH acirapraBA aciradyutiH .
 003705:1: vcp: <HI>{@aciratviz@}¦ strI acirA alpakAlasTAyinI tviw kAnti-
 003706:0: vcp: <>rasyAH . vidyuti . alpakAlakAntiyukte tri0 .
-003707:1: vcp: <HI>{@aciradyutiH@}¦ strI acirA alpakAlasTAyinI dyutiryasyAH .
+003707:1: vcp: <HI>{@aciradyuti@}¦ strI acirA alpakAlasTAyinI dyutiryasyAH .
 003708:1: vcp: <>vidyuti . alpakAlasTAyidyutimati tri0 . karmma0 .
-003709:1: vcp: <>alpakAlasyAyinyAM kAntO strI . [Page0084-a+ 38]
+003709:1: vcp: <>alpakAlasTAyinyAM kAntO strI . [Page0084-a+ 38]
 003710:0: vcp: <HI>{@acirapraBA@}¦ strI acirA acirasTAyinI praBA yasyAH .
 003711:0: vcp: <>vidyuti . “cyutA divaH sTAsnurivAcirapraBeti” BawwiH .
 003712:0: vcp: <>alpakAlasTAyipraBAvati tri0 . karmma0 . acirAyAM
@@ -3725,7 +3725,7 @@
 003725:0: vcp: <HI>{@acireRa@}¦ avya0 cireRetyavyayasya na0 ta0 . alpakAle
 003726:0: vcp: <>SIGre ca .
 003727:0: vcp: <HI>{@acizRu(zwu)@}¦ tri0 aca--gatO bA0 izRu(zwu)c . gamanaSIle .
-003728:2: vcp: <>“tvazwA daDacCuyamindrAya vfzRe'pAko'cizRu(zwu)riti” yaju0
+003728:2: vcp: <>“tvazwA daDacCuBamindrAya vfzRe'pAko'cizRu(zwu)riti” yaju0
 003729:0: vcp: <>aci(zwu)zRuH sarvvagata iti vedadIpaH .
 003730:0: vcp: <HI>{@acetana@}¦ tri0 cetanA jYAnam na0 ba0 . cetanASUnye . cita-
 003731:0: vcp: <>lyu na0 ta0 . jYAnaviSizwaBinne . jYAnaYca dviviDaM viza-
@@ -3739,22 +3739,22 @@
 003739:1: vcp: <>tatrAjYAnaM DiyA naSyedABAsAttu GawaH sPuret” ityuktamiti
 003740:0: vcp: <>vedAntinaH . sAMKyAstu vizayoparaktA vfttiScitO prati-
 003741:0: vcp: <>vimbati tenEva vizayAvaBAsaH “tasmiMSciddarpaRe sPAre
-003742:1: vcp: <>samastA vastudfzwayaH . imAstAH prativimbanti sarasIva tawa-
+003742:1: vcp: <>samastA vastudfzwayaH . imAstAH pratibimbanti sarasIva tawa-
 003743:0: vcp: <>drumA” iti manyante . nEyAyikAstu sAMKyavedAntimatasidDaM
 003744:1: vcp: <>yat vfttirUpaM jYAnaM tatsTAnIyamAtmanaScEtanyamurarIcakruH .
 003745:0: vcp: <>tAdfSavfttO tatsTAnIyajYAne ca AtmamanaHsaMyogAdayaH
 003746:1: vcp: <>kAraRAni . AByantarasuKAdivizayagrahaRe manaHkaraRam,
-003747:3: vcp: <>indriyARi tu svasvagrAhyavipayagrahaRe karaRAni, “indri- [Page0084-b+ 38]
-003748:2: vcp: <>yArTasannikarzotpanna jYAna pratyakzamiti” gOtamasUtre “prati-
+003747:3: vcp: <>indriyARi tu svasvagrAhyavizayagrahaRe karaRAni, “indri- [Page0084-b+ 38]
+003748:2: vcp: <>yArTasannikarzotpannaM jYAnaM pratyakzamiti” gOtamasUtre “prati-
 003749:0: vcp: <>vizayADyavasAya iti” sAMKyasUtre ca taTEva svasvavizayezvi-
 003750:0: vcp: <>ndriyARAM grAhakatA uktA . tacca tattacCabdAvasare darSayi-
-003751:1: vcp: <>zyate . evaYca AByantare suKAdO mana iva, vAhyezu SabdA-
-003752:1: vcp: <>dizu SrotrAdIni asADAraRakAraRAni . manastu vAhyezu
+003751:1: vcp: <>zyate . evaYca AByantare suKAdO mana iva, bAhyezu SabdA-
+003752:1: vcp: <>dizu SrotrAdIni asADAraRakAraRAni . manastu bAhyezu
 003753:0: vcp: <>sarvatra sADAraRakAraRamiti BedaH . evaYca jYAnakAraRendri-
 003754:0: vcp: <>yaSUnye evAcetanaSabdasya pravfttiH . ataevoktaM “sendriyaM
 003755:0: vcp: <>cetanaM dravyaM nirindriyamacetanamiti” . evaYca vfkzAdInA-
 003756:0: vcp: <>mapi antaHkaraRAdimattvamastyeva . anyaTA suKaduHKAnuBavo
-003757:2: vcp: <>na syAt . tezAM hi KakarmmAnusAriduHKaBogArTameva pApenEva
+003757:2: vcp: <>na syAt . tezAM hi svakarmmAnusAriduHKaBogArTameva pApenEva
 003758:0: vcp: <>sTAvaratvaprAptiH . ataeva “mahApAtakajAn GorAn
 003759:0: vcp: <>narakAn prApya dAruRAn . karmakzayAt prajAyante mahApAta-
 003760:0: vcp: <>kinastviha” ityupakramya “tfRagulmalatAtvaYca kramaSo
@@ -3764,7 +3764,7 @@
 003764:0: vcp: <>vfkzAdirUpasTAvarajanma tenEvoktamatastezAM duHKaBogarTameva
 003765:0: vcp: <>vfkzAdirUpatvaprAptO indriyABAve kaTaNkAraM te duHKamanuBa-
 003766:0: vcp: <>veyurityavaSyaM tezu indriyAdimattvamastyeva . ataeva padmaM
-003767:1: vcp: <>saro'ntara gacCati, SAKA cCinnApi cetanasaMyogAt punaH
+003767:1: vcp: <>saro'ntaraM gacCati, SAKA cCinnApi cetanasaMyogAt punaH
 003768:0: vcp: <>prarohatItyupalaByate . ataeva ca SrutO “aTa jIvo yAM
 003769:0: vcp: <>jahAti sA SuzyatI” tyuktam . tena tezAM jIvasaMbanDo'styeva
 003770:0: vcp: <>kintu viSizwacetanASUnyatvAdeva tezu acetanatvavyavahAra iti
@@ -3774,7 +3774,7 @@
 003774:0: vcp: <>nirmmARamanyaTA pUtiBAvaprasaNga” iti sAMNKye ca cetana-
 003775:1: vcp: <>sambanDe eva BogAyatanarUpadehotpattiruktA . tezAYca BogA-
 003776:0: vcp: <>yatanadehavattve'pi sarvendriyasTAnagolakAderaBAvAt na darSa-
-003777:2: vcp: <>nAdi kintu tvAcapratyakza GrARajapratyakza ca Bavatyeva ataeva
+003777:2: vcp: <>nAdi kintu tvAcapratyakzaM GrARajapratyakzaM ca Bavatyeva ataeva
 003778:0: vcp: <>agnyAdiKaratarakiraRasparSe tezAM SuzkatA, ozaDi-
 003779:0: vcp: <>viSezajaDUmAdisamparke ca tadGrARAt puzpaPalotpattiH .
 003780:0: vcp: <>ata eva tezAM dvIndriyatvena vyavahAraH yaToktam “paYce-
@@ -3817,8 +3817,8 @@
 003817:0: vcp: <>taddehAvacCedenEva cezwA jAyate nAnyasmin sA ca udyama-
 003818:0: vcp: <>rUpEva . manovAyuBinnadravyasya na svataHkriyA samBavati
 003819:0: vcp: <>kintu gurudravyAdyAGAtanodanAdinEva kriyA Bavati
-003820:1: vcp: <>nA yaTA . taTA ca hastAdicAlanadarSanAt tatkAraRI-
-003821:1: vcp: <>BUtanodanAdikamanumIyate tacca nIdanam Atmakartfkameva
+003820:1: vcp: <>nAnyaTA . taTA ca hastAdicAlanadarSanAt tatkAraRI-
+003821:1: vcp: <>BUtanodanAdikamanumIyate tacca nodanam Atmakartfkameva
 003822:0: vcp: <>anyasyAnupalabDeH . aDikaM cezwASabde vakzyate .
 003823:0: vcp: <HI>{@acezwatA@}¦ strI acezwasya BAvaH . cezwArAhitye . [Page0085-b+ 38]
 003824:1: vcp: <HI>{@acEtanya@}¦ tri0 nAsti cEtanyaM cetanA yasya . cEtanya-
@@ -3849,7 +3849,7 @@
 003849:0: vcp: <>ityupakramya, “tasyartvijaH, catvArastripuruzAH, tasya tasyottare
 003850:1: vcp: <>trayaH, hotA, mEtrAvaruRo'cCAvAkogrAvastut, aDvaryuH, prati-
 003851:0: vcp: <>prasTitA nezwonnetA, brahmA, brAhmaRAcCaMsyAgnIDraH potA,
-003852:1: vcp: <>udgAnA, prastotA pratiharttA subrahmaRya iti, ete'hInEkAhEryA-
+003852:1: vcp: <>udgAtA, prastotA pratiharttA subrahmaRya iti, ete'hInEkAhEryA-
 003853:1: vcp: <>jayanti, eta evAhitAgnaya izwapraTamayajYA gfhapatisaptadaSA
 003854:1: vcp: <>dIkzitvA samApyAgnIMstanmuKAH satrARyAsate” iti . “asyA-
 003855:0: vcp: <>yamarTaH, darSapUrRamAsAByAmizwvA paScAdvA tadyajamAnaH purastAdvA
@@ -3861,9 +3861,9 @@
 003861:2: vcp: <>zoqaSartvijaH svayamapyAhitAgnayaH praTamayajYenAgnome- [Page0086-a+ 38]
 003862:1: vcp: <>nezwvA gfhapatisaMjYakena saptadaSasaMKyApUrakeRa sahitA dvAda-
 003863:0: vcp: <>SAhAdisatrArTaM dIkzitvA svasvasambanDino'gnInekatra sTApa-
-003864:1: vcp: <>yitvA tatpraDAnAH satrARyupatizWeyuH iti” mAzyam .
+003864:1: vcp: <>yitvA tatpraDAnAH satrARyupatizWeyuH iti” BAzyam .
 003865:0: vcp: <>“yadacCAvAkamanusantizWate iti” tA0 brA0 . acCAvAka-
-003866:1: vcp: <>Sabdo'styatra Ca . acCAvAkIyam taccabdayukte sUktaBede, tacca
+003866:1: vcp: <>Sabdo'styatra Ca . acCAvAkIyam tacCabdayukte sUktaBede, tacca
 003867:0: vcp: <>sUktam” acCAvAka! vadasvetyukto'cCA vo agnimavasa iti
 003868:0: vcp: <>tfcamanvAhetyAdinA” darSitam . acCAvAkasyeyam yat .
 003869:0: vcp: <>acCAvAkyA . acCAvAkartvik--pAWyAyAmfci . “ezA
@@ -3893,19 +3893,19 @@
 003893:0: vcp: <>santatapatrayuktavfkzamAtre ca . acCinnaparRAdayo'pyatra .
 003894:0: vcp: <HI>{@acCedika@}¦ tri0 CedanaM nArhati Wan . CedanAnarhe .
 003895:0: vcp: <HI>{@acCedya@}¦ tri0 na Cettumarhati Cida--arhArTe karmmaRi yat .
-003896:1: vcp: <>CedanAnarhe . Atmani pu0 “acCedyo'yanadAhyo'yamakle-
+003896:1: vcp: <>CedanAnarhe . Atmani pu0 “acCedyo'yamadAhyo'yamakle-
 003897:0: vcp: <>dyo'Sozya eva ceti” gItA . AtmanaSca avayavABAvAt
 003898:0: vcp: <>avayavadvEDIkaraRarUpacCedanAnarhatvAt taTAtvam .
 003899:0: vcp: <HI>{@acCoda@}¦ na0 acCaM nirmmalamudakaM yasya udAdeSaH . himAlaya [Page0086-b+ 38]
-003900:1: vcp: <>pradeSasTe kAdambarI prasidDe sarovaraBede . “AhlAdanaM dfzweH,
+003900:1: vcp: <>pradeSasTe kAdambarIprasidDe sarovaraBede . “AhlAdanaM dfzweH,
 003901:0: vcp: <>acCodaM nAma saro dfzwavAniti” kAda0 . nadIBede strI .
 003902:0: vcp: <>agnizvAttAdIn prakramya, “etezAM mAnasI kanyA acCodA
 003903:0: vcp: <>nAma nimnagA” iti purA0 .
-003904:2: vcp: <HI>{@acyuta@}¦ pu0 KarUpasAmarTyAnna cyuto na cyavate na cyavizyate
+003904:2: vcp: <HI>{@acyuta@}¦ pu0 svarUpasAmarTyAnna cyuto na cyavate na cyavizyate
 003905:0: vcp: <>vA cyu--kAlasAmAnye karttari kta na0 ta0 . parameSvare
 003906:0: vcp: <>“SAsvataM Sivamacyutamiti” SrutiH . “yasmAnna cyuta-
-003907:5: vcp: <>pUrvvI'hamacyutastena karmmaReti” BagadvAkyam . “tena cyutyaBAva
-003908:2: vcp: <>rUpapravfttimittene” tyAnandagiriH . tadavatAraBede vAsudeve
+003907:5: vcp: <>pUrvvo'hamacyutastena karmmaReti” BagavadvAkyam . “tena cyutyaBAva
+003908:2: vcp: <>rUpapravfttinimittene” tyAnandagiriH . tadavatAraBede vAsudeve
 003909:1: vcp: <>“iyamacyutalIlAQyA sadvfttA jAtiSAlinIti” CandomaYjarI
 003910:0: vcp: <>acyutasya lIlA acyutA aBrazwA lIlA ca . zaqBAva-
 003911:0: vcp: <>vikArarahite ca “acyutaH praTitaH prARa” iti sahasra
@@ -3933,11 +3933,11 @@
 003933:0: vcp: <HI>{@aja@}¦ dIptO idit curAdi0 uBaya0 sew aka0 . aYjayati
 003934:0: vcp: <>te . AYjijat ta .
 003935:0: vcp: <HI>{@aja@}¦ pu0 na jAyate jana qa na0 ta0 . ISvare, “na jAto na
-003936:2: vcp: <>janizyate” iti SruteH “na hi jAtI na jAye'ha na
-003937:2: vcp: <>janizye kadAcana . kzetrajYaH savaBUtAnAM tasmAdahasajaHsmftaH” [Page0087-a+ 38]
+003936:2: vcp: <>janizyate” iti SruteH “na hi jAto na jAye'haM na
+003937:2: vcp: <>janizye kadAcana . kzetrajYaH sarvaBUtAnAM tasmAdahamajaHsmftaH” [Page0087-a+ 38]
 003938:0: vcp: <>iti BAra0 . jIve ca “ajonityaH SASvato'yaM purARo
 003939:0: vcp: <>na hanyate hanyamAne SarIre” iti gItA . “jahAtyenAM
-003940:1: vcp: <>BuktaBogAmajo'nya iti” SrutiH . sa hi svIpADiBUta
+003940:1: vcp: <>BuktaBogAmajo'nya iti” SrutiH . sa hi svopADiBUta
 003941:0: vcp: <>budDinizWakarmmaBirArabDadehamaDizWAya budDinizWakarttftvAdika-
 003942:0: vcp: <>mAtmanyaBimanyamAnaH jIva iti vyavahriyate “na jAyate
 003943:3: vcp: <>mriyate vA kaTaYcit nAyaM BUtvA BavitA vA na BUya” iti
@@ -3952,11 +3952,11 @@
 003952:0: vcp: <>sUtreRa upADiBede'pi upahitasyEkatvena na BedaH, viSizwa-
 003953:0: vcp: <>syAnatiriktatayA na janmAdivyavasTeti puruzabahutvamaNgI-
 003954:0: vcp: <>cakruH karttftvAdikaM budDigatamapi svopAhitacEtanye eva
-003955:1: vcp: <>prativimbati tena tadaviviktacEtanye tadavaBAsAt puruzasya
+003955:1: vcp: <>pratibimbati tena tadaviviktacEtanye tadavaBAsAt puruzasya
 003956:0: vcp: <>BogaH, “cidavasAnoBoga iti” sUtre taTEva pratipAdanAt
 003957:0: vcp: <>evaYca yAvatyaH budDivyaktayastAvanta eva puruzAH svasvopADikftaM
 003958:0: vcp: <>karmmAdikaM svakarttfkatayA aBimanyamAnAstatprayuktaM suKa-
-003959:2: vcp: <>duHKAdikamAtmIyatvena aBimanyamAnAH BoktArEti vyava-
+003959:2: vcp: <>duHKAdikamAtmIyatvena aBimanyamAnAH BoktAra iti vyava-
 003960:0: vcp: <>hriyante ataevoktam “budDerBoga ivAtmanIti” . “kAmaH
 003961:0: vcp: <>saMkalpo cikitsA SradDA'SradDA DftiraDftirhrIrDIrBIrityetat
 003962:0: vcp: <>sarvaM mana eveti” SruteH jYAnAdivfttInAM manojanyatvAt
@@ -3969,7 +3969,7 @@
 003969:0: vcp: <>nenAparasyAnusanDAnaprasaNga iti sAMKyaBedAntayostulyam .
 003970:0: vcp: <>viSizwasyAtiriktatvAnatirikta eva tayorvisaMvAdaH . nEyA-
 003971:0: vcp: <>yikavESezikAdayastu jYAnAdayo jIvaDarmmAH jIvASca
-003972:1: vcp: <>vahavaH nityA viBavaSca karttftvaM BoktftvaYca jIvAnA-
+003972:1: vcp: <>bahavaH nityA viBavaSca karttftvaM BoktftvaYca jIvAnA-
 003973:0: vcp: <>meva DarmmaH, tezAM viButve'pi svAdfzwArabDadehezveva saMyoga-
 003974:0: vcp: <>viSezaH saeva janma, tadviyogaSca saraRamityeva viSezaH na tu
 003975:1: vcp: <>svato janmanASAviti svIcakruH . tena tanmate'pi na aja- [Page0087-b+ 38]
@@ -3990,10 +3990,10 @@
 003990:0: vcp: <>tezAM mate jIvatvAt tadvivaraRaM cetanaSabde vakzyate .
 003991:0: vcp: <>sOgatAdimate tu jIvAnAM saMvidanatiriktatayA sarva-
 003992:0: vcp: <>saMvidanusyUtatvAt janmAntaraBAvinaH apavargarUpaPalAdeH
-003993:2: vcp: <>svIkArAcca nityatva, nityatvAcca ajatvamiti BedaH .
+003993:2: vcp: <>svIkArAcca nityatvaM, nityatvAcca ajatvamiti BedaH .
 003994:0: vcp: <>“satvaM rajastama iti prakfte rguRAstEryuktaH paraH puruza eka
 003995:1: vcp: <>ihAsya Datte . sTityAdaye hariviriYcihareti saMjYA” mityu-
-003996:5: vcp: <>kteSca ISvarasyEva KopADimAyAgatasatvarajaAdyupADiBiH
+003996:5: vcp: <>kteSca ISvarasyEva svopADimAyAgatasatvarajaAdyupADiBiH
 003997:0: vcp: <>janmasTitinASanarUpakAryyakaraRArTamAyAvirBAvAt ajasvarU-
 003998:0: vcp: <>pAnanatirekAt tezAmajatvaM tena brahmaRi, vizRO, hare ca
 003999:0: vcp: <>pu0 . na jAyate ityajA . sAMKyamatasidDapraDAnAparaparyyAye
