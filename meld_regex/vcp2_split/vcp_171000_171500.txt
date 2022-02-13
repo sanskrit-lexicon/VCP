@@ -1,500 +1,500 @@
-171001:1: vcp: <>rnizpatantyaH” f0 10 . 24 . 5 . “kAviM kfpamARamakfRutaM
-171002:0: vcp: <>vicakze” f0 1 . 116 . 14 .
+171001:1: vcp: rnizpatantyaH” f0 10 . 24 . 5 . “kAviM kfpamARamakfRutaM
+171002:0: vcp: vicakze” f0 1 . 116 . 14 .
 171003:1: vcp: <HI>{@krama@}¦ pAdavikzepaRena gatO BvA0 para0 saka0 saw . asya sArvva- [Page2288-a+ 38]
-171004:0: vcp: <>DAtuke vA Syan seqamantatvAt atiNi Riti Yiti ciRi
-171005:0: vcp: <>pare na vfdDiH . karttari kramyati krAmati . kramyet--krAmet .
-171006:0: vcp: <>kramyatu krAmatu . akramyat akrAmat . akramIt . cakrAma .
-171007:1: vcp: <>kramitA kamyAt kramizyati . akramizyat . karmmaRi kra-
-171008:1: vcp: <>myate . akrami . Rici iRRa mulo rvA vfdDiH . kramayati--te .
-171009:0: vcp: <>acikramat--ta . karmmaRi kramyate . akra(krA)mi . kra(krA)
-171010:2: vcp: <>mitAse kramayitAse . kftsu kramaRIyam . kramitavyam kramyam
-171011:0: vcp: <>kramaRam . kramakaH . kramI . kramitA . krAntiH . kramitum . u-
-171012:2: vcp: <>dit kramitvA krAntvA . saMkramya . kramaM kramam . RicoRamuli
-171013:2: vcp: <>vA vfdDiH kra(krA)maM kra(krA)mam . kramyan krAman . kramizyan
-171014:0: vcp: <>kramizyamARaH . Ryantasya kramayitA kramitaH . kramayitum .
-171015:0: vcp: <>kramayitavyam . ktinnAsti yuc kramaRA . krama--yan mARaH
-171016:0: vcp: <>kramayizyan . karmmaRi kramyamARaH . kra(krA)mizyamARaH .
-171017:0: vcp: <>kramayizyamARaH . sani cikramizati Atma0 cikraMsate .
-171018:1: vcp: <>“samudrAt paScime pUrvaM dakziRAdapi cOttarA . krAmatyanu-
-171019:2: vcp: <>dite sUryye vAlI vyapagataklamaH” rAmA0 ki0 80 a0 . “devA
-171020:1: vcp: <>imAllo~kAnakramanta” Sata0 vrA0 6 . 7 . 2 . 10 “vizRustvA kra-
-171021:1: vcp: <>matAm” yaju0 1 . 9 . “pAdenAkramyArohatu” vedadI0 .
-171022:1: vcp: <>“hatvA rakzAMsi lavitumakramInmArutiH punaH” BawwiH “vf-
-171023:0: vcp: <>todvijAgryEraBipUjyamAnaH cakrAma vajrIva diteH sutezu”
-171024:1: vcp: <>BA0 A0 193 a0 . “kramaM vabanDa kramituM sakopaH”
-171025:2: vcp: <>“krantvA krantvA sTitaM kvacit” BawwiH . paropakramavat
-171026:1: vcp: <>aprativanDAdO Atma0 . “na tatra kramate mftyurnajarA
-171027:0: vcp: <>na ca pAvakaH” BA0 Anu0 83 a0 . “hareryadakrAmi
-171028:1: vcp: <>padEkakena Kam” nEzaDe akrAmItyasADu . svArTeRici-
-171029:0: vcp: <>kaTaYcit sADu ityanye . nizWAyAM new krAnta ityAdi
-171030:0: vcp: <>kOwilye yaN caMkramyate nAgaH . “so'pi caMkramyamARaH
-171031:1: vcp: <>kUpe papAta” BA0 A0 700 Slo0 .
+171004:0: vcp: DAtuke vA Syan seqamantatvAt atiNi Riti Yiti ciRi
+171005:0: vcp: pare na vfdDiH . karttari kramyati krAmati . kramyet--krAmet .
+171006:0: vcp: kramyatu krAmatu . akramyat akrAmat . akramIt . cakrAma .
+171007:1: vcp: kramitA kamyAt kramizyati . akramizyat . karmmaRi kra-
+171008:1: vcp: myate . akrami . Rici iRRa mulo rvA vfdDiH . kramayati--te .
+171009:0: vcp: acikramat--ta . karmmaRi kramyate . akra(krA)mi . kra(krA)
+171010:2: vcp: mitAse kramayitAse . kftsu kramaRIyam . kramitavyam kramyam
+171011:0: vcp: kramaRam . kramakaH . kramI . kramitA . krAntiH . kramitum . u-
+171012:2: vcp: dit kramitvA krAntvA . saMkramya . kramaM kramam . RicoRamuli
+171013:2: vcp: vA vfdDiH kra(krA)maM kra(krA)mam . kramyan krAman . kramizyan
+171014:0: vcp: kramizyamARaH . Ryantasya kramayitA kramitaH . kramayitum .
+171015:0: vcp: kramayitavyam . ktinnAsti yuc kramaRA . krama--yan mARaH
+171016:0: vcp: kramayizyan . karmmaRi kramyamARaH . kra(krA)mizyamARaH .
+171017:0: vcp: kramayizyamARaH . sani cikramizati Atma0 cikraMsate .
+171018:1: vcp: “samudrAt paScime pUrvaM dakziRAdapi cOttarA . krAmatyanu-
+171019:2: vcp: dite sUryye vAlI vyapagataklamaH” rAmA0 ki0 80 a0 . “devA
+171020:1: vcp: imAllo~kAnakramanta” Sata0 vrA0 6 . 7 . 2 . 10 “vizRustvA kra-
+171021:1: vcp: matAm” yaju0 1 . 9 . “pAdenAkramyArohatu” vedadI0 .
+171022:1: vcp: “hatvA rakzAMsi lavitumakramInmArutiH punaH” BawwiH “vf-
+171023:0: vcp: todvijAgryEraBipUjyamAnaH cakrAma vajrIva diteH sutezu”
+171024:1: vcp: BA0 A0 193 a0 . “kramaM vabanDa kramituM sakopaH”
+171025:2: vcp: “krantvA krantvA sTitaM kvacit” BawwiH . paropakramavat
+171026:1: vcp: aprativanDAdO Atma0 . “na tatra kramate mftyurnajarA
+171027:0: vcp: na ca pAvakaH” BA0 Anu0 83 a0 . “hareryadakrAmi
+171028:1: vcp: padEkakena Kam” nEzaDe akrAmItyasADu . svArTeRici-
+171029:0: vcp: kaTaYcit sADu ityanye . nizWAyAM new krAnta ityAdi
+171030:0: vcp: kOwilye yaN caMkramyate nAgaH . “so'pi caMkramyamARaH
+171031:1: vcp: kUpe papAta” BA0 A0 700 Slo0 .
 171032:0: vcp: <HI>ati + atikramaRe ullaNGane saka0 . “sa nadIH parvatAMScApi
-171033:0: vcp: <>salilAni sarAMsi ca . acireRAticakrAma KecaraH Ke ca-
-171034:1: vcp: <>rannipa” BA0 A0 4652 Slo0 . “atyakrAmamimAn mAsAM
-171035:1: vcp: <>stadbaDaM paricintayan” rAmA0 yudDa0 88 a0 .
+171033:0: vcp: salilAni sarAMsi ca . acireRAticakrAma KecaraH Ke ca-
+171034:1: vcp: rannipa” BA0 A0 4652 Slo0 . “atyakrAmamimAn mAsAM
+171035:1: vcp: stadbaDaM paricintayan” rAmA0 yudDa0 88 a0 .
 171036:2: vcp: <HI>aBi + ati + ABimuKyenAtikramaRe saka0 . “na dizwamaBfti-
-171037:3: vcp: <>krAntuM SakyaM budDyA balena ca” BA0 sa0 1051 Slo0 .
+171037:3: vcp: krAntuM SakyaM budDyA balena ca” BA0 sa0 1051 Slo0 .
 171038:0: vcp: <HI>vi + ati + vEparItyena kramaRe . “tadantaH puramAsAdya vyatica-
-171039:0: vcp: <>krAma taM janam” rAmA0 bAla0 70 a0 . viSezeRa ati-
-171040:0: vcp: <>krame ca . “sa lokAnAhitAgnInAmfzIRAM puRyakarmmaRA-
-171041:3: vcp: <>ga . devAnAYca vyatikramya brahmalokamavApa ha” rAmA0 [Page2288-b+ 38]
-171042:0: vcp: <>Ara0 9 a0 . “evaM hi sumahAn kAlovyatyakrAmata tasya
-171043:1: vcp: <>vE” BA0 anu0 455 Slo0 . “vivAhe ca vyatikramaH” udvA0 ta0
+171039:0: vcp: krAma taM janam” rAmA0 bAla0 70 a0 . viSezeRa ati-
+171040:0: vcp: krame ca . “sa lokAnAhitAgnInAmfzIRAM puRyakarmmaRA-
+171041:3: vcp: ga . devAnAYca vyatikramya brahmalokamavApa ha” rAmA0 [Page2288-b+ 38]
+171042:0: vcp: Ara0 9 a0 . “evaM hi sumahAn kAlovyatyakrAmata tasya
+171043:1: vcp: vE” BA0 anu0 455 Slo0 . “vivAhe ca vyatikramaH” udvA0 ta0
 171044:0: vcp: <HI>sam + ati + samyagatikramaRe . “avantImfkzavantaYca samatikramya
-171045:2: vcp: <>parvatam” BA0 va0 231 Slo0
+171045:2: vcp: parvatam” BA0 va0 231 Slo0
 171046:0: vcp: <HI>aDi + ADikyena kramaRe
 171047:1: vcp: <HI>anu + paripAwyA kramaRe . “SradDA ratirBaktiranukramizyati”
-171048:0: vcp: <>BA0 3 . 25 . 255 . “maharziBiranukrAntaM DarmmapanTAnamAsTi-
-171049:1: vcp: <>taH” rAmA0 u0 47 a0 . “paripAwI hyanukramaH” amaraH .
+171048:0: vcp: BA0 3 . 25 . 255 . “maharziBiranukrAntaM DarmmapanTAnamAsTi-
+171049:1: vcp: taH” rAmA0 u0 47 a0 . “paripAwI hyanukramaH” amaraH .
 171050:0: vcp: <HI>apa + apasaraRe aka0 “hitvA senAmapacakrAma cApi”
-171051:1: vcp: <>BA0 A0 1 . 177 Slo0 .
+171051:1: vcp: BA0 A0 1 . 177 Slo0 .
 171052:0: vcp: <HI>aBi + ABimuKyena gamane saka0 “tamaBikramya sarve'dya vayaM
-171053:0: vcp: <>vA'rTAmahe vasu” BA0 va0 831 a0 . “pradakziRamaBikramya
-171054:0: vcp: <>sarve prAYjalayaH sTitAH” BA0 anu0 60470 “AramBe ca
-171055:0: vcp: <>“nehABikramanASo'sti” gItA aBikramaH AraByamARaH .
+171053:0: vcp: vA'rTAmahe vasu” BA0 va0 831 a0 . “pradakziRamaBikramya
+171054:0: vcp: sarve prAYjalayaH sTitAH” BA0 anu0 60470 “AramBe ca
+171055:0: vcp: “nehABikramanASo'sti” gItA aBikramaH AraByamARaH .
 171056:0: vcp: <HI>ava + apasaraRe hiMsane ca saka0 . “avakrAmantaH prapadErami-
-171057:3: vcp: <>trAn” f0 6 . 75 . 7 . “azakrAmantaH hiMsantaH” BA0 .
+171057:3: vcp: trAn” f0 6 . 75 . 7 . “azakrAmantaH hiMsantaH” BA0 .
 171058:0: vcp: <HI>anu + ava + anugamane praveSe ca saka0 . “etAstejomAtrAH sa-
-171059:4: vcp: <>maByAdadAno hfdayamevAnvavakrAmati” Sata0 vrA0 14 . 7 .
-171060:3: vcp: <>2 . 1 . “mftikAle hfdayasTAM budDimevAnvAgacCati” BA0 .
+171059:4: vcp: maByAdadAno hfdayamevAnvavakrAmati” Sata0 vrA0 14 . 7 .
+171060:3: vcp: 2 . 1 . “mftikAle hfdayasTAM budDimevAnvAgacCati” BA0 .
 171061:1: vcp: <HI>A + balapUrvakAskandane . “AkAmannAgaBavane tadA nAgaku,
-171062:1: vcp: <>mArakAn” BA0 A0 5018 Slo0 . “ArohaRe ca AkrA-
-171063:0: vcp: <>ntisammAnitapAdapIWam” kumA0 . udgame aka0 tatra dIptyA-
-171064:0: vcp: <>nvitasyodgame Atma0 . “BAdrakfzRacaturddaSyAM yAvadAkramate
-171065:2: vcp: <>jalam . tAvadgarBaM vijAnIyAttadUrdDvaM tIramucyate” prA0 ta0
-171066:0: vcp: <>dAnaDarmmaH . evaM sUryya Akramate ityAdi . anyatra AkrA-
-171067:0: vcp: <>mati . atyAdipUrvakasyANastu tattadarTaviSizwArohaRAdi-
-171068:0: vcp: <>dyotakatA . “samameva samAkrAntaM dvayaM dviradagAminA” raGuH
+171062:1: vcp: mArakAn” BA0 A0 5018 Slo0 . “ArohaRe ca AkrA-
+171063:0: vcp: ntisammAnitapAdapIWam” kumA0 . udgame aka0 tatra dIptyA-
+171064:0: vcp: nvitasyodgame Atma0 . “BAdrakfzRacaturddaSyAM yAvadAkramate
+171065:2: vcp: jalam . tAvadgarBaM vijAnIyAttadUrdDvaM tIramucyate” prA0 ta0
+171066:0: vcp: dAnaDarmmaH . evaM sUryya Akramate ityAdi . anyatra AkrA-
+171067:0: vcp: mati . atyAdipUrvakasyANastu tattadarTaviSizwArohaRAdi-
+171068:0: vcp: dyotakatA . “samameva samAkrAntaM dvayaM dviradagAminA” raGuH
 171069:2: vcp: <HI>ut + udaye aka0 . “yajYasya SIMrzAcCinnasya udakrAmat” Sata0
-171070:2: vcp: <>vrA0 14 . 1 . 2 . 13 . UrdDvakramaRe ca “na tasya prARA ut-
-171071:0: vcp: <>krAmanti ihEva samavalIyante” SrutiH . “kasminnutkrAnte
-171072:0: vcp: <>sarvvamidamutkrAntam” SrutiH . “tAn kftvA patagaSrezWaH
-171073:0: vcp: <>sarvAnutkrAntajIvitAn” BA0 A0 32 a0 . “vizvaNNanyA
-171074:1: vcp: <>utkramaRe Bavanti” CA0 upa0 . ullaNGane saka0 .
-171075:0: vcp: <>utkramaH . --vepErItyena kramaRe aka0 “kramotkramAnme-
-171076:1: vcp: <>zatulAdimAnam” jyo0 ta0
+171070:2: vcp: vrA0 14 . 1 . 2 . 13 . UrdDvakramaRe ca “na tasya prARA ut-
+171071:0: vcp: krAmanti ihEva samavalIyante” SrutiH . “kasminnutkrAnte
+171072:0: vcp: sarvvamidamutkrAntam” SrutiH . “tAn kftvA patagaSrezWaH
+171073:0: vcp: sarvAnutkrAntajIvitAn” BA0 A0 32 a0 . “vizvaNNanyA
+171074:1: vcp: utkramaRe Bavanti” CA0 upa0 . ullaNGane saka0 .
+171075:0: vcp: utkramaH . --vepErItyena kramaRe aka0 “kramotkramAnme-
+171076:1: vcp: zatulAdimAnam” jyo0 ta0
 171077:0: vcp: <HI>anu + ud + utkramaRAnusaraRe saka0 . “prARamanUtkrAmantaM
-171078:4: vcp: <>sarve prARA anUtkrAmanti” Sata0 brA0 7 . 2 . 3 .
+171078:4: vcp: sarve prARA anUtkrAmanti” Sata0 brA0 7 . 2 . 3 .
 171079:3: vcp: <HI>vi + ud + vEparItyena viSezeRa ca lANGane saka0 UrdDvaM gatO aka0 [Page2289-a+ 38]
-171080:6: vcp: <>“indriyARi vIryyARi vyudakrAman” Sata0 vrA0 12 . 7 . 1 . 9 .
-171081:1: vcp: <>“vyutkrAntarajaso'malAH” BA0 anu0 1319 Slo0 .
-171082:2: vcp: <>“vyutkramAt pretaSrAdDAni yomohAt DarmmamohitaH”
-171083:0: vcp: <>ti0 ta0 devalaH .
+171080:6: vcp: “indriyARi vIryyARi vyudakrAman” Sata0 vrA0 12 . 7 . 1 . 9 .
+171081:1: vcp: “vyutkrAntarajaso'malAH” BA0 anu0 1319 Slo0 .
+171082:2: vcp: “vyutkramAt pretaSrAdDAni yomohAt DarmmamohitaH”
+171083:0: vcp: ti0 ta0 devalaH .
 171084:2: vcp: <HI>upa + AramBe saka0 Atma0 . upakramate AraBate ityarTaH .
-171085:0: vcp: <>“upakramasva pururUpamABara vAjam” f0 8 . 1 . 14 . “upa-
-171086:0: vcp: <>kramopasaMhArO” vedAntasA0 . “yoyasya vihitaH kAlaH
-171087:0: vcp: <>karmmaRastadupakrame . tiTiryA'BimatA sA tu kAryyA nopa
-171088:0: vcp: <>kramojJitA” bODA0 . gatyarTamAtradyotakatve nAtmanepa-
-171089:1: vcp: <>dam “mAgaDezUpacakrAma BagavAMScaRqakOSikaH” BA0 sa0
-171090:2: vcp: <>18 a0 . apratibanDe utsAhe vfdDO ca Atma0 . fci
-171091:0: vcp: <>upakramate budDiH na pratihanyate ityarTaH aDyayanAya upa-
-171092:0: vcp: <>kramate utsahate . upakramante SAstrARi sPItAni
-171093:1: vcp: <>Bavanti ityarTaH . evaMparApUrvakasya kevalasya ca ezvarTezu
-171094:0: vcp: <>akarmmakatA AtmanepadaYca . anyopasargapUrvakatve tattada-
-171095:1: vcp: <>rTezu, paropapUrvvasyArTAttare ca na taN . upasargarAhitye
-171096:2: vcp: <>anyArTe'pi vA taN . kAmati kramate iti . ANi tu
-171097:0: vcp: <>jyotirudgamane Atmanepadamiti BedaH . vipUrvakasya viSezo
-171098:1: vcp: <>vakzyate samAdipUrvvakopaSabdasya tattadarTaviSizwArambadyo
-171099:0: vcp: <>takatA . vaktuM samupacakrame .
+171085:0: vcp: “upakramasva pururUpamABara vAjam” f0 8 . 1 . 14 . “upa-
+171086:0: vcp: kramopasaMhArO” vedAntasA0 . “yoyasya vihitaH kAlaH
+171087:0: vcp: karmmaRastadupakrame . tiTiryA'BimatA sA tu kAryyA nopa
+171088:0: vcp: kramojJitA” bODA0 . gatyarTamAtradyotakatve nAtmanepa-
+171089:1: vcp: dam “mAgaDezUpacakrAma BagavAMScaRqakOSikaH” BA0 sa0
+171090:2: vcp: 18 a0 . apratibanDe utsAhe vfdDO ca Atma0 . fci
+171091:0: vcp: upakramate budDiH na pratihanyate ityarTaH aDyayanAya upa-
+171092:0: vcp: kramate utsahate . upakramante SAstrARi sPItAni
+171093:1: vcp: Bavanti ityarTaH . evaMparApUrvakasya kevalasya ca ezvarTezu
+171094:0: vcp: akarmmakatA AtmanepadaYca . anyopasargapUrvakatve tattada-
+171095:1: vcp: rTezu, paropapUrvvasyArTAttare ca na taN . upasargarAhitye
+171096:2: vcp: anyArTe'pi vA taN . kAmati kramate iti . ANi tu
+171097:0: vcp: jyotirudgamane Atmanepadamiti BedaH . vipUrvakasya viSezo
+171098:1: vcp: vakzyate samAdipUrvvakopaSabdasya tattadarTaviSizwArambadyo
+171099:0: vcp: takatA . vaktuM samupacakrame .
 171100:0: vcp: <HI>ni + nitarAM kramaRe avaSyakramaRe . “karmman vAjI nyakra-
-171101:1: vcp: <>mIt” f0 9 . 36 . 1 . “nyakramIt nitarAmakramIt” BA0
+171101:1: vcp: mIt” f0 9 . 36 . 1 . “nyakramIt nitarAmakramIt” BA0
 171102:1: vcp: <HI>anu + ni + anukramaRe . “saptapadAnyanunikrAmati” Sata0 brA0
-171103:4: vcp: <>3 . 3 . 1 . 1 .
+171103:4: vcp: 3 . 3 . 1 . 1 .
 171104:0: vcp: <HI>nir(s) + nimmaraRe “jigIzayA mahIM pARqurnirakrAmat purAt
-171105:0: vcp: <>praBo!” BA0 A0 113 a0 . asya kvacidAtmanepaditvam “vAtA-
-171106:2: vcp: <>pe! nizknamasveti punaH punaruvAca ha” BA0 va0 99 a0 .
+171105:0: vcp: praBo!” BA0 A0 113 a0 . asya kvacidAtmanepaditvam “vAtA-
+171106:2: vcp: pe! nizknamasveti punaH punaruvAca ha” BA0 va0 99 a0 .
 171107:0: vcp: <HI>aBi + nir(s) + ABimuKyena niHsaraRe . “aBinizkrAmati
-171108:0: vcp: <>dvAram” pA0 . “sruGnamaBinizkrAmati srOGnaM kAnyakubja-
-171109:0: vcp: <>dvAram” si0 kO0 “praviSya cABinizkrAntaM sugrIvaM vA-
-171110:2: vcp: <>nararzaBAH” rAmA0 kizki0 25 a0
+171108:0: vcp: dvAram” pA0 . “sruGnamaBinizkrAmati srOGnaM kAnyakubja-
+171109:0: vcp: dvAram” si0 kO0 “praviSya cABinizkrAntaM sugrIvaM vA-
+171110:2: vcp: nararzaBAH” rAmA0 kizki0 25 a0
 171111:0: vcp: <HI>vi + nir(s) + viSezeRa niHsaraRe “yaTA praviSyAntaramantakasya
-171112:2: vcp: <>ko vE manuzyohi vinizkrameta” BA0 va0 10273 a0 .
+171112:2: vcp: ko vE manuzyohi vinizkrameta” BA0 va0 10273 a0 .
 171113:1: vcp: <HI>parA + valenAkramaRe Atma0 saka0 . “yatra tapaH parAkramya vrataM
-171114:0: vcp: <>DArayatyuttaram” aTa0 10 . 7 . 11 . apratibanDAdO upo-
-171115:0: vcp: <>pasargavat . tatrotsAhe “pAnIyArTe parAkrAntA yatra
-171116:1: vcp: <>te BrAtarohatAH” BA0 mahA0 91 Slo0 . parAkranaH .
+171114:0: vcp: DArayatyuttaram” aTa0 10 . 7 . 11 . apratibanDAdO upo-
+171115:0: vcp: pasargavat . tatrotsAhe “pAnIyArTe parAkrAntA yatra
+171116:1: vcp: te BrAtarohatAH” BA0 mahA0 91 Slo0 . parAkranaH .
 171117:1: vcp: <HI>pari + BranaRe aka0 . “parikrAmati saMsAre cakravat bahuvedanaH” [Page2289-b+ 38]
-171118:1: vcp: <>BA0 va0 208 a0 . paritogamane saka0 . “parikrAmati
-171119:8: vcp: <>yaH sarvAllo~kAn saMtrAsayan balAt” BA0 86 . 13 . 30 .
+171118:1: vcp: BA0 va0 208 a0 . paritogamane saka0 . “parikrAmati
+171119:8: vcp: yaH sarvAllo~kAn saMtrAsayan balAt” BA0 86 . 13 . 30 .
 171120:0: vcp: <HI>sam + pari + samyak vezwanAkAreRa parito gamane saka0 “bahUni
-171121:1: vcp: <>saMparikramya tIrTAnyAyatanAni ca” BA0 A0 12 Slo0
-171122:1: vcp: <>paryyawane aka0
+171121:1: vcp: saMparikramya tIrTAnyAyatanAni ca” BA0 A0 12 Slo0
+171122:1: vcp: paryyawane aka0
 171123:1: vcp: <HI>pra + AramBe Atma0 . “pracakrame vaktumanujBitakramaH” raGuH .
-171124:0: vcp: <>anAramBe tu na Atma0 “vizRoryatparamaM padaM pradakziRaM
-171125:5: vcp: <>prakrAnanti” BAga0 5 22 . 17 Slo0 .
+171124:0: vcp: anAramBe tu na Atma0 “vizRoryatparamaM padaM pradakziRaM
+171125:5: vcp: prakrAnanti” BAga0 5 22 . 17 Slo0 .
 171126:1: vcp: <HI>prati + pratirUpakrame saka0 “yaM sruveRa pratikrAmati” Sata0 vrA0
-171127:4: vcp: <>3 . 4 . 4 . 9 . pratikUlakramaRe nivfttO aka0 . “Badre! prati-
-171128:3: vcp: <>krAma niyacCa vAcam” BA0 va0 268 a0 .
+171127:4: vcp: 3 . 4 . 4 . 9 . pratikUlakramaRe nivfttO aka0 . “Badre! prati-
+171128:3: vcp: krAma niyacCa vAcam” BA0 va0 268 a0 .
 171129:1: vcp: <HI>vi + pAdaviharaRe aka0 Atma0 . “sADu vikramate vAjI” si0 kO0
-171130:2: vcp: <>“treDA vizRururugAyovittakrame” tEtti0 . pAdAkaraRake tu
-171131:2: vcp: <>na taN . vAjinA vikrAmati . “te vikramantaH sPuratA
-171132:1: vcp: <>dfQena vikzipyamARA DanuzA narendrAH” BA0 A0 18 a0 .
-171133:1: vcp: <>ityatra na taN “tataenaM mahAdevaH pIqya gAtrEH supIqi-
-171134:0: vcp: <>tam . tejasA vyakramadrozAt cetastasya vimohayan”
-171135:0: vcp: <>BA0 va0 39 a0 . dIrGABAva ArzaH . vIryyAtiSayena
-171136:0: vcp: <>parAkrame aka0 . “te yUyaM tvaritAH sarve vikramaDvaM plava-
-171137:0: vcp: <>NgamAH” rAmA0 kizki0 58 a0 . taN ArzaH . evaM
-171138:0: vcp: <>“tAYca vikramase jetum” BA0 sa0 196 Slo0 taN ArzaH .
-171139:0: vcp: <>“veH pAdaviharaRe” pA0 yogaviBAgAdvA kvacidanyatrApi
-171140:0: vcp: <>taN ityanye .
+171130:2: vcp: “treDA vizRururugAyovittakrame” tEtti0 . pAdAkaraRake tu
+171131:2: vcp: na taN . vAjinA vikrAmati . “te vikramantaH sPuratA
+171132:1: vcp: dfQena vikzipyamARA DanuzA narendrAH” BA0 A0 18 a0 .
+171133:1: vcp: ityatra na taN “tataenaM mahAdevaH pIqya gAtrEH supIqi-
+171134:0: vcp: tam . tejasA vyakramadrozAt cetastasya vimohayan”
+171135:0: vcp: BA0 va0 39 a0 . dIrGABAva ArzaH . vIryyAtiSayena
+171136:0: vcp: parAkrame aka0 . “te yUyaM tvaritAH sarve vikramaDvaM plava-
+171137:0: vcp: NgamAH” rAmA0 kizki0 58 a0 . taN ArzaH . evaM
+171138:0: vcp: “tAYca vikramase jetum” BA0 sa0 196 Slo0 taN ArzaH .
+171139:0: vcp: “veH pAdaviharaRe” pA0 yogaviBAgAdvA kvacidanyatrApi
+171140:0: vcp: taN ityanye .
 171141:1: vcp: <HI>aDi + vi + ADikyena parAkrame “yajamAnAyAvivikramasva”
-171142:5: vcp: <>kAtyA0 23 . 3 . 1 .
+171142:5: vcp: kAtyA0 23 . 3 . 1 .
 171143:0: vcp: <HI>nir + vi + viSezeRa niHsaraRe . “BittvA kukziM nirvicakA-
-171144:1: vcp: <>ma vipraH” BA0 A0 76 a0
+171144:1: vcp: ma vipraH” BA0 A0 76 a0
 171145:0: vcp: <HI>sam + ekatrasTitasyAnyatra saMcaraRe saka0 “kArmukaM tu paritya-
-171146:1: vcp: <>jya JazaM (mfgam) saMkramate raviH” ti0 ta0 Bavi0 pu0 . “ra-
-171147:3: vcp: <>visaMkrAntireva ca” tatrEva . “jIvaH saMknamate'nyatra karmmabanDa-
-171148:0: vcp: <>nibanDanaH” BA0 va0 20 8 a0 . taNArzaH . “OpasargikarogAH
-171149:3: vcp: <>sakrAmanti narAnnaram” suSru0 . “saMkrAmanti hi pApAni
-171150:2: vcp: <>tElavindurivAmBasi” parASaraH “kAlohyayaM saMkramituM
-171151:1: vcp: <>dvitIyam” raGuH . samyak kramaRe saka0 “saMkrAmantO bahUn
-171152:1: vcp: <>deSAn SElAcCElaM vanAdvanam” rAmA0 Ara0 76 a0 .
+171146:1: vcp: jya JazaM (mfgam) saMkramate raviH” ti0 ta0 Bavi0 pu0 . “ra-
+171147:3: vcp: visaMkrAntireva ca” tatrEva . “jIvaH saMknamate'nyatra karmmabanDa-
+171148:0: vcp: nibanDanaH” BA0 va0 20 8 a0 . taNArzaH . “OpasargikarogAH
+171149:3: vcp: sakrAmanti narAnnaram” suSru0 . “saMkrAmanti hi pApAni
+171150:2: vcp: tElavindurivAmBasi” parASaraH “kAlohyayaM saMkramituM
+171151:1: vcp: dvitIyam” raGuH . samyak kramaRe saka0 “saMkrAmantO bahUn
+171152:1: vcp: deSAn SElAcCElaM vanAdvanam” rAmA0 Ara0 76 a0 .
 171153:1: vcp: <HI>anu + sam + AnurUpyeRa AnupUrvyeRa ca saMkramaRe . “izwApUrtta
-171154:6: vcp: <>manusaMkrAma vidvan!” aTa0 18 . 2 . 5 .
+171154:6: vcp: manusaMkrAma vidvan!” aTa0 18 . 2 . 5 .
 171155:2: vcp: <HI>upa + sam + sAmIpyena saMkrasaRe saka0 “saviSezaRe hi viDi- [Page2290-a+ 38]
-171156:1: vcp: <>nizeDO viSezaRamupasaMkrAmataH sati viSezye bADe” dI-
-171157:2: vcp: <>DitO nyAyavAkyam “etamannamayAtmAnamupasaMkrAmati” tEtti0
+171156:1: vcp: nizeDO viSezaRamupasaMkrAmataH sati viSezye bADe” dI-
+171157:2: vcp: DitO nyAyavAkyam “etamannamayAtmAnamupasaMkrAmati” tEtti0
 171158:0: vcp: <HI>prati + sam + pratikUlasaNkramaRe nivfttO “tAvanna saMsftirasO
-171159:2: vcp: <>pratisaMkrameta” BAga0 3 . 9 . 10 Slo0 . “pratisaMkrAmayadviSvam”
-171160:6: vcp: <>4 . 24 . 49 Slo0 pratisaMkrAmayat nivarttayat .
+171159:2: vcp: pratisaMkrameta” BAga0 3 . 9 . 10 Slo0 . “pratisaMkrAmayadviSvam”
+171160:6: vcp: 4 . 24 . 49 Slo0 pratisaMkrAmayat nivarttayat .
 171161:1: vcp: <HI>{@krama@}¦ pu0 krama--BAvakaraRAdO yaTAyaTaM GaY mAntatvAdavfdDiH .
-171162:3: vcp: <>1 pAdavikzepe 2 pAde hemaca0 arTAnAM nEyatyena 3 pUrvAparAva-
-171163:2: vcp: <>sTAne . 4 kalpe anuzWAne amaraH 5 sAmarTye (sAmarTyahetu-
-171164:2: vcp: <>kavyApAre) 6 AkramaRe ca medi0 . 7 vedasaMhitAnusAri-
-171165:1: vcp: <>pAWatadvilomarUpe pAWaBede . fgvedaSabde tatsvarUpaBedAdikaM
-171166:5: vcp: <>1411 pf0 caraRavyUhavAkyatadBAzyAByAM darSitam . 8 vizRO
-171167:1: vcp: <>“ISvarovikramI DanvI meDAvI vikramaH kramaH” vizRusa0 .
-171168:3: vcp: <>‘kramaRAt prARarUpeRa gaganAt . kramaRahetutayA . (prARi-
-171169:0: vcp: <>gamanasADanapAdavinyAsahetuBUtaraTyAdiprakASanADizWAtfsU-
-171170:2: vcp: <>ryyAdidevarUpatayA) vA kramaH” BA0 9 paripAwyAM yaTocita
-171171:2: vcp: <>sanniveSe medi0 . SezaSeziBAve aDikftADikAre vA
-171172:0: vcp: <>satyeva vEdikakarmmaRoranuzWAne pOrvAparyyarUpakrama grahaRa-
-171173:3: vcp: <>miti SA0 BA0 sTitam tanniyAmakaSca SrutyarTapAWapravfttikA-
-171174:0: vcp: <>RqamuKyaBedAt zaqviDaH tasya ca karmmaviSeze viSezeRa grA-
-171175:1: vcp: <>hyatA tadvivftiH mImAMsA 5 a0 . 1 pA0 BAzyayordarSitA yaTA
-171176:1: vcp: <>“SrutilakzaRamAnupUrvyaM tatpramARatvAt” jE0 1 sU0
-171177:0: vcp: <>“caturTe'DyAye prayojakAprayojakalakzaRaM vfttaM, tanna vismartta-
-171178:0: vcp: <>vyam, iha idAnIM kramaniyamalakzaRam ucyate, tat SrutyarTa
-171179:0: vcp: <>pAWapravfttikARqamuKyErvakzyate, SrutyAdInAm ca balAba-
-171180:3: vcp: <>lam . Aditastu SrutikrasaScintyate,--kiM yaTASruti pa-
-171181:0: vcp: <>dArTAnAm kramaAsTeyaH, uta aniyamena?--iti .
-171182:1: vcp: <>kiM pAptam?--ekatvAt karttuH, anekatvAcca padArTAnAm,
-171183:1: vcp: <>avaSyamBAvini krame lAGavAt prayoga ASruBAvAcca ani-
-171184:0: vcp: <>maH--ityevaM prApte brUmaH
+171162:3: vcp: 1 pAdavikzepe 2 pAde hemaca0 arTAnAM nEyatyena 3 pUrvAparAva-
+171163:2: vcp: sTAne . 4 kalpe anuzWAne amaraH 5 sAmarTye (sAmarTyahetu-
+171164:2: vcp: kavyApAre) 6 AkramaRe ca medi0 . 7 vedasaMhitAnusAri-
+171165:1: vcp: pAWatadvilomarUpe pAWaBede . fgvedaSabde tatsvarUpaBedAdikaM
+171166:5: vcp: 1411 pf0 caraRavyUhavAkyatadBAzyAByAM darSitam . 8 vizRO
+171167:1: vcp: “ISvarovikramI DanvI meDAvI vikramaH kramaH” vizRusa0 .
+171168:3: vcp: ‘kramaRAt prARarUpeRa gaganAt . kramaRahetutayA . (prARi-
+171169:0: vcp: gamanasADanapAdavinyAsahetuBUtaraTyAdiprakASanADizWAtfsU-
+171170:2: vcp: ryyAdidevarUpatayA) vA kramaH” BA0 9 paripAwyAM yaTocita
+171171:2: vcp: sanniveSe medi0 . SezaSeziBAve aDikftADikAre vA
+171172:0: vcp: satyeva vEdikakarmmaRoranuzWAne pOrvAparyyarUpakrama grahaRa-
+171173:3: vcp: miti SA0 BA0 sTitam tanniyAmakaSca SrutyarTapAWapravfttikA-
+171174:0: vcp: RqamuKyaBedAt zaqviDaH tasya ca karmmaviSeze viSezeRa grA-
+171175:1: vcp: hyatA tadvivftiH mImAMsA 5 a0 . 1 pA0 BAzyayordarSitA yaTA
+171176:1: vcp: “SrutilakzaRamAnupUrvyaM tatpramARatvAt” jE0 1 sU0
+171177:0: vcp: “caturTe'DyAye prayojakAprayojakalakzaRaM vfttaM, tanna vismartta-
+171178:0: vcp: vyam, iha idAnIM kramaniyamalakzaRam ucyate, tat SrutyarTa
+171179:0: vcp: pAWapravfttikARqamuKyErvakzyate, SrutyAdInAm ca balAba-
+171180:3: vcp: lam . Aditastu SrutikrasaScintyate,--kiM yaTASruti pa-
+171181:0: vcp: dArTAnAm kramaAsTeyaH, uta aniyamena?--iti .
+171182:1: vcp: kiM pAptam?--ekatvAt karttuH, anekatvAcca padArTAnAm,
+171183:1: vcp: avaSyamBAvini krame lAGavAt prayoga ASruBAvAcca ani-
+171184:0: vcp: maH--ityevaM prApte brUmaH
 171185:0: vcp: <P>“SrutilakzaRam AnupUrvyaM tatpramARatvAt--iti Sru-
-171186:0: vcp: <>tirgrahaRam akzarARAM, tannimittaM yasya kramasya, sa sADu
-171187:2: vcp: <>kramaH . SutigamARakA hi vEdikA arTAH nEzAmanyat pra-
-171188:0: vcp: <>mARamasti (1 . 1 . 2 sU0)--ityuktam . kim iha udAha-
-171189:1: vcp: <>raRam? . satre dIkzAkramaM viDatte, ‘aDvaryurgfhapatiM
-171190:0: vcp: <>dIkzayitvA brahmARaM dIkzayati, tata udgAtAraM, tato ho-
-171191:1: vcp: <>tAraM tatastaM pratiprasTAtA dIkzayitvA ardDino dIkzayati,
-171192:2: vcp: <>brAhmaRAcCaMsinaM brahmaRaH, prastotAram udgAtuH, mEtrAva-
-171193:2: vcp: <>ruRaM hotuH, tatastaM nezwA dIkzayitvA tftIyino dIkzaya- [Page2290-b+ 38]
-171194:1: vcp: <>ti, agnIDraM brahmaRaH, pratiharttAram udgAtuH, acCA-
-171195:1: vcp: <>vAkaM hotuH tatastamunnetA dIkzayitvA pAdino dokzayati,
-171196:0: vcp: <>potAraM brahmaRaH, subrahmaRyamudgAtuH, grAvastutaM hotuH,
-171197:1: vcp: <>tatastamanyo brAhmaRo subrahmasyodIkzayati, brahmacArI vA
-171198:0: vcp: <>AcArya prezitaH--iti . aniyamena kramaH karttavyo,
-171199:0: vcp: <>yaTA pUrvaH pakzaH, yaTA tarhi sidDAntaH, eza eva kramaH
-171200:0: vcp: <>karttavyaH--iti .
-171201:0: vcp: <>tatra Aha, anyAyyaM Srutivacanam--iti . ucyate, --ki-
-171202:2: vcp: <>mayaM na sADuH? na na sADuH--iti brUmaH . nyAyyaM tarhi
-171203:0: vcp: <>na brUmaH,--na sADuH kramaH--iti, kiM tarhi?--uktasya
-171204:0: vcp: <>punarvacanamanyAyyam--iti . ucyate,--sADorvacanaM bahuSo-
-171205:1: vcp: <>'zyucyamAnaM nyAyyameva, asADostu sakfdapyanyAyyam .
-171206:0: vcp: <>Aha sakfdvacanena jYAtasya punarvacane na prayojanam iti,
-171207:1: vcp: <>ucyate Bavati avismaraRamapi prayojanam ityuktam .
-171208:0: vcp: <>vfttikAreRa tat kAryam--iti cet . sUtrakArasyApya-
-171209:0: vcp: <>viSezo vfttikAreRa . (1 ma varRakam)
+171186:0: vcp: tirgrahaRam akzarARAM, tannimittaM yasya kramasya, sa sADu
+171187:2: vcp: kramaH . SutigamARakA hi vEdikA arTAH nEzAmanyat pra-
+171188:0: vcp: mARamasti (1 . 1 . 2 sU0)--ityuktam . kim iha udAha-
+171189:1: vcp: raRam? . satre dIkzAkramaM viDatte, ‘aDvaryurgfhapatiM
+171190:0: vcp: dIkzayitvA brahmARaM dIkzayati, tata udgAtAraM, tato ho-
+171191:1: vcp: tAraM tatastaM pratiprasTAtA dIkzayitvA ardDino dIkzayati,
+171192:2: vcp: brAhmaRAcCaMsinaM brahmaRaH, prastotAram udgAtuH, mEtrAva-
+171193:2: vcp: ruRaM hotuH, tatastaM nezwA dIkzayitvA tftIyino dIkzaya- [Page2290-b+ 38]
+171194:1: vcp: ti, agnIDraM brahmaRaH, pratiharttAram udgAtuH, acCA-
+171195:1: vcp: vAkaM hotuH tatastamunnetA dIkzayitvA pAdino dokzayati,
+171196:0: vcp: potAraM brahmaRaH, subrahmaRyamudgAtuH, grAvastutaM hotuH,
+171197:1: vcp: tatastamanyo brAhmaRo subrahmasyodIkzayati, brahmacArI vA
+171198:0: vcp: AcArya prezitaH--iti . aniyamena kramaH karttavyo,
+171199:0: vcp: yaTA pUrvaH pakzaH, yaTA tarhi sidDAntaH, eza eva kramaH
+171200:0: vcp: karttavyaH--iti .
+171201:0: vcp: tatra Aha, anyAyyaM Srutivacanam--iti . ucyate, --ki-
+171202:2: vcp: mayaM na sADuH? na na sADuH--iti brUmaH . nyAyyaM tarhi
+171203:0: vcp: na brUmaH,--na sADuH kramaH--iti, kiM tarhi?--uktasya
+171204:0: vcp: punarvacanamanyAyyam--iti . ucyate,--sADorvacanaM bahuSo-
+171205:1: vcp: 'zyucyamAnaM nyAyyameva, asADostu sakfdapyanyAyyam .
+171206:0: vcp: Aha sakfdvacanena jYAtasya punarvacane na prayojanam iti,
+171207:1: vcp: ucyate Bavati avismaraRamapi prayojanam ityuktam .
+171208:0: vcp: vfttikAreRa tat kAryam--iti cet . sUtrakArasyApya-
+171209:0: vcp: viSezo vfttikAreRa . (1 ma varRakam)
 171210:0: vcp: <P>aTavA arTAntarameva idam tatra hi anya eva saMSayo
-171211:3: vcp: <>vicAro nirRayaSca,--SrutipramARakoDarmaH anyapranAlakovA?
-171212:0: vcp: <>iti saMSayaH . pratyakzAdInAm aDigamyanimittatvAt na
-171213:0: vcp: <>tatpramARakaH, atIndriyatvAccodanAlakzaRaH--iti vicA-
-171214:1: vcp: <>raH . codanAlakzaRaH eva--iti nirRRayaH . iha tu sidDe
-171215:0: vcp: <>tatpramARye vyavahArakramasya sADutvAvaDAraRam(. 2 ya varRakam)
+171211:3: vcp: vicAro nirRayaSca,--SrutipramARakoDarmaH anyapranAlakovA?
+171212:0: vcp: iti saMSayaH . pratyakzAdInAm aDigamyanimittatvAt na
+171213:0: vcp: tatpramARakaH, atIndriyatvAccodanAlakzaRaH--iti vicA-
+171214:1: vcp: raH . codanAlakzaRaH eva--iti nirRRayaH . iha tu sidDe
+171215:0: vcp: tatpramARye vyavahArakramasya sADutvAvaDAraRam(. 2 ya varRakam)
 171216:0: vcp: <P>aTa vA SrutivicAro'yaM--kiM padArTAH karttavyAH?
-171217:0: vcp: <>iti viDAnam? kiM vA kramo viDIyate?--iti . ane-
-171218:1: vcp: <>kArTaviDAnAnupavatteH krame anuvAdaH, padArTAnAM viDiH,
-171219:0: vcp: <>avadAnavAkyezviva pAdArTaviDAnaM SrutyA, kramaviDAnaM
-171220:3: vcp: <>vAkyena, tasmAt na kramo viDIyate--iyi pUrvaH pakzaH .
-171221:0: vcp: <>nanu avadAnavAkyezu kramo viDIyate satyaM viDIyate,
-171222:2: vcp: <>pAWena, na SrutyA, ye ftvijaste yajamAnAH “iti tu dI-
-171223:0: vcp: <>kzAyAH prAptatvAt kramaviDAnArTA SrutiH--iti sidDAntaH .
-171224:1: vcp: <>tasmAt apunaruktam--iti” (3 ma varRakam) . BAzyam
-171225:2: vcp: <>“arTAcca” 2 sU0
-171226:0: vcp: <>“kim eza eva utsargaH? uta na, sarvatra SrutivaSenEva
-171227:0: vcp: <>Bavitumarhati--iti uktaM hi,--“codanAlakzaRo'rToDarmaH”
+171217:0: vcp: iti viDAnam? kiM vA kramo viDIyate?--iti . ane-
+171218:1: vcp: kArTaviDAnAnupavatteH krame anuvAdaH, padArTAnAM viDiH,
+171219:0: vcp: avadAnavAkyezviva pAdArTaviDAnaM SrutyA, kramaviDAnaM
+171220:3: vcp: vAkyena, tasmAt na kramo viDIyate--iyi pUrvaH pakzaH .
+171221:0: vcp: nanu avadAnavAkyezu kramo viDIyate satyaM viDIyate,
+171222:2: vcp: pAWena, na SrutyA, ye ftvijaste yajamAnAH “iti tu dI-
+171223:0: vcp: kzAyAH prAptatvAt kramaviDAnArTA SrutiH--iti sidDAntaH .
+171224:1: vcp: tasmAt apunaruktam--iti” (3 ma varRakam) . BAzyam
+171225:2: vcp: “arTAcca” 2 sU0
+171226:0: vcp: “kim eza eva utsargaH? uta na, sarvatra SrutivaSenEva
+171227:0: vcp: Bavitumarhati--iti uktaM hi,--“codanAlakzaRo'rToDarmaH”
 171228:0: vcp: <P>evaM prApte brUmaH--arTAcca (sAmarTyAcca) kramo viDIyate-
-171229:3: vcp: <>iti, guRaBUvohi padArTAnAM kramoBavati, yacca yasya ni-
-171230:0: vcp: <>rvartyamAnasya upakaroti, sa tasya guRaBUtaH, yasmiMScASrI-
-171231:0: vcp: <>yamARe padArTaH eva na sampadyate, na sa guRaBUtaH vinApi [Page2291-a+ 38]
-171232:2: vcp: <>tena, na vEguRyam . evaM prayakzakramasya guRaBAvo yatra,
-171233:0: vcp: <>tatra arTena sa evASrayitavyaH . yaTA “jAte varaM dadAti,
-171234:1: vcp: <>jAtamaYjalinA gfhRAti jAtamaBiprARiti”--iti arTAt
-171235:1: vcp: <>pUrvamaBiprARitavyam tataH aYjalitA gfhItavyaH, tato
-171236:0: vcp: <>varodeyaH,--iti, taTA vimokaH pUrvamAmnAtaH, paScAttadyogaH,
-171237:0: vcp: <>arTAt viparItaH kAryaH . yAjyAnuvAkye tu viparyayeRa
-171238:0: vcp: <>AmnAte, viparyayeRa karttavye, na atra pAWakramomIyate,
-171239:1: vcp: <>yato devatepalakzaRArTA'nuvAkyA, pradAnArTA yAjyA,
-171240:1: vcp: <>“agnihotram juhoti” --iti pUrvamAmnAtam, “odanaM
-171241:0: vcp: <>pacati”--iti paScAt, asamBavAt pUrvamAdanaHpaktavyaH .
-171242:1: vcp: <>prEzaprezArTOtu viparyayeRa AmnAtO, tO ca viparyyayeRa
-171243:1: vcp: <>karttavyO” mAzyam
-171244:1: vcp: <>“aniyamo'nyatra” 3 sU0
-171245:1: vcp: <>anyasmin vizaye kramasya niyamo nAsti, yaTAdarSapurRamA-
-171246:0: vcp: <>sayoryAjamAnAnAM prayAjAnumantraRAdInAm nAnASAKA-
-171247:0: vcp: <>ntarasamAmnAtAnAm “vasantamftUnAm prIRAmi”--ityeva-
-171248:1: vcp: <>mAdInAm, “eko Darma,--ityevamAdInAYca” BA0
-171249:2: vcp: <>“krameRa vA niyAmakatA kratvekatve tadguRatvAt” 4 sU0
-171250:1: vcp: <>“darSapurRamAsayorAmnAtam”--“samiDo yajati tanUnapAtaM
-171251:0: vcp: <>yajati iqo yajati barhiryajati svAhAkAraM
-171252:3: vcp: <>yajati”--iti . tatra saMSayaH--kim aniyatenEva krameRa
-171253:3: vcp: <>ezAm azwazWAnam? uta yaH pAWakramaH sa eva niya-
-171254:0: vcp: <>myeta?--iti . kiMprAptam?--niyamakAriRaH SAstrasyA-
-171255:1: vcp: <>BAvAt aniyamaH--iti . evaM prApte brUmaH--krameRa,
-171256:0: vcp: <>eva niyamyeta ekasmin kratO--iti . kutaH? . tadguRa-
-171257:0: vcp: <>tvAt, tadguRatvaM hi gamyate padArTAnAm, yaTA, snAyAt
-171258:2: vcp: <>anulimpeta, BuYjota--iti ca krameRa anuzWAnam avagamyate,
-171259:0: vcp: <>vAkyAt padArTAnAm, yaTA cAdfzwArTezu upadiSyamAnezu,
-171260:0: vcp: <>kaScit brUyAt,--“devAya DUpo deyaH puzpARyavakaritavyAni
-171261:0: vcp: <>candanenAnuleptavyaH upahAro'smE upaharttavyaH” evaM kfte
-171262:0: vcp: <>devastuzyati,--iti, tamanyaH pratibrUte, nEtadevaM, na praTamaM
-171263:0: vcp: <>DUpo dAtavyaH, praTamaM puzpARi avakaritavyAni--iti, evaM
-171264:1: vcp: <>manyate--DUpadAnasya prATamyam anena uktam--iti . ta-
-171265:1: vcp: <>smAt vAcanika ezAm eza kramaH--iti” BA0
-171266:4: vcp: <>“aSAbda iti cet, syAdvAkyaSabdatvAt . 5 sU0
+171229:3: vcp: iti, guRaBUvohi padArTAnAM kramoBavati, yacca yasya ni-
+171230:0: vcp: rvartyamAnasya upakaroti, sa tasya guRaBUtaH, yasmiMScASrI-
+171231:0: vcp: yamARe padArTaH eva na sampadyate, na sa guRaBUtaH vinApi [Page2291-a+ 38]
+171232:2: vcp: tena, na vEguRyam . evaM prayakzakramasya guRaBAvo yatra,
+171233:0: vcp: tatra arTena sa evASrayitavyaH . yaTA “jAte varaM dadAti,
+171234:1: vcp: jAtamaYjalinA gfhRAti jAtamaBiprARiti”--iti arTAt
+171235:1: vcp: pUrvamaBiprARitavyam tataH aYjalitA gfhItavyaH, tato
+171236:0: vcp: varodeyaH,--iti, taTA vimokaH pUrvamAmnAtaH, paScAttadyogaH,
+171237:0: vcp: arTAt viparItaH kAryaH . yAjyAnuvAkye tu viparyayeRa
+171238:0: vcp: AmnAte, viparyayeRa karttavye, na atra pAWakramomIyate,
+171239:1: vcp: yato devatepalakzaRArTA'nuvAkyA, pradAnArTA yAjyA,
+171240:1: vcp: “agnihotram juhoti” --iti pUrvamAmnAtam, “odanaM
+171241:0: vcp: pacati”--iti paScAt, asamBavAt pUrvamAdanaHpaktavyaH .
+171242:1: vcp: prEzaprezArTOtu viparyayeRa AmnAtO, tO ca viparyyayeRa
+171243:1: vcp: karttavyO” mAzyam
+171244:1: vcp: “aniyamo'nyatra” 3 sU0
+171245:1: vcp: anyasmin vizaye kramasya niyamo nAsti, yaTAdarSapurRamA-
+171246:0: vcp: sayoryAjamAnAnAM prayAjAnumantraRAdInAm nAnASAKA-
+171247:0: vcp: ntarasamAmnAtAnAm “vasantamftUnAm prIRAmi”--ityeva-
+171248:1: vcp: mAdInAm, “eko Darma,--ityevamAdInAYca” BA0
+171249:2: vcp: “krameRa vA niyAmakatA kratvekatve tadguRatvAt” 4 sU0
+171250:1: vcp: “darSapurRamAsayorAmnAtam”--“samiDo yajati tanUnapAtaM
+171251:0: vcp: yajati iqo yajati barhiryajati svAhAkAraM
+171252:3: vcp: yajati”--iti . tatra saMSayaH--kim aniyatenEva krameRa
+171253:3: vcp: ezAm azwazWAnam? uta yaH pAWakramaH sa eva niya-
+171254:0: vcp: myeta?--iti . kiMprAptam?--niyamakAriRaH SAstrasyA-
+171255:1: vcp: BAvAt aniyamaH--iti . evaM prApte brUmaH--krameRa,
+171256:0: vcp: eva niyamyeta ekasmin kratO--iti . kutaH? . tadguRa-
+171257:0: vcp: tvAt, tadguRatvaM hi gamyate padArTAnAm, yaTA, snAyAt
+171258:2: vcp: anulimpeta, BuYjota--iti ca krameRa anuzWAnam avagamyate,
+171259:0: vcp: vAkyAt padArTAnAm, yaTA cAdfzwArTezu upadiSyamAnezu,
+171260:0: vcp: kaScit brUyAt,--“devAya DUpo deyaH puzpARyavakaritavyAni
+171261:0: vcp: candanenAnuleptavyaH upahAro'smE upaharttavyaH” evaM kfte
+171262:0: vcp: devastuzyati,--iti, tamanyaH pratibrUte, nEtadevaM, na praTamaM
+171263:0: vcp: DUpo dAtavyaH, praTamaM puzpARi avakaritavyAni--iti, evaM
+171264:1: vcp: manyate--DUpadAnasya prATamyam anena uktam--iti . ta-
+171265:1: vcp: smAt vAcanika ezAm eza kramaH--iti” BA0
+171266:4: vcp: “aSAbda iti cet, syAdvAkyaSabdatvAt . 5 sU0
 171267:0: vcp: <P>iti cet, paSyasi, “aTEvaM gamyamAne aSAbdaH eva
-171268:0: vcp: <>kramaH . kaTaM? padArTapUrvako vAkyArTaH padeByaSca
-171269:0: vcp: <>padArTA eva avaganyante na kramaH . syAt etadevaM, yadi [Page2291-b+ 38]
-171270:1: vcp: <>padArTAnAm samUhasya SrakaRaM pratyAyakam arTasya syAt, na
-171271:1: vcp: <>tu samudAyaH pratyAyakaH, --ityuktaM “tadBUtAnAM kiyArTena
-171272:0: vcp: <>samAmnAyaH” (1 . 1 . 25 a0) ityatra . tasmAt kramasya
-171273:1: vcp: <>vAcakaSabadABAvAt vyAmoha eza kramo'vagamyate . evaM
-171274:0: vcp: <>cApUrvAsattiranugrahIzyate, itaraTA sApi viprakfzyeta
-171275:2: vcp: <>vawIyantra iva . darSayizyati ca”--“hfdayamyAgre'vadyati,
-171276:0: vcp: <>aTa jihvAyAH, aTa vakzasaH,--iti . yadi niyAmakaH pA-
-171277:3: vcp: <>WakramaH tato na viDAtavyanetata niyAmake hi pAWakame
-171278:1: vcp: <>pAWakramAt eva prApnuyAt” BA0
-171279:0: vcp: <>“arTakfte vAnumAnaM syAt, kratvekatve pararTatvAt svena
-171280:2: vcp: <>tvarTena sambanDaH, tasmAtsvaSavadamucyeta” 6 sU0
-171281:1: vcp: <>“ekasmin kratAvekatvAt kartuH, anekanmin padArTe'rTakfta-
-171282:0: vcp: <>tvAt kramasya, tatra eza eva kramo niyamyetAnumAnena .
-171283:0: vcp: <>kutaH? parArTatvAt vedasya, parArTo hi vedo yad-
-171284:0: vcp: <>yat anena Sakyate karttum, tasmE--tasmE prayojanAya eza
-171285:0: vcp: <>samAmnAyate, Sakyate ca anena padArTo viDAtum, Sakyate
-171286:0: vcp: <>ca kriyAkAle pratipattum . tasmAt vedaH padArTAMSca vi-
-171287:2: vcp: <>DAtum upAdeyaH, kriyAkAle ca pratipacum, na Sakyate
-171288:1: vcp: <>viSezaH--viDAtumayaM samAmnAyate, na pratipattum--iti, a-
-171289:2: vcp: <>vamyamAne viSeze uBayArTam upAdIyate--iti
-171290:2: vcp: <>gamyate . pratipattuM ca anena krameRa Sakyate, nA-
-171291:0: vcp: <>nyena, ata eva ca kftvA pAWakramApacAre, vinazwa--ityu-
-171292:0: vcp: <>cyate, itaraTA hi yat yasya prayojanaM, tasmin nirvarttya-
-171293:1: vcp: <>mAne eva kiM nazwaM syAt, adfzwa kalpyeta, tacca . a-
-171294:1: vcp: <>nyAyyaM dfzwe sati . tasmAt svaSabdaH kramaH--ya eva padA-
-171295:1: vcp: <>rTAnAM vAcakaH SabdaH sa eva kramasyApi” BA0
-171296:1: vcp: <>“taTA cAnyArTardarSanam” 7 sU0
-171297:0: vcp: <>“evaM ca anyArTaM darSayati”--“vyatyastamftavyA upadaDAti” .
-171298:1: vcp: <>“vyatyastaM zoqaSinaM SaMsati” . “ASvino daSamo gfhate taM
-171299:1: vcp: <>tftIyaM juhoti”--iti, yadi aniyamena upaDAnaM
-171300:1: vcp: <>SaMsanaM ca, vyatyastavacanam anaryakaM syAt, na hi kaTaYcit
-171301:0: vcp: <>avyatyAsaH--iti . taTA ASvinasya tftIyasya homAnuvAdo
-171302:0: vcp: <>na avakalpeta, yadi pAWakrameRa niyamaH--iti . taTA-
-171303:0: vcp: <>“aBicaratA pratilomaM hotavyam” prARAneva asya pratIcaH
-171304:2: vcp: <>pratiyEti”--iti kvacit pratilomaM vidavadanuloBaM darSa-
-171305:2: vcp: <>yati, tadupapadyate, yadi pAWakrameRa prayogaH, itaraTAH
-171306:0: vcp: <>sarvvamanulomaM syAt pratilomadarSanaM nopapadyeta! taTA
-171307:3: vcp: <>“caturTotagayoH pratisamAnayati”--iti, ukta sati, [Page2292-a+ 38]
-171308:2: vcp: <>“atihAyeqovarhiH pratisamAnayati,--iti ucyate tena
-171309:1: vcp: <>varhizaH caturTatAM darSayati, sA pAWakrame niyAmake'va
-171310:1: vcp: <>kalpate” BA0
-171311:1: vcp: <>“pravfttyA tulyakAlAnAM guRAnAM tadupakramAt” 8 sU0
-171312:0: vcp: <>“vAjapeye “saptadaSa prAjApatyAn paSUn AlaBate”--iti
-171313:0: vcp: <>SrUyate . tezu paSuzu codakaprAptAHprokzaRAdayo DarmAH,
-171314:2: vcp: <>tatra praTamaH padArTo yataH kutaScidArabDavyaH dvitIyAdizu
-171315:0: vcp: <>Bavati saMSayaH,--kiM tata eva dvitIyo'pi padArTa Ara-
-171316:0: vcp: <>bDavyaH? uta dvitIyAdizu aniyamaH?--iti . kiM tAvat
-171317:0: vcp: <>prAptam? niyamakAriRaH SAstrasyABAvAt aniyamaH--iti .
-171318:0: vcp: <>evaM prApte, brUmaH,--yataH pUrva ArabDaH, tataeva dvitIyA-
-171319:0: vcp: <>dayo'pi padArTA ArabDavyAH--iti . kutaH etat? .
-171320:2: vcp: <>‘tadupakramAt’ sarve hi padArTA praDAnakAlAt na viprakra-
-171321:0: vcp: <>zwavyAH, praDAnaM hi cikIrzitaM, kftaM vA tezAM nimitta,
-171322:3: vcp: <>sahavacanaM hi Bavati”--‘padArTEH saha praDAnaM karttavyam’--
-171323:3: vcp: <>iti . vahupadArTasamAmnAnAttu avaSyamBAvI vipakarzaH,
-171324:0: vcp: <>taTApi tu yAvadBirnAvyavahitaH SakyaH padArTaH kartum,
-171325:0: vcp: <>tAvadBirvyavaDAnam avaSyaM karttavyam . tato'Byavikena na
-171326:0: vcp: <>vyavaDAtavyam--iti, yadi dvitIyaM padArTamanyata AraBeta,
-171327:0: vcp: <>tato'DikErapi vyavadaDyAt, taTA prayogavacanaM bADeta! .
-171328:4: vcp: <>‘nanu taTA sati kaScidalapErvyavahito Bavizyati’ .
-171329:0: vcp: <>ucyate,--anumatAnAM vyavaDAyakAnAM tyAgena kaScit a-
-171330:1: vcp: <>ByaDiko guRo Bavati--iti tasmAt yataH pUrvayadArTa A-
-171331:1: vcp: <>rabDaH tata eva uttara AramBaRIyaH--iti” BA0
-171332:2: vcp: <>“marvamiti cet” 9 sU0
-171333:0: vcp: <>“iti cet paSyasi, praDAnAviprakarzeRa prayogavacanA-
-171334:0: vcp: <>nugrahaH--iti, sarvaM tarhi--guRakARqam ekasmin apa-
-171335:1: vcp: <>varjayitavyaM, yaTA sOryAdizu” BA0 .
-171336:1: vcp: <>“nAkftatvAt” 10 sU0 .
-171337:2: vcp: <>“nEtadevam, sahaprayoge evahi ga anuzWitaH syAt” BA0 .
-171338:3: vcp: <>“kratvantaravaditi cet” . 11 sU0
-171339:0: vcp: <>“aTa yaduktaM,--yaTA kratvantarezu sOryAdizu--iti, tat
-171340:1: vcp: <>pariharttavyam” BA0
-171341:1: vcp: <>“nAsamavAyAt” 12 sU0
-171342:1: vcp: <>“na tezAmarTAt kramaH prApnoti, yo niyamyeta, aNgASrayo
-171343:0: vcp: <>hi niyamo Bavitumarhati, anaNgAsamASrayasya svayamaNgatA
-171344:1: vcp: <>kalpyeta” BA0
-171345:2: vcp: <>“sTAnAccotpattisayogAt” 13 sU0 [Page2292-b+ 38]
-171346:3: vcp: <>“ekaviMSena katirAtreRa prajAkAmaM yAjayet, triRavenA-
-171347:0: vcp: <>jaskAmaM, trayastriMSena pratizWAkAmam” ityevamAdi SrUyate .
-171348:0: vcp: <>tatra Agamena saNKyApUraRam--iti vakzyate . tatra Agame
-171349:1: vcp: <>kriyamARe, kim aniyamajakramAH saMrvvA fca Aga-
-171350:0: vcp: <>mayitavyAH? uta kARqakrameByaH? iti . kiM prAptam?-
-171351:0: vcp: <>aniyamena--iti . kutaH? atirAtre triRavAdi
-171352:0: vcp: <>SabdArTenEtAH prApnuvanti, tatra etAsAM prApnuvatInAm
-171353:1: vcp: <>prAWakramo nAsti--iti . evaM prApte ucyate,--yadAsAM
-171354:0: vcp: <>sAmAmnAye sTAnaM, tenEtA atra niyamyante yAH pUrvaM
-171355:1: vcp: <>sAmAmnAtAH, tAH pUrvameva prayoktavyAH, AnupUrvyasya hi
-171356:0: vcp: <>dfzwametat prayojanam, yaduttarasPuraRaM, tadapi cikIrzita-
-171357:0: vcp: <>meva--iti . triRavAdiSabdEH atirAtre yOgapadyena
-171358:2: vcp: <>AsAM prapteH pAWakramasya avizayaH--iti aDikaraRAntaram
-171359:0: vcp: <>--iti Bavati matiH . samAmnAyapAWakramAdeva atra niya-
-171360:1: vcp: <>maH--iti punaruktatAgamyate--iti anyaTA varRyate” 1 mava0
-171361:1: vcp: <>“sAdyaskre SrUyate,--saha praSUnAlamate,--iti atra
-171362:1: vcp: <>ezo'rTaH samaDigataH”--savanIyakAle trayARAm AlamBaH
-171363:0: vcp: <>--iti . aTa atra pAWakramAt, kim agnIzomIyaH
-171364:1: vcp: <>pUrvam AlabDavyaH? uta sTAnakramAt pUrvaM savanIyaH iti .
-171365:0: vcp: <>kutaH? . pAWakramAt . evaM prApte brUmaH,--savanIyaH pUrvaM,
-171366:0: vcp: <>“sTAnAt, yadi pUrvam agnizomIyaH syAt, savanIya
-171367:0: vcp: <>sTAnaM vyAhanyeta! “ASvinaM gfhItvA trivftA yUpaM
-171368:0: vcp: <>parivIya” iti . “nanu itaraTApi pAWakramobADyeta,
-171369:1: vcp: <>bADyatAM, tasya hi pratizeDArTaH sahaSabdaH samAmnAtaH,
-171370:0: vcp: <>apratizidDaM ca ASvinagrahasTAnam, tanna bADita-
-171371:2: vcp: <>vyam” (2 varRRakam) BA0
-171372:2: vcp: <>“muKyakrameRa vANgAnAM tadarTatvAt” 14 sU0
-171373:0: vcp: <>“svArasvatO BavataH etat vE dvidEvatyaM miTunam”--iti
-171374:0: vcp: <>SrUyate . tatra sandehaH,--kiM strIdEvatyasya praTamaM DarmAH?
-171375:0: vcp: <>uta puMdEvatyasya?--iti . niyamakAriRaH SAstrasya aBA-
-171376:0: vcp: <>vAt aniyamaH,--iti prApte brUmaH,--muKyakrameRa vA ni-
-171377:1: vcp: <>yamaH syAt--iti strIdEvatyasya hi pUrvaM yAjyAnuvAkyayoH
-171378:1: vcp: <>samAmnAnaM, “praRo devI sarasvatI”--iti . tasmAt strI-
-171379:1: vcp: <>dEvatyasya pUrvaM pradAnena mavitavyam, tasmAt strIdEvatyasya
-171380:0: vcp: <>pUrvaM DarmAH kAryAH, taTA hi praDAnakAlatA Bavati a-
-171381:0: vcp: <>NgAnAm, itaraTA, yEH pAdarTErvyavaDAnaM sAmarTyAt anu-
-171382:1: vcp: <>jYAtaM teByo'DikErapi vyavaDAnaM syAt” . BA0
-171383:1: vcp: <>“prakftO tu svaSabdatvAt yaTAkramaM pratIyeta” 15 sU0 [Page2293-a+ 38]
+171268:0: vcp: kramaH . kaTaM? padArTapUrvako vAkyArTaH padeByaSca
+171269:0: vcp: padArTA eva avaganyante na kramaH . syAt etadevaM, yadi [Page2291-b+ 38]
+171270:1: vcp: padArTAnAm samUhasya SrakaRaM pratyAyakam arTasya syAt, na
+171271:1: vcp: tu samudAyaH pratyAyakaH, --ityuktaM “tadBUtAnAM kiyArTena
+171272:0: vcp: samAmnAyaH” (1 . 1 . 25 a0) ityatra . tasmAt kramasya
+171273:1: vcp: vAcakaSabadABAvAt vyAmoha eza kramo'vagamyate . evaM
+171274:0: vcp: cApUrvAsattiranugrahIzyate, itaraTA sApi viprakfzyeta
+171275:2: vcp: vawIyantra iva . darSayizyati ca”--“hfdayamyAgre'vadyati,
+171276:0: vcp: aTa jihvAyAH, aTa vakzasaH,--iti . yadi niyAmakaH pA-
+171277:3: vcp: WakramaH tato na viDAtavyanetata niyAmake hi pAWakame
+171278:1: vcp: pAWakramAt eva prApnuyAt” BA0
+171279:0: vcp: “arTakfte vAnumAnaM syAt, kratvekatve pararTatvAt svena
+171280:2: vcp: tvarTena sambanDaH, tasmAtsvaSavadamucyeta” 6 sU0
+171281:1: vcp: “ekasmin kratAvekatvAt kartuH, anekanmin padArTe'rTakfta-
+171282:0: vcp: tvAt kramasya, tatra eza eva kramo niyamyetAnumAnena .
+171283:0: vcp: kutaH? parArTatvAt vedasya, parArTo hi vedo yad-
+171284:0: vcp: yat anena Sakyate karttum, tasmE--tasmE prayojanAya eza
+171285:0: vcp: samAmnAyate, Sakyate ca anena padArTo viDAtum, Sakyate
+171286:0: vcp: ca kriyAkAle pratipattum . tasmAt vedaH padArTAMSca vi-
+171287:2: vcp: DAtum upAdeyaH, kriyAkAle ca pratipacum, na Sakyate
+171288:1: vcp: viSezaH--viDAtumayaM samAmnAyate, na pratipattum--iti, a-
+171289:2: vcp: vamyamAne viSeze uBayArTam upAdIyate--iti
+171290:2: vcp: gamyate . pratipattuM ca anena krameRa Sakyate, nA-
+171291:0: vcp: nyena, ata eva ca kftvA pAWakramApacAre, vinazwa--ityu-
+171292:0: vcp: cyate, itaraTA hi yat yasya prayojanaM, tasmin nirvarttya-
+171293:1: vcp: mAne eva kiM nazwaM syAt, adfzwa kalpyeta, tacca . a-
+171294:1: vcp: nyAyyaM dfzwe sati . tasmAt svaSabdaH kramaH--ya eva padA-
+171295:1: vcp: rTAnAM vAcakaH SabdaH sa eva kramasyApi” BA0
+171296:1: vcp: “taTA cAnyArTardarSanam” 7 sU0
+171297:0: vcp: “evaM ca anyArTaM darSayati”--“vyatyastamftavyA upadaDAti” .
+171298:1: vcp: “vyatyastaM zoqaSinaM SaMsati” . “ASvino daSamo gfhate taM
+171299:1: vcp: tftIyaM juhoti”--iti, yadi aniyamena upaDAnaM
+171300:1: vcp: SaMsanaM ca, vyatyastavacanam anaryakaM syAt, na hi kaTaYcit
+171301:0: vcp: avyatyAsaH--iti . taTA ASvinasya tftIyasya homAnuvAdo
+171302:0: vcp: na avakalpeta, yadi pAWakrameRa niyamaH--iti . taTA-
+171303:0: vcp: “aBicaratA pratilomaM hotavyam” prARAneva asya pratIcaH
+171304:2: vcp: pratiyEti”--iti kvacit pratilomaM vidavadanuloBaM darSa-
+171305:2: vcp: yati, tadupapadyate, yadi pAWakrameRa prayogaH, itaraTAH
+171306:0: vcp: sarvvamanulomaM syAt pratilomadarSanaM nopapadyeta! taTA
+171307:3: vcp: “caturTotagayoH pratisamAnayati”--iti, ukta sati, [Page2292-a+ 38]
+171308:2: vcp: “atihAyeqovarhiH pratisamAnayati,--iti ucyate tena
+171309:1: vcp: varhizaH caturTatAM darSayati, sA pAWakrame niyAmake'va
+171310:1: vcp: kalpate” BA0
+171311:1: vcp: “pravfttyA tulyakAlAnAM guRAnAM tadupakramAt” 8 sU0
+171312:0: vcp: “vAjapeye “saptadaSa prAjApatyAn paSUn AlaBate”--iti
+171313:0: vcp: SrUyate . tezu paSuzu codakaprAptAHprokzaRAdayo DarmAH,
+171314:2: vcp: tatra praTamaH padArTo yataH kutaScidArabDavyaH dvitIyAdizu
+171315:0: vcp: Bavati saMSayaH,--kiM tata eva dvitIyo'pi padArTa Ara-
+171316:0: vcp: bDavyaH? uta dvitIyAdizu aniyamaH?--iti . kiM tAvat
+171317:0: vcp: prAptam? niyamakAriRaH SAstrasyABAvAt aniyamaH--iti .
+171318:0: vcp: evaM prApte, brUmaH,--yataH pUrva ArabDaH, tataeva dvitIyA-
+171319:0: vcp: dayo'pi padArTA ArabDavyAH--iti . kutaH etat? .
+171320:2: vcp: ‘tadupakramAt’ sarve hi padArTA praDAnakAlAt na viprakra-
+171321:0: vcp: zwavyAH, praDAnaM hi cikIrzitaM, kftaM vA tezAM nimitta,
+171322:3: vcp: sahavacanaM hi Bavati”--‘padArTEH saha praDAnaM karttavyam’--
+171323:3: vcp: iti . vahupadArTasamAmnAnAttu avaSyamBAvI vipakarzaH,
+171324:0: vcp: taTApi tu yAvadBirnAvyavahitaH SakyaH padArTaH kartum,
+171325:0: vcp: tAvadBirvyavaDAnam avaSyaM karttavyam . tato'Byavikena na
+171326:0: vcp: vyavaDAtavyam--iti, yadi dvitIyaM padArTamanyata AraBeta,
+171327:0: vcp: tato'DikErapi vyavadaDyAt, taTA prayogavacanaM bADeta! .
+171328:4: vcp: ‘nanu taTA sati kaScidalapErvyavahito Bavizyati’ .
+171329:0: vcp: ucyate,--anumatAnAM vyavaDAyakAnAM tyAgena kaScit a-
+171330:1: vcp: ByaDiko guRo Bavati--iti tasmAt yataH pUrvayadArTa A-
+171331:1: vcp: rabDaH tata eva uttara AramBaRIyaH--iti” BA0
+171332:2: vcp: “marvamiti cet” 9 sU0
+171333:0: vcp: “iti cet paSyasi, praDAnAviprakarzeRa prayogavacanA-
+171334:0: vcp: nugrahaH--iti, sarvaM tarhi--guRakARqam ekasmin apa-
+171335:1: vcp: varjayitavyaM, yaTA sOryAdizu” BA0 .
+171336:1: vcp: “nAkftatvAt” 10 sU0 .
+171337:2: vcp: “nEtadevam, sahaprayoge evahi ga anuzWitaH syAt” BA0 .
+171338:3: vcp: “kratvantaravaditi cet” . 11 sU0
+171339:0: vcp: “aTa yaduktaM,--yaTA kratvantarezu sOryAdizu--iti, tat
+171340:1: vcp: pariharttavyam” BA0
+171341:1: vcp: “nAsamavAyAt” 12 sU0
+171342:1: vcp: “na tezAmarTAt kramaH prApnoti, yo niyamyeta, aNgASrayo
+171343:0: vcp: hi niyamo Bavitumarhati, anaNgAsamASrayasya svayamaNgatA
+171344:1: vcp: kalpyeta” BA0
+171345:2: vcp: “sTAnAccotpattisayogAt” 13 sU0 [Page2292-b+ 38]
+171346:3: vcp: “ekaviMSena katirAtreRa prajAkAmaM yAjayet, triRavenA-
+171347:0: vcp: jaskAmaM, trayastriMSena pratizWAkAmam” ityevamAdi SrUyate .
+171348:0: vcp: tatra Agamena saNKyApUraRam--iti vakzyate . tatra Agame
+171349:1: vcp: kriyamARe, kim aniyamajakramAH saMrvvA fca Aga-
+171350:0: vcp: mayitavyAH? uta kARqakrameByaH? iti . kiM prAptam?-
+171351:0: vcp: aniyamena--iti . kutaH? atirAtre triRavAdi
+171352:0: vcp: SabdArTenEtAH prApnuvanti, tatra etAsAM prApnuvatInAm
+171353:1: vcp: prAWakramo nAsti--iti . evaM prApte ucyate,--yadAsAM
+171354:0: vcp: sAmAmnAye sTAnaM, tenEtA atra niyamyante yAH pUrvaM
+171355:1: vcp: sAmAmnAtAH, tAH pUrvameva prayoktavyAH, AnupUrvyasya hi
+171356:0: vcp: dfzwametat prayojanam, yaduttarasPuraRaM, tadapi cikIrzita-
+171357:0: vcp: meva--iti . triRavAdiSabdEH atirAtre yOgapadyena
+171358:2: vcp: AsAM prapteH pAWakramasya avizayaH--iti aDikaraRAntaram
+171359:0: vcp: --iti Bavati matiH . samAmnAyapAWakramAdeva atra niya-
+171360:1: vcp: maH--iti punaruktatAgamyate--iti anyaTA varRyate” 1 mava0
+171361:1: vcp: “sAdyaskre SrUyate,--saha praSUnAlamate,--iti atra
+171362:1: vcp: ezo'rTaH samaDigataH”--savanIyakAle trayARAm AlamBaH
+171363:0: vcp: --iti . aTa atra pAWakramAt, kim agnIzomIyaH
+171364:1: vcp: pUrvam AlabDavyaH? uta sTAnakramAt pUrvaM savanIyaH iti .
+171365:0: vcp: kutaH? . pAWakramAt . evaM prApte brUmaH,--savanIyaH pUrvaM,
+171366:0: vcp: “sTAnAt, yadi pUrvam agnizomIyaH syAt, savanIya
+171367:0: vcp: sTAnaM vyAhanyeta! “ASvinaM gfhItvA trivftA yUpaM
+171368:0: vcp: parivIya” iti . “nanu itaraTApi pAWakramobADyeta,
+171369:1: vcp: bADyatAM, tasya hi pratizeDArTaH sahaSabdaH samAmnAtaH,
+171370:0: vcp: apratizidDaM ca ASvinagrahasTAnam, tanna bADita-
+171371:2: vcp: vyam” (2 varRRakam) BA0
+171372:2: vcp: “muKyakrameRa vANgAnAM tadarTatvAt” 14 sU0
+171373:0: vcp: “svArasvatO BavataH etat vE dvidEvatyaM miTunam”--iti
+171374:0: vcp: SrUyate . tatra sandehaH,--kiM strIdEvatyasya praTamaM DarmAH?
+171375:0: vcp: uta puMdEvatyasya?--iti . niyamakAriRaH SAstrasya aBA-
+171376:0: vcp: vAt aniyamaH,--iti prApte brUmaH,--muKyakrameRa vA ni-
+171377:1: vcp: yamaH syAt--iti strIdEvatyasya hi pUrvaM yAjyAnuvAkyayoH
+171378:1: vcp: samAmnAnaM, “praRo devI sarasvatI”--iti . tasmAt strI-
+171379:1: vcp: dEvatyasya pUrvaM pradAnena mavitavyam, tasmAt strIdEvatyasya
+171380:0: vcp: pUrvaM DarmAH kAryAH, taTA hi praDAnakAlatA Bavati a-
+171381:0: vcp: NgAnAm, itaraTA, yEH pAdarTErvyavaDAnaM sAmarTyAt anu-
+171382:1: vcp: jYAtaM teByo'DikErapi vyavaDAnaM syAt” . BA0
+171383:1: vcp: “prakftO tu svaSabdatvAt yaTAkramaM pratIyeta” 15 sU0 [Page2293-a+ 38]
 171384:1: vcp: <P>“darSapUrRamAsayoH pUrvamOzaDaDarmAH samAmnAtAH, tataH
-171385:0: vcp: <>Ajyasya . tatra sandehaH,--kim agnIzomIyaDarmA-
-171386:1: vcp: <>RAm, muKyakrameRa pUrvam Ajyasya DarmAH karttavyAH!
-171387:1: vcp: <>uta yaTApa Wam?--iti . muKyakramAnugraheRa Ajyasya
-171388:0: vcp: <>pUrvam,--iti prApte brUmaH,--prakftO yaTApAWaM pratIyeta,
-171389:0: vcp: <>svaSabdo hi tezAM pAWakramaH, saH anyaTA kriyamARo bA-
-171390:0: vcp: <>DitaH syAt, sahatvasya punarupasaNgrAhakaH prayogavacanaH
-171391:5: vcp: <>KakrameRa padArTe sannikfvyakArRa na bADito Bavizyati .
-171392:0: vcp: <>api ca pAWakrame svaSabdaH,--“svADyAyo'DyetavyaH”
-171393:1: vcp: <>muKyakrameRa prayogavacanEkavAkyatA sUkzmA” BA0
+171385:0: vcp: Ajyasya . tatra sandehaH,--kim agnIzomIyaDarmA-
+171386:1: vcp: RAm, muKyakrameRa pUrvam Ajyasya DarmAH karttavyAH!
+171387:1: vcp: uta yaTApa Wam?--iti . muKyakramAnugraheRa Ajyasya
+171388:0: vcp: pUrvam,--iti prApte brUmaH,--prakftO yaTApAWaM pratIyeta,
+171389:0: vcp: svaSabdo hi tezAM pAWakramaH, saH anyaTA kriyamARo bA-
+171390:0: vcp: DitaH syAt, sahatvasya punarupasaNgrAhakaH prayogavacanaH
+171391:5: vcp: KakrameRa padArTe sannikfvyakArRa na bADito Bavizyati .
+171392:0: vcp: api ca pAWakrame svaSabdaH,--“svADyAyo'DyetavyaH”
+171393:1: vcp: muKyakrameRa prayogavacanEkavAkyatA sUkzmA” BA0
 171394:0: vcp: <P>“mantratastu viroDe syAt prayogarUpasAmarTyAt tasmAt
-171395:1: vcp: <>utpattideSaH saH” 16 mU0
+171395:1: vcp: utpattideSaH saH” 16 mU0
 171396:0: vcp: <P>“darSapUrRamAsayoH, Agneyasya pUrvaM mantrapAWaH, uttaro
-171397:0: vcp: <>brAhmaRasya . tatra sandehaH--katamaH pAWo balIyAn?--iti .
-171398:0: vcp: <>ucyate,--aniyamaH, niyamakAriRaH SAstrasya aBAvAt--iti .
+171397:0: vcp: brAhmaRasya . tatra sandehaH--katamaH pAWo balIyAn?--iti .
+171398:0: vcp: ucyate,--aniyamaH, niyamakAriRaH SAstrasya aBAvAt--iti .
 171399:1: vcp: <P>evaM prApte brUmaH,--mantrapAWo balIyAn . kutaH?
-171400:1: vcp: <>payogarUpasAmarTyAt--prayogAya mantrasya rUpasAmarTyaM,
-171401:0: vcp: <>tadasya sAmarTyaM yena mantraH prayujyate, tasya ca prayujya-
-171402:3: vcp: <>mAnasya kramo dfzwAya Bavati . "nanu ca brAhmaRapAWasya
-171403:2: vcp: <>api tadeva prayojanam’ . ucyate--utpattideSaH saH’--a-
-171404:6: vcp: <>paramapi tasya prayojanaM karmotpattyarTaM mavizyati” BA0
-171405:1: vcp: <>“tadvacanAdvikftO yaTApraDAnaM syAt” 17 sU0
-171406:1: vcp: <>“asti aDvarakalpA nAmezwiH,--‘AgnAvEzRavam ekAdaSa-
-171407:1: vcp: <>kapAlaM nirvapet, sarasvatI AjyaBAgA syAt vArhaspa-
-171408:1: vcp: <>tyaScaruH’--iti . tatra sandehaH--kim AgneyavikArasya
-171409:1: vcp: <>vArhaspatyasya pUrvaM DarmAH kAryyAH, codako balavattaraH,
-171410:3: vcp: <>prayogavacanAt, uta upAMSrayAgavikArasya prayogava-
-171411:1: vcp: <>cano balavattaraH, codakAt?--iti . kim prApnam?-
-171412:6: vcp: <>‘vikftO’ asyAM ‘yaTApraDAnaM syAt’ ‘tadvacanAt’--tezAM
-171413:0: vcp: <>sAkzAdvacanakramo vikftO, tena sannihitAnAm upasaM-
-171414:2: vcp: <>hArakaH prayogavacano hi pratyakzaH, tadBarmARAM ca
-171415:0: vcp: <>AnumAnikaH codakena hi sa prAptaH . tasmAt pratyakzaH
-171416:0: vcp: <>prayogavacano balavattaraH, tena codaka AnumAniko
-171417:1: vcp: <>bADyate BA0
-171418:1: vcp: <>“vipratipattO vA prakftyanvayAdyaTAprakfti” 18 sU0
-171419:0: vcp: <>muKyANgakrama--vipratipattO vA yaTA prakftO, taTEva
-171420:2: vcp: <>vikftO Bavitumarhati--iti . kutaH? . ‘prakftyanvayAt’
-171421:1: vcp: <>yAdfSAH prakftO zarmAH, tAdfSA eva vikftO Bavitu- [Page2293-b+ 38]
-171422:0: vcp: <>marhanti--iti, muKyakrameRa kriyamARA na prakftivat kutaH
-171423:2: vcp: <>syuH? . codako hi prayogavacanAt balattaraH, sa hi
-171424:0: vcp: <>utpAdayati prApayati ca . prApitAn aBisamokzya
-171425:0: vcp: <>prayogavacana upasaMharati, sa prAptezu utpannaH prAptinimi-
-171426:0: vcp: <>ttaka uttarakAlaM pUrvaprAptaM na bADitumarhati codakaM, pratya,
-171427:0: vcp: <>kzo'pi san, bahiraNgatvAt, yaTAprAptAnevopasaMharizyati .
-171428:1: vcp: <>tasmAt pUrvaM bArhaspatyasya DarmAH, tata Ajyasya” BA0 .
-171429:2: vcp: <>etacca spazwatayA tattvavoDinyAM darSitaM yaTA
+171400:1: vcp: payogarUpasAmarTyAt--prayogAya mantrasya rUpasAmarTyaM,
+171401:0: vcp: tadasya sAmarTyaM yena mantraH prayujyate, tasya ca prayujya-
+171402:3: vcp: mAnasya kramo dfzwAya Bavati . "nanu ca brAhmaRapAWasya
+171403:2: vcp: api tadeva prayojanam’ . ucyate--utpattideSaH saH’--a-
+171404:6: vcp: paramapi tasya prayojanaM karmotpattyarTaM mavizyati” BA0
+171405:1: vcp: “tadvacanAdvikftO yaTApraDAnaM syAt” 17 sU0
+171406:1: vcp: “asti aDvarakalpA nAmezwiH,--‘AgnAvEzRavam ekAdaSa-
+171407:1: vcp: kapAlaM nirvapet, sarasvatI AjyaBAgA syAt vArhaspa-
+171408:1: vcp: tyaScaruH’--iti . tatra sandehaH--kim AgneyavikArasya
+171409:1: vcp: vArhaspatyasya pUrvaM DarmAH kAryyAH, codako balavattaraH,
+171410:3: vcp: prayogavacanAt, uta upAMSrayAgavikArasya prayogava-
+171411:1: vcp: cano balavattaraH, codakAt?--iti . kim prApnam?-
+171412:6: vcp: ‘vikftO’ asyAM ‘yaTApraDAnaM syAt’ ‘tadvacanAt’--tezAM
+171413:0: vcp: sAkzAdvacanakramo vikftO, tena sannihitAnAm upasaM-
+171414:2: vcp: hArakaH prayogavacano hi pratyakzaH, tadBarmARAM ca
+171415:0: vcp: AnumAnikaH codakena hi sa prAptaH . tasmAt pratyakzaH
+171416:0: vcp: prayogavacano balavattaraH, tena codaka AnumAniko
+171417:1: vcp: bADyate BA0
+171418:1: vcp: “vipratipattO vA prakftyanvayAdyaTAprakfti” 18 sU0
+171419:0: vcp: muKyANgakrama--vipratipattO vA yaTA prakftO, taTEva
+171420:2: vcp: vikftO Bavitumarhati--iti . kutaH? . ‘prakftyanvayAt’
+171421:1: vcp: yAdfSAH prakftO zarmAH, tAdfSA eva vikftO Bavitu- [Page2293-b+ 38]
+171422:0: vcp: marhanti--iti, muKyakrameRa kriyamARA na prakftivat kutaH
+171423:2: vcp: syuH? . codako hi prayogavacanAt balattaraH, sa hi
+171424:0: vcp: utpAdayati prApayati ca . prApitAn aBisamokzya
+171425:0: vcp: prayogavacana upasaMharati, sa prAptezu utpannaH prAptinimi-
+171426:0: vcp: ttaka uttarakAlaM pUrvaprAptaM na bADitumarhati codakaM, pratya,
+171427:0: vcp: kzo'pi san, bahiraNgatvAt, yaTAprAptAnevopasaMharizyati .
+171428:1: vcp: tasmAt pUrvaM bArhaspatyasya DarmAH, tata Ajyasya” BA0 .
+171429:2: vcp: etacca spazwatayA tattvavoDinyAM darSitaM yaTA
 171430:0: vcp: <P>“agnihotraM juhoti yavAgUM pacatItyAdO anu-
-171431:0: vcp: <>zWeyAnAmanuzWAnakramaniyamo'sti naveti . tatra na kra-
-171432:0: vcp: <>maniyamaH tatprApakapramARABAvAditi prApte krama-
-171433:1: vcp: <>niyamaprApakARyAha SrutyarTapaWanasTAnamuKyaprAvarttikAH
-171434:1: vcp: <>kramAH . 1 SrutirAnantaryyaboDakamaTaSabdaktvApratyayAdikam .
-171435:4: vcp: <>2 arTaH prayojanaM, 3 paWanaM pAWakramaH 4 sTAnaM svasTAnasTitiH,
-171436:0: vcp: <>yaTA ASvinakratvahasAmIpyaM savanIyapaSoH, . sTAnaM svo-
-171437:2: vcp: <>tpattivAkyamiti kecit . 5 muKyaM praDAnaM karmma . 6 pra-
-171438:0: vcp: <>vfttiH pravarttanakramaH . prAvarttiketi tadDitena pravfttigamya-
-171439:1: vcp: <>tvABiDAyakena SrutyAdipadAnAM SrutigamyatvAdiparatvaM
-171440:0: vcp: <>sUcitaM taTA ca SrutyAdIni kramaprApakARIti . atra
-171441:0: vcp: <>SrutyAdInAM kramaprApakatAboDakasUtrARi bahUni uktAni-
-171442:1: vcp: <>tAni ca granTagOravaBayAt niKivyamARasUtrArTavivecanena
-171443:0: vcp: <>vyaktIBavizyattvAcca na liKitAni . tatra Srutitoya
-171444:2: vcp: <>TA “dvAdaSAhasatrayAge “aDvaryurgfhapatiM dIkzayitva
-171445:0: vcp: <>brahmARaM dIkzayati tataudgAtAraM tato hotAramiti” Ana-
-171446:0: vcp: <>ntaryyArTakaktvApratyayena kramoboDyate . yaTA vA “hfdaye
-171447:0: vcp: <>syAgre'vadyati, aTa jihvAyaH aTa vakzasaH” iti aTaSa-
-171448:0: vcp: <>bdena . ayaM ca kramo'nyeByo balavAn SabdalaByatvAt .
-171449:0: vcp: <>evamezAM pUrvvata uttarottaraM durbbalaM boDyam . nanvaTAdi
-171450:0: vcp: <>SabdAdupasTitasyApi kramasya DAtvarTarUpakriyAtvA'BAvena
-171451:0: vcp: <>kaTaM viDeyatvaM tadidamuktaM prApakapramARABAvAditi ce-
-171452:0: vcp: <>ducyate yaTA daDnA juhotItyAdO akriyArUpaM daDidravyaM
-171453:1: vcp: <>kriyAviSezaRaM sadviDoyate daDisADanakaM homaM kuryyAditi
-171454:0: vcp: <>taTA idamanena krameRa karttavyamiti kriyAviSezaRatayA
-171455:0: vcp: <>kramoviDIyate . taTA ca sUtram “SrutilakzaRyamAnupU-
-171456:0: vcp: <>rvvaMtatpraDAnatvAt” AnupUrvyaM SrutigamyaM viDigamyaM tasya
-171457:0: vcp: <>kramasya praDAnatvAt daDyAdivat kriyAviSezaRatvena viDe-
-171458:1: vcp: <>yatvAta . tacca kvacit SrutaSabdAdaTAditaH kvaciccA-
-171459:0: vcp: <>rTAdito'numAnAditi viSezaH . itTaYca SrutigamyaM Sruti [Page2294-a+ 38]
-171460:0: vcp: <>SabdalaByamityarTaH sUtrabODya iti BAvaH . SrutigamyaM
-171461:0: vcp: <>SrutilaByamAnupUrvyaM grAhyamiti SezaH . “aTa aDvaryyurgf-
-171462:1: vcp: <>hapatiM dIkzayitvA brahmARaM dIkzayati” ityAdO
-171463:1: vcp: <>dIkzEva viDIyate SrutitastadviDyavagamAt kramastu vAkyArTo
-171464:0: vcp: <>na viDeya iti . tadviDyavagamABAvAt taduktaM “vA-
-171465:0: vcp: <>kyArTo viDiranyAyyaH SrutyarTaviDisamBave . tasmAd-
-171466:0: vcp: <>dIkzAviDiH pAWAddIkzARAM prApyate kramaH” . ucyate .
-171467:0: vcp: <>dvAdaSAhasatre ya eva yajamAnAstaeva ftvijaH” iti
-171468:1: vcp: <>vrahmAdInAM sarvezAmftvijAM yajamAnatvena yajamAna-
-171469:0: vcp: <>dIkzAM viDiprAptAmanUdya anenAprAptakramaeva viDIyate .
-171470:0: vcp: <>taduktaM “sarvezAM yajamAnatvAt dIkzaprApteracodanAt .
-171471:0: vcp: <>kramastu nAnyataH prApta iti so'tra viDIyate” .
+171431:0: vcp: zWeyAnAmanuzWAnakramaniyamo'sti naveti . tatra na kra-
+171432:0: vcp: maniyamaH tatprApakapramARABAvAditi prApte krama-
+171433:1: vcp: niyamaprApakARyAha SrutyarTapaWanasTAnamuKyaprAvarttikAH
+171434:1: vcp: kramAH . 1 SrutirAnantaryyaboDakamaTaSabdaktvApratyayAdikam .
+171435:4: vcp: 2 arTaH prayojanaM, 3 paWanaM pAWakramaH 4 sTAnaM svasTAnasTitiH,
+171436:0: vcp: yaTA ASvinakratvahasAmIpyaM savanIyapaSoH, . sTAnaM svo-
+171437:2: vcp: tpattivAkyamiti kecit . 5 muKyaM praDAnaM karmma . 6 pra-
+171438:0: vcp: vfttiH pravarttanakramaH . prAvarttiketi tadDitena pravfttigamya-
+171439:1: vcp: tvABiDAyakena SrutyAdipadAnAM SrutigamyatvAdiparatvaM
+171440:0: vcp: sUcitaM taTA ca SrutyAdIni kramaprApakARIti . atra
+171441:0: vcp: SrutyAdInAM kramaprApakatAboDakasUtrARi bahUni uktAni-
+171442:1: vcp: tAni ca granTagOravaBayAt niKivyamARasUtrArTavivecanena
+171443:0: vcp: vyaktIBavizyattvAcca na liKitAni . tatra Srutitoya
+171444:2: vcp: TA “dvAdaSAhasatrayAge “aDvaryurgfhapatiM dIkzayitva
+171445:0: vcp: brahmARaM dIkzayati tataudgAtAraM tato hotAramiti” Ana-
+171446:0: vcp: ntaryyArTakaktvApratyayena kramoboDyate . yaTA vA “hfdaye
+171447:0: vcp: syAgre'vadyati, aTa jihvAyaH aTa vakzasaH” iti aTaSa-
+171448:0: vcp: bdena . ayaM ca kramo'nyeByo balavAn SabdalaByatvAt .
+171449:0: vcp: evamezAM pUrvvata uttarottaraM durbbalaM boDyam . nanvaTAdi
+171450:0: vcp: SabdAdupasTitasyApi kramasya DAtvarTarUpakriyAtvA'BAvena
+171451:0: vcp: kaTaM viDeyatvaM tadidamuktaM prApakapramARABAvAditi ce-
+171452:0: vcp: ducyate yaTA daDnA juhotItyAdO akriyArUpaM daDidravyaM
+171453:1: vcp: kriyAviSezaRaM sadviDoyate daDisADanakaM homaM kuryyAditi
+171454:0: vcp: taTA idamanena krameRa karttavyamiti kriyAviSezaRatayA
+171455:0: vcp: kramoviDIyate . taTA ca sUtram “SrutilakzaRyamAnupU-
+171456:0: vcp: rvvaMtatpraDAnatvAt” AnupUrvyaM SrutigamyaM viDigamyaM tasya
+171457:0: vcp: kramasya praDAnatvAt daDyAdivat kriyAviSezaRatvena viDe-
+171458:1: vcp: yatvAta . tacca kvacit SrutaSabdAdaTAditaH kvaciccA-
+171459:0: vcp: rTAdito'numAnAditi viSezaH . itTaYca SrutigamyaM Sruti [Page2294-a+ 38]
+171460:0: vcp: SabdalaByamityarTaH sUtrabODya iti BAvaH . SrutigamyaM
+171461:0: vcp: SrutilaByamAnupUrvyaM grAhyamiti SezaH . “aTa aDvaryyurgf-
+171462:1: vcp: hapatiM dIkzayitvA brahmARaM dIkzayati” ityAdO
+171463:1: vcp: dIkzEva viDIyate SrutitastadviDyavagamAt kramastu vAkyArTo
+171464:0: vcp: na viDeya iti . tadviDyavagamABAvAt taduktaM “vA-
+171465:0: vcp: kyArTo viDiranyAyyaH SrutyarTaviDisamBave . tasmAd-
+171466:0: vcp: dIkzAviDiH pAWAddIkzARAM prApyate kramaH” . ucyate .
+171467:0: vcp: dvAdaSAhasatre ya eva yajamAnAstaeva ftvijaH” iti
+171468:1: vcp: vrahmAdInAM sarvezAmftvijAM yajamAnatvena yajamAna-
+171469:0: vcp: dIkzAM viDiprAptAmanUdya anenAprAptakramaeva viDIyate .
+171470:0: vcp: taduktaM “sarvezAM yajamAnatvAt dIkzaprApteracodanAt .
+171471:0: vcp: kramastu nAnyataH prApta iti so'tra viDIyate” .
 171472:1: vcp: <P>“arTAcceti” sUtram . 2 arTAt yaTAgnihotraM
-171473:1: vcp: <>juhoti yavAguM pacatItyatra yavAgUpAkasya homaH prayo-
-171474:0: vcp: <>janaM tacca homAnantarapAke sati na samBavati homo'pica
-171475:0: vcp: <>yavAgUM vinA na nizpadyata iti pAkAnantaraM homaH .
-171476:1: vcp: <>ataeva gfhapatyAdidIkzAsu pAWaprAptakramasyEvAdftatvAt iM-
-171477:0: vcp: <>hApi homapAkayoH pAWaprAptakramogrAhya iti nira-
-171478:0: vcp: <>staM pAWakramagrahaRe vihitArTAnizpatteH . na ca juho-
-171479:0: vcp: <>tItyasya sAmAnyaprAptAjyAdidravyakatvamiti dravyAntareRa
-171480:0: vcp: <>homaH yavAgUpAkasya ca ftvigBakzAdirUpaprayojanA-
-171481:1: vcp: <>ntaraM kalpanIyam aTavA yavAgUmityasya juhotItyanenAnva-
-171482:0: vcp: <>yAt pacatItyasya karmmAntaramaDyAhAryyamiti vAcyaM tat-
-171483:0: vcp: <>kalpakABAvAt gOravAt vilambopasTiteH . dvitIye ya-
-171484:0: vcp: <>vAgvAhomadravyatvANgIkAreRArTakramasyAByupagamAcca yavAgUM
-171485:0: vcp: <>juhotItyanvaye pAkaM vinA yavAgvAasamBavena pAkasyA-
-171486:0: vcp: <>vaSyakatvAcca . ata evArTakramaH pAWakramAdbalavAn juho-
-171487:0: vcp: <>tItyanenAkANkzitadravyAntarasADyahavirAdinA homaniSca-
-171488:0: vcp: <>yAt tatra pravfttiH yavAgUpAkasya ca prayojanAntaramava-
-171489:2: vcp: <>gavya tadarTaM pAke pravfttiriti tAdfSAvagamasya kalpanAsA-
-171490:0: vcp: <>pekzatvena vilambitatvAt AsattivaSAt yavAgUmityanena ju-
-171491:0: vcp: <>hotItyasyAnvayAt yavAgUpAkasya homaprayojanakatvAttasya
-171492:0: vcp: <>JawityavagamAt . arTAt yukteriti kaScit tanna . paWana
-171493:0: vcp: <>sTAnAdInAmapi yuktilaByatvena viBAgAnupapatteH . ata-
-171494:1: vcp: <>eva prayojanavaSAttu niyama iti SAstradIpikA . mA-
-171495:0: vcp: <>DavAcAryyastu “yavAgUM pacati yavAgvAgnihotraM juho-
-171496:0: vcp: <>tIti SrutimaBiDAya tftIyayA yavAgvAhomasADanatva-
-171497:0: vcp: <>mavagamyata ityAha . [Page2294-b+ 38]
+171473:1: vcp: juhoti yavAguM pacatItyatra yavAgUpAkasya homaH prayo-
+171474:0: vcp: janaM tacca homAnantarapAke sati na samBavati homo'pica
+171475:0: vcp: yavAgUM vinA na nizpadyata iti pAkAnantaraM homaH .
+171476:1: vcp: ataeva gfhapatyAdidIkzAsu pAWaprAptakramasyEvAdftatvAt iM-
+171477:0: vcp: hApi homapAkayoH pAWaprAptakramogrAhya iti nira-
+171478:0: vcp: staM pAWakramagrahaRe vihitArTAnizpatteH . na ca juho-
+171479:0: vcp: tItyasya sAmAnyaprAptAjyAdidravyakatvamiti dravyAntareRa
+171480:0: vcp: homaH yavAgUpAkasya ca ftvigBakzAdirUpaprayojanA-
+171481:1: vcp: ntaraM kalpanIyam aTavA yavAgUmityasya juhotItyanenAnva-
+171482:0: vcp: yAt pacatItyasya karmmAntaramaDyAhAryyamiti vAcyaM tat-
+171483:0: vcp: kalpakABAvAt gOravAt vilambopasTiteH . dvitIye ya-
+171484:0: vcp: vAgvAhomadravyatvANgIkAreRArTakramasyAByupagamAcca yavAgUM
+171485:0: vcp: juhotItyanvaye pAkaM vinA yavAgvAasamBavena pAkasyA-
+171486:0: vcp: vaSyakatvAcca . ata evArTakramaH pAWakramAdbalavAn juho-
+171487:0: vcp: tItyanenAkANkzitadravyAntarasADyahavirAdinA homaniSca-
+171488:0: vcp: yAt tatra pravfttiH yavAgUpAkasya ca prayojanAntaramava-
+171489:2: vcp: gavya tadarTaM pAke pravfttiriti tAdfSAvagamasya kalpanAsA-
+171490:0: vcp: pekzatvena vilambitatvAt AsattivaSAt yavAgUmityanena ju-
+171491:0: vcp: hotItyasyAnvayAt yavAgUpAkasya homaprayojanakatvAttasya
+171492:0: vcp: JawityavagamAt . arTAt yukteriti kaScit tanna . paWana
+171493:0: vcp: sTAnAdInAmapi yuktilaByatvena viBAgAnupapatteH . ata-
+171494:1: vcp: eva prayojanavaSAttu niyama iti SAstradIpikA . mA-
+171495:0: vcp: DavAcAryyastu “yavAgUM pacati yavAgvAgnihotraM juho-
+171496:0: vcp: tIti SrutimaBiDAya tftIyayA yavAgvAhomasADanatva-
+171497:0: vcp: mavagamyata ityAha . [Page2294-b+ 38]
 171498:1: vcp: <P>3 paWanAdyaTA “samiDoyajati tanUnapAtaM yajatItyA-
-171499:2: vcp: <>dizu darSapOrRRamAsANgaprayAjAdizu kramapaWitAnAM
-171500:0: vcp: <>krameRAnuzWAnam . nanvatra gfhapatyAdidIkzAyAmiva
+171499:2: vcp: dizu darSapOrRRamAsANgaprayAjAdizu kramapaWitAnAM
+171500:0: vcp: krameRAnuzWAnam . nanvatra gfhapatyAdidIkzAyAmiva

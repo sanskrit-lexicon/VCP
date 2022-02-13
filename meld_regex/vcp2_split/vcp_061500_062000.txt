@@ -1,500 +1,500 @@
-061501:0: vcp: <>“AsattirASrayaRAntu sAmAnyajYAnamizyate” “hetore-
-061502:0: vcp: <>kASraye yezAM svasADyavyaBicAritA “janyAnAM janakaHkAlo
-061503:0: vcp: <>jagatAmASrayo mataH” BAzA0 “tamASrayaM duzprasahasya
-061504:1: vcp: <>tejasaH” raGuH 3 gfhe . “pitfmAtrASraye gacCa”
-061505:1: vcp: <>4 avalambye “vinASrayaM na tizWanti paRqitA vanitA
-061506:1: vcp: <>latA” udBawaH “nirASrayaM mAM jagadISa! rakza” purA0
-061507:1: vcp: <>5 vizaye “baBUva yat premaparasparASrayam” raGuH ariBiH-
-061508:1: vcp: <>pIqyamAnena balavadASrayaRarUpe zaqguRAntargate rAjYAM
-061509:1: vcp: <>6 guRaBede yaTASrayaH karttavyastaToktamagnipurARe “balino-
-061510:0: vcp: <>rdvizatormaDye vAcAtmAnaM samarpayan . dvEDIBAvena tizWeta
-061511:0: vcp: <>kAkAkzivadalakzitaH . uBayorapi saMGAte seveta balava-
-061512:1: vcp: <>ttaram . yadA dvAvapi necCetAM saMSlezaM jAtasaMvidO .
-061513:0: vcp: <>tadopasarpettacCaktamaDikaM vA svayaM vrajet . ucCidyamAno
-061514:1: vcp: <>balinA nirupAyapratikriyaH . kulotpanna satyamAryya-
-061515:0: vcp: <>mAseveta balotkawam . taddarSanopAstikatA nityaM tadBAva-
-061516:0: vcp: <>BAvitA . tatkAritapraSrayitA vfttaM saMSrayiRaH smftam” .
-061517:1: vcp: <>BAve ac . 7 avalambane . “yo'vamanyeta te mUle hetu-
-061518:1: vcp: <>SAstrASrayeRa ca” manuH . 8 ASrayaRe “guRavadASrayalabDa-
-061519:6: vcp: <>guRodaye” mAGaH . tva . ASrayatvam ADAratve na0 .
-061520:0: vcp: <>“ASrayatvavizayatvaBAginI” saM0 SA0 tal . ASrayatA .
-061521:0: vcp: <>tatrArTe strI ADAraSabde vivftiH .
+061501:0: vcp: “AsattirASrayaRAntu sAmAnyajYAnamizyate” “hetore-
+061502:0: vcp: kASraye yezAM svasADyavyaBicAritA “janyAnAM janakaHkAlo
+061503:0: vcp: jagatAmASrayo mataH” BAzA0 “tamASrayaM duzprasahasya
+061504:1: vcp: tejasaH” raGuH 3 gfhe . “pitfmAtrASraye gacCa”
+061505:1: vcp: 4 avalambye “vinASrayaM na tizWanti paRqitA vanitA
+061506:1: vcp: latA” udBawaH “nirASrayaM mAM jagadISa! rakza” purA0
+061507:1: vcp: 5 vizaye “baBUva yat premaparasparASrayam” raGuH ariBiH-
+061508:1: vcp: pIqyamAnena balavadASrayaRarUpe zaqguRAntargate rAjYAM
+061509:1: vcp: 6 guRaBede yaTASrayaH karttavyastaToktamagnipurARe “balino-
+061510:0: vcp: rdvizatormaDye vAcAtmAnaM samarpayan . dvEDIBAvena tizWeta
+061511:0: vcp: kAkAkzivadalakzitaH . uBayorapi saMGAte seveta balava-
+061512:1: vcp: ttaram . yadA dvAvapi necCetAM saMSlezaM jAtasaMvidO .
+061513:0: vcp: tadopasarpettacCaktamaDikaM vA svayaM vrajet . ucCidyamAno
+061514:1: vcp: balinA nirupAyapratikriyaH . kulotpanna satyamAryya-
+061515:0: vcp: mAseveta balotkawam . taddarSanopAstikatA nityaM tadBAva-
+061516:0: vcp: BAvitA . tatkAritapraSrayitA vfttaM saMSrayiRaH smftam” .
+061517:1: vcp: BAve ac . 7 avalambane . “yo'vamanyeta te mUle hetu-
+061518:1: vcp: SAstrASrayeRa ca” manuH . 8 ASrayaRe “guRavadASrayalabDa-
+061519:6: vcp: guRodaye” mAGaH . tva . ASrayatvam ADAratve na0 .
+061520:0: vcp: “ASrayatvavizayatvaBAginI” saM0 SA0 tal . ASrayatA .
+061521:0: vcp: tatrArTe strI ADAraSabde vivftiH .
 061522:2: vcp: <HI>{@ASrayaRa@}¦ na0 A + Sri--lyuw . 1 AsevAyAm 2 avalambane ca .
-061523:1: vcp: <>karttari lyuw . 3 ASrayakarttari tri0 striyAM NIp .
-061524:2: vcp: <>“ahametya pataNgavartmanA punaraNkASrayaRI BavAmi te” kumA0 .
+061523:1: vcp: karttari lyuw . 3 ASrayakarttari tri0 striyAM NIp .
+061524:2: vcp: “ahametya pataNgavartmanA punaraNkASrayaRI BavAmi te” kumA0 .
 061525:0: vcp: <HI>{@ASrayaRIya@}¦ tri0 A + Sri--karmmaRi anIyar . yasyASrayaH
-061526:2: vcp: <>kriyate 1 tasmin 2 avalambye ca .
+061526:2: vcp: kriyate 1 tasmin 2 avalambye ca .
 061527:0: vcp: <HI>{@ASrayavat@}¦ tri0 ASrayo'styasya matup masya vaH striyAMNIp .
-061528:0: vcp: <>ASrayayukte sAvalambe sADAre padArTe .
+061528:0: vcp: ASrayayukte sAvalambe sADAre padArTe .
 061529:2: vcp: <HI>{@ASrayASa@}¦ pu0 ASrayamaSrAti aSa--aR upa0 sa0 . [Page0845-a+ 38]
-061530:1: vcp: <>1 vahnO tasya ASrayasya kAzWAderddAhakatvAttaTAtvam .
-061531:0: vcp: <>“durvfttaH kriyate DUrttEH SrImAnAtmavivfdDaye . kiM nAma
-061532:2: vcp: <>KalasaMsargaH kurute nASrayASavat” udBawaH 2 citrakavfkze
-061533:2: vcp: <>3 kfttikAnakzatre ca . 4 ASrayanASake tri0 .
+061530:1: vcp: 1 vahnO tasya ASrayasya kAzWAderddAhakatvAttaTAtvam .
+061531:0: vcp: “durvfttaH kriyate DUrttEH SrImAnAtmavivfdDaye . kiM nAma
+061532:2: vcp: KalasaMsargaH kurute nASrayASavat” udBawaH 2 citrakavfkze
+061533:2: vcp: 3 kfttikAnakzatre ca . 4 ASrayanASake tri0 .
 061534:0: vcp: <HI>{@ASrayAsidDa@}¦ pu0 ASrayo'sidDo'sya . nyAyokte hetvABAsa
-061535:1: vcp: <>Bede yaTA gaganapadmaM suraBi padmatvAt sarojapadmavadityAdO
-061536:0: vcp: <>gaganapadmarUpasya hetorASrayasyAprasidDatvAt hetorduzwatvam .
+061535:1: vcp: Bede yaTA gaganapadmaM suraBi padmatvAt sarojapadmavadityAdO
+061536:0: vcp: gaganapadmarUpasya hetorASrayasyAprasidDatvAt hetorduzwatvam .
 061537:0: vcp: <HI>{@ASrayAsidDi@}¦ strI ASrayasyA sidDiH aprasidDiH nyAyokte
-061538:8: vcp: <>hetordozaBede asidDiSabde 554 pfzWe vivftiH .
+061538:8: vcp: hetordozaBede asidDiSabde 554 pfzWe vivftiH .
 061539:0: vcp: <HI>{@ASrayin@}¦ tri0 ASrayati A + Sri--ini . ASraya
-061540:0: vcp: <>kArake ASrite . “mayUrapfzWASrayiRA guhena” raGuH “paryya-
-061541:6: vcp: <>ntASrayiBi rnijasya sadfSaM nAmnaH kirAtEH kftam” ratnA0 .
+061540:0: vcp: kArake ASrite . “mayUrapfzWASrayiRA guhena” raGuH “paryya-
+061541:6: vcp: ntASrayiBi rnijasya sadfSaM nAmnaH kirAtEH kftam” ratnA0 .
 061542:0: vcp: <HI>{@ASrava@}¦ tri0 ASfRoti vAkyam A + Sru--ac . vAkyasTite
-061543:0: vcp: <>vAci pravaRe vAkyaM SrutvA tadarTAnuzWAyini . “saMgavastu Biza-
-061544:2: vcp: <>jAmanASravaH” raGuH . BAve + ap . 3 aNgIkAre 3 kleSe ca .
+061543:0: vcp: vAci pravaRe vAkyaM SrutvA tadarTAnuzWAyini . “saMgavastu Biza-
+061544:2: vcp: jAmanASravaH” raGuH . BAve + ap . 3 aNgIkAre 3 kleSe ca .
 061545:2: vcp: <HI>{@ASrAva@}¦ tri0 A + Sru--Ric--ac . 1 SrAvaRe 2 aNgIkAraRe ca
 061546:0: vcp: <HI>{@ASri@}¦ strI samyak aSriH prA0 sa0 . samyakkoRe Sabdaca0
 061547:0: vcp: <HI>{@ASrita@}¦ tri0 A + Sri--kta . ASrayaprApte, SaraRAgate, ADeye
-061548:0: vcp: <>“prAyaScalaM gOravamASritezu” kumA0 “aTa dravyASritA
-061549:0: vcp: <>guRAH” . “anyatra nityadravyeBya ASritatvamihezyate
-061550:0: vcp: <>iti” ca BAzA0 .
+061548:0: vcp: “prAyaScalaM gOravamASritezu” kumA0 “aTa dravyASritA
+061549:0: vcp: guRAH” . “anyatra nityadravyeBya ASritatvamihezyate
+061550:0: vcp: iti” ca BAzA0 .
 061551:0: vcp: <HI>{@ASritya@}¦ avya0 A + Sri--lyap . avalambyetyarTe .
 061552:0: vcp: <HI>{@ASrin@}¦ tri0 ASraM cakzurjalamastyasya suKA0 ini . cakzurjala-
-061553:0: vcp: <>yukte striyAM NIp .
+061553:0: vcp: yukte striyAM NIp .
 061554:7: vcp: <HI>{@ASrut@}¦ strI A + Sru--BAve kvip . 1 aNgIkAre . karttari kvip . 2 aNgIkarttari tri0 .
 061555:2: vcp: <HI>{@ASruta@}¦ tri0 A + Sru--kta . 1 aNgIkfte, 2 AkarRite ca .
-061556:0: vcp: <>“evaM sarvvatrASrutezu” kAtyA0 3, 2, 6 .
+061556:0: vcp: “evaM sarvvatrASrutezu” kAtyA0 3, 2, 6 .
 061557:2: vcp: <HI>{@ASruti@}¦ strI A + Sru--ktin . 1 aNgIkAre 2 SravaRe ca .
 061558:2: vcp: <HI>{@ASreya@}¦ tri0 A + Sri--yat . 1 ASrayaRIye 2 avalambye ca .
 061559:2: vcp: <HI>{@ASlizwa@}¦ tri0 A + Sliza--kta . 1 AliNgite 2 saMbadDe “SiKA-
-061560:2: vcp: <>BirASlizwEvAmBasAMniDiH” “ASlizwaBUmiM rasitAra-
-061561:0: vcp: <>muccEH” iti ca mAGaH .
+061560:2: vcp: BirASlizwEvAmBasAMniDiH” “ASlizwaBUmiM rasitAra-
+061561:0: vcp: muccEH” iti ca mAGaH .
 061562:1: vcp: <HI>{@ASleza@}¦ pu0 IzadekadeSena SlezaH saMbanDaH A + Sliza--GaY .
-061563:2: vcp: <>1 ekadeSasaMbanDe . “sAmIpyASle zavizayErvyAptyADAraScaturviDaH”
-061564:1: vcp: <>mugDabo0 . 2 AliNgane ca . “ASlezalolupavaDUstanakArkaSya
-061565:0: vcp: <>sAkziRIm” mAGaH vede ni0 kvacit lasya raH .
-061566:0: vcp: <>ASrezo'pyuktArTe pu0 aSlezEva svArTe aR . aSlezA-
-061567:0: vcp: <>nakzatre strI . “ASlezA nakzatraM sarpA devatAH” tEtti0 [Page0845-b+ 38]
+061563:2: vcp: 1 ekadeSasaMbanDe . “sAmIpyASle zavizayErvyAptyADAraScaturviDaH”
+061564:1: vcp: mugDabo0 . 2 AliNgane ca . “ASlezalolupavaDUstanakArkaSya
+061565:0: vcp: sAkziRIm” mAGaH vede ni0 kvacit lasya raH .
+061566:0: vcp: ASrezo'pyuktArTe pu0 aSlezEva svArTe aR . aSlezA-
+061567:0: vcp: nakzatre strI . “ASlezA nakzatraM sarpA devatAH” tEtti0 [Page0845-b+ 38]
 061568:3: vcp: <HI>{@ASva@}¦ na0 aSvAnAM samUhaH aR . 1 aSvasamUhe aSvEruhyate
-061569:3: vcp: <>rSazikaH aR aSvasyedaM vAhyam aY vA . 2 aSvavAhye
-061570:0: vcp: <>tri0 si0 kO0 . aSvasya BAvaH karmma vA prARaBfjjA-
-061571:3: vcp: <>titvAt aY . 3 aSvaBAve 4 tatkarmmaRi ca na0 .
-061572:1: vcp: <>aSvasyedam aR . 5 aSvasaMbanDini tri0 . “ASvaM
-061573:0: vcp: <>kaPaharaM mUtraM kfmidadruzu Sasyate” suSrutaH .
+061569:3: vcp: rSazikaH aR aSvasyedaM vAhyam aY vA . 2 aSvavAhye
+061570:0: vcp: tri0 si0 kO0 . aSvasya BAvaH karmma vA prARaBfjjA-
+061571:3: vcp: titvAt aY . 3 aSvaBAve 4 tatkarmmaRi ca na0 .
+061572:1: vcp: aSvasyedam aR . 5 aSvasaMbanDini tri0 . “ASvaM
+061573:0: vcp: kaPaharaM mUtraM kfmidadruzu Sasyate” suSrutaH .
 061574:0: vcp: <HI>{@ASvatarASvi@}¦ pu0 aSvatarASvasyApatyam iY . vuqilamunO .
 061575:1: vcp: <HI>{@ASvatTa@}¦ na0 aSvatTasya PalamaR plakzA0 tasya na luk . 1 aSvatTa
-061576:1: vcp: <>Pale . aSvatTasyedam aR . 2 aSvatTasambanDini tri0 striyAM
-061577:0: vcp: <>gO0 NIz . ASvatTI SAKA samidvA . “sarpirAsicyASva-
-061578:0: vcp: <>tTIstrisraH samiDaH” Sata0 brA0 . tasmAdASvatTe ftupAtre
-061579:3: vcp: <>syAtAm” Sata0 brA0 aSvatTena yuktA aRa . aSvatyanakzatra-
-061580:1: vcp: <>yuktAyAM 3 rAtrO strI . gahA0 Ca . ASvatTIyaH A-
-061581:0: vcp: <>SvatTasambanDini tri0 .
+061576:1: vcp: Pale . aSvatTasyedam aR . 2 aSvatTasambanDini tri0 striyAM
+061577:0: vcp: gO0 NIz . ASvatTI SAKA samidvA . “sarpirAsicyASva-
+061578:0: vcp: tTIstrisraH samiDaH” Sata0 brA0 . tasmAdASvatTe ftupAtre
+061579:3: vcp: syAtAm” Sata0 brA0 aSvatTena yuktA aRa . aSvatyanakzatra-
+061580:1: vcp: yuktAyAM 3 rAtrO strI . gahA0 Ca . ASvatTIyaH A-
+061581:0: vcp: SvatTasambanDini tri0 .
 061582:8: vcp: <HI>{@ASvatTika@}¦ ca0 aSvatTaSabde 507 pfzWe vigrahAdi . cA-
-061583:0: vcp: <>ndrASvine mAsi .
+061583:0: vcp: ndrASvine mAsi .
 061584:3: vcp: <HI>{@ASvapata@}¦ tri0 aSvapateridam aSvapatyA0 aR . aSvapati sambanDini .
 061585:1: vcp: <HI>{@ASvapas@}¦ tri0 ASu Apnoti asun hrasvaH . SIGraprAptari .
 061586:0: vcp: <HI>{@ASvapAlika@}¦ puMstrI aSvapAlyAH apatyaM revatyA0 Wak .
-061587:0: vcp: <>aSvapAlyA apatye .
+061587:0: vcp: aSvapAlyA apatye .
 061588:0: vcp: <HI>{@ASvapejin@}¦ tri0 ba0 va0 . aSvapejena proktamaDIyate SOnakA0 Rini . aSvapejarziproktADyAyizu .
 061589:0: vcp: <HI>{@ASvabAla@}¦ tri0 aSvabAlAyA ozaDerayam aR . aSva-
-061590:1: vcp: <>bAlozaDeH saMbanDini . “ASvabAlaH prastaraH, yajYoha
-061591:0: vcp: <>deveByo'pacakrAma so'SvoBUtvA parANAvartta tasya devA anu
-061592:1: vcp: <>hAya bAlAnaBipedustAnAlulupustAnAlupya sArdDaM saMnyAsusta
-061593:1: vcp: <>taetA ozaDayaH samaBavan yadaSrabAlAH Siro vE yajYa-
-061594:0: vcp: <>syAtiTyaM jaGanArGo bAlA uBayataevEtadyajYaM parigfhRA-
-061595:1: vcp: <>ti yadASvabAlaH prastaroBavati” Sata0 vrA0 .
+061590:1: vcp: bAlozaDeH saMbanDini . “ASvabAlaH prastaraH, yajYoha
+061591:0: vcp: deveByo'pacakrAma so'SvoBUtvA parANAvartta tasya devA anu
+061592:1: vcp: hAya bAlAnaBipedustAnAlulupustAnAlupya sArdDaM saMnyAsusta
+061593:1: vcp: taetA ozaDayaH samaBavan yadaSrabAlAH Siro vE yajYa-
+061594:0: vcp: syAtiTyaM jaGanArGo bAlA uBayataevEtadyajYaM parigfhRA-
+061595:1: vcp: ti yadASvabAlaH prastaroBavati” Sata0 vrA0 .
 061596:1: vcp: <HI>{@ASvaBArika@}¦ tri0 aSvabAhya BAramaSvaBUtaM BAraM vA harati
-061597:0: vcp: <>vahati Avahati vA vaMSA0 WaY . aSvabAhyasya aSva-
-061598:3: vcp: <>BUtasya vA BArasya 1 hArake 2 vAhake 3 AvAhake ca .
+061597:0: vcp: vahati Avahati vA vaMSA0 WaY . aSvabAhyasya aSva-
+061598:3: vcp: BUtasya vA BArasya 1 hArake 2 vAhake 3 AvAhake ca .
 061599:0: vcp: <HI>{@ASvameDika@}¦ tri0 aSvameDAya hitaM Wan . aSvameDasADane
-061600:8: vcp: <>dravyAdO aSvameDadravyARi ca aSvameDaSabde 511 pfzWe
-061601:0: vcp: <>uktAni aSvameDamaDikftya kftaH granTaH WaR . SatapaTa-
-061602:1: vcp: <>brAhmaRAntargate 13 prapAWake paYcADyAyIrUpe granTaBede
-061603:0: vcp: <>tatra paYcasvaDyAyezu aSvameDasyotpattiH PalaYca . tasya Darma-
-061604:0: vcp: <>viDayaH ADvaryyavOdgAtrabrahmatvayAjamAnavizayAH tatra
-061605:0: vcp: <>praTamADyAyatrayeRa mantravyAKyAnena saha viSezaDarmmA [Page0846-a+ 38]
-061606:0: vcp: <>anukrAntAH . SezADyAyadvayena ca taeva DarmmAntarasahitA
-061607:0: vcp: <>anukrAntA iti BedaH . aSvameDamaDikftya kftogranTaH
-061608:0: vcp: <>WaR . yuDizWirASvameDADikAreRa vyAsakfte BAratAntargate
-061609:1: vcp: <>3 parvvaBede na0 . “ityASvameDikaM parvva proktametanmahA-
-061610:2: vcp: <>dButam” BA0 A0 pa0 1 a0 . aSvameDaH pratipAdya-
-061611:0: vcp: <>tayA'styasya Wan . aSvameDikamapyatra na0 . “tato'SvameDikaM
-061612:0: vcp: <>nAma parvva proktaM caturddaSam” BA0 A0 pa0 1 a0 .
+061600:8: vcp: dravyAdO aSvameDadravyARi ca aSvameDaSabde 511 pfzWe
+061601:0: vcp: uktAni aSvameDamaDikftya kftaH granTaH WaR . SatapaTa-
+061602:1: vcp: brAhmaRAntargate 13 prapAWake paYcADyAyIrUpe granTaBede
+061603:0: vcp: tatra paYcasvaDyAyezu aSvameDasyotpattiH PalaYca . tasya Darma-
+061604:0: vcp: viDayaH ADvaryyavOdgAtrabrahmatvayAjamAnavizayAH tatra
+061605:0: vcp: praTamADyAyatrayeRa mantravyAKyAnena saha viSezaDarmmA [Page0846-a+ 38]
+061606:0: vcp: anukrAntAH . SezADyAyadvayena ca taeva DarmmAntarasahitA
+061607:0: vcp: anukrAntA iti BedaH . aSvameDamaDikftya kftogranTaH
+061608:0: vcp: WaR . yuDizWirASvameDADikAreRa vyAsakfte BAratAntargate
+061609:1: vcp: 3 parvvaBede na0 . “ityASvameDikaM parvva proktametanmahA-
+061610:2: vcp: dButam” BA0 A0 pa0 1 a0 . aSvameDaH pratipAdya-
+061611:0: vcp: tayA'styasya Wan . aSvameDikamapyatra na0 . “tato'SvameDikaM
+061612:0: vcp: nAma parvva proktaM caturddaSam” BA0 A0 pa0 1 a0 .
 061613:0: vcp: <HI>{@ASvayuja@}¦ pu0 ASvayujI aSvinInakzatrayuktA pOrRamAsI
-061614:1: vcp: <>yasmin mAse'R . SuklapratipadAdike darSAnte cAndre
-061615:2: vcp: <>ASvine mAse . “tyajedASvayuje mAsi munyannaM pUrvvasaYci-
-061616:0: vcp: <>tam” manuH “BAdrapadASvayujO varzA” “gANgamASvayuje mAsi
-061617:0: vcp: <>prAyaSovarzati” iti ca suSru0 .
+061614:1: vcp: yasmin mAse'R . SuklapratipadAdike darSAnte cAndre
+061615:2: vcp: ASvine mAse . “tyajedASvayuje mAsi munyannaM pUrvvasaYci-
+061616:0: vcp: tam” manuH “BAdrapadASvayujO varzA” “gANgamASvayuje mAsi
+061617:0: vcp: prAyaSovarzati” iti ca suSru0 .
 061618:0: vcp: <HI>{@ASvayujaka@}¦ tri0 ASvayujyAmupto mAzaH vuY . cAndrASvina-
-061619:1: vcp: <>pOrRRamAsyAmupte mAze sa hi tasyAmeva tiTO uptaH san
-061620:1: vcp: <>prarohati bardDate ca iti lokaprasidDiH .
+061619:1: vcp: pOrRRamAsyAmupte mAze sa hi tasyAmeva tiTO uptaH san
+061620:1: vcp: prarohati bardDate ca iti lokaprasidDiH .
 061621:0: vcp: <HI>{@ASvayujI@}¦ strI aSvayujA aSvinInakzatreRa yuktA pOrRamAsI
-061622:0: vcp: <>“nakzatreRa yuktaH kAlaH” pA0 aR . ASvinamAsIya-
-061623:2: vcp: <>pOrRRamAsyAm “ASvayujyAM pOrRRamAsyAM nikumBo vAlu-
-061624:1: vcp: <>kArRRavAt” brahmapu0 . “tena yakzyamARaH paYcavarzARyASva-
-061625:2: vcp: <>yujISuklezu catustriMSataM paSUnAlaBate mArutAn” kAtyA0
-061626:4: vcp: <>23, 2, 4 . “ASvayujyA vuY” pA0 .
+061622:0: vcp: “nakzatreRa yuktaH kAlaH” pA0 aR . ASvinamAsIya-
+061623:2: vcp: pOrRRamAsyAm “ASvayujyAM pOrRRamAsyAM nikumBo vAlu-
+061624:1: vcp: kArRRavAt” brahmapu0 . “tena yakzyamARaH paYcavarzARyASva-
+061625:2: vcp: yujISuklezu catustriMSataM paSUnAlaBate mArutAn” kAtyA0
+061626:4: vcp: 23, 2, 4 . “ASvayujyA vuY” pA0 .
 061627:0: vcp: <HI>{@ASvaraTa@}¦ tri0 aSvayukto raTaH aSvaraTastastyedam patrapUrvva-
-061628:0: vcp: <>katvAt aY . aSvabAhyaraTasambanDini .
+061628:0: vcp: katvAt aY . aSvabAhyaraTasambanDini .
 061629:1: vcp: <HI>{@ASvalakzaRika@}¦ tri0 aSvalakzaRaM vetti tajjYApakaSAstrama-
-061630:2: vcp: <>DIte vA Wak . 1 aSvalakzaRABijYe 2 tadboDakaSAstrADyetari ca
+061630:2: vcp: DIte vA Wak . 1 aSvalakzaRABijYe 2 tadboDakaSAstrADyetari ca
 061631:0: vcp: <HI>{@ASvalAyana@}¦ pu0 aSvala + aSvagrAhakaH muniBedastasyApatyaM
-061632:1: vcp: <>naqA0 Pak . fgvedIyaSrOtragfhyasUtrakArake fziBede
-061633:0: vcp: <>“sahasrakARqaM svakftaM sUtraM brAhmaRasanniBam SizyASvalAyana
-061634:1: vcp: <>prItyE SOnakena vipAWitam” ityukteH SOnakopadizwena tena
-061635:0: vcp: <>ca “aTEtasya sanAmnA yasya vitAne yogApattiM vakzyAmaH”
-061636:0: vcp: <>ityupakramya “namaH SOnakAya” ityantam aDyAyacatuzwayAtmakaM
-061637:1: vcp: <>vEtAnikakarmopayogi SrOtrasUtram “uktAni vEtAnikAni
-061638:0: vcp: <>gfhyARi vakzyAmaH” ityupakramya “namaH SOnakAya” ityantam
-061639:0: vcp: <>aDyAyacatuzwayAtmakaM gfhyakarmopayogi gfhyasUtraM, tat pari-
-061640:0: vcp: <>SizwaYcADyAyacatuzwayAtmakaM sUtraM SOnakAcAryyaprasAdAt
-061641:0: vcp: <>racitam . tadIyasUtropari devasvAminA BAzyaM kftaM tanmUlaka-
-061642:0: vcp: <>tayA gargagotreRa narasiMhaputreRa nArAyaRopADyAyena vfttiH
-061643:2: vcp: <>rucitA tatra SrOtrasUtre pratipAdyavizayAstAvadaBiDIyante . [Page0846-b+ 38]
+061632:1: vcp: naqA0 Pak . fgvedIyaSrOtragfhyasUtrakArake fziBede
+061633:0: vcp: “sahasrakARqaM svakftaM sUtraM brAhmaRasanniBam SizyASvalAyana
+061634:1: vcp: prItyE SOnakena vipAWitam” ityukteH SOnakopadizwena tena
+061635:0: vcp: ca “aTEtasya sanAmnA yasya vitAne yogApattiM vakzyAmaH”
+061636:0: vcp: ityupakramya “namaH SOnakAya” ityantam aDyAyacatuzwayAtmakaM
+061637:1: vcp: vEtAnikakarmopayogi SrOtrasUtram “uktAni vEtAnikAni
+061638:0: vcp: gfhyARi vakzyAmaH” ityupakramya “namaH SOnakAya” ityantam
+061639:0: vcp: aDyAyacatuzwayAtmakaM gfhyakarmopayogi gfhyasUtraM, tat pari-
+061640:0: vcp: SizwaYcADyAyacatuzwayAtmakaM sUtraM SOnakAcAryyaprasAdAt
+061641:0: vcp: racitam . tadIyasUtropari devasvAminA BAzyaM kftaM tanmUlaka-
+061642:0: vcp: tayA gargagotreRa narasiMhaputreRa nArAyaRopADyAyena vfttiH
+061643:2: vcp: rucitA tatra SrOtrasUtre pratipAdyavizayAstAvadaBiDIyante . [Page0846-b+ 38]
 061644:0: vcp: <P>tatra praTamADyAye praDAnasyANgasaMhatijYAnAya sarvAdO
-061645:2: vcp: <>darSapUrRRamAsayorvyAKyAnam . 1 agnihotrAdizu fksamAmnA
-061646:0: vcp: <>yasya prayogasvarUpakaTanapratijYA . 2 fksamAmnAtakarmasu A-
-061647:0: vcp: <>hitAgneraDikArakaTanam . 3 aNgasaNGarUpaviDyantarajYAnAyAdO
-061648:0: vcp: <>darSapUrRamAsayorvyAKyAna pratijYA . 4 darSapUrRamAsayorvyAKyA-
-061649:0: vcp: <>ramBaH . 5 anozaDihavizkarUpe'praRIte karmaRi apareReDma-
-061650:0: vcp: <>prapadanam . 6 avawarUpacAtvAlavatsu paSusomAdizu apa-
-061651:0: vcp: <>reRa cAtvAlaprapadanam . 7 cAtvAlarUpasyADvano vEdikI
-061652:0: vcp: <>tIrTasaMjYA . 8 hotuH prANmuKatvasya manovAkkAyayantraRA-
-061653:2: vcp: <>dInAYca cezwAyA nityatA . iti paripAzA saMgrahaH .
-061654:3: vcp: <>9 urUpasTIkaraRarUpAyA aNkaDAraRAyA nityatvam . 10
-061655:0: vcp: <>yajYopavItagrahaRaniyamasyAntarvihAre SOcaniyamasya ca nitya
-061656:0: vcp: <>tvam . 11 vihAre karma kurvatastatpfzWataH karaRanizeDaH .
-061657:2: vcp: <>12 ekANgolleKe dakziRapratItiH . 13 sarvvadakziRA-
-061658:1: vcp: <>nulleKe'pi dakziRapratItiH . 14 kartfrahite kriyA-
-061659:0: vcp: <>viDO hotaryyeva kartfjYAnam . 15 dAnaviDO yajamAne
-061660:0: vcp: <>kartfjYAnam . 16 kuhoti japatIti prAyaScitte brahmaRi
-061661:3: vcp: <>kartfjYAnam . 17 fco mUlagrahaRe ftvigvedanam . 18
-061662:0: vcp: <>sUktAdO gAyatryAdiBAgarUpe pAde hIne gfhyamARe sUkta-
-061663:0: vcp: <>jYAnam . 19 sUktAdAvasUktAdO cADikapAdagrahaRe tfca-
-061664:0: vcp: <>jYAnam . 20 asmin SAstre japAdInAmupAMSuprayoktavya-
-061665:0: vcp: <>tvam . 21 mantrARAM karmakaraRAnAYcopAMSutvakaTanam .
-061666:6: vcp: <>22 sAmAnyaviSezayorviSezaviDerbalIyastvam . 23--24
-061667:1: vcp: <>hoturavasTAnakaTanam . 25 karturAsanakaTanam . 26 vaca-
-061668:0: vcp: <>nAdatiriktasya karttavyatvam . 27 sAmiDenyarTaM prezitasya
-061669:0: vcp: <>hoturjapaviDAnam . 27 sUtrARi praTama kaRqikAyAm .
-061670:1: vcp: <>1 sAkiDenyarTajapaH . 2 tajjapAnantaraM sAmiDenInAm fcA-
-061671:6: vcp: <>manuvacanam . 3 hiNkakaraRapUrvakapraRavAntavyAhftitrayajapa-
-061672:3: vcp: <>biDAnam . 4 sajapahiNkArasyABihiNkArasaMjYAkaTanam .
-061673:1: vcp: <>5 kOtsamate niroNkAravyAhftitrayajapAnantarahiNkaraRadarSa-
-061674:0: vcp: <>nam . 6 kOtsamate sAmiDenyarToktajapasyAkaraRam . 7 fcA-
-061675:1: vcp: <>meva sAmiDenItvapradarSanam . 8 sAmIDenInAm fcAmEkaSrutyena
-061676:0: vcp: <>sAntatyena cAnuvacanam . 9 EkaSrutyalakzaRam 10 santatalakzaRam
-061677:2: vcp: <>11 santatasyAvasAnatvakaTanam . 12 pUrvocCvAsAviBreze utta-
-061678:1: vcp: <>rocCvAsAramBaH . 1 3 praRavenAvasAnakaTanam . 14 vihite
-061679:0: vcp: <>evAvasAne praRavasya caturmAtratvenoccAraRam . 15 praRavA-
-061680:0: vcp: <>ntamakArasya varRAntarApattikaTanapratijYA . 16 praRavAnta-
-061681:0: vcp: <>makAreRa svasmAt parasya yasya kasyacit sparSavarRasya tadvargI- [Page0847-a+ 38]
-061682:0: vcp: <>yAntavarRApAdanam . 17 praRavAntamakAreRa yavalAnta-
-061683:1: vcp: <>sTAMsu parAntasTAnAmanunAsikatvApAdanam . 18 rePozmasu
-061684:0: vcp: <>varRezu praRavAntamakArasyAnusvAratvApattiH . 19 praTamo-
-061685:1: vcp: <>ttame fcO triraDyarDIkftya tayoranuvacanam . 20 aDyarDayo
-061686:0: vcp: <>rfcorvacanAvasAne'DyarDacatuzkAtmikayordvayorfcorvacanam .
-061687:2: vcp: <>21 uttamAyAmfci AdO dve paScAt aDyarDA . 22 e-
-061688:0: vcp: <>kAdaSAnAmfcAM dvayostriraByAsayogena paYcadaSasaMKyApUraRa-
-061689:0: vcp: <>nidarSanam . 23 SastrayAjyAdizu sAmiDenInAM katipayaDarmA-
-061690:0: vcp: <>tideSaH . 24 sAmIDenIByo'nyatrADyarDakaraRapratizeDAdayaH
-061691:4: vcp: <>25 vihite'vasAne'BihiNkArAByAsanizeDaH . 26 Sastre-
-061692:0: vcp: <>zveva hotrakARAmaBihiNkAraviDAnAt grAvastutastannize-
-061693:0: vcp: <>DasADanam . 27 praRavena nigadasanDAnAnantaraM tenEva tada-
-061694:0: vcp: <>vasAnaviDAnam . 27 sU0 1 a0 2 ka0 . 1 yajamAnasyArzeya-
-061695:0: vcp: <>pravaraRam . 2 anyakzetrajAtadvyAmuzyAyaRArTamArzeyapravaraRa-
-061696:0: vcp: <>prakAraH . 3 rAjanyaviSAM trEvarRikAnulomastrIjAtAnAYca
-061697:0: vcp: <>purohitArzeyaBAgitvam . 4 rAjYAM rAjarzipravaraRaM pOrohitya
-061698:1: vcp: <>pravaraRaM vA 5 pravarAjYAne tatsaMSaye ca varRatrayasya mAnava-
-061699:0: vcp: <>pravaraH . 6 caturdaSanivitpadakaTanam AvAhananigadakaTanaM,
-061700:0: vcp: <>sAmiDenyAdInAM cAvAhanIyABiDAyitvam . 7 agnirUpa-
-061701:0: vcp: <>praTamadevatAvAhanam . 8 agnIzoma dEvatAjyaBAgayAga-
-061702:2: vcp: <>yorAKyA . 9 agneragnIzomayoSca pOrRRapAsyAM praDAna-
-061703:0: vcp: <>devatAtvam . 10 amAvAsyAyAM daDipayoByAM yAgamakurvato-
-061704:0: vcp: <>'gnIzomayoH sTAne indrAgnyoH praDAnadevatAtvam . 11 ta-
-061705:0: vcp: <>ddine uktayAgarUpasannayanakAriRo'gnIzomasTAne indramahe-
-061706:1: vcp: <>ndrayoranyatarAvAhanam . 12 uBayorapi parvaRorEtareyiRAm
-061707:0: vcp: <>vizRudevatAkopAMSuyAgakaraRam . 13 SAKAntarIyARAm
-061708:0: vcp: <>uBayorapi pakzayorupAMSuyAgaBinnayAgABAvaH . 14 pitryAdyaNgo-
-061709:0: vcp: <>pAMSuyAgAnAm AvAhanAdinigadacatuzwaye AvAhanAdInAM
-061710:0: vcp: <>zaRRAM padAnAm uccEritisaMjYAviDAnam . 15 upAMSuyAja-
-061711:0: vcp: <>vacanAnAmanyezAm parokzARAm upAMSutvAnuvAdaH, vikalpe-
-061712:0: vcp: <>noccEH saMjYAviDAnaM ca . 16 vihitadevatAnAmarUpasya pra-
-061713:0: vcp: <>tyakzasyopAMSutvam . 17 pratinoditadevatamAvAhanaBedaH .
-061714:2: vcp: <>18 ekapradAnAnAM sarvAsAM devatAnAmAvAhane sakfdevAvaha-
-061715:2: vcp: <>SabdaprayogaH . 19 uttaranigamezu ekadevatAtvena saMstavaH .
-061716:2: vcp: <>20 ekaprayojanArTAyA devatAyAH kAraRavaSAt ekava-
-061717:1: vcp: <>vanenEva samAnatA . 21 aparAvyavahitAyA devatAyA nigamezu
-061718:0: vcp: <>sakfdekavacanaBAktvam . 22 AvApodDArayogyAsu praDAnadeva-
-061719:1: vcp: <>tAsu kftAvAhanAsu devAjyapAsvizwakftAmAvAhanaprakiyA . [Page0847-b+ 38]
-061720:2: vcp: <>23 ASrAvayizyate'Dvaryave'numantraRaM tadanantarakaraRIyaYca .
-061721:4: vcp: <>24 utTAnapUrvakaM zazwiScetimantrapAWaH . 25 aMse pArSa-
-061722:0: vcp: <>sTena pARinADvaryvanvAramBaRam . 26 savyena pARinANke-
-061723:0: vcp: <>noruRA vA''gnIDrakartfkamanvAramBaRam . 27 uktoBayA-
-061724:0: vcp: <>nvAramBaRe sADAraRamantraH . 28 iDmasannahanarUpEstfRErA-
-061725:0: vcp: <>tmamuKasaMmArjanam . 29 saMskArakarmmAvfttimAtre sakfnma-
-061726:0: vcp: <>ntreRa dvistUzRIM saMskaraRam . 30 udakasparSAnantaraM ho-
-061727:0: vcp: <>tfzadanABimantraRam . 31 dakziRottariRopasTenopaveSanaM
-061728:0: vcp: <>hotfzadanAt tfRanirasanaYca . 32 uktayoretayornira-
-061729:0: vcp: <>sanopaveSanayoH sarvAsanezu praTamaprayoga eva samAnatvam .
-061730:2: vcp: <>33 gOtamAcAryyamate dvitIye'pi prayoge tAdfSanirasanopa-
-061731:1: vcp: <>veSanayoH sadBAvaH . 33 sU0 1 a0 3 ka0 . 1 agnyADeye
-061732:0: vcp: <>brahmOdanaprASanakAle brahmaRo dvirnirasanopaveSanakaraRam .
-061733:2: vcp: <>2 sarvezu somezu bahizpavamAnAt pratyetya brahmaRaH
-061734:2: vcp: <>pUrvvAsane punaH karaRam . 3 Asane paSvarTamupavizwasya
-061735:0: vcp: <>hotuH sadaHprasarpaRAnantaraM tatrEva punaH karaRam . 4 paSO
-061736:0: vcp: <>svAhAkftyarTayoH srugavadApanayoH punaH karaRam . 5 patnI-
-061737:0: vcp: <>saMyAjArTopaveSanAkaraRam . 6 kOtsamate hotfBinnA-
-061738:0: vcp: <>nAmetayorniraSanopaveSanayorakaraRam . 7 upaviSyAnantaraM
-061739:0: vcp: <>devetyAdimantrapAWaH . 8 jAnvagreRa barhirupaspfSya a-
-061740:0: vcp: <>BihizetyAdimantrajapaH . 9 iDmapradIpte uktajapAnantaraM
-061741:2: vcp: <>BUpataye nama iti nigadenADvaryave srugAvadApanam . 10
-061742:1: vcp: <>agnirhoteti nigadamavasAya hotAramavfTA iti mantrajapaH
-061743:3: vcp: <>11 agnirhotetyAdinA saha GftavatItyAdikamekanigadaM
-061744:0: vcp: <>viDAya tatsamApanam . 12 uktanigade samApte'Dvaryukartf-
-061745:2: vcp: <>kamASrAvaRam . 13 utkaradeSe tiMzWata AgnIDraM pratyA-
-061746:0: vcp: <>SrAvaRaprakAraH . 13 sU0 1 a0 4 ka0 . 1 SAbdalakzaRaprayA-
-061747:0: vcp: <>jEryajanam . 2 tanUnapAnnarASaMsayoranyatareRa prayAjAnAM
-061748:0: vcp: <>paYcasaNKyAkatvam . 3 sakftprezitasya na sarvayajanam .
-061749:1: vcp: <>4 ananuyAjAnAM sarvAsAM yAjyAnAmAdirAgU-
-061750:0: vcp: <>rBavatIti . 5 ye yajAmaha iti AgUH svarUpaM, vazawkArasva-
-061751:0: vcp: <>rUpaYca . 6 yAjyAyA eva uccEstaratvabalIyastvoBayaDarma-
-061752:0: vcp: <>vattvam . 7 AgUrvazawkArayorAdyoH plutikaraRam .
-061753:1: vcp: <>8 yAjyAntasya plAvanam . 9 viviktayoH sanDijAta
-061754:0: vcp: <>yorekArEkArayorokArOkArayo A i, iti Au ityevaM,
-061755:0: vcp: <>vyaYjanAntAnAM sanDyakzarARAM sarvadA svarUpeREva ca plAvanam .
-061756:2: vcp: <>10 anavarRopaDasya visarjanIyasya rePiBAvaH . 11 rePi-
-061757:0: vcp: <>saMjYino'varRopaDasya visasarjanIyasya rePiBAvaH . 12 vazaw- [Page0848-a+ 38]
-061758:0: vcp: <>kArasanDO arePasaMjYasyAvarRopaDasya visarjanIyasya lopaH .
-061759:3: vcp: <>13 vargARAM praTamasya svavargIyatftIyavarRApAdanam . 14 ma-
-061760:0: vcp: <>kAre sAnunAsikaBAvasya nityatvam . 15 vOzawSabdasya
-061761:3: vcp: <>vazawakArasvarUpatvam . 16 ityevaMrUpaH praTamaprayAjaH . 17
-061762:2: vcp: <>vazawkAroccAraRapUrvvako'numantraRaprakAraH . 1 8 vazawkArasya
-061763:0: vcp: <>divAkIrttanIyatvam . 19 anumantraRasyApi divAkIrtta-
-061764:1: vcp: <>nIyatvam . 20 ityevaM yAjyAsvarUpam . 21 vaSizWAdi-
-061765:1: vcp: <>BinnAnA tanUnapAdityAdiH dvitIyaprayAjaH . 22 vaSizWAdInAM
-061766:0: vcp: <>narAMSa sa ityAdiH dvitIyaprayAjaH . 23 iqo agna ityAdiH
-061767:1: vcp: <>sarvezAM tftIyaprayAjaH 24 barhiragne ityAdiH caturTaH svAhA-
-061768:0: vcp: <>mumityAdi paYcamaprayAjaH . 25 agnimanTanAdO mandrasvarapra-
-061769:1: vcp: <>yojaH . 26 SaMyuvAkAdUrDvaM mandrasvareRa prayogaH . 27 prayAjeBya
-061770:1: vcp: <>UrdDvamAsvizwakfto maDyamena prayogaH . 28 iqAdiSaMyu-
-061771:2: vcp: <>vAkAntarUpasya Sezasyottamena prayogaH . 29 pUrvvottarayo-
-061772:0: vcp: <>rAjyaBAganAmakayAgayorAgoraRadevatAdeSayAjyAsanDAnapUrbako
-061773:0: vcp: <>yAgaH . 30 anuvAkyAvatInAmaprEzARAM cAnyAyA-
-061774:3: vcp: <>tyAByo'nyAsAM devatAnAm AdeSapUrvvakayAgaH . 31 aNga-
-061775:1: vcp: <>praDAnarUpe somakarmmaRi vESvAnarIyapratnIsaMyAjaSabdaboDi-
-061776:0: vcp: <>tayoH padArTayormaDye tatrotpannAByo devatAByo'nyAsAm
-061777:0: vcp: <>AdeSapUrvvako yAgaH . 32 pOrRamAsyAmAjyaBAgayoH
-061778:0: vcp: <>sanimittA vArtraGnasaMjYA . 33 anuvAkyAtaevavicArA-
-061779:2: vcp: <>vagamAdi . 34 yAjyayorAnuvAkyAdevatAnanyatvam . 35
-061780:0: vcp: <>Adita AraByAjyaBAgaparyyantaM vAgyamanam . 36 yAjyA-
-061781:2: vcp: <>diByo'nyadapyAraByAsamAptervAgyamanam . 37 yajYasADana-
-061782:0: vcp: <>vacaso'nyatra vAgyamananiyamaH . 38 vAgyamananiya-
-061783:0: vcp: <>mAtikrame ato devA avantu na iti vEzRavyA fco
-061784:0: vcp: <>japaH . 39 uktAtikrame'nyasyA api vEzRavyA fco japa-
-061785:3: vcp: <>viDAnam . 39 sU0 1 a0 5 ka0 . 1 viDikramaprAptAnAM devatAnAM
-061786:0: vcp: <>vakzyamARaliNgakramAByAM yAjyAnuvAkyAyojanA . 2 praDA-
-061787:2: vcp: <>nAnantaraM svizwakfto yAgaH sarvatra ca pUrvvamanuvAkyAyAH
-061788:1: vcp: <>paScAdyAjyAyA prayogaH . 3 ye yAjamahe ityuktvA zazWyA
-061789:1: vcp: <>viBaktyA devatAmAdiSya priyA DAmAnyayAqiti mantrapAWaH .
-061790:1: vcp: <>4 praTamadevatAyAH purastAdayAqagniSabdantyaktvA uttarAsAma-
-061791:2: vcp: <>yAwSabdasyEva sarvvAsAmuparizwAt priyA DAmAniSabdasya ca
-061792:1: vcp: <>sana taprayogaH . 5 yAjyAviSeze'nucCvAsasya karttavyatvam .
-061793:2: vcp: <>6 yAjyApAWe arDarce voYCvAsakarttavyatA . 6 sU0 1 a0 6 ka0
-061794:3: vcp: <>1 aDvaryuRA pradeSinIparvAYjanapUvakOzWApavargaSoDane . 2
-061795:0: vcp: <>ozWADaraSoDanasya mantraviSezaH . 3 aDvaryuRA iqA- [Page0848-b+ 38]
-061796:0: vcp: <>grahaRapUrvakAvAntareqAvadApanaprakAraH . 4 svayaM yaja mAnena
-061797:0: vcp: <>iqAyA avAntareqAgrahaRaprakAraH . 5 aDvaryukartfkaM vA
-061798:0: vcp: <>tadgahaRam . 6 iqopahvAnaprakAraH . 7 saha divetyAdinA
-061799:0: vcp: <>tasminnupahvata ityantena mantreRa iqopahvAnam . 8 hoturya-
-061800:2: vcp: <>jamAnapaYcamAnAM vA sarvvezAmavAntareqABakzaRapUrvvakeqABakza-
-061801:0: vcp: <>Ram . 8 sU0 a0 7 ka0 . 1 iqABokturmArjanapUrvvakamanu-
-061802:0: vcp: <>yAjacaraRam . 2 mArjanaprakAraH . 3 anuyAjalakzaRam .
-061803:1: vcp: <>4 prayAjAnuyAjayorguRakaTanam . 5 anuyAjAnAM tritva-
-061804:0: vcp: <>vyavasTApanam . 6 ekEkaM prezitasya yajanaviDAnam .
-061805:3: vcp: <>7 anuyAjamantrARAM sTalaviSeze kvacidavasAnapUrvvakaM kvaci-
-061806:1: vcp: <>cvAnavasAnapUrttakaM yajanaviDAnam . 7 sU0 a0 8 ka0 . 1 sUkta-
-061807:1: vcp: <>vAkAya samprezitasya devatAdeSAnantaram idaM havirityupasa-
-061808:0: vcp: <>ntananam . 2 uttarA api devatA AdiSyedaM havirityeva-
-061809:0: vcp: <>mupasantananam . 3 dvidEvatabahudEvatayorarTavaSenAkftetyasya
-061810:0: vcp: <>sTAne akrAtAmakratetyUhasya karttavyatA . 4 Avaha svAheti-
-061811:0: vcp: <>nigadasya paSuyAge'pi prayogaH . 5 AvApikadevatAkramaprAptya-
-061812:1: vcp: <>rTam AvApikAntamityetadAdikaTanam . 5 sU0 1 a0 9 ka0 .
-061813:1: vcp: <>1 SaMyuvAkAya prezitasya tacCaMyoriti mantrapAWe praRavanizeDaH .
-061814:1: vcp: <>2 tAdfSaprezitAyADvaryuRA vedadAnam . 3 vedagrahaRe
-061815:0: vcp: <>vedo'sIti mantrapAWaH . 4 prakftivikAraBAve'pi kftsnamantra-
-061816:0: vcp: <>prAptiH, Ajyena somayAga eva yAjyAnuvAkyAvyavasTApanaM
-061817:0: vcp: <>yAgaeva kevalaM devatAviSezARAmanuvfttikaTanaM ca . 5 mantra-
-061818:0: vcp: <>BedAnAM patnIsaMyAjasaMjYAviDAnam . 6 prajAkAmasya yaja-
-061819:0: vcp: <>mAnasya yAgaBedaH . 7 yajamAne sannihite'pi hotureva kartftvaM
-061820:0: vcp: <>yAjyAnuvAkyayorhotfkarttftvasyAnyataH prasidDiH, kuhUmaha-
-061821:0: vcp: <>miti mantrapAWe yajamAnasya svayaMkartftvaM ca . 8 pARi-
-061822:0: vcp: <>talasTAjyarUpeqopahnAnAnantaraM tadBakzaRaviDiH . 9 Ajye-
-061823:3: vcp: <>qAyA UrdDvaM SaMyuvAko mavati na veti saMSaye itikarttavyatA-
-061824:0: vcp: <>viDAnam . 9 sU0 1 a0 10 ka0 . 1 hotrA'DvaryuRA vA patnyE
-061825:0: vcp: <>vedaM pradAya vedo'sItyAdi--kAmAyetyevamantamantravAcanam .
-061826:1: vcp: <>2 prajAkAmAyAH patnyA vedaSirasA svanAByAlamBanam .
-061827:1: vcp: <>3 kAmanABAve vAcanAnantaraM yoktravimokaH . 4 dviguRitaM
-061828:0: vcp: <>yoktraM niDAya tasyoparizwAt vedatfRAnAM niDAnam .
-061829:1: vcp: <>5 tfReByaH purastAt vedatfRasaMSlizwasya pUrRapAtrasya niDAnam .
-061830:3: vcp: <>6 AtmAnamaBiBfSatIM patnImaBiSamftaH pUrRamasIti mantravAca-
-061831:2: vcp: <>nam . 7 pUrRRapAtrAdudakaM gfhItvA tadudukzan tAM cEvaM kurvatIM
-061832:3: vcp: <>vAcayatItyuktiH . 8 yoktrasyADastAt patnyaYjalimuttAnamAtmanaSca
-061833:1: vcp: <>savyaM pARimuttAnaM niDAya pUrRRapAtraM ninayan mAhaM prajA- [Page0849-a+ 38]
-061834:1: vcp: <>miti tAM vAcayatItyuktiH . 9 vedatfRAni gfhItvA gArhapatyA-
-061835:0: vcp: <>dAraBya tantu tanvannityAdinA santataM stfRan AhavanIyaM
-061836:0: vcp: <>gacCatItyuktiH . 10 sarvvARi vedatfRAni na staritavyAni
-061837:0: vcp: <>niyamena SezitavyAnyuttarakriyArTamityuktiH . 11 SrOtA-
-061838:1: vcp: <>tiriktezu gArhyezvapi mantrasADyezu karmmasu svAhAkArasyEva
-061839:0: vcp: <>karttavyatvaM na vazawkArasyetyuktiH . 12 avihitaviSezARAM
-061840:0: vcp: <>homAByADAnopasTAnAnAM, tattaditikarttavyatAprakArasya ca
-061841:0: vcp: <>viDAnam . 13 ekamantrARi karmmARIti nyAyena vyAhf-
-061842:3: vcp: <>timiriti bahuvacananirdeSAt caturRAM karmmaRAM krameREva
-061843:0: vcp: <>karaRam . 14 prayogamaDye mArgAntareRa nizkrAntasyApi
-061844:2: vcp: <>niyamA Bavantyevetyasya vyatirekamuKeRa vyavasTApanam . 15
-061845:0: vcp: <>saMsTAjapaH tasya ca somezwizunizeDaH . 16 hotureva kevala-
-061846:2: vcp: <>metAvattvam agnIDrasyAnyadapItyuktiH . 16 sU0 1 a0 11 ka0 .
-061847:1: vcp: <>1 brahmADikAre viDayaH . 2 vyAKyAtAnAM hotrAcamana-
-061848:1: vcp: <>yajYopavItaSOcAnAM brahmADikAre'tideSanam . 3 tatra karmmasu
-061849:1: vcp: <>kaScidgacCati kaScittizWati tatra BUyasAmeva DarmmasyAcaraRaM
-061850:0: vcp: <>brahmaRaH iti vyavasTApanam . 4 bahirvedi ftvijAmaBimuKA-
-061851:0: vcp: <>yAdiSaH prAcItvoktiH . 5 ekasminnapi prayoge kvacidAsanasya
-061852:3: vcp: <>kvacit sTAnasya ca lABoktiH . 6 tizWatAM homezu ava-
-061853:1: vcp: <>zawkArezu ca sTAnAsanayorvikalpaH . 7 anantarasUtradvayaviza-
-061854:1: vcp: <>yAdanyatrAsanakaTanam . 8 samastapARyaNguzWasyAgreRAhavanIyaM
-061855:0: vcp: <>parItya tasya dakziRataH kuSezUpaveSanam . 9 uktopaveSanA-
-061856:6: vcp: <>nantaraM mantraBedajapaH . uktajapasya brahmajapatvam . 11 aDva-
-061857:2: vcp: <>ryukartfkam upavizwAtisarjanam . 12 oM praRayetyetA-
-061858:3: vcp: <>dfSAtisarjanarUpAnujYAprakAraH . 13 karmmAnurUpARAm
-061859:1: vcp: <>AdeSAnAM karttavyatoktiH . 14 uttaravivakzArTam uccEH
-061860:2: vcp: <>praRavAdikaTanam . 15 praRavAdUrdDvaM vA uccErBAvoktiH .
-061861:4: vcp: <>16 praRItApraRayanakAlAdUrdDvaM havizkfnmantroccAraRaparyantaM
-061862:2: vcp: <>vAgyamanapUrvva kamAsanam . 17 paSuyAge cAtvAlamArjana-
-061863:1: vcp: <>paryyantaM vAkyasaMyamaH . 18 sarvvasomezu DarmmABiprEzA-
-061864:4: vcp: <>ramBapUrvvakaM subrahmaRyAparyyanta vANniyamaH . 19 prAta-
-061865:0: vcp: <>ranuvAkakAlAt param antaryAmagrahayAgaparyyantaM vAgya-
-061866:1: vcp: <>manoktiH . 20 savanatraye'pi puroqASapracArAdi, tadiqA-
-061867:0: vcp: <>paryyantaM vAgyamanoktiSca . 21 stotrAdO stuDvamityAdi-
-061868:0: vcp: <>SastrayAjyAvazawkAraparyyantaM vAgyamanoktiH . 22 pava-
-061869:0: vcp: <>mAnastotrezu upAkaraRAdi samAptiparyyantaM vAgyamanoktiH
-061870:2: vcp: <>23 sarvvatra mantravati karmmaRi vAgyamanoktiH .
-061871:3: vcp: <>24 uktAdanyatrApi vizaye hotftulyavAgyamanaBAvaH . [Page0849-b+ 38]
-061872:2: vcp: <>25 vAgyamanaBreze prAyaScittaviDAnam . 26 agnIzo-
-061873:1: vcp: <>mIyapraRayanAvaDivAgyamanam . 27 dakziRato brajata
-061874:1: vcp: <>evASuHSiSAna iti sUktajapaH . 28 gamanAparisamAptAvapi
-061875:0: vcp: <>upaveSanAdikaraRaM, brahmajapaviDAnaYca . 29 somayAge
-061876:1: vcp: <>agnipraRayanAnte brahmajapanizeDaH . 30 visfzwavAkyasyApi
-061877:0: vcp: <>yajYamanastvoktiH . 31 viparyyAsAntaritayoH prAyaScitta-
-061878:2: vcp: <>viSezoktiH . 32 vedaBedena Breze'gniBede prAyaScittaBedaH .
-061879:4: vcp: <>33 sarvveByI vedeByo yUgapadBrezApAte samastABi-
-061880:1: vcp: <>rfgmirekAhutirUpaprAyaScittam . 34 srugAdApanAt
-061881:1: vcp: <>prAgaNgArasya bahiHpariDi pAte karmmaBedaH . 35 tatra
-061882:0: vcp: <>digBedena nirgatO homaBedaH karmmaRi svAhAkArAntatva-
-061883:0: vcp: <>BAvaH . 36 aDvarzvanupraharaRoktiH 37 . sahasraSfNga
-061884:1: vcp: <>ityAdinA prakftANgArahomoktiH . 37 sU0 1 a0
-061885:5: vcp: <>12 ka0 . 1 prASitraharaRaniDAnapUrvvakaM tatprASanam .
-061886:3: vcp: <>2 iqABakzaRamArjanapUrvvakaM caturDAkaraRe kfte prASitra-
-061887:0: vcp: <>haraRe brahmaRa AnItabrahmaBAgasya niDAnam . 3 prASitra
-061888:0: vcp: <>haraRadeSasya paScAt kuSezu yajamAnaBAganiDAnam .
-061889:1: vcp: <>4 prajApaterityAdi mantreRAnvAhAryyAvekzaRam . 5 anye-
-061890:0: vcp: <>nANgenAnvAhAryyAvaGrARaviDAnaM brahmaBAge SizwaBAgaviDA-
-061891:1: vcp: <>naYca . 3 prasTAsyAma iti aDvarrumantrapAWAnantaraM prati-
-061892:0: vcp: <>zWetyevAnujYoktiH . 7 samidanujYAnaM, jaGanyIBavataH
-061893:0: vcp: <>sarvaprAyaScittahomaH, AgnIDrasya brahmAnvAramBaRaM ca .
-061894:1: vcp: <>8 itarezAM hotrAramBaRaviDiH . 9 uktayoretayorhoma
-061895:0: vcp: <>eva kAryye anvAramBasya parasparaBAvaH . 10 sarvezAM homa-
-061896:0: vcp: <>kartFRAmanvAramBakartFRAM ca saMsTAjapena upAsanaviDA-
-061897:1: vcp: <>nam . 10 sU0 1 aDyAye 13 ka0 .
+061645:2: vcp: darSapUrRRamAsayorvyAKyAnam . 1 agnihotrAdizu fksamAmnA
+061646:0: vcp: yasya prayogasvarUpakaTanapratijYA . 2 fksamAmnAtakarmasu A-
+061647:0: vcp: hitAgneraDikArakaTanam . 3 aNgasaNGarUpaviDyantarajYAnAyAdO
+061648:0: vcp: darSapUrRamAsayorvyAKyAna pratijYA . 4 darSapUrRamAsayorvyAKyA-
+061649:0: vcp: ramBaH . 5 anozaDihavizkarUpe'praRIte karmaRi apareReDma-
+061650:0: vcp: prapadanam . 6 avawarUpacAtvAlavatsu paSusomAdizu apa-
+061651:0: vcp: reRa cAtvAlaprapadanam . 7 cAtvAlarUpasyADvano vEdikI
+061652:0: vcp: tIrTasaMjYA . 8 hotuH prANmuKatvasya manovAkkAyayantraRA-
+061653:2: vcp: dInAYca cezwAyA nityatA . iti paripAzA saMgrahaH .
+061654:3: vcp: 9 urUpasTIkaraRarUpAyA aNkaDAraRAyA nityatvam . 10
+061655:0: vcp: yajYopavItagrahaRaniyamasyAntarvihAre SOcaniyamasya ca nitya
+061656:0: vcp: tvam . 11 vihAre karma kurvatastatpfzWataH karaRanizeDaH .
+061657:2: vcp: 12 ekANgolleKe dakziRapratItiH . 13 sarvvadakziRA-
+061658:1: vcp: nulleKe'pi dakziRapratItiH . 14 kartfrahite kriyA-
+061659:0: vcp: viDO hotaryyeva kartfjYAnam . 15 dAnaviDO yajamAne
+061660:0: vcp: kartfjYAnam . 16 kuhoti japatIti prAyaScitte brahmaRi
+061661:3: vcp: kartfjYAnam . 17 fco mUlagrahaRe ftvigvedanam . 18
+061662:0: vcp: sUktAdO gAyatryAdiBAgarUpe pAde hIne gfhyamARe sUkta-
+061663:0: vcp: jYAnam . 19 sUktAdAvasUktAdO cADikapAdagrahaRe tfca-
+061664:0: vcp: jYAnam . 20 asmin SAstre japAdInAmupAMSuprayoktavya-
+061665:0: vcp: tvam . 21 mantrARAM karmakaraRAnAYcopAMSutvakaTanam .
+061666:6: vcp: 22 sAmAnyaviSezayorviSezaviDerbalIyastvam . 23--24
+061667:1: vcp: hoturavasTAnakaTanam . 25 karturAsanakaTanam . 26 vaca-
+061668:0: vcp: nAdatiriktasya karttavyatvam . 27 sAmiDenyarTaM prezitasya
+061669:0: vcp: hoturjapaviDAnam . 27 sUtrARi praTama kaRqikAyAm .
+061670:1: vcp: 1 sAkiDenyarTajapaH . 2 tajjapAnantaraM sAmiDenInAm fcA-
+061671:6: vcp: manuvacanam . 3 hiNkakaraRapUrvakapraRavAntavyAhftitrayajapa-
+061672:3: vcp: biDAnam . 4 sajapahiNkArasyABihiNkArasaMjYAkaTanam .
+061673:1: vcp: 5 kOtsamate niroNkAravyAhftitrayajapAnantarahiNkaraRadarSa-
+061674:0: vcp: nam . 6 kOtsamate sAmiDenyarToktajapasyAkaraRam . 7 fcA-
+061675:1: vcp: meva sAmiDenItvapradarSanam . 8 sAmIDenInAm fcAmEkaSrutyena
+061676:0: vcp: sAntatyena cAnuvacanam . 9 EkaSrutyalakzaRam 10 santatalakzaRam
+061677:2: vcp: 11 santatasyAvasAnatvakaTanam . 12 pUrvocCvAsAviBreze utta-
+061678:1: vcp: rocCvAsAramBaH . 1 3 praRavenAvasAnakaTanam . 14 vihite
+061679:0: vcp: evAvasAne praRavasya caturmAtratvenoccAraRam . 15 praRavA-
+061680:0: vcp: ntamakArasya varRAntarApattikaTanapratijYA . 16 praRavAnta-
+061681:0: vcp: makAreRa svasmAt parasya yasya kasyacit sparSavarRasya tadvargI- [Page0847-a+ 38]
+061682:0: vcp: yAntavarRApAdanam . 17 praRavAntamakAreRa yavalAnta-
+061683:1: vcp: sTAMsu parAntasTAnAmanunAsikatvApAdanam . 18 rePozmasu
+061684:0: vcp: varRezu praRavAntamakArasyAnusvAratvApattiH . 19 praTamo-
+061685:1: vcp: ttame fcO triraDyarDIkftya tayoranuvacanam . 20 aDyarDayo
+061686:0: vcp: rfcorvacanAvasAne'DyarDacatuzkAtmikayordvayorfcorvacanam .
+061687:2: vcp: 21 uttamAyAmfci AdO dve paScAt aDyarDA . 22 e-
+061688:0: vcp: kAdaSAnAmfcAM dvayostriraByAsayogena paYcadaSasaMKyApUraRa-
+061689:0: vcp: nidarSanam . 23 SastrayAjyAdizu sAmiDenInAM katipayaDarmA-
+061690:0: vcp: tideSaH . 24 sAmIDenIByo'nyatrADyarDakaraRapratizeDAdayaH
+061691:4: vcp: 25 vihite'vasAne'BihiNkArAByAsanizeDaH . 26 Sastre-
+061692:0: vcp: zveva hotrakARAmaBihiNkAraviDAnAt grAvastutastannize-
+061693:0: vcp: DasADanam . 27 praRavena nigadasanDAnAnantaraM tenEva tada-
+061694:0: vcp: vasAnaviDAnam . 27 sU0 1 a0 2 ka0 . 1 yajamAnasyArzeya-
+061695:0: vcp: pravaraRam . 2 anyakzetrajAtadvyAmuzyAyaRArTamArzeyapravaraRa-
+061696:0: vcp: prakAraH . 3 rAjanyaviSAM trEvarRikAnulomastrIjAtAnAYca
+061697:0: vcp: purohitArzeyaBAgitvam . 4 rAjYAM rAjarzipravaraRaM pOrohitya
+061698:1: vcp: pravaraRaM vA 5 pravarAjYAne tatsaMSaye ca varRatrayasya mAnava-
+061699:0: vcp: pravaraH . 6 caturdaSanivitpadakaTanam AvAhananigadakaTanaM,
+061700:0: vcp: sAmiDenyAdInAM cAvAhanIyABiDAyitvam . 7 agnirUpa-
+061701:0: vcp: praTamadevatAvAhanam . 8 agnIzoma dEvatAjyaBAgayAga-
+061702:2: vcp: yorAKyA . 9 agneragnIzomayoSca pOrRRapAsyAM praDAna-
+061703:0: vcp: devatAtvam . 10 amAvAsyAyAM daDipayoByAM yAgamakurvato-
+061704:0: vcp: 'gnIzomayoH sTAne indrAgnyoH praDAnadevatAtvam . 11 ta-
+061705:0: vcp: ddine uktayAgarUpasannayanakAriRo'gnIzomasTAne indramahe-
+061706:1: vcp: ndrayoranyatarAvAhanam . 12 uBayorapi parvaRorEtareyiRAm
+061707:0: vcp: vizRudevatAkopAMSuyAgakaraRam . 13 SAKAntarIyARAm
+061708:0: vcp: uBayorapi pakzayorupAMSuyAgaBinnayAgABAvaH . 14 pitryAdyaNgo-
+061709:0: vcp: pAMSuyAgAnAm AvAhanAdinigadacatuzwaye AvAhanAdInAM
+061710:0: vcp: zaRRAM padAnAm uccEritisaMjYAviDAnam . 15 upAMSuyAja-
+061711:0: vcp: vacanAnAmanyezAm parokzARAm upAMSutvAnuvAdaH, vikalpe-
+061712:0: vcp: noccEH saMjYAviDAnaM ca . 16 vihitadevatAnAmarUpasya pra-
+061713:0: vcp: tyakzasyopAMSutvam . 17 pratinoditadevatamAvAhanaBedaH .
+061714:2: vcp: 18 ekapradAnAnAM sarvAsAM devatAnAmAvAhane sakfdevAvaha-
+061715:2: vcp: SabdaprayogaH . 19 uttaranigamezu ekadevatAtvena saMstavaH .
+061716:2: vcp: 20 ekaprayojanArTAyA devatAyAH kAraRavaSAt ekava-
+061717:1: vcp: vanenEva samAnatA . 21 aparAvyavahitAyA devatAyA nigamezu
+061718:0: vcp: sakfdekavacanaBAktvam . 22 AvApodDArayogyAsu praDAnadeva-
+061719:1: vcp: tAsu kftAvAhanAsu devAjyapAsvizwakftAmAvAhanaprakiyA . [Page0847-b+ 38]
+061720:2: vcp: 23 ASrAvayizyate'Dvaryave'numantraRaM tadanantarakaraRIyaYca .
+061721:4: vcp: 24 utTAnapUrvakaM zazwiScetimantrapAWaH . 25 aMse pArSa-
+061722:0: vcp: sTena pARinADvaryvanvAramBaRam . 26 savyena pARinANke-
+061723:0: vcp: noruRA vA''gnIDrakartfkamanvAramBaRam . 27 uktoBayA-
+061724:0: vcp: nvAramBaRe sADAraRamantraH . 28 iDmasannahanarUpEstfRErA-
+061725:0: vcp: tmamuKasaMmArjanam . 29 saMskArakarmmAvfttimAtre sakfnma-
+061726:0: vcp: ntreRa dvistUzRIM saMskaraRam . 30 udakasparSAnantaraM ho-
+061727:0: vcp: tfzadanABimantraRam . 31 dakziRottariRopasTenopaveSanaM
+061728:0: vcp: hotfzadanAt tfRanirasanaYca . 32 uktayoretayornira-
+061729:0: vcp: sanopaveSanayoH sarvAsanezu praTamaprayoga eva samAnatvam .
+061730:2: vcp: 33 gOtamAcAryyamate dvitIye'pi prayoge tAdfSanirasanopa-
+061731:1: vcp: veSanayoH sadBAvaH . 33 sU0 1 a0 3 ka0 . 1 agnyADeye
+061732:0: vcp: brahmOdanaprASanakAle brahmaRo dvirnirasanopaveSanakaraRam .
+061733:2: vcp: 2 sarvezu somezu bahizpavamAnAt pratyetya brahmaRaH
+061734:2: vcp: pUrvvAsane punaH karaRam . 3 Asane paSvarTamupavizwasya
+061735:0: vcp: hotuH sadaHprasarpaRAnantaraM tatrEva punaH karaRam . 4 paSO
+061736:0: vcp: svAhAkftyarTayoH srugavadApanayoH punaH karaRam . 5 patnI-
+061737:0: vcp: saMyAjArTopaveSanAkaraRam . 6 kOtsamate hotfBinnA-
+061738:0: vcp: nAmetayorniraSanopaveSanayorakaraRam . 7 upaviSyAnantaraM
+061739:0: vcp: devetyAdimantrapAWaH . 8 jAnvagreRa barhirupaspfSya a-
+061740:0: vcp: BihizetyAdimantrajapaH . 9 iDmapradIpte uktajapAnantaraM
+061741:2: vcp: BUpataye nama iti nigadenADvaryave srugAvadApanam . 10
+061742:1: vcp: agnirhoteti nigadamavasAya hotAramavfTA iti mantrajapaH
+061743:3: vcp: 11 agnirhotetyAdinA saha GftavatItyAdikamekanigadaM
+061744:0: vcp: viDAya tatsamApanam . 12 uktanigade samApte'Dvaryukartf-
+061745:2: vcp: kamASrAvaRam . 13 utkaradeSe tiMzWata AgnIDraM pratyA-
+061746:0: vcp: SrAvaRaprakAraH . 13 sU0 1 a0 4 ka0 . 1 SAbdalakzaRaprayA-
+061747:0: vcp: jEryajanam . 2 tanUnapAnnarASaMsayoranyatareRa prayAjAnAM
+061748:0: vcp: paYcasaNKyAkatvam . 3 sakftprezitasya na sarvayajanam .
+061749:1: vcp: 4 ananuyAjAnAM sarvAsAM yAjyAnAmAdirAgU-
+061750:0: vcp: rBavatIti . 5 ye yajAmaha iti AgUH svarUpaM, vazawkArasva-
+061751:0: vcp: rUpaYca . 6 yAjyAyA eva uccEstaratvabalIyastvoBayaDarma-
+061752:0: vcp: vattvam . 7 AgUrvazawkArayorAdyoH plutikaraRam .
+061753:1: vcp: 8 yAjyAntasya plAvanam . 9 viviktayoH sanDijAta
+061754:0: vcp: yorekArEkArayorokArOkArayo A i, iti Au ityevaM,
+061755:0: vcp: vyaYjanAntAnAM sanDyakzarARAM sarvadA svarUpeREva ca plAvanam .
+061756:2: vcp: 10 anavarRopaDasya visarjanIyasya rePiBAvaH . 11 rePi-
+061757:0: vcp: saMjYino'varRopaDasya visasarjanIyasya rePiBAvaH . 12 vazaw- [Page0848-a+ 38]
+061758:0: vcp: kArasanDO arePasaMjYasyAvarRopaDasya visarjanIyasya lopaH .
+061759:3: vcp: 13 vargARAM praTamasya svavargIyatftIyavarRApAdanam . 14 ma-
+061760:0: vcp: kAre sAnunAsikaBAvasya nityatvam . 15 vOzawSabdasya
+061761:3: vcp: vazawakArasvarUpatvam . 16 ityevaMrUpaH praTamaprayAjaH . 17
+061762:2: vcp: vazawkAroccAraRapUrvvako'numantraRaprakAraH . 1 8 vazawkArasya
+061763:0: vcp: divAkIrttanIyatvam . 19 anumantraRasyApi divAkIrtta-
+061764:1: vcp: nIyatvam . 20 ityevaM yAjyAsvarUpam . 21 vaSizWAdi-
+061765:1: vcp: BinnAnA tanUnapAdityAdiH dvitIyaprayAjaH . 22 vaSizWAdInAM
+061766:0: vcp: narAMSa sa ityAdiH dvitIyaprayAjaH . 23 iqo agna ityAdiH
+061767:1: vcp: sarvezAM tftIyaprayAjaH 24 barhiragne ityAdiH caturTaH svAhA-
+061768:0: vcp: mumityAdi paYcamaprayAjaH . 25 agnimanTanAdO mandrasvarapra-
+061769:1: vcp: yojaH . 26 SaMyuvAkAdUrDvaM mandrasvareRa prayogaH . 27 prayAjeBya
+061770:1: vcp: UrdDvamAsvizwakfto maDyamena prayogaH . 28 iqAdiSaMyu-
+061771:2: vcp: vAkAntarUpasya Sezasyottamena prayogaH . 29 pUrvvottarayo-
+061772:0: vcp: rAjyaBAganAmakayAgayorAgoraRadevatAdeSayAjyAsanDAnapUrbako
+061773:0: vcp: yAgaH . 30 anuvAkyAvatInAmaprEzARAM cAnyAyA-
+061774:3: vcp: tyAByo'nyAsAM devatAnAm AdeSapUrvvakayAgaH . 31 aNga-
+061775:1: vcp: praDAnarUpe somakarmmaRi vESvAnarIyapratnIsaMyAjaSabdaboDi-
+061776:0: vcp: tayoH padArTayormaDye tatrotpannAByo devatAByo'nyAsAm
+061777:0: vcp: AdeSapUrvvako yAgaH . 32 pOrRamAsyAmAjyaBAgayoH
+061778:0: vcp: sanimittA vArtraGnasaMjYA . 33 anuvAkyAtaevavicArA-
+061779:2: vcp: vagamAdi . 34 yAjyayorAnuvAkyAdevatAnanyatvam . 35
+061780:0: vcp: Adita AraByAjyaBAgaparyyantaM vAgyamanam . 36 yAjyA-
+061781:2: vcp: diByo'nyadapyAraByAsamAptervAgyamanam . 37 yajYasADana-
+061782:0: vcp: vacaso'nyatra vAgyamananiyamaH . 38 vAgyamananiya-
+061783:0: vcp: mAtikrame ato devA avantu na iti vEzRavyA fco
+061784:0: vcp: japaH . 39 uktAtikrame'nyasyA api vEzRavyA fco japa-
+061785:3: vcp: viDAnam . 39 sU0 1 a0 5 ka0 . 1 viDikramaprAptAnAM devatAnAM
+061786:0: vcp: vakzyamARaliNgakramAByAM yAjyAnuvAkyAyojanA . 2 praDA-
+061787:2: vcp: nAnantaraM svizwakfto yAgaH sarvatra ca pUrvvamanuvAkyAyAH
+061788:1: vcp: paScAdyAjyAyA prayogaH . 3 ye yAjamahe ityuktvA zazWyA
+061789:1: vcp: viBaktyA devatAmAdiSya priyA DAmAnyayAqiti mantrapAWaH .
+061790:1: vcp: 4 praTamadevatAyAH purastAdayAqagniSabdantyaktvA uttarAsAma-
+061791:2: vcp: yAwSabdasyEva sarvvAsAmuparizwAt priyA DAmAniSabdasya ca
+061792:1: vcp: sana taprayogaH . 5 yAjyAviSeze'nucCvAsasya karttavyatvam .
+061793:2: vcp: 6 yAjyApAWe arDarce voYCvAsakarttavyatA . 6 sU0 1 a0 6 ka0
+061794:3: vcp: 1 aDvaryuRA pradeSinIparvAYjanapUvakOzWApavargaSoDane . 2
+061795:0: vcp: ozWADaraSoDanasya mantraviSezaH . 3 aDvaryuRA iqA- [Page0848-b+ 38]
+061796:0: vcp: grahaRapUrvakAvAntareqAvadApanaprakAraH . 4 svayaM yaja mAnena
+061797:0: vcp: iqAyA avAntareqAgrahaRaprakAraH . 5 aDvaryukartfkaM vA
+061798:0: vcp: tadgahaRam . 6 iqopahvAnaprakAraH . 7 saha divetyAdinA
+061799:0: vcp: tasminnupahvata ityantena mantreRa iqopahvAnam . 8 hoturya-
+061800:2: vcp: jamAnapaYcamAnAM vA sarvvezAmavAntareqABakzaRapUrvvakeqABakza-
+061801:0: vcp: Ram . 8 sU0 a0 7 ka0 . 1 iqABokturmArjanapUrvvakamanu-
+061802:0: vcp: yAjacaraRam . 2 mArjanaprakAraH . 3 anuyAjalakzaRam .
+061803:1: vcp: 4 prayAjAnuyAjayorguRakaTanam . 5 anuyAjAnAM tritva-
+061804:0: vcp: vyavasTApanam . 6 ekEkaM prezitasya yajanaviDAnam .
+061805:3: vcp: 7 anuyAjamantrARAM sTalaviSeze kvacidavasAnapUrvvakaM kvaci-
+061806:1: vcp: cvAnavasAnapUrttakaM yajanaviDAnam . 7 sU0 a0 8 ka0 . 1 sUkta-
+061807:1: vcp: vAkAya samprezitasya devatAdeSAnantaram idaM havirityupasa-
+061808:0: vcp: ntananam . 2 uttarA api devatA AdiSyedaM havirityeva-
+061809:0: vcp: mupasantananam . 3 dvidEvatabahudEvatayorarTavaSenAkftetyasya
+061810:0: vcp: sTAne akrAtAmakratetyUhasya karttavyatA . 4 Avaha svAheti-
+061811:0: vcp: nigadasya paSuyAge'pi prayogaH . 5 AvApikadevatAkramaprAptya-
+061812:1: vcp: rTam AvApikAntamityetadAdikaTanam . 5 sU0 1 a0 9 ka0 .
+061813:1: vcp: 1 SaMyuvAkAya prezitasya tacCaMyoriti mantrapAWe praRavanizeDaH .
+061814:1: vcp: 2 tAdfSaprezitAyADvaryuRA vedadAnam . 3 vedagrahaRe
+061815:0: vcp: vedo'sIti mantrapAWaH . 4 prakftivikAraBAve'pi kftsnamantra-
+061816:0: vcp: prAptiH, Ajyena somayAga eva yAjyAnuvAkyAvyavasTApanaM
+061817:0: vcp: yAgaeva kevalaM devatAviSezARAmanuvfttikaTanaM ca . 5 mantra-
+061818:0: vcp: BedAnAM patnIsaMyAjasaMjYAviDAnam . 6 prajAkAmasya yaja-
+061819:0: vcp: mAnasya yAgaBedaH . 7 yajamAne sannihite'pi hotureva kartftvaM
+061820:0: vcp: yAjyAnuvAkyayorhotfkarttftvasyAnyataH prasidDiH, kuhUmaha-
+061821:0: vcp: miti mantrapAWe yajamAnasya svayaMkartftvaM ca . 8 pARi-
+061822:0: vcp: talasTAjyarUpeqopahnAnAnantaraM tadBakzaRaviDiH . 9 Ajye-
+061823:3: vcp: qAyA UrdDvaM SaMyuvAko mavati na veti saMSaye itikarttavyatA-
+061824:0: vcp: viDAnam . 9 sU0 1 a0 10 ka0 . 1 hotrA'DvaryuRA vA patnyE
+061825:0: vcp: vedaM pradAya vedo'sItyAdi--kAmAyetyevamantamantravAcanam .
+061826:1: vcp: 2 prajAkAmAyAH patnyA vedaSirasA svanAByAlamBanam .
+061827:1: vcp: 3 kAmanABAve vAcanAnantaraM yoktravimokaH . 4 dviguRitaM
+061828:0: vcp: yoktraM niDAya tasyoparizwAt vedatfRAnAM niDAnam .
+061829:1: vcp: 5 tfReByaH purastAt vedatfRasaMSlizwasya pUrRapAtrasya niDAnam .
+061830:3: vcp: 6 AtmAnamaBiBfSatIM patnImaBiSamftaH pUrRamasIti mantravAca-
+061831:2: vcp: nam . 7 pUrRRapAtrAdudakaM gfhItvA tadudukzan tAM cEvaM kurvatIM
+061832:3: vcp: vAcayatItyuktiH . 8 yoktrasyADastAt patnyaYjalimuttAnamAtmanaSca
+061833:1: vcp: savyaM pARimuttAnaM niDAya pUrRRapAtraM ninayan mAhaM prajA- [Page0849-a+ 38]
+061834:1: vcp: miti tAM vAcayatItyuktiH . 9 vedatfRAni gfhItvA gArhapatyA-
+061835:0: vcp: dAraBya tantu tanvannityAdinA santataM stfRan AhavanIyaM
+061836:0: vcp: gacCatItyuktiH . 10 sarvvARi vedatfRAni na staritavyAni
+061837:0: vcp: niyamena SezitavyAnyuttarakriyArTamityuktiH . 11 SrOtA-
+061838:1: vcp: tiriktezu gArhyezvapi mantrasADyezu karmmasu svAhAkArasyEva
+061839:0: vcp: karttavyatvaM na vazawkArasyetyuktiH . 12 avihitaviSezARAM
+061840:0: vcp: homAByADAnopasTAnAnAM, tattaditikarttavyatAprakArasya ca
+061841:0: vcp: viDAnam . 13 ekamantrARi karmmARIti nyAyena vyAhf-
+061842:3: vcp: timiriti bahuvacananirdeSAt caturRAM karmmaRAM krameREva
+061843:0: vcp: karaRam . 14 prayogamaDye mArgAntareRa nizkrAntasyApi
+061844:2: vcp: niyamA Bavantyevetyasya vyatirekamuKeRa vyavasTApanam . 15
+061845:0: vcp: saMsTAjapaH tasya ca somezwizunizeDaH . 16 hotureva kevala-
+061846:2: vcp: metAvattvam agnIDrasyAnyadapItyuktiH . 16 sU0 1 a0 11 ka0 .
+061847:1: vcp: 1 brahmADikAre viDayaH . 2 vyAKyAtAnAM hotrAcamana-
+061848:1: vcp: yajYopavItaSOcAnAM brahmADikAre'tideSanam . 3 tatra karmmasu
+061849:1: vcp: kaScidgacCati kaScittizWati tatra BUyasAmeva DarmmasyAcaraRaM
+061850:0: vcp: brahmaRaH iti vyavasTApanam . 4 bahirvedi ftvijAmaBimuKA-
+061851:0: vcp: yAdiSaH prAcItvoktiH . 5 ekasminnapi prayoge kvacidAsanasya
+061852:3: vcp: kvacit sTAnasya ca lABoktiH . 6 tizWatAM homezu ava-
+061853:1: vcp: zawkArezu ca sTAnAsanayorvikalpaH . 7 anantarasUtradvayaviza-
+061854:1: vcp: yAdanyatrAsanakaTanam . 8 samastapARyaNguzWasyAgreRAhavanIyaM
+061855:0: vcp: parItya tasya dakziRataH kuSezUpaveSanam . 9 uktopaveSanA-
+061856:6: vcp: nantaraM mantraBedajapaH . uktajapasya brahmajapatvam . 11 aDva-
+061857:2: vcp: ryukartfkam upavizwAtisarjanam . 12 oM praRayetyetA-
+061858:3: vcp: dfSAtisarjanarUpAnujYAprakAraH . 13 karmmAnurUpARAm
+061859:1: vcp: AdeSAnAM karttavyatoktiH . 14 uttaravivakzArTam uccEH
+061860:2: vcp: praRavAdikaTanam . 15 praRavAdUrdDvaM vA uccErBAvoktiH .
+061861:4: vcp: 16 praRItApraRayanakAlAdUrdDvaM havizkfnmantroccAraRaparyantaM
+061862:2: vcp: vAgyamanapUrvva kamAsanam . 17 paSuyAge cAtvAlamArjana-
+061863:1: vcp: paryyantaM vAkyasaMyamaH . 18 sarvvasomezu DarmmABiprEzA-
+061864:4: vcp: ramBapUrvvakaM subrahmaRyAparyyanta vANniyamaH . 19 prAta-
+061865:0: vcp: ranuvAkakAlAt param antaryAmagrahayAgaparyyantaM vAgya-
+061866:1: vcp: manoktiH . 20 savanatraye'pi puroqASapracArAdi, tadiqA-
+061867:0: vcp: paryyantaM vAgyamanoktiSca . 21 stotrAdO stuDvamityAdi-
+061868:0: vcp: SastrayAjyAvazawkAraparyyantaM vAgyamanoktiH . 22 pava-
+061869:0: vcp: mAnastotrezu upAkaraRAdi samAptiparyyantaM vAgyamanoktiH
+061870:2: vcp: 23 sarvvatra mantravati karmmaRi vAgyamanoktiH .
+061871:3: vcp: 24 uktAdanyatrApi vizaye hotftulyavAgyamanaBAvaH . [Page0849-b+ 38]
+061872:2: vcp: 25 vAgyamanaBreze prAyaScittaviDAnam . 26 agnIzo-
+061873:1: vcp: mIyapraRayanAvaDivAgyamanam . 27 dakziRato brajata
+061874:1: vcp: evASuHSiSAna iti sUktajapaH . 28 gamanAparisamAptAvapi
+061875:0: vcp: upaveSanAdikaraRaM, brahmajapaviDAnaYca . 29 somayAge
+061876:1: vcp: agnipraRayanAnte brahmajapanizeDaH . 30 visfzwavAkyasyApi
+061877:0: vcp: yajYamanastvoktiH . 31 viparyyAsAntaritayoH prAyaScitta-
+061878:2: vcp: viSezoktiH . 32 vedaBedena Breze'gniBede prAyaScittaBedaH .
+061879:4: vcp: 33 sarvveByI vedeByo yUgapadBrezApAte samastABi-
+061880:1: vcp: rfgmirekAhutirUpaprAyaScittam . 34 srugAdApanAt
+061881:1: vcp: prAgaNgArasya bahiHpariDi pAte karmmaBedaH . 35 tatra
+061882:0: vcp: digBedena nirgatO homaBedaH karmmaRi svAhAkArAntatva-
+061883:0: vcp: BAvaH . 36 aDvarzvanupraharaRoktiH 37 . sahasraSfNga
+061884:1: vcp: ityAdinA prakftANgArahomoktiH . 37 sU0 1 a0
+061885:5: vcp: 12 ka0 . 1 prASitraharaRaniDAnapUrvvakaM tatprASanam .
+061886:3: vcp: 2 iqABakzaRamArjanapUrvvakaM caturDAkaraRe kfte prASitra-
+061887:0: vcp: haraRe brahmaRa AnItabrahmaBAgasya niDAnam . 3 prASitra
+061888:0: vcp: haraRadeSasya paScAt kuSezu yajamAnaBAganiDAnam .
+061889:1: vcp: 4 prajApaterityAdi mantreRAnvAhAryyAvekzaRam . 5 anye-
+061890:0: vcp: nANgenAnvAhAryyAvaGrARaviDAnaM brahmaBAge SizwaBAgaviDA-
+061891:1: vcp: naYca . 3 prasTAsyAma iti aDvarrumantrapAWAnantaraM prati-
+061892:0: vcp: zWetyevAnujYoktiH . 7 samidanujYAnaM, jaGanyIBavataH
+061893:0: vcp: sarvaprAyaScittahomaH, AgnIDrasya brahmAnvAramBaRaM ca .
+061894:1: vcp: 8 itarezAM hotrAramBaRaviDiH . 9 uktayoretayorhoma
+061895:0: vcp: eva kAryye anvAramBasya parasparaBAvaH . 10 sarvezAM homa-
+061896:0: vcp: kartFRAmanvAramBakartFRAM ca saMsTAjapena upAsanaviDA-
+061897:1: vcp: nam . 10 sU0 1 aDyAye 13 ka0 .
 061898:2: vcp: <P>1 pOrRRamAsenezwipaSusomAnAmupadizwatvam . 2 upa-
-061899:1: vcp: <>dizwErizwipaSusomEramAvAsyAyAM pOrRRavAsyAM vA yAgasya
-061900:0: vcp: <>karttavyatvoktiH . 3 kzatriyavESyayoH parvvaRorevAgni-
-061901:0: vcp: <>hotrahomakarttavyatAviDAnam . 4 rAjanyavESyayoH
-061902:2: vcp: <>parvvetarezu kAlezu tapasvibrAhmaRAyOdanadAnam . 5 fta-
-061903:0: vcp: <>satyasvaBAvasya somayAjinaSca kzatriyasya vESyasya vA sadA
-061904:1: vcp: <>homaviDAnaM na kevalaM parvvaRorityuktiH . 6 bahUnAM
-061905:0: vcp: <>samAnAnAM paScAdviDAne sati krameRa sambanDoktiH .
-061906:1: vcp: <>7 ekasyA ekasyA devatAyA dve dve fcO yAjyAnu-
-061907:0: vcp: <>vAkye . 8 devatAviSezasya talliNgayAjyAnuvAkyAnAdeSe
-061908:0: vcp: <>nityayostayorgrahItavyatvoktiH . 9 karmmAnuzWAnaBUtA-
-061909:1: vcp: <>nAmagnyADeyapraBftInAM maDye gArhapatyAdyagnyutpattyarTamaNgAra- [Page0850-a+ 38]
-061910:0: vcp: <>niDAnarUpAgnyADAnam . 10 kfttikAdInAM saptAnAM
-061911:2: vcp: <>nakzatrARAmanyatame'gnyADAnaviDAnam . 11 uktAnAM
-061912:0: vcp: <>saptAnAM kasmiMScit nakzatre parvvaRi vA'gnyADAnasya
-061913:0: vcp: <>karttavyatvam . 12 vasante brAhmaRaguRakADAnaviDiH .
-061914:2: vcp: <>13 grIzme kzatriyaguRakaM varzAsu vESyaguRakaM Saradi upa-
-061915:0: vcp: <>kruzwaguRakaM ceti ADAnatrayaviDAnam . 14 Apadi
-061916:0: vcp: <>ADAnapakze kAlaniyamABAvaH . 15 kftasomayAga-
-061917:0: vcp: <>saNkalpasya ADAnamicCata ADAnakAlAnavekzaRam .
-061918:2: vcp: <>16 ADAnArTamaDvaryuyajamAnayoHSamIgarBAdaSvatTAdaraRyA-
-061919:1: vcp: <>haraRaviDiH . 17 agnyADeyasya pUrRAhutyantasya kartta-
-061920:0: vcp: <>vyatvam . 18 izwInAmagnisADanatvoktiH . 19 praTa-
-061921:3: vcp: <>mAyAmizwO kevalAgnipavamAnAgninAmake dve devate . 20
-061922:2: vcp: <>pavamAnaguRakasya dvitIyasyAgneryAjyAnuvAkyoktiH . 21
-061923:0: vcp: <>svizwakftsambanDinyoryAjyAnuvAkyayorfcoH saMyAjyAtvasaM-
-061924:0: vcp: <>jYA . 22 sarvatra devatAgame prAkftInAM sarvAsAM devatAnA-
-061925:0: vcp: <>mudDAroktiH . 23 AjyaBAgO svizwakftaM cAntarA
-061926:0: vcp: <>yazwavyAnAM devatAnAmudDarttavyatvaM vikftO punarvihitAnAM
-061927:0: vcp: <>tadDarmikatvaYceti . 24 devatAByo'nyatrApi atidizwasya
-061928:0: vcp: <>viDerekakAryyatvoktiH . 25 dvitIyAyAmizwO pAvakAgni-
-061929:0: vcp: <>SucyagninAmike dve devate . 26 sAhvAnityAderfg-
-061930:0: vcp: <>dvayasya saMyAjyAtvakaTanaM, tftIyAyAmizwO aDikasAmi-
-061931:0: vcp: <>DenIdvayoktiH . 27 agnIzomAvindrAgnI vizRu-
-061932:0: vcp: <>rityasya vEkalpikatvam . 28 aditinAmikA izwiH .
-061933:2: vcp: <>29 aditIzweryAjyoktiH . 30 predDo agna imo
-061934:0: vcp: <>agna ityanayoH saMyAjyAtvoktiH virAjO DAyye
-061935:0: vcp: <>ityuktiSca . 31 Adyottame izwI . 32 AdyA vA izwiH .
-061936:2: vcp: <>33 AdyAyAM DAyyAvirAjO . 34 vErAjatantrAyA
-061937:0: vcp: <>izwerjYApanam . 35 ADAnenezwiBiSca sidDA agnayo
-061938:1: vcp: <>dvAdaSAhorAtraM sarve svarUpeREva DAryante ityetadajasraDAra-
-061939:0: vcp: <>RoktiH . 36 gataSriyAmagnayo yAvajjIvamajasrA Bavanti na
-061940:0: vcp: <>dvAdaSAhamevetyuktiH . 36 sU0 2 a0 1 ka0 . 1 gArhapatyAt
-061941:1: vcp: <>jyaladAhavanIyodDaraRam . 2 devaM tveti mantreRAgnihotrArTa-
-061942:3: vcp: <>mudDaraRam . 3 AhavanIyaM prati mantrapUrvvakAgnipraRayanamantraH .
-061943:1: vcp: <>4 AhavanIyAyatane'gniniDAnamantraH . 5 sAyaM prAtarUzaHkAlezu
-061944:0: vcp: <>niDAnAntakarmmakaraRam . 6 rAtryAM yadena iti mantreRA-
-061945:0: vcp: <>gnipraRayanam . 7 AhitAgnervratacAritvoktiH . 8 anu-
-061946:0: vcp: <>ditahomina odayAdvratacAritvoktiH . 9 astamana-
-061947:0: vcp: <>samaye homaviDAnam . 10 Acamanasya nityatvam . [Page0850-b+ 38]
-061948:2: vcp: <>11 agniparyyukzaRamantrodakAdAnaviDiH paryyukzaRe agnI-
-061949:0: vcp: <>nAmutpattikramasya homakramasya vA viDAnam . 13 dakzi-
-061950:0: vcp: <>RAgnigArhapatyAhavanIyaparyyukzaRe kramoktiH . 14 gArhapatyA-
-061951:0: vcp: <>davicCinnodakaDArAharaRam . 15 aDiSrayaRArTaM gArhapatyAt
-061952:1: vcp: <>katipayANgArapfTakkaraRaviDiH . 16 homasADanaBUtAgniho-
-061953:0: vcp: <>trADiSrayaRam . 17 aDiSrayaRe mantravikalpaH . 18 daDyaDiSra-
-061954:2: vcp: <>yaRAnaDiSrayaRavikalpaH 18 sU0 2 a0 2 ka0 . 1 akAma-
-061955:0: vcp: <>kartfkasya nityAgnihotrahomasya payasA kAryyatA . 2 grAmA-
-061956:0: vcp: <>nnAdyendriyatejaskAmAnAM yavAgvodanadaDisarpIMzi yaTAsaNKya-
-061957:0: vcp: <>magnihotradravyARi BavantItyuktiH . 3 kAlavikzepaM vinA
-061958:0: vcp: <>aDiSritamAtra evAvajvalanaviDAnam . 4 apakvadravyadaDyA-
-061959:0: vcp: <>dInAmaDiSritAnAmapyavajvalanaviDiH . 5 payasA home sama-
-061960:1: vcp: <>ntraka dohanapAtraprakzAlanapUrvaM sruveRa pratizekavikalpaH . 6 eka-
-061961:0: vcp: <>smin puruze pratizekApratizekayorasaNkaratvoktiH . 7 ava-
-061962:1: vcp: <>jvalanArTaM mantrapUrvakaM gArhapatyAt gfhItenolsukena punaH
-061963:0: vcp: <>pariharaRaviDAnam . 8 pacyamAnapayo'vatAraRamantraH .
-061964:1: vcp: <>9 gArhapatye'NgArARAM prakzepamantraH . 10 AhitAgnera-
-061965:0: vcp: <>tisarjjanamantraH . 11 AhitAgneH patnyASca iti-
-061966:0: vcp: <>karttavyatAkalApaH . 12 atisfzwasyonnayanaviDiH .
-061967:2: vcp: <>13 putrARAM tAratamyamicCataH saputrasya yajamAnasya
-061968:0: vcp: <>kAmyakalpaH . 14 ekaputrasyApi kAmyakalpaH . 15 sami-
-061969:0: vcp: <>dDaraRAnantaraM samantrakaM tadADAnaviDAnam . 16 samidA-
-061970:0: vcp: <>DAnAnantaram AcamanapUrvakaM tadavaDihomaviDAnam . 17 pUrvA-
-061971:0: vcp: <>hutyanantaraM kuSezu sruksAdanatUrvakaM gArhapatyAvekzaRam .
-061972:3: vcp: <>18 pUrvvAhuteH prAgudak uttarato vA uttarAhutyarTaM
-061973:0: vcp: <>dravyotpAdanaviDAnam . 19 homezu sarvvatra prajApatiDyAna-
-061974:1: vcp: <>viDAnam . 20 BUyizWadravyapUrRRasrukkampanAnantaraM tadga-
-061975:0: vcp: <>talepavamarjanaM pARitalagatalepamArjanaYca . 21 lepanimA-
-061976:0: vcp: <>rjanakuSamUlAnAM dakziRata uttAnANguliniDAnam . 22 ku-
-061977:0: vcp: <>SamUlAnAM dakziRato jalAvaninayanaviDAnam . 23 sruN-
-061978:0: vcp: <>niDAnAnantaraM jalopasparSanam . 24 AhitAgnikartfkAnu-
-061979:0: vcp: <>mantraRaviDAnam . 25 samantrakamADIyamAnasamidanumantraRam .
-061980:2: vcp: <>26 tA asyetyfcA pUrvAhutyanumantraRam . 27 samIpasTena
-061981:1: vcp: <>sakawAkzamIkzityAhutyanumantraRam . 28 yABiH kABiSca
-061982:2: vcp: <>tryavarABirAgneyIBirfgBiruttarAhutyanumantraRam . 29 pUrva-
-061983:1: vcp: <>sUtroktasya fcAM trayasya nirUpaRam 29 sU0 2 a0 3 ka0 .
-061984:1: vcp: <>1 pUrRepUrRe saMvatsare'DikABirfgBiH sakfdanumantraRam .
-061985:1: vcp: <>2 parvavihitayavAgvAdinA sAyamprAtarhomezu yajamAnasya svayaM [Page0851-a+ 38]
-061986:0: vcp: <>kartftvam . 3 pUrRasaMvasatsaretarakAle yena kenApi
-061987:0: vcp: <>ftvijAgnihotrahomaH . 4 putraSizyayoranyatareRAnte-
-061988:1: vcp: <>vAsinA homastadgataviSezaSca . 5 homakarttuH srugga-
-061989:0: vcp: <>taSezaBakzaRaprakAraH . 6 aparartvijohomapUrvakaM sruggataSeza-
-061990:2: vcp: <>BakzaRam . 7 praTamottaraBakzaRadvaye mantraBedO . 8 sami-
-061991:0: vcp: <>dADAnapUrvako gArhapatye homaviDiH . 9 uttarAhute-
-061992:0: vcp: <>rnityatvoktiH . 10 samidADAnapUrvakaM dakziRAgniho-
-061993:1: vcp: <>maprakAraH . 11 uttarAhuteH pUrvavat nityatyoktiH .
-061994:2: vcp: <>12 uktaSezaBakzaRAnantaraM srucA'pAM ninayanam . 13 sruk-
-061995:0: vcp: <>prakzAlanAnantaraM prAgudIcyoH caturRAM pUrRAnAM srucAM
-061996:0: vcp: <>ninayanIyatvam . 14 kuSadeSe paYcamI sruk gArhapatyasya
-061997:0: vcp: <>paScAt zazWItyuktiH . 15 AhavanIye pratApitAyAH sruco-
-061998:0: vcp: <>'ntarvedideSe niDAnam . 16 paricArakarUpAya parika-
-061999:0: vcp: <>rmmiRe vA tAdfSyAH srucodAnam . 17 udaNmuKena
-062000:0: vcp: <>samittrayasyADAnaM paryyukzaRAdikaraRaYca . 18 tisfRAM samiDAM
+061899:1: vcp: dizwErizwipaSusomEramAvAsyAyAM pOrRRavAsyAM vA yAgasya
+061900:0: vcp: karttavyatvoktiH . 3 kzatriyavESyayoH parvvaRorevAgni-
+061901:0: vcp: hotrahomakarttavyatAviDAnam . 4 rAjanyavESyayoH
+061902:2: vcp: parvvetarezu kAlezu tapasvibrAhmaRAyOdanadAnam . 5 fta-
+061903:0: vcp: satyasvaBAvasya somayAjinaSca kzatriyasya vESyasya vA sadA
+061904:1: vcp: homaviDAnaM na kevalaM parvvaRorityuktiH . 6 bahUnAM
+061905:0: vcp: samAnAnAM paScAdviDAne sati krameRa sambanDoktiH .
+061906:1: vcp: 7 ekasyA ekasyA devatAyA dve dve fcO yAjyAnu-
+061907:0: vcp: vAkye . 8 devatAviSezasya talliNgayAjyAnuvAkyAnAdeSe
+061908:0: vcp: nityayostayorgrahItavyatvoktiH . 9 karmmAnuzWAnaBUtA-
+061909:1: vcp: nAmagnyADeyapraBftInAM maDye gArhapatyAdyagnyutpattyarTamaNgAra- [Page0850-a+ 38]
+061910:0: vcp: niDAnarUpAgnyADAnam . 10 kfttikAdInAM saptAnAM
+061911:2: vcp: nakzatrARAmanyatame'gnyADAnaviDAnam . 11 uktAnAM
+061912:0: vcp: saptAnAM kasmiMScit nakzatre parvvaRi vA'gnyADAnasya
+061913:0: vcp: karttavyatvam . 12 vasante brAhmaRaguRakADAnaviDiH .
+061914:2: vcp: 13 grIzme kzatriyaguRakaM varzAsu vESyaguRakaM Saradi upa-
+061915:0: vcp: kruzwaguRakaM ceti ADAnatrayaviDAnam . 14 Apadi
+061916:0: vcp: ADAnapakze kAlaniyamABAvaH . 15 kftasomayAga-
+061917:0: vcp: saNkalpasya ADAnamicCata ADAnakAlAnavekzaRam .
+061918:2: vcp: 16 ADAnArTamaDvaryuyajamAnayoHSamIgarBAdaSvatTAdaraRyA-
+061919:1: vcp: haraRaviDiH . 17 agnyADeyasya pUrRAhutyantasya kartta-
+061920:0: vcp: vyatvam . 18 izwInAmagnisADanatvoktiH . 19 praTa-
+061921:3: vcp: mAyAmizwO kevalAgnipavamAnAgninAmake dve devate . 20
+061922:2: vcp: pavamAnaguRakasya dvitIyasyAgneryAjyAnuvAkyoktiH . 21
+061923:0: vcp: svizwakftsambanDinyoryAjyAnuvAkyayorfcoH saMyAjyAtvasaM-
+061924:0: vcp: jYA . 22 sarvatra devatAgame prAkftInAM sarvAsAM devatAnA-
+061925:0: vcp: mudDAroktiH . 23 AjyaBAgO svizwakftaM cAntarA
+061926:0: vcp: yazwavyAnAM devatAnAmudDarttavyatvaM vikftO punarvihitAnAM
+061927:0: vcp: tadDarmikatvaYceti . 24 devatAByo'nyatrApi atidizwasya
+061928:0: vcp: viDerekakAryyatvoktiH . 25 dvitIyAyAmizwO pAvakAgni-
+061929:0: vcp: SucyagninAmike dve devate . 26 sAhvAnityAderfg-
+061930:0: vcp: dvayasya saMyAjyAtvakaTanaM, tftIyAyAmizwO aDikasAmi-
+061931:0: vcp: DenIdvayoktiH . 27 agnIzomAvindrAgnI vizRu-
+061932:0: vcp: rityasya vEkalpikatvam . 28 aditinAmikA izwiH .
+061933:2: vcp: 29 aditIzweryAjyoktiH . 30 predDo agna imo
+061934:0: vcp: agna ityanayoH saMyAjyAtvoktiH virAjO DAyye
+061935:0: vcp: ityuktiSca . 31 Adyottame izwI . 32 AdyA vA izwiH .
+061936:2: vcp: 33 AdyAyAM DAyyAvirAjO . 34 vErAjatantrAyA
+061937:0: vcp: izwerjYApanam . 35 ADAnenezwiBiSca sidDA agnayo
+061938:1: vcp: dvAdaSAhorAtraM sarve svarUpeREva DAryante ityetadajasraDAra-
+061939:0: vcp: RoktiH . 36 gataSriyAmagnayo yAvajjIvamajasrA Bavanti na
+061940:0: vcp: dvAdaSAhamevetyuktiH . 36 sU0 2 a0 1 ka0 . 1 gArhapatyAt
+061941:1: vcp: jyaladAhavanIyodDaraRam . 2 devaM tveti mantreRAgnihotrArTa-
+061942:3: vcp: mudDaraRam . 3 AhavanIyaM prati mantrapUrvvakAgnipraRayanamantraH .
+061943:1: vcp: 4 AhavanIyAyatane'gniniDAnamantraH . 5 sAyaM prAtarUzaHkAlezu
+061944:0: vcp: niDAnAntakarmmakaraRam . 6 rAtryAM yadena iti mantreRA-
+061945:0: vcp: gnipraRayanam . 7 AhitAgnervratacAritvoktiH . 8 anu-
+061946:0: vcp: ditahomina odayAdvratacAritvoktiH . 9 astamana-
+061947:0: vcp: samaye homaviDAnam . 10 Acamanasya nityatvam . [Page0850-b+ 38]
+061948:2: vcp: 11 agniparyyukzaRamantrodakAdAnaviDiH paryyukzaRe agnI-
+061949:0: vcp: nAmutpattikramasya homakramasya vA viDAnam . 13 dakzi-
+061950:0: vcp: RAgnigArhapatyAhavanIyaparyyukzaRe kramoktiH . 14 gArhapatyA-
+061951:0: vcp: davicCinnodakaDArAharaRam . 15 aDiSrayaRArTaM gArhapatyAt
+061952:1: vcp: katipayANgArapfTakkaraRaviDiH . 16 homasADanaBUtAgniho-
+061953:0: vcp: trADiSrayaRam . 17 aDiSrayaRe mantravikalpaH . 18 daDyaDiSra-
+061954:2: vcp: yaRAnaDiSrayaRavikalpaH 18 sU0 2 a0 2 ka0 . 1 akAma-
+061955:0: vcp: kartfkasya nityAgnihotrahomasya payasA kAryyatA . 2 grAmA-
+061956:0: vcp: nnAdyendriyatejaskAmAnAM yavAgvodanadaDisarpIMzi yaTAsaNKya-
+061957:0: vcp: magnihotradravyARi BavantItyuktiH . 3 kAlavikzepaM vinA
+061958:0: vcp: aDiSritamAtra evAvajvalanaviDAnam . 4 apakvadravyadaDyA-
+061959:0: vcp: dInAmaDiSritAnAmapyavajvalanaviDiH . 5 payasA home sama-
+061960:1: vcp: ntraka dohanapAtraprakzAlanapUrvaM sruveRa pratizekavikalpaH . 6 eka-
+061961:0: vcp: smin puruze pratizekApratizekayorasaNkaratvoktiH . 7 ava-
+061962:1: vcp: jvalanArTaM mantrapUrvakaM gArhapatyAt gfhItenolsukena punaH
+061963:0: vcp: pariharaRaviDAnam . 8 pacyamAnapayo'vatAraRamantraH .
+061964:1: vcp: 9 gArhapatye'NgArARAM prakzepamantraH . 10 AhitAgnera-
+061965:0: vcp: tisarjjanamantraH . 11 AhitAgneH patnyASca iti-
+061966:0: vcp: karttavyatAkalApaH . 12 atisfzwasyonnayanaviDiH .
+061967:2: vcp: 13 putrARAM tAratamyamicCataH saputrasya yajamAnasya
+061968:0: vcp: kAmyakalpaH . 14 ekaputrasyApi kAmyakalpaH . 15 sami-
+061969:0: vcp: dDaraRAnantaraM samantrakaM tadADAnaviDAnam . 16 samidA-
+061970:0: vcp: DAnAnantaram AcamanapUrvakaM tadavaDihomaviDAnam . 17 pUrvA-
+061971:0: vcp: hutyanantaraM kuSezu sruksAdanatUrvakaM gArhapatyAvekzaRam .
+061972:3: vcp: 18 pUrvvAhuteH prAgudak uttarato vA uttarAhutyarTaM
+061973:0: vcp: dravyotpAdanaviDAnam . 19 homezu sarvvatra prajApatiDyAna-
+061974:1: vcp: viDAnam . 20 BUyizWadravyapUrRRasrukkampanAnantaraM tadga-
+061975:0: vcp: talepavamarjanaM pARitalagatalepamArjanaYca . 21 lepanimA-
+061976:0: vcp: rjanakuSamUlAnAM dakziRata uttAnANguliniDAnam . 22 ku-
+061977:0: vcp: SamUlAnAM dakziRato jalAvaninayanaviDAnam . 23 sruN-
+061978:0: vcp: niDAnAnantaraM jalopasparSanam . 24 AhitAgnikartfkAnu-
+061979:0: vcp: mantraRaviDAnam . 25 samantrakamADIyamAnasamidanumantraRam .
+061980:2: vcp: 26 tA asyetyfcA pUrvAhutyanumantraRam . 27 samIpasTena
+061981:1: vcp: sakawAkzamIkzityAhutyanumantraRam . 28 yABiH kABiSca
+061982:2: vcp: tryavarABirAgneyIBirfgBiruttarAhutyanumantraRam . 29 pUrva-
+061983:1: vcp: sUtroktasya fcAM trayasya nirUpaRam 29 sU0 2 a0 3 ka0 .
+061984:1: vcp: 1 pUrRepUrRe saMvatsare'DikABirfgBiH sakfdanumantraRam .
+061985:1: vcp: 2 parvavihitayavAgvAdinA sAyamprAtarhomezu yajamAnasya svayaM [Page0851-a+ 38]
+061986:0: vcp: kartftvam . 3 pUrRasaMvasatsaretarakAle yena kenApi
+061987:0: vcp: ftvijAgnihotrahomaH . 4 putraSizyayoranyatareRAnte-
+061988:1: vcp: vAsinA homastadgataviSezaSca . 5 homakarttuH srugga-
+061989:0: vcp: taSezaBakzaRaprakAraH . 6 aparartvijohomapUrvakaM sruggataSeza-
+061990:2: vcp: BakzaRam . 7 praTamottaraBakzaRadvaye mantraBedO . 8 sami-
+061991:0: vcp: dADAnapUrvako gArhapatye homaviDiH . 9 uttarAhute-
+061992:0: vcp: rnityatvoktiH . 10 samidADAnapUrvakaM dakziRAgniho-
+061993:1: vcp: maprakAraH . 11 uttarAhuteH pUrvavat nityatyoktiH .
+061994:2: vcp: 12 uktaSezaBakzaRAnantaraM srucA'pAM ninayanam . 13 sruk-
+061995:0: vcp: prakzAlanAnantaraM prAgudIcyoH caturRAM pUrRAnAM srucAM
+061996:0: vcp: ninayanIyatvam . 14 kuSadeSe paYcamI sruk gArhapatyasya
+061997:0: vcp: paScAt zazWItyuktiH . 15 AhavanIye pratApitAyAH sruco-
+061998:0: vcp: 'ntarvedideSe niDAnam . 16 paricArakarUpAya parika-
+061999:0: vcp: rmmiRe vA tAdfSyAH srucodAnam . 17 udaNmuKena
+062000:0: vcp: samittrayasyADAnaM paryyukzaRAdikaraRaYca . 18 tisfRAM samiDAM

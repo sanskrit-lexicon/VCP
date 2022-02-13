@@ -1,500 +1,500 @@
-073001:1: vcp: <>purIzAharaRam” 10 sU0 . pratidiSaM purIzamAhftyAhftya
-073002:0: vcp: <>tenEva cayanam” ka0 . “vizRukramAn kramate vizRo- [Page0996-a+ 38]
-073003:1: vcp: <>riti” (12, 5 yaju0) “pratimantramagnyudgraBaRaM ca tasmiM-
-073004:4: vcp: <>stasmin” 11 sU0 . “tasmin kramaRe” ka0 . “akrama-
-073005:0: vcp: <>ScaturTe” 12 sU0 . “udgrahaRaM tu Bavatyeva” ka0 . diSo
-073006:0: vcp: <>vIkzate diSo'nuvikramasveti (12, 5) 13 sU0 “pratidiSaM
-073007:1: vcp: <>mantraH” ka0 . “piRqavatprAgudaYcaM pragfhRAtyakrandadagni-
-073008:0: vcp: <>riti” (12, 6) 14 sU0 . piRqavadityUrDvabAhuH
-073009:5: vcp: <>(3, 8) ka0 . “avarohatyagne'ByAvartinniti” (12, 7)
-073010:2: vcp: <>15 sU0 “pratyavarohatyagnim yAvatkftya UrDvo'varohatIti”
-073011:4: vcp: <>(6, 7, 3, 6) “SrutestadvatpratyavarohaRam” karkaH . “upari-
-073012:1: vcp: <>nABi DArayannA tvAhArzamityaBimantrayate” (12, 11) 16 sU0 .
-073013:5: vcp: <>“agnis” ka0 . “pASA unmucyoduttamamiti” (12, 12)
-073014:5: vcp: <>“piRqavatprAgdakziRA pragfhRAtyagre vfhanniti” (12, 13)
-073015:6: vcp: <>17 sU0 . “avaharati haMsaH Sucizaditi” (12, 14) .
-073016:7: vcp: <>18 sU0 . “AsandyAM karoti vfhaditi” (12, 14)
-073017:4: vcp: <>19 sU0 . “upatizWate sIda tvamiti” (12, 15) 20 sU0 .
-073018:6: vcp: <>“vAtsapreRa ca divasparItyekAdaSaBiH” (12, 18, 28)
-073019:8: vcp: <>21 sU0 . “upatizWate” ka0 . “anuvAkenEke” (12, 18, 29)
-073020:3: vcp: <>22 sU0 . “upatizWante” ka0 . “atra dIkzito'yamiti”
-073021:6: vcp: <>23 sU0 . “asminnavasare dIkzito'yamityAha (7, 4, 11)
-073022:2: vcp: <>“daRqAtte hyuKADiSrapaRAdyuktam ataH prAkftAnuvfttyarTa-
-073023:1: vcp: <>midamucyate” ka0 . “AvfttirataH saMvatsaram” 24 sU0 .
-073024:1: vcp: <>“ata UrDvaM yaducyate tat saMvatsaraM yAvadAvartate” ka0 .
-073025:0: vcp: <>“ata UrDvaM yatkarmocyate BasmodvapanAdi tasya saMvatsaraM
-073026:0: vcp: <>yAvadAvfttirBavati” saMgra0 . 5 kaRqikA
+073001:1: vcp: purIzAharaRam” 10 sU0 . pratidiSaM purIzamAhftyAhftya
+073002:0: vcp: tenEva cayanam” ka0 . “vizRukramAn kramate vizRo- [Page0996-a+ 38]
+073003:1: vcp: riti” (12, 5 yaju0) “pratimantramagnyudgraBaRaM ca tasmiM-
+073004:4: vcp: stasmin” 11 sU0 . “tasmin kramaRe” ka0 . “akrama-
+073005:0: vcp: ScaturTe” 12 sU0 . “udgrahaRaM tu Bavatyeva” ka0 . diSo
+073006:0: vcp: vIkzate diSo'nuvikramasveti (12, 5) 13 sU0 “pratidiSaM
+073007:1: vcp: mantraH” ka0 . “piRqavatprAgudaYcaM pragfhRAtyakrandadagni-
+073008:0: vcp: riti” (12, 6) 14 sU0 . piRqavadityUrDvabAhuH
+073009:5: vcp: (3, 8) ka0 . “avarohatyagne'ByAvartinniti” (12, 7)
+073010:2: vcp: 15 sU0 “pratyavarohatyagnim yAvatkftya UrDvo'varohatIti”
+073011:4: vcp: (6, 7, 3, 6) “SrutestadvatpratyavarohaRam” karkaH . “upari-
+073012:1: vcp: nABi DArayannA tvAhArzamityaBimantrayate” (12, 11) 16 sU0 .
+073013:5: vcp: “agnis” ka0 . “pASA unmucyoduttamamiti” (12, 12)
+073014:5: vcp: “piRqavatprAgdakziRA pragfhRAtyagre vfhanniti” (12, 13)
+073015:6: vcp: 17 sU0 . “avaharati haMsaH Sucizaditi” (12, 14) .
+073016:7: vcp: 18 sU0 . “AsandyAM karoti vfhaditi” (12, 14)
+073017:4: vcp: 19 sU0 . “upatizWate sIda tvamiti” (12, 15) 20 sU0 .
+073018:6: vcp: “vAtsapreRa ca divasparItyekAdaSaBiH” (12, 18, 28)
+073019:8: vcp: 21 sU0 . “upatizWate” ka0 . “anuvAkenEke” (12, 18, 29)
+073020:3: vcp: 22 sU0 . “upatizWante” ka0 . “atra dIkzito'yamiti”
+073021:6: vcp: 23 sU0 . “asminnavasare dIkzito'yamityAha (7, 4, 11)
+073022:2: vcp: “daRqAtte hyuKADiSrapaRAdyuktam ataH prAkftAnuvfttyarTa-
+073023:1: vcp: midamucyate” ka0 . “AvfttirataH saMvatsaram” 24 sU0 .
+073024:1: vcp: “ata UrDvaM yaducyate tat saMvatsaraM yAvadAvartate” ka0 .
+073025:0: vcp: “ata UrDvaM yatkarmocyate BasmodvapanAdi tasya saMvatsaraM
+073026:0: vcp: yAvadAvfttirBavati” saMgra0 . 5 kaRqikA
 073027:0: vcp: <P>“uKAyA Basmodvapanamastamite pAtre” 1 sU0 . “tacca
-073028:0: vcp: <>prAgvAgvisargAt” “Basmodupya vAcaM visfjata” iti SruteH
-073029:7: vcp: <>(6, 7, 4, 14) ka0 . “BasmodvapanaM BasmodDaraRam” saMgra0 .
-073030:1: vcp: <>“vAcaM visfjya samidADAnaM rAtrIM rAtrImaprayAvamiti”
-073031:8: vcp: <>(11, 75) 2 sU0 . “evamudite BasmodvapanAdi” 3 sU0 .
-073032:1: vcp: <>“kartavyam ayaM tu viSezaH” ka0 . “aharaharityADAnam”
-073033:7: vcp: <>(11, 35) 4 sU0 . “vizRukramavAtsapre cAharvyatyAsamudite
-073034:1: vcp: <>saBiDamADAya” 5 sU0 . “aharvyatyAsena kartavye” ka0
-073035:0: vcp: <>“asmindine vizRukramAH uttarasminvAtsapram evaM yAva-
-073036:2: vcp: <>ddIkzaM kartavyam” saMgra0 . “rukmapratimocanAdi prAgvAtsa-
-073037:0: vcp: <>prAdvizRukramAH” 6 sU0 . “tayorviBAgamAha . sAgnike
-073038:0: vcp: <>kratO saMvatsaraM dIkzA AmnAtAH saMvatsaramityupakramya
-073039:3: vcp: <>cinvIteti (10, 2, 6, 9) pavitre ttatasro dIkzA AmnAtAH
-073040:1: vcp: <>pavitraScaturdIkza iti (15, 1, 4) tatrAgnO sati cintya- [Page0996-b+ 38]
-073041:0: vcp: <>te kimagninimittA dIkzA Bavantu uta sOmikya iti
-073042:0: vcp: <>uBayaM cEtaccaritArTam pavitrAdbahirAgnikyaScaritArTAH
-073043:0: vcp: <>anagnike ca pavitre sOmikya iti tena sAgnimati pa-
-073044:0: vcp: <>vitraM kaTaM Bavatviti niyamakAraRABAvAdaniyame prApta
-073045:1: vcp: <>Aha” ka0 “somAviroDena vA tatpraDAnyAt” 7 sU0 .
-073046:1: vcp: <>“somasya praDAnaBUtatvAt tadIyA eva dIkzA Bavanti” ka0
-073047:1: vcp: <>“somayAgenAviroDaH somAviroGaH tenAviroDenEva dIkzA
-073048:0: vcp: <>Bavati vAvaGAraRe kutaH tatpraDAnyAt somasya prADAnyAt
-073049:0: vcp: <>agneSca tadaNgatvAt tena dvAdaSAhe vAjapeye dvAdaSa sapta-
-073050:1: vcp: <>daSa vA Bavanti nAgniprayuktasaMvatsaradIkzAH” saMgra0 .
-073051:5: vcp: <>“nyajya samiDaM vrate pratte--pratte'nnapataityADAnam . (11, 83)
-073052:1: vcp: <>8 sU0 “uKye'gnO yajamAnaH karoti” saMgra0 . “saMva-
-073053:1: vcp: <>tsaraBftino'saMvatsaraBfte'pi” 9 sU0 . pUrvaM kasmiM-
-073054:0: vcp: <>ScidyajYe sAgnike yenEkavAraM saMvatsaramuKyo'gnirBfto Bavati
-073055:1: vcp: <>sa saMvatsaraBftI tasyAsaMBfte'pyuKye'gnO cayanaM Bavati
-073056:6: vcp: <>(9, 5, 1, 65) saMgra0 “saMvatsaraM sozyataH” 10 sU0 .
-073057:2: vcp: <>“saMvatsaramaBizavaM karizyataH asaMvatsaraBfte'pi carTanaM
-073058:1: vcp: <>Bavati (9, 5, 1 66) ka0 . “saMvatsarAhitAgneH” 11 sU0 .
-073059:1: vcp: <>“asaMvatsaraBfte'pi cayanamizyate” (9, 6, 1, 67) ka0 .
-073060:0: vcp: <>“jAtasya ca” 12 sU0 . “saMvatsare jAtasya ca asaMvat-
-073061:1: vcp: <>saraBfte'pi cayanaM Bavati” (9, 5, 1, 68) ka0 .
-073062:1: vcp: <>“garBADAnadinAdAraBya saMvatsare pUrRe'tote vA yo jAta-
-073063:1: vcp: <>stasya Bavati” saMgra0 . “zARmAsyamantyam” 13 sU0 .
-073064:0: vcp: <>“antyaM jaGanyamidaM pakzAntaram zaRmAsAnuKyaBaraRaM kftvA-
-073065:0: vcp: <>gniScIyata iti (9, 5, 1, 63) ka0 . “zARmAsyaM zaRmAsA-
-073066:2: vcp: <>nuKyamagniM BftvA cayanaM Bavati” saMgra0 . “acayanaM
-073067:0: vcp: <>vA parasmE” 14 sU0 . cayanaM veti vikalpaH evaM hi
-073068:0: vcp: <>SrUyate (9, 5, 2, 12) trayo ha vE” ityupakramya parasmE
-073069:0: vcp: <>karotIti nindArTavAdaH pratizeDArTaH tasmAdapyevaMvit kAmaM
-073070:0: vcp: <>parasmA agniM cinuyAditi 9, 5, 2, 3, pratiprasavaH ataH
-073071:0: vcp: <>pratizeDapratiprasavAByAMvikalpaH” saMgra0 . “prAganaH kftvo-
-073072:6: vcp: <>KyasyottarataH samidADAnaM samiDAgnimiti (12, 60) 15
-073073:0: vcp: <>sU0 . “uKyapurataH prANmuKamanaH kftvoKyaeva samidADA-
-073074:1: vcp: <>nam” ka0 . “sAsandIkamudyamyodutveti (12, 61) dakziRa-
-073075:1: vcp: <>to'nasi karoti” 16 sU0 . “sAsandIkamuKyamudu tvetyut-
-073076:0: vcp: <>kzipyAnaso dakziRato'vasTito'nasi karoti” karkaH .
-073077:0: vcp: <>“sTAlyAM gArhapatyaM paScAt” 17 sU0 . “anasi karoti
-073078:0: vcp: <>dakziRAgniM ca vitftIye karoti” ka0 . “anaqvAhO yuktvA [Page0997-a+ 38]
-073079:1: vcp: <>predagna iti (19, 39) prAN yAtvA yaTArTam” 18 sU0 .
-073080:1: vcp: <>“gacCet” ka0 . “Arohet pArSvato gacCet” 19 sU0 .
-073081:2: vcp: <>“yajamAnaH saMskArAt” ka0 . “akzeKarjatyakrandadagniriti
-073082:4: vcp: <>(11, 33) japati” 20 sU0 . “KarjanaM ca Sabdakara-
-073083:0: vcp: <>Ram” ka0 . “vAse'vaharatyudDatAvokzitauttarataH sa-
-073084:0: vcp: <>midADAnaM pra--prAyamiti (12, 34) 21 sU0 . “yatra vAsa-
-073085:5: vcp: <>statrEvAvaharaRam na prAgvasateH evaM hyAha (6, 8, 1, 12)
-073086:0: vcp: <>sa yadi purAvasatyE vimuYcetAnasyevAgniH syAditi” vasatyAM
-073087:0: vcp: <>tu uttarato'gnInavatArya samidADAnaM “pra--prAyamiti” .
-073088:1: vcp: <>udDatAvokzitagrahaRaM ca parisamUhanAdyupasaMgrahArTamapi
-073089:1: vcp: <>smArtaM hyetadanUdyate (6, 4, 4, 18) udvate vA'avokzite-
-073090:0: vcp: <>'gnimAdaDAtIti” evaM ca sati tadapacAre smArtaM prAya-
-073091:0: vcp: <>Scittam” ka0 . “vAsArTe raTe uttarasyAM diSi agnimava-
-073092:0: vcp: <>tArayati” saMgra0 . “vanIvAhanametaddIkzAsu yadecCet”
-073093:2: vcp: <>22 sU0 . “vanIvAhanamiti” saMjYAsya karmaRaH sA ca saM-
-073094:1: vcp: <>vyavahArArTA “UrdDvaM vanIvAhanAditi” (25 sU0)
-073095:0: vcp: <>tacca dIkzAsu kartavyam . yadecCopajAyate mahAvIrakaraRa-
-073096:1: vcp: <>yUpacCedanavanIvAhanAni dIkzAsu kriyante kramastu nEzAm
-073097:1: vcp: <>pAWABAvAt” ka0 “apsUKyaBasmAvapanaM krayaRIyAdO”
-073098:2: vcp: <>23 sU0 . uKyaBasmAvapanamapsu kartavyam AdO krayaRIya-
-073099:1: vcp: <>syAhnaH” ka0 . “anyatra cecCan” 24 sU0 . “karoti” ka0 .
-073100:0: vcp: <>“UrDvaM vanIvAhanAt kramayogAt” 25 sU0 . anyatre-
-073101:0: vcp: <>cCayAkurvan vanIvAhanAdUrDvaM karoti mantrARAM pAWakrama-
-073102:0: vcp: <>yogAt” ka0 . “vanIvAhanAdUrDvaM somakrayadine AdO
-073103:0: vcp: <>anyatra dIkzA BasmAvapanam . kutaH kramayogAt
-073104:1: vcp: <>pUrvaM vanIvAhanamantrAH paScAdBasmApo'ByaharaRasya” saMgra0
-073105:1: vcp: <>“palASapuwenApo devIrityekayA (12, 35) 26 sU0 .
-073106:0: vcp: <>“palASapuwena Basma gfhItvApsvAvapati” ka0 . “tatodvAByA-
-073107:0: vcp: <>m” (12, 36--37) 27 sU0 . “punaScAvapati dvAByA-
-073108:3: vcp: <>mfgByAm” ka0 . “AdyAByAM (12, 65--36) vA pUrvam”
-073109:2: vcp: <>28 sU0 . “pUrvamAvapanaM dvAByAmfgByAm tata ekayarcA”
-073110:1: vcp: <>vASabdo vikalpArTaH tuMlyaSrutitvAt” ka0 . “anAmikayA
-073111:0: vcp: <>prAstAdAdatte prasadyeti (12, 38--41) 29 sU0 . “prAstA-
-073112:2: vcp: <>dBaMsmanaH kiyadapyanABikayAdatte” (6, 8, 2, 7) . “prAsyo-
-073113:1: vcp: <>KAmupatizWate boDA maiti” (12, 42) 30 sU0 . “yatta-
-073114:1: vcp: <>dAttaM Basma tatprAsya” ka0 . “prAyaScittiM samiDopa-
-073115:0: vcp: <>hatya” 31 sU0 . 6 kaRqikA .
-073116:3: vcp: <>“AjyaM viSvakarBaKaiti (12, 43) juhoti” 1 sU0 . [Page0997-b+ 38]
-073117:1: vcp: <>“prAyaScittirityasya homasya saMjYA upapUrvaSca hantirgraha-
-073118:6: vcp: <>RArTo dfzwo'nyatrApi “aTastrucopahatyAjyamiti (3, 4,
-073119:7: vcp: <>1, 25)” ka0 . “samiDA karaRaBUtayA sruksTAnIyaRA
-073120:0: vcp: <>upahatya gfhItvA” saMgra0 . “utTAya daDAti samiDaM
-073121:0: vcp: <>punastveti (12, 44) 2 sU0 . utTAnagrahaRaM ca prati-
-073122:0: vcp: <>pattitvAt guRArTaM ceti . nEmittikAnyatrEva prakaraRe paWyante
-073123:1: vcp: <>tadarTamAha” ka0 “gArhapratye'nugate nirmaTya” 3 sU0 .
-073124:0: vcp: <>“AdaDAti manTanaM prAptatvAdavAcyam ucyate prAyaScittA-
-073125:1: vcp: <>rTam” . “prAjahite upaSAnte maTitvA prAyaScittI karoti”
-073126:1: vcp: <>saMgra0 . “sutyAvAhanIye sAMkASinena hftvAH”
-073127:1: vcp: <>4 sU0 . “sutyAsu vartamAnAsu AhavanIye'nugate sAMkASinena
-073128:0: vcp: <>hftvA tamAdaDAti” sAMkASinaSabdaH praguRameva hftvetyarTakaH
-073129:0: vcp: <>etaccocyate pUrvavatpraRayanaM mA BUditi” ka0 . “AhavanIye
-073130:0: vcp: <>'tipraRIte'nugate sAMkASinena hftvA fjunA sadohavi-
-073131:0: vcp: <>rDAnamaDyamArgeREva hftvA” saMgra0 . “AgnIDrIyamuttareRa
-073132:1: vcp: <>sadaH” 5 sU0 . “hftvA nidaDAti uttareRa sado hftve-
-073133:0: vcp: <>tIDmavyudAsArTaH” ka0 . AgniDrIyamagnimanugataM sadasa
-073134:1: vcp: <>uttareREva hftvA” saMgra0 . “pravfYjyAdAvftoKye” 6 sU0 .
-073135:0: vcp: <>“uKye cAnugate pUrvavatpravfYjyAt ayaM tu viSezaH AvftA
-073136:1: vcp: <>AvfdgrahaRaM ca mantranivfttyarTam . “etayEvAvftAnupaharan
-073137:0: vcp: <>yajuriti (6, 6, 4, 9) SruteH” ka0 . “uKye'gnAvanugate
-073138:0: vcp: <>gArhapatyAdAhavanIyamanvagnirityAhftya (11, 17) samitamityu-
-073139:3: vcp: <>pasTAya (12, 57) AvftA mantrarahitakiyAmAtreRa pUrva-
-073140:1: vcp: <>vaduKAM pravfYjyAt uKAmAhavanIye'DiSrityoKyamagni-
-073141:1: vcp: <>mutpAdayet” saMgra0 . “aDvaraprAyaScittaM ca sarvezu
-073142:1: vcp: <>yaTAkAlaM pUrvAM--pUrvAm” 7 sU0 . “aDvaraprAyaScittiM ca
-073143:0: vcp: <>karoti sarvezu nimittezu tAM ca pUrvAm pUrvAM caSabdA-
-073144:0: vcp: <>dAgnikIM ca . sarvagrahaRaM ca BasmApo'ByavaharaRArTam .
-073145:2: vcp: <>(2 3) tatrApi hi viDIyete (6, 8, 2, 11) uBe prAya-
-073146:0: vcp: <>ScittI “karotiye evAgnAvanugate iti” yaTAkAlamiti
-073147:1: vcp: <>cADvaraprAyaScittyarTamucyate AgnikI tu viSvakamaRa-
-073148:0: vcp: <>ityeva” ka0 “sarvezu pUrvoktezvagnyanugamezu yaTAkAlaM
-073149:3: vcp: <>paramezWyAdikAlAhutiM (26, 6, 1) pUvAM pUrvAM juhuyAt
-073150:2: vcp: <>ScAdagniprAyaScittim cakArAt” saMgra0 “uKABedane nava-
-073151:1: vcp: <>sTAlyAM mahAmuKyAmuKAkapAlamavaDAyAvapati” 8 sU0 .
-073152:2: vcp: <>yadyezoKABidyeteti” (6, 6, 4, 8) prakftya sarvamidamAmnA-
-073153:0: vcp: <>tam etaccekoKApakze Bavati . tritvapakze tu dvayorevEkasyA-
-073154:1: vcp: <>mAvapanam” (6, 5, 2, 22) ka0 . “uKopaSaye pizwvA mfdA sa- [Page0998-a+ 38]
-073155:1: vcp: <>hoKAM karotyAvftA” 9 sU0 . “uKAKaRqamekamuKAyAM
-073156:2: vcp: <>prakziptam dvitIyamupaSayayA saha--pizwvA, AvftA mantramarjam,
-073157:2: vcp: <>AvfcCabdena kriyAmAtramucyate taTA coktam (6, 6, 4,
-073158:2: vcp: <>2) etayEvAvftAnupaharan yajuriti” ka0 . “AvftA
-073159:1: vcp: <>mantrarahitetikarttavyatayA” saMgra0 . “pakvAyAmAvapati kapAlaM
-073160:1: vcp: <>ca 10 sU0 . “pakvAyAmuKAyAm agniM kapAlaM ca” ka0 .
-073161:0: vcp: <>“uKopaSaye pizwvA saMsfjya nidaDAti” 11 sU0 . “uKA-
-073162:1: vcp: <>kapAlamupaSayAM ca pizwvA saMsfjya sTApayati” ka0 .
+073028:0: vcp: prAgvAgvisargAt” “Basmodupya vAcaM visfjata” iti SruteH
+073029:7: vcp: (6, 7, 4, 14) ka0 . “BasmodvapanaM BasmodDaraRam” saMgra0 .
+073030:1: vcp: “vAcaM visfjya samidADAnaM rAtrIM rAtrImaprayAvamiti”
+073031:8: vcp: (11, 75) 2 sU0 . “evamudite BasmodvapanAdi” 3 sU0 .
+073032:1: vcp: “kartavyam ayaM tu viSezaH” ka0 . “aharaharityADAnam”
+073033:7: vcp: (11, 35) 4 sU0 . “vizRukramavAtsapre cAharvyatyAsamudite
+073034:1: vcp: saBiDamADAya” 5 sU0 . “aharvyatyAsena kartavye” ka0
+073035:0: vcp: “asmindine vizRukramAH uttarasminvAtsapram evaM yAva-
+073036:2: vcp: ddIkzaM kartavyam” saMgra0 . “rukmapratimocanAdi prAgvAtsa-
+073037:0: vcp: prAdvizRukramAH” 6 sU0 . “tayorviBAgamAha . sAgnike
+073038:0: vcp: kratO saMvatsaraM dIkzA AmnAtAH saMvatsaramityupakramya
+073039:3: vcp: cinvIteti (10, 2, 6, 9) pavitre ttatasro dIkzA AmnAtAH
+073040:1: vcp: pavitraScaturdIkza iti (15, 1, 4) tatrAgnO sati cintya- [Page0996-b+ 38]
+073041:0: vcp: te kimagninimittA dIkzA Bavantu uta sOmikya iti
+073042:0: vcp: uBayaM cEtaccaritArTam pavitrAdbahirAgnikyaScaritArTAH
+073043:0: vcp: anagnike ca pavitre sOmikya iti tena sAgnimati pa-
+073044:0: vcp: vitraM kaTaM Bavatviti niyamakAraRABAvAdaniyame prApta
+073045:1: vcp: Aha” ka0 “somAviroDena vA tatpraDAnyAt” 7 sU0 .
+073046:1: vcp: “somasya praDAnaBUtatvAt tadIyA eva dIkzA Bavanti” ka0
+073047:1: vcp: “somayAgenAviroDaH somAviroGaH tenAviroDenEva dIkzA
+073048:0: vcp: Bavati vAvaGAraRe kutaH tatpraDAnyAt somasya prADAnyAt
+073049:0: vcp: agneSca tadaNgatvAt tena dvAdaSAhe vAjapeye dvAdaSa sapta-
+073050:1: vcp: daSa vA Bavanti nAgniprayuktasaMvatsaradIkzAH” saMgra0 .
+073051:5: vcp: “nyajya samiDaM vrate pratte--pratte'nnapataityADAnam . (11, 83)
+073052:1: vcp: 8 sU0 “uKye'gnO yajamAnaH karoti” saMgra0 . “saMva-
+073053:1: vcp: tsaraBftino'saMvatsaraBfte'pi” 9 sU0 . pUrvaM kasmiM-
+073054:0: vcp: ScidyajYe sAgnike yenEkavAraM saMvatsaramuKyo'gnirBfto Bavati
+073055:1: vcp: sa saMvatsaraBftI tasyAsaMBfte'pyuKye'gnO cayanaM Bavati
+073056:6: vcp: (9, 5, 1, 65) saMgra0 “saMvatsaraM sozyataH” 10 sU0 .
+073057:2: vcp: “saMvatsaramaBizavaM karizyataH asaMvatsaraBfte'pi carTanaM
+073058:1: vcp: Bavati (9, 5, 1 66) ka0 . “saMvatsarAhitAgneH” 11 sU0 .
+073059:1: vcp: “asaMvatsaraBfte'pi cayanamizyate” (9, 6, 1, 67) ka0 .
+073060:0: vcp: “jAtasya ca” 12 sU0 . “saMvatsare jAtasya ca asaMvat-
+073061:1: vcp: saraBfte'pi cayanaM Bavati” (9, 5, 1, 68) ka0 .
+073062:1: vcp: “garBADAnadinAdAraBya saMvatsare pUrRe'tote vA yo jAta-
+073063:1: vcp: stasya Bavati” saMgra0 . “zARmAsyamantyam” 13 sU0 .
+073064:0: vcp: “antyaM jaGanyamidaM pakzAntaram zaRmAsAnuKyaBaraRaM kftvA-
+073065:0: vcp: gniScIyata iti (9, 5, 1, 63) ka0 . “zARmAsyaM zaRmAsA-
+073066:2: vcp: nuKyamagniM BftvA cayanaM Bavati” saMgra0 . “acayanaM
+073067:0: vcp: vA parasmE” 14 sU0 . cayanaM veti vikalpaH evaM hi
+073068:0: vcp: SrUyate (9, 5, 2, 12) trayo ha vE” ityupakramya parasmE
+073069:0: vcp: karotIti nindArTavAdaH pratizeDArTaH tasmAdapyevaMvit kAmaM
+073070:0: vcp: parasmA agniM cinuyAditi 9, 5, 2, 3, pratiprasavaH ataH
+073071:0: vcp: pratizeDapratiprasavAByAMvikalpaH” saMgra0 . “prAganaH kftvo-
+073072:6: vcp: KyasyottarataH samidADAnaM samiDAgnimiti (12, 60) 15
+073073:0: vcp: sU0 . “uKyapurataH prANmuKamanaH kftvoKyaeva samidADA-
+073074:1: vcp: nam” ka0 . “sAsandIkamudyamyodutveti (12, 61) dakziRa-
+073075:1: vcp: to'nasi karoti” 16 sU0 . “sAsandIkamuKyamudu tvetyut-
+073076:0: vcp: kzipyAnaso dakziRato'vasTito'nasi karoti” karkaH .
+073077:0: vcp: “sTAlyAM gArhapatyaM paScAt” 17 sU0 . “anasi karoti
+073078:0: vcp: dakziRAgniM ca vitftIye karoti” ka0 . “anaqvAhO yuktvA [Page0997-a+ 38]
+073079:1: vcp: predagna iti (19, 39) prAN yAtvA yaTArTam” 18 sU0 .
+073080:1: vcp: “gacCet” ka0 . “Arohet pArSvato gacCet” 19 sU0 .
+073081:2: vcp: “yajamAnaH saMskArAt” ka0 . “akzeKarjatyakrandadagniriti
+073082:4: vcp: (11, 33) japati” 20 sU0 . “KarjanaM ca Sabdakara-
+073083:0: vcp: Ram” ka0 . “vAse'vaharatyudDatAvokzitauttarataH sa-
+073084:0: vcp: midADAnaM pra--prAyamiti (12, 34) 21 sU0 . “yatra vAsa-
+073085:5: vcp: statrEvAvaharaRam na prAgvasateH evaM hyAha (6, 8, 1, 12)
+073086:0: vcp: sa yadi purAvasatyE vimuYcetAnasyevAgniH syAditi” vasatyAM
+073087:0: vcp: tu uttarato'gnInavatArya samidADAnaM “pra--prAyamiti” .
+073088:1: vcp: udDatAvokzitagrahaRaM ca parisamUhanAdyupasaMgrahArTamapi
+073089:1: vcp: smArtaM hyetadanUdyate (6, 4, 4, 18) udvate vA'avokzite-
+073090:0: vcp: 'gnimAdaDAtIti” evaM ca sati tadapacAre smArtaM prAya-
+073091:0: vcp: Scittam” ka0 . “vAsArTe raTe uttarasyAM diSi agnimava-
+073092:0: vcp: tArayati” saMgra0 . “vanIvAhanametaddIkzAsu yadecCet”
+073093:2: vcp: 22 sU0 . “vanIvAhanamiti” saMjYAsya karmaRaH sA ca saM-
+073094:1: vcp: vyavahArArTA “UrdDvaM vanIvAhanAditi” (25 sU0)
+073095:0: vcp: tacca dIkzAsu kartavyam . yadecCopajAyate mahAvIrakaraRa-
+073096:1: vcp: yUpacCedanavanIvAhanAni dIkzAsu kriyante kramastu nEzAm
+073097:1: vcp: pAWABAvAt” ka0 “apsUKyaBasmAvapanaM krayaRIyAdO”
+073098:2: vcp: 23 sU0 . uKyaBasmAvapanamapsu kartavyam AdO krayaRIya-
+073099:1: vcp: syAhnaH” ka0 . “anyatra cecCan” 24 sU0 . “karoti” ka0 .
+073100:0: vcp: “UrDvaM vanIvAhanAt kramayogAt” 25 sU0 . anyatre-
+073101:0: vcp: cCayAkurvan vanIvAhanAdUrDvaM karoti mantrARAM pAWakrama-
+073102:0: vcp: yogAt” ka0 . “vanIvAhanAdUrDvaM somakrayadine AdO
+073103:0: vcp: anyatra dIkzA BasmAvapanam . kutaH kramayogAt
+073104:1: vcp: pUrvaM vanIvAhanamantrAH paScAdBasmApo'ByaharaRasya” saMgra0
+073105:1: vcp: “palASapuwenApo devIrityekayA (12, 35) 26 sU0 .
+073106:0: vcp: “palASapuwena Basma gfhItvApsvAvapati” ka0 . “tatodvAByA-
+073107:0: vcp: m” (12, 36--37) 27 sU0 . “punaScAvapati dvAByA-
+073108:3: vcp: mfgByAm” ka0 . “AdyAByAM (12, 65--36) vA pUrvam”
+073109:2: vcp: 28 sU0 . “pUrvamAvapanaM dvAByAmfgByAm tata ekayarcA”
+073110:1: vcp: vASabdo vikalpArTaH tuMlyaSrutitvAt” ka0 . “anAmikayA
+073111:0: vcp: prAstAdAdatte prasadyeti (12, 38--41) 29 sU0 . “prAstA-
+073112:2: vcp: dBaMsmanaH kiyadapyanABikayAdatte” (6, 8, 2, 7) . “prAsyo-
+073113:1: vcp: KAmupatizWate boDA maiti” (12, 42) 30 sU0 . “yatta-
+073114:1: vcp: dAttaM Basma tatprAsya” ka0 . “prAyaScittiM samiDopa-
+073115:0: vcp: hatya” 31 sU0 . 6 kaRqikA .
+073116:3: vcp: “AjyaM viSvakarBaKaiti (12, 43) juhoti” 1 sU0 . [Page0997-b+ 38]
+073117:1: vcp: “prAyaScittirityasya homasya saMjYA upapUrvaSca hantirgraha-
+073118:6: vcp: RArTo dfzwo'nyatrApi “aTastrucopahatyAjyamiti (3, 4,
+073119:7: vcp: 1, 25)” ka0 . “samiDA karaRaBUtayA sruksTAnIyaRA
+073120:0: vcp: upahatya gfhItvA” saMgra0 . “utTAya daDAti samiDaM
+073121:0: vcp: punastveti (12, 44) 2 sU0 . utTAnagrahaRaM ca prati-
+073122:0: vcp: pattitvAt guRArTaM ceti . nEmittikAnyatrEva prakaraRe paWyante
+073123:1: vcp: tadarTamAha” ka0 “gArhapratye'nugate nirmaTya” 3 sU0 .
+073124:0: vcp: “AdaDAti manTanaM prAptatvAdavAcyam ucyate prAyaScittA-
+073125:1: vcp: rTam” . “prAjahite upaSAnte maTitvA prAyaScittI karoti”
+073126:1: vcp: saMgra0 . “sutyAvAhanIye sAMkASinena hftvAH”
+073127:1: vcp: 4 sU0 . “sutyAsu vartamAnAsu AhavanIye'nugate sAMkASinena
+073128:0: vcp: hftvA tamAdaDAti” sAMkASinaSabdaH praguRameva hftvetyarTakaH
+073129:0: vcp: etaccocyate pUrvavatpraRayanaM mA BUditi” ka0 . “AhavanIye
+073130:0: vcp: 'tipraRIte'nugate sAMkASinena hftvA fjunA sadohavi-
+073131:0: vcp: rDAnamaDyamArgeREva hftvA” saMgra0 . “AgnIDrIyamuttareRa
+073132:1: vcp: sadaH” 5 sU0 . “hftvA nidaDAti uttareRa sado hftve-
+073133:0: vcp: tIDmavyudAsArTaH” ka0 . AgniDrIyamagnimanugataM sadasa
+073134:1: vcp: uttareREva hftvA” saMgra0 . “pravfYjyAdAvftoKye” 6 sU0 .
+073135:0: vcp: “uKye cAnugate pUrvavatpravfYjyAt ayaM tu viSezaH AvftA
+073136:1: vcp: AvfdgrahaRaM ca mantranivfttyarTam . “etayEvAvftAnupaharan
+073137:0: vcp: yajuriti (6, 6, 4, 9) SruteH” ka0 . “uKye'gnAvanugate
+073138:0: vcp: gArhapatyAdAhavanIyamanvagnirityAhftya (11, 17) samitamityu-
+073139:3: vcp: pasTAya (12, 57) AvftA mantrarahitakiyAmAtreRa pUrva-
+073140:1: vcp: vaduKAM pravfYjyAt uKAmAhavanIye'DiSrityoKyamagni-
+073141:1: vcp: mutpAdayet” saMgra0 . “aDvaraprAyaScittaM ca sarvezu
+073142:1: vcp: yaTAkAlaM pUrvAM--pUrvAm” 7 sU0 . “aDvaraprAyaScittiM ca
+073143:0: vcp: karoti sarvezu nimittezu tAM ca pUrvAm pUrvAM caSabdA-
+073144:0: vcp: dAgnikIM ca . sarvagrahaRaM ca BasmApo'ByavaharaRArTam .
+073145:2: vcp: (2 3) tatrApi hi viDIyete (6, 8, 2, 11) uBe prAya-
+073146:0: vcp: ScittI “karotiye evAgnAvanugate iti” yaTAkAlamiti
+073147:1: vcp: cADvaraprAyaScittyarTamucyate AgnikI tu viSvakamaRa-
+073148:0: vcp: ityeva” ka0 “sarvezu pUrvoktezvagnyanugamezu yaTAkAlaM
+073149:3: vcp: paramezWyAdikAlAhutiM (26, 6, 1) pUvAM pUrvAM juhuyAt
+073150:2: vcp: ScAdagniprAyaScittim cakArAt” saMgra0 “uKABedane nava-
+073151:1: vcp: sTAlyAM mahAmuKyAmuKAkapAlamavaDAyAvapati” 8 sU0 .
+073152:2: vcp: yadyezoKABidyeteti” (6, 6, 4, 8) prakftya sarvamidamAmnA-
+073153:0: vcp: tam etaccekoKApakze Bavati . tritvapakze tu dvayorevEkasyA-
+073154:1: vcp: mAvapanam” (6, 5, 2, 22) ka0 . “uKopaSaye pizwvA mfdA sa- [Page0998-a+ 38]
+073155:1: vcp: hoKAM karotyAvftA” 9 sU0 . “uKAKaRqamekamuKAyAM
+073156:2: vcp: prakziptam dvitIyamupaSayayA saha--pizwvA, AvftA mantramarjam,
+073157:2: vcp: AvfcCabdena kriyAmAtramucyate taTA coktam (6, 6, 4,
+073158:2: vcp: 2) etayEvAvftAnupaharan yajuriti” ka0 . “AvftA
+073159:1: vcp: mantrarahitetikarttavyatayA” saMgra0 . “pakvAyAmAvapati kapAlaM
+073160:1: vcp: ca 10 sU0 . “pakvAyAmuKAyAm agniM kapAlaM ca” ka0 .
+073161:0: vcp: “uKopaSaye pizwvA saMsfjya nidaDAti” 11 sU0 . “uKA-
+073162:1: vcp: kapAlamupaSayAM ca pizwvA saMsfjya sTApayati” ka0 .
 073163:0: vcp: <P>idAnIM cayanaprakAramAha . aByAtmaM cayanamupaviSya”
-073164:2: vcp: <>12 sU0 . “AtmanaABimuKyena cayanaM kartavyam na parA-
-073165:5: vcp: <>giti, taTA ca nErftIzu vacanAtparAkcayanamuktam (7,
-073166:5: vcp: <>2, 1, 13) . aparo viSezaH” “savyabAhumantaraM kftvottara-
-073167:1: vcp: <>lakzaRABirizwakABiH” 13 sU0” . “cetavyaH” ka0 . “nitye
-073168:0: vcp: <>sAdanasUdadohasAupaDAnAduttare tayA devatayA tA a-
-073169:0: vcp: <>syeti (12, 53, 55,) 14 sU0 . “sarvAsvizwakAsu ete
-073170:0: vcp: <>nitye BavataH tayA devatayeti sAdanam tA asyeti sUda-
-073171:1: vcp: <>dohasADivadanam” ka0 . “aviSezopadeSAt” 15 sU0 .
-073172:1: vcp: <>“aviSezeRa hyanAraBya kaYcidizwakAviSezamete SrUyete” ka0 .
-073173:0: vcp: <>“viSezamanupAdAya sAmAnyena tayorupadeSAt viDA-
-073174:0: vcp: <>nAt” saMgra0 . “anAmnAtapratizeDAcca” 16 sU0 . “yatra
-073175:1: vcp: <>nErftyAdizu nAmnAyete nitye saMhitAyAM na paWyete tatrA-
-073176:0: vcp: <>pi pratizeDaH SrUyate (7, 1, 1, 14) sAdanasUdadohasADi-
-073177:1: vcp: <>vadatIti” “ataH pratizeDAt sarvatrApyete BavataH” saMgra0 .
-073178:0: vcp: <>“ekanodanAsvekadeSAsu tantreRa” 17 sU0 . ekanodanA
-073179:0: vcp: <>apasyA vapasyA ityevamAdi, ekanodanA api yadyekadeSA
-073180:0: vcp: <>Bavanti, yaTA tAsAmeva deSaBedaH apasyAH paYcapaYcAnUkAnte-
-073181:0: vcp: <>zviti (17, 6, 2) ataSca pratyanUkaM nitye, deSaBede tvasati
-073182:0: vcp: <>tantreReti” ka0 . “ekanodanA ekaM viDivAkyaM yAsAM
-073183:0: vcp: <>tAH . eko deSa ekamupaDAnasTAnaM yAsAM tAH tatra
-073184:0: vcp: <>tantreRa nitye BavataH” saMgra0 . “Atmani yajuzmatIH”
-073185:3: vcp: <>18 sU0 . “izwakA upadaDAti na pakzapucCayoH” ka0
-073186:4: vcp: <>(8, 7, 2, 3) . lokampfRAsu daSasu daSasu mantro lokaM
-073187:1: vcp: <>pfReti (12, 54) . (9, 1, 212) 19 sU0 . “AsA-
-073188:0: vcp: <>danaM ca” 20 sU0 . lokaM pfRAnAm, sUdadohasAGivadanaM
-073189:0: vcp: <>tu Bavati apratizidDatvAt” ka0 . “praticiti dve--dve upa-
-073190:0: vcp: <>DAya” 21 sU0 . lokaM pfRAmantravacanam, punardaSasu--daSasu .
-073191:3: vcp: <>“praTamaM dve--dve upaDAya tatI daSa--daSopadaDyAt” saMgra0 .
-073192:0: vcp: <>“ayugmagaRamaDyamAnUke” 22 sU0 . ayugmo ya izwakAgaRo [Page0998-b+ 38]
-073193:4: vcp: <>yaTA vAlaKilyAH sapta tAsAM maDyamAnUke upaDeye” ka0 .
-073194:2: vcp: <>“tripaYcasaprAdigaRaH” saMgra0 . “ekA ca” 23 sU0 .
-073195:0: vcp: <>“yA cEkezwakA sApyanUka eva, yaTA viSvajyotirdviyaju-
-073196:0: vcp: <>ScetyevamAdi” ka0 . “aBitoyugmAH” 24 sU0 . “anUkamaBi-
-073197:0: vcp: <>to'rDArDikayA yugmA upaDIyante” ka0 . “udaYco vargAH
-073198:0: vcp: <>pUrvApare” 25 sU0 . “yatra pUrvAparaiti deSavyapadeSaH
-073199:1: vcp: <>tatrodaglakzaRA izwakAvargA upaDIyante” ka0 . “ti-
-073200:1: vcp: <>ryagamUkamaBito'kzRayAvaDike pUrvApare deSe izwakAnAM vargAH
-073201:0: vcp: <>samUhAH udaglakzaRA upaDeyAH” saMgra0 . “prAYco
-073202:0: vcp: <>dakziRottare” 26 sU0 . “yatra tu dakziRottaravyapadeSaH
-073203:0: vcp: <>tatra prAglakzaRA iti” ka0 . “prAganUkaBito'kzRAyA-
-073204:1: vcp: <>vaDike dakziRottare prAYcaH prAglakzaRAH upaDeyAH”
-073205:7: vcp: <>saMgra0 . “BinnakfzRayoracayanam” (8, 7, 2, 16) 27
-073206:1: vcp: <>sU0 . “dIkzARAmuttame'hani vedyagnimAnam” 28 sU0 .
-073207:0: vcp: <>“karttavyam” ka0 . “uKyasTAne'rDavyAmena gArhapatyasya pari-
-073208:0: vcp: <>liKati” 29 sU0 . “maRqalamiti SezaH” ka0 . “maRqa-
-073209:0: vcp: <>lAdvA prakramaRamantaHpAtyasya” 30 sU0 . “pUrvArDAdvyAmasya
-073210:6: vcp: <>trIn prAcaH prakramAn prakrAmatIti vacanAt (10, 2, 3, 1) .
-073211:0: vcp: <>“pUrvArDAdeva vyAmasya prakramaRam na stamBAdDi prakramaRamanagnO
-073212:2: vcp: <>caritArTama” ka0 . “vAvaDAraRa, maRqalAdevAntaHpAtyasya
-073213:0: vcp: <>kramaRam na pUrvArdDAt stamBAt” saMgra0 . “paScAdyUpAvawyA-
-073214:0: vcp: <>tpAdamAtre cityasya” 31 sU0 . yUpAvawe BavaH SaNkuryU-
-073215:0: vcp: <>pAnawyaH tasmAtpaScAt padyAlokamAtre cityasyAgnikzetrasya
-073216:0: vcp: <>sTAnaM Bavati” saMgra0 . “yajamAnenorDvabAhuprapadocCri-
-073217:6: vcp: <>tena samasTitena vA” 32 sU0 . (10, 2, 2, 6) .
-073218:0: vcp: <>“prapadocCritaH pAdAgre vyavasTitaH samasTitaH prasidDa
-073219:0: vcp: <>eva, tatkriyAyAnoditatvAtprakramaRavadaDvaryurmA BUditi
-073220:0: vcp: <>yajamAnagrahaRam” ka0 . 7 kaRqikA .
-073221:4: vcp: <>“dvipuruzAM rajjvuMmittvA” 1 sU0 . “dvipuruzAMrajjvuMBittveti
-073222:0: vcp: <>nigade vyAKyAtam” . “uBayataHpASAm” 2 sU0 . “maDye
-073223:0: vcp: <>lakzaRam” 3 sU0 . “aBito'rDapuruzayoSca” 4 sU0 . “maDya-
-073224:0: vcp: <>mAtlakzaRAt puruzapaYcame” saMgra0 “arDe ca” 6 sU0 . “puruza-
-073225:0: vcp: <>paYcamasyArDe” ka0 . “anupfzwyAmAyamya pASayoH SaNkU maDye
-073226:0: vcp: <>'rDapuruzayoSca” 7 sU0 . “pASAunmucyArDapuruzIyayoH
-073227:1: vcp: <>pratimucya dakziRAyAmya maDyame nitodaM karoti” 8 sU0 .
-073228:2: vcp: <>“gartam” saMgra0 “unmucya pASAvekaM maDyame pratimucya
-073229:0: vcp: <>dakziRADinitodamAyamya maDyame SaNkuH” 9 sU0 . “tasmin
-073230:0: vcp: <>pASaM pratimucya pUrvArDe ca dakziRAyamya maDyame SaNkuH” [Page0999-a+ 38]
-073231:2: vcp: <>10 sU0 . “paScAdarDapuruze ca” 11 sU0 . “unmucya
-073232:1: vcp: <>pUrvArdDAt paScArDe pratimucya dakziRAyamya maDyame SaNkuH”
-073233:2: vcp: <>12 sU0 . “aBito'rDapuruzayoSca” 13 sU0 . “eva-
-073234:0: vcp: <>muttaro'ntaH” 14 sU0 . “dakziRe pArSve pUrvavadATamya
-073235:0: vcp: <>paYcamaBAgIye SaNkuH” 15 sU0 . “tasmin pASaM pratimucya
-073236:0: vcp: <>pUrve cArDapuruzIye paYcamaBAgIyArDapuruzIyayoH sannipAtya
-073237:0: vcp: <>tasmiYCaNkuH” 16 sU0 . “evaM paScAt” 17 sU0 . “eva-
-073238:1: vcp: <>muttaraH pakzaH” 18 sU0 . “taTA pucCaM vitastyA” 19 sU0 .
-073239:0: vcp: <>icCan pakzapucCApyayezu caturaNgulaMcaturaNgulaM saMkarzati vikarza-
-073240:1: vcp: <>nyante” 20 sU0 . “yatra pakza AtmAnamapyeti sa pakzApyayaH evaM
-073241:0: vcp: <>pucCApyayaH . apyayezupakzayoH pucCasya ca AtmasambanDisamIpe
-073242:0: vcp: <>caturaNgulaM catvAri--catvAryaNgulAnyuBayoH pArSvayoH saNkarzati
-073243:0: vcp: <>saNkocayati, taTA ante pakzapucCaprAnte uBayoH pArSvayoH
-073244:0: vcp: <>caturaNgulaM vikarzati vistArayati” saMgra0 . “paYcAratniH-
-073245:0: vcp: <>puruzo daSapado dvAdaSANgulaM padaM prakramastripadaH sama-
-073246:0: vcp: <>viBaktasya” 21 sU0 . “paYcAratnayoH yasya saH paYcaBira-
-073247:1: vcp: <>ratniBiH puruzaH daSaBiH padEH puruzo dvAdaSaBiraNgulEH
-073248:1: vcp: <>padam ityevamarTo na Babati itaH prAgaratnyAdInAM lakza-
-073249:0: vcp: <>RasyAnuktatvenAsidDatvAt, ataScEvam puruzasya samaviBaktasya
-073250:0: vcp: <>yaH paYcamo BAgaH so'ratniH tasya daSamo BAgaH padam,
-073251:0: vcp: <>padasya dvAdaSo BAgo'Ngulam triBiH padErekaH prakramaH
-073252:0: vcp: <>iti tu Bavati padasya sidDatvAt” ka0 . “paritatya rajjvA
-073253:4: vcp: <>sahitaM bahIrajjvekazazwe Sate pariSrito minoti” 22
-073254:1: vcp: <>sU0 . “rajjvA paritatya sarvvatovezwayitvA rajvAbahirBAge
-073255:0: vcp: <>sahitaM rajjusaMlagnaM yaTA Bavati taTA ekazazwyaDike dve
-073256:0: vcp: <>Sate pariminoti” “ka0 “caturRavatAni vA trIRi”
-073257:5: vcp: <>23 sU0 . caturRRavatyaDikAni trIRi SatAni” ka0 .
-073258:0: vcp: <>“UrDvAH SarkarAH KAte” 24 sU0 . “uttarezu puruzIye-
-073259:0: vcp: <>REkaSataviDAt” 25 sU0 . “uttarezu azwaviDAdizu
-073260:0: vcp: <>cayanezu A ekaSataviDAt ekaSataviDacayanaM yAvat
-073261:2: vcp: <>ekADikaSatapuruzAtmakapaYcanavatitamacayanaparyyantam puruzoyeRa
-073262:2: vcp: <>ekEkapuruzavfdDyA agnimAna Bavati tasmAdu saptaviDameva
-073263:0: vcp: <>praTamaM vidaDIteti” (10, 2, 3, 18) ka0 “yaTAgnivedIzwa-
-073264:0: vcp: <>kApramARam” 26 sU0 . vediSca izwakASca vedIzwakAH tAsAM
-073265:0: vcp: <>pramARaM vedIzwakApramARam tadyaTAgni Bavati, agnimAnamana-
-073266:2: vcp: <>tikrampa yaTAgni, yaTAgnikzetrasya pramARaM vardDate taTA vedi-
-073267:0: vcp: <>pramARaM varDate izwakApramARaM ca vardDate, na hi vedivfdDiM
-073268:1: vcp: <>vinA tanmaDye varDitasyAgnermAnaM samBavati, nApi izwakA na [Page0999-b+ 38]
-073269:3: vcp: <>barDitA varDitamagnikzetraM pUrayituM Sakruvanti, atI
-073270:0: vcp: <>yuktamuBayorvfdDiH” ka0 . “antaHpAtyagArhapatyayoricCan”
-073271:3: vcp: <>27 sU0 . “pUrvArDAdyAmasya trIn prAcaH sa vedyantaH prakramaH
-073272:0: vcp: <>prakramati” (10, 2, 3, 1) yaH prakramatrayaparimito deSaH
-073273:0: vcp: <>so'ntaHpAtya ucyate, tasyAntaHpAtyasya gArhapatyasya gArha-
-073274:0: vcp: <>patyaciteSca icCan icCayA vfdDiMkuryyAt icCayA na
-073275:2: vcp: <>kuryyAt tadDEkOttarA” SruteH (102, 3, 6) ka0 . “uttara-
-073276:0: vcp: <>pakzasyAparasyAM sraktyAM pariSrito minoti jaNGAmAtrIM
-073277:0: vcp: <>nABimAtrIM muKamAtrImiti” 28 sU0 . “agneruttarapa-
-073278:0: vcp: <>kzasyAparasraktyAM paScimakoRe evampramARAstisraH pariSrito
-073279:2: vcp: <>minoti” ka0 . atrasarvvatra caturaNkEH SatapaTabrAhmaRA-
-073280:0: vcp: <>DyAyAdi boDyam . triBiH kAtIyaSrOtasUtrADyAyAdi
-073281:0: vcp: <>dvAByAM SuklayajurvedADyAyAdi tena tattatsTAne atroktapratI-
-073282:0: vcp: <>kayuktamantramUlavAkyAdikaM dfSyamiti saNketajYApanam . vista-
-073283:1: vcp: <>rastu SatapaTabrAhmaRe liKitANka sUcitADyAyAdO dfSyaH .
+073164:2: vcp: 12 sU0 . “AtmanaABimuKyena cayanaM kartavyam na parA-
+073165:5: vcp: giti, taTA ca nErftIzu vacanAtparAkcayanamuktam (7,
+073166:5: vcp: 2, 1, 13) . aparo viSezaH” “savyabAhumantaraM kftvottara-
+073167:1: vcp: lakzaRABirizwakABiH” 13 sU0” . “cetavyaH” ka0 . “nitye
+073168:0: vcp: sAdanasUdadohasAupaDAnAduttare tayA devatayA tA a-
+073169:0: vcp: syeti (12, 53, 55,) 14 sU0 . “sarvAsvizwakAsu ete
+073170:0: vcp: nitye BavataH tayA devatayeti sAdanam tA asyeti sUda-
+073171:1: vcp: dohasADivadanam” ka0 . “aviSezopadeSAt” 15 sU0 .
+073172:1: vcp: “aviSezeRa hyanAraBya kaYcidizwakAviSezamete SrUyete” ka0 .
+073173:0: vcp: “viSezamanupAdAya sAmAnyena tayorupadeSAt viDA-
+073174:0: vcp: nAt” saMgra0 . “anAmnAtapratizeDAcca” 16 sU0 . “yatra
+073175:1: vcp: nErftyAdizu nAmnAyete nitye saMhitAyAM na paWyete tatrA-
+073176:0: vcp: pi pratizeDaH SrUyate (7, 1, 1, 14) sAdanasUdadohasADi-
+073177:1: vcp: vadatIti” “ataH pratizeDAt sarvatrApyete BavataH” saMgra0 .
+073178:0: vcp: “ekanodanAsvekadeSAsu tantreRa” 17 sU0 . ekanodanA
+073179:0: vcp: apasyA vapasyA ityevamAdi, ekanodanA api yadyekadeSA
+073180:0: vcp: Bavanti, yaTA tAsAmeva deSaBedaH apasyAH paYcapaYcAnUkAnte-
+073181:0: vcp: zviti (17, 6, 2) ataSca pratyanUkaM nitye, deSaBede tvasati
+073182:0: vcp: tantreReti” ka0 . “ekanodanA ekaM viDivAkyaM yAsAM
+073183:0: vcp: tAH . eko deSa ekamupaDAnasTAnaM yAsAM tAH tatra
+073184:0: vcp: tantreRa nitye BavataH” saMgra0 . “Atmani yajuzmatIH”
+073185:3: vcp: 18 sU0 . “izwakA upadaDAti na pakzapucCayoH” ka0
+073186:4: vcp: (8, 7, 2, 3) . lokampfRAsu daSasu daSasu mantro lokaM
+073187:1: vcp: pfReti (12, 54) . (9, 1, 212) 19 sU0 . “AsA-
+073188:0: vcp: danaM ca” 20 sU0 . lokaM pfRAnAm, sUdadohasAGivadanaM
+073189:0: vcp: tu Bavati apratizidDatvAt” ka0 . “praticiti dve--dve upa-
+073190:0: vcp: DAya” 21 sU0 . lokaM pfRAmantravacanam, punardaSasu--daSasu .
+073191:3: vcp: “praTamaM dve--dve upaDAya tatI daSa--daSopadaDyAt” saMgra0 .
+073192:0: vcp: “ayugmagaRamaDyamAnUke” 22 sU0 . ayugmo ya izwakAgaRo [Page0998-b+ 38]
+073193:4: vcp: yaTA vAlaKilyAH sapta tAsAM maDyamAnUke upaDeye” ka0 .
+073194:2: vcp: “tripaYcasaprAdigaRaH” saMgra0 . “ekA ca” 23 sU0 .
+073195:0: vcp: “yA cEkezwakA sApyanUka eva, yaTA viSvajyotirdviyaju-
+073196:0: vcp: ScetyevamAdi” ka0 . “aBitoyugmAH” 24 sU0 . “anUkamaBi-
+073197:0: vcp: to'rDArDikayA yugmA upaDIyante” ka0 . “udaYco vargAH
+073198:0: vcp: pUrvApare” 25 sU0 . “yatra pUrvAparaiti deSavyapadeSaH
+073199:1: vcp: tatrodaglakzaRA izwakAvargA upaDIyante” ka0 . “ti-
+073200:1: vcp: ryagamUkamaBito'kzRayAvaDike pUrvApare deSe izwakAnAM vargAH
+073201:0: vcp: samUhAH udaglakzaRA upaDeyAH” saMgra0 . “prAYco
+073202:0: vcp: dakziRottare” 26 sU0 . “yatra tu dakziRottaravyapadeSaH
+073203:0: vcp: tatra prAglakzaRA iti” ka0 . “prAganUkaBito'kzRAyA-
+073204:1: vcp: vaDike dakziRottare prAYcaH prAglakzaRAH upaDeyAH”
+073205:7: vcp: saMgra0 . “BinnakfzRayoracayanam” (8, 7, 2, 16) 27
+073206:1: vcp: sU0 . “dIkzARAmuttame'hani vedyagnimAnam” 28 sU0 .
+073207:0: vcp: “karttavyam” ka0 . “uKyasTAne'rDavyAmena gArhapatyasya pari-
+073208:0: vcp: liKati” 29 sU0 . “maRqalamiti SezaH” ka0 . “maRqa-
+073209:0: vcp: lAdvA prakramaRamantaHpAtyasya” 30 sU0 . “pUrvArDAdvyAmasya
+073210:6: vcp: trIn prAcaH prakramAn prakrAmatIti vacanAt (10, 2, 3, 1) .
+073211:0: vcp: “pUrvArDAdeva vyAmasya prakramaRam na stamBAdDi prakramaRamanagnO
+073212:2: vcp: caritArTama” ka0 . “vAvaDAraRa, maRqalAdevAntaHpAtyasya
+073213:0: vcp: kramaRam na pUrvArdDAt stamBAt” saMgra0 . “paScAdyUpAvawyA-
+073214:0: vcp: tpAdamAtre cityasya” 31 sU0 . yUpAvawe BavaH SaNkuryU-
+073215:0: vcp: pAnawyaH tasmAtpaScAt padyAlokamAtre cityasyAgnikzetrasya
+073216:0: vcp: sTAnaM Bavati” saMgra0 . “yajamAnenorDvabAhuprapadocCri-
+073217:6: vcp: tena samasTitena vA” 32 sU0 . (10, 2, 2, 6) .
+073218:0: vcp: “prapadocCritaH pAdAgre vyavasTitaH samasTitaH prasidDa
+073219:0: vcp: eva, tatkriyAyAnoditatvAtprakramaRavadaDvaryurmA BUditi
+073220:0: vcp: yajamAnagrahaRam” ka0 . 7 kaRqikA .
+073221:4: vcp: “dvipuruzAM rajjvuMmittvA” 1 sU0 . “dvipuruzAMrajjvuMBittveti
+073222:0: vcp: nigade vyAKyAtam” . “uBayataHpASAm” 2 sU0 . “maDye
+073223:0: vcp: lakzaRam” 3 sU0 . “aBito'rDapuruzayoSca” 4 sU0 . “maDya-
+073224:0: vcp: mAtlakzaRAt puruzapaYcame” saMgra0 “arDe ca” 6 sU0 . “puruza-
+073225:0: vcp: paYcamasyArDe” ka0 . “anupfzwyAmAyamya pASayoH SaNkU maDye
+073226:0: vcp: 'rDapuruzayoSca” 7 sU0 . “pASAunmucyArDapuruzIyayoH
+073227:1: vcp: pratimucya dakziRAyAmya maDyame nitodaM karoti” 8 sU0 .
+073228:2: vcp: “gartam” saMgra0 “unmucya pASAvekaM maDyame pratimucya
+073229:0: vcp: dakziRADinitodamAyamya maDyame SaNkuH” 9 sU0 . “tasmin
+073230:0: vcp: pASaM pratimucya pUrvArDe ca dakziRAyamya maDyame SaNkuH” [Page0999-a+ 38]
+073231:2: vcp: 10 sU0 . “paScAdarDapuruze ca” 11 sU0 . “unmucya
+073232:1: vcp: pUrvArdDAt paScArDe pratimucya dakziRAyamya maDyame SaNkuH”
+073233:2: vcp: 12 sU0 . “aBito'rDapuruzayoSca” 13 sU0 . “eva-
+073234:0: vcp: muttaro'ntaH” 14 sU0 . “dakziRe pArSve pUrvavadATamya
+073235:0: vcp: paYcamaBAgIye SaNkuH” 15 sU0 . “tasmin pASaM pratimucya
+073236:0: vcp: pUrve cArDapuruzIye paYcamaBAgIyArDapuruzIyayoH sannipAtya
+073237:0: vcp: tasmiYCaNkuH” 16 sU0 . “evaM paScAt” 17 sU0 . “eva-
+073238:1: vcp: muttaraH pakzaH” 18 sU0 . “taTA pucCaM vitastyA” 19 sU0 .
+073239:0: vcp: icCan pakzapucCApyayezu caturaNgulaMcaturaNgulaM saMkarzati vikarza-
+073240:1: vcp: nyante” 20 sU0 . “yatra pakza AtmAnamapyeti sa pakzApyayaH evaM
+073241:0: vcp: pucCApyayaH . apyayezupakzayoH pucCasya ca AtmasambanDisamIpe
+073242:0: vcp: caturaNgulaM catvAri--catvAryaNgulAnyuBayoH pArSvayoH saNkarzati
+073243:0: vcp: saNkocayati, taTA ante pakzapucCaprAnte uBayoH pArSvayoH
+073244:0: vcp: caturaNgulaM vikarzati vistArayati” saMgra0 . “paYcAratniH-
+073245:0: vcp: puruzo daSapado dvAdaSANgulaM padaM prakramastripadaH sama-
+073246:0: vcp: viBaktasya” 21 sU0 . “paYcAratnayoH yasya saH paYcaBira-
+073247:1: vcp: ratniBiH puruzaH daSaBiH padEH puruzo dvAdaSaBiraNgulEH
+073248:1: vcp: padam ityevamarTo na Babati itaH prAgaratnyAdInAM lakza-
+073249:0: vcp: RasyAnuktatvenAsidDatvAt, ataScEvam puruzasya samaviBaktasya
+073250:0: vcp: yaH paYcamo BAgaH so'ratniH tasya daSamo BAgaH padam,
+073251:0: vcp: padasya dvAdaSo BAgo'Ngulam triBiH padErekaH prakramaH
+073252:0: vcp: iti tu Bavati padasya sidDatvAt” ka0 . “paritatya rajjvA
+073253:4: vcp: sahitaM bahIrajjvekazazwe Sate pariSrito minoti” 22
+073254:1: vcp: sU0 . “rajjvA paritatya sarvvatovezwayitvA rajvAbahirBAge
+073255:0: vcp: sahitaM rajjusaMlagnaM yaTA Bavati taTA ekazazwyaDike dve
+073256:0: vcp: Sate pariminoti” “ka0 “caturRavatAni vA trIRi”
+073257:5: vcp: 23 sU0 . caturRRavatyaDikAni trIRi SatAni” ka0 .
+073258:0: vcp: “UrDvAH SarkarAH KAte” 24 sU0 . “uttarezu puruzIye-
+073259:0: vcp: REkaSataviDAt” 25 sU0 . “uttarezu azwaviDAdizu
+073260:0: vcp: cayanezu A ekaSataviDAt ekaSataviDacayanaM yAvat
+073261:2: vcp: ekADikaSatapuruzAtmakapaYcanavatitamacayanaparyyantam puruzoyeRa
+073262:2: vcp: ekEkapuruzavfdDyA agnimAna Bavati tasmAdu saptaviDameva
+073263:0: vcp: praTamaM vidaDIteti” (10, 2, 3, 18) ka0 “yaTAgnivedIzwa-
+073264:0: vcp: kApramARam” 26 sU0 . vediSca izwakASca vedIzwakAH tAsAM
+073265:0: vcp: pramARaM vedIzwakApramARam tadyaTAgni Bavati, agnimAnamana-
+073266:2: vcp: tikrampa yaTAgni, yaTAgnikzetrasya pramARaM vardDate taTA vedi-
+073267:0: vcp: pramARaM varDate izwakApramARaM ca vardDate, na hi vedivfdDiM
+073268:1: vcp: vinA tanmaDye varDitasyAgnermAnaM samBavati, nApi izwakA na [Page0999-b+ 38]
+073269:3: vcp: barDitA varDitamagnikzetraM pUrayituM Sakruvanti, atI
+073270:0: vcp: yuktamuBayorvfdDiH” ka0 . “antaHpAtyagArhapatyayoricCan”
+073271:3: vcp: 27 sU0 . “pUrvArDAdyAmasya trIn prAcaH sa vedyantaH prakramaH
+073272:0: vcp: prakramati” (10, 2, 3, 1) yaH prakramatrayaparimito deSaH
+073273:0: vcp: so'ntaHpAtya ucyate, tasyAntaHpAtyasya gArhapatyasya gArha-
+073274:0: vcp: patyaciteSca icCan icCayA vfdDiMkuryyAt icCayA na
+073275:2: vcp: kuryyAt tadDEkOttarA” SruteH (102, 3, 6) ka0 . “uttara-
+073276:0: vcp: pakzasyAparasyAM sraktyAM pariSrito minoti jaNGAmAtrIM
+073277:0: vcp: nABimAtrIM muKamAtrImiti” 28 sU0 . “agneruttarapa-
+073278:0: vcp: kzasyAparasraktyAM paScimakoRe evampramARAstisraH pariSrito
+073279:2: vcp: minoti” ka0 . atrasarvvatra caturaNkEH SatapaTabrAhmaRA-
+073280:0: vcp: DyAyAdi boDyam . triBiH kAtIyaSrOtasUtrADyAyAdi
+073281:0: vcp: dvAByAM SuklayajurvedADyAyAdi tena tattatsTAne atroktapratI-
+073282:0: vcp: kayuktamantramUlavAkyAdikaM dfSyamiti saNketajYApanam . vista-
+073283:1: vcp: rastu SatapaTabrAhmaRe liKitANka sUcitADyAyAdO dfSyaH .
 073284:1: vcp: <HI>{@izwakApaTa@}¦ na0 izwakAyAmapi panTA yasya ac samA0 izwaM
-073285:1: vcp: <>kApaTaM yasyADomuKavAyukaraRAt . 1 vIraRamUle . izwakayA
-073286:1: vcp: <>nirmitaH panTA ac samA0 . izwakAnirmite 2 paTi pu0 .
+073285:1: vcp: kApaTaM yasyADomuKavAyukaraRAt . 1 vIraRamUle . izwakayA
+073286:1: vcp: nirmitaH panTA ac samA0 . izwakAnirmite 2 paTi pu0 .
 073287:0: vcp: <HI>{@izwakAva@}¦ tri0 izwakA astyarTe va . izwakAyukte .
 073288:1: vcp: <HI>{@izwakAvat@}¦ tri0 izwakA + caturrTyAM maDvAdi0 matup masya vaH .
-073289:0: vcp: <>izwakAsannikfzwadeSAdO striyAM NIp .
+073289:0: vcp: izwakAsannikfzwadeSAdO striyAM NIp .
 073290:2: vcp: <HI>{@izwaganDa@}¦ pu0 karmaDA0 . 1 suganDO . izwoganDo'sya . 2 suga-
-073291:1: vcp: <>nDidravye tri0 3 vAlukAyAM na0 medi0 .
+073291:1: vcp: nDidravye tri0 3 vAlukAyAM na0 medi0 .
 073292:3: vcp: <HI>{@izwatama@}¦ tri0 atiSayena izwa + tamap . 1 priyatame 2 atiSayA-
-073293:0: vcp: <>BIzwe “yadyadizwatamaM loke” gItA . dvayormaDye atiSayena
-073294:0: vcp: <>izwaH tarap . izwataraH dvayormaDye atiSayena izwe tri0 .
+073293:0: vcp: BIzwe “yadyadizwatamaM loke” gItA . dvayormaDye atiSayena
+073294:0: vcp: izwaH tarap . izwataraH dvayormaDye atiSayena izwe tri0 .
 073295:5: vcp: <HI>{@izwadeva@}¦ pu0 ijyate yaja--karmaRi kta karmaDA0 . 1 pUjye deve
-073296:0: vcp: <>tantrAdyuktaviDAnena yasya mantra upAsyatayA gfhItastasmin
-073297:3: vcp: <>2 deve ca . izwadevatAzwayopyatra strI .
+073296:0: vcp: tantrAdyuktaviDAnena yasya mantra upAsyatayA gfhItastasmin
+073297:3: vcp: 2 deve ca . izwadevatAzwayopyatra strI .
 073298:2: vcp: <HI>{@izwani@}¦ tri0 yaja--tanik saMpra0 ipa--tanik vA . 1 yazwavye
-073299:3: vcp: <>2 ezwavye ca . “tuvizvaRirapnasvatIzUrvarAsvizwanirArttanA
-073300:0: vcp: <>svizwaniH” f0 1, 127, 6 . “izwanirezwavyoyazwayo
-073301:0: vcp: <>vA” BA0 .
+073299:3: vcp: 2 ezwavye ca . “tuvizvaRirapnasvatIzUrvarAsvizwanirArttanA
+073300:0: vcp: svizwaniH” f0 1, 127, 6 . “izwanirezwavyoyazwayo
+073301:0: vcp: vA” BA0 .
 073302:0: vcp: <HI>{@izwaprayoga@}¦ pu0 izwasya SizwaprayuktatayA niScitasya prayogaH . vyAkaraRoktasaMskArAnusAreRa prayoge .
 073303:1: vcp: <HI>{@izwavat@}¦ na0 yaja--iza vA ktavatu striyAM NIp . 1 yajanakarttari
-073304:2: vcp: <>2 icCAyukte ca . “izwaM vedADyayanAdiH sADyatayA'styasya
-073305:3: vcp: <>matup masya vaH . 3 izwakarmma karttari . vede tu pUrvvapadadIrGaH
-073306:6: vcp: <>izwAvAn “izwAvantorAtizAcodaDAnAH” aTa0 18, 3, [Page1000-a+ 38]
-073307:2: vcp: <>20 . “izwiBiH paSubanDESca cAturmAsyEstaTEva ca . agni-
-073308:1: vcp: <>zwomAdiBiryajYEryena cezwaM sa izwavAn” vyAsokte 4 izwyAdi
-073309:0: vcp: <>kAriRi tri0 . striyAM NIp .
+073304:2: vcp: 2 icCAyukte ca . “izwaM vedADyayanAdiH sADyatayA'styasya
+073305:3: vcp: matup masya vaH . 3 izwakarmma karttari . vede tu pUrvvapadadIrGaH
+073306:6: vcp: izwAvAn “izwAvantorAtizAcodaDAnAH” aTa0 18, 3, [Page1000-a+ 38]
+073307:2: vcp: 20 . “izwiBiH paSubanDESca cAturmAsyEstaTEva ca . agni-
+073308:1: vcp: zwomAdiBiryajYEryena cezwaM sa izwavAn” vyAsokte 4 izwyAdi
+073309:0: vcp: kAriRi tri0 . striyAM NIp .
 073310:1: vcp: <HI>{@izwavrata@}¦ tri0 izwaM vrataM yasya . 1 vrataSIle izwAni kalyARAni
-073311:1: vcp: <>vratAni karmmARi siDyanti yena . 2 izwakarmmasADane annAdO
-073312:0: vcp: <>“iza izwavratA akaH” f0 3, 59, 9 . “izwAni kalyA-
-073313:0: vcp: <>RAni vratAni karmARi yABiH siDyanti tA ivaH annAni”
-073314:0: vcp: <>BA0 .
+073311:1: vcp: vratAni karmmARi siDyanti yena . 2 izwakarmmasADane annAdO
+073312:0: vcp: “iza izwavratA akaH” f0 3, 59, 9 . “izwAni kalyA-
+073313:0: vcp: RAni vratAni karmARi yABiH siDyanti tA ivaH annAni”
+073314:0: vcp: BA0 .
 073315:0: vcp: <HI>{@izwasADana@}¦ na0 6 ta0 . aBIzwasADane icCASabde udA-
-073316:1: vcp: <>hftiH . tato BAve tva . izwasADanatva tadBAve na0 .
-073317:0: vcp: <>tal . izwasADanatA tadBAve strI .
+073316:1: vcp: hftiH . tato BAve tva . izwasADanatva tadBAve na0 .
+073317:0: vcp: tal . izwasADanatA tadBAve strI .
 073318:1: vcp: <HI>{@izwA@}¦ strI ijyate'naya yaja--karaRe bA0 kta . SamIvfkze rAja
-073319:0: vcp: <>ni0 tatsamiDA hIjyate iti tasyAH taTAtvam karmmaRi
-073320:0: vcp: <>kta . aBimatAyAM striyAm .
+073319:0: vcp: ni0 tatsamiDA hIjyate iti tasyAH taTAtvam karmmaRi
+073320:0: vcp: kta . aBimatAyAM striyAm .
 073321:0: vcp: <HI>{@izwAkfta@}¦ tri0 anizwamizwaM kftam izwa + cvyarTe qAc karmmaRi
-073322:1: vcp: <>kta . izwIkfte “satAmizwAkftaM nAma pUrvAvarasaha-
-073323:0: vcp: <>srikam” rAmA0 .
+073322:1: vcp: kta . izwIkfte “satAmizwAkftaM nAma pUrvAvarasaha-
+073323:0: vcp: srikam” rAmA0 .
 073324:1: vcp: <HI>{@izwAdi@}¦ pu0 “izwAdiByaSca” pA0 sUtreRa tatkfgamanenetyarTe
-073325:0: vcp: <>vihitenipratyayanimittaBUtaSabdasamUhe sa ca gaRaH . “izwa
-073326:0: vcp: <>pUrtta upasAdita nigadita parigadita parivAdita nikaTita
-073327:0: vcp: <>nizAdita nipaWita saMkalita parikalita saMrakzita pari-
-073328:0: vcp: <>rakzita arccita gaRita avakIrRa ayukta gfhIta AmnAta
-073329:0: vcp: <>Sruta aDIta avaDAna Asevita avaDArita avakalpita
-073330:0: vcp: <>nirAkfta upakfta upAkfta anuyukta anugaRita anupaWita
-073331:0: vcp: <>vyAkulita” AkftigaRastena “haWena paWitI mAsmin
-073332:0: vcp: <>KalaH Kelatu” nEza0 .
+073325:0: vcp: vihitenipratyayanimittaBUtaSabdasamUhe sa ca gaRaH . “izwa
+073326:0: vcp: pUrtta upasAdita nigadita parigadita parivAdita nikaTita
+073327:0: vcp: nizAdita nipaWita saMkalita parikalita saMrakzita pari-
+073328:0: vcp: rakzita arccita gaRita avakIrRa ayukta gfhIta AmnAta
+073329:0: vcp: Sruta aDIta avaDAna Asevita avaDArita avakalpita
+073330:0: vcp: nirAkfta upakfta upAkfta anuyukta anugaRita anupaWita
+073331:0: vcp: vyAkulita” AkftigaRastena “haWena paWitI mAsmin
+073332:0: vcp: KalaH Kelatu” nEza0 .
 073333:1: vcp: <HI>{@izwApatti@}¦ strI 6 ta0 karmmaDA0 vA . 1 izwasyApattO izwA-
-073334:1: vcp: <>yAmApattO ca vAdinA darSitApatteH prativAdina izwatve
-073335:0: vcp: <>hi sA Bavati . “izwApattO dozAntaramAha” jaga0 .
+073334:1: vcp: yAmApattO ca vAdinA darSitApatteH prativAdina izwatve
+073335:0: vcp: hi sA Bavati . “izwApattO dozAntaramAha” jaga0 .
 073336:0: vcp: <HI>{@izwApUrtta@}¦ na0 izwaM ca pUrttaYca dvayoH samAhAraH pUrvapada-
-073337:0: vcp: <>dIrGaH . izwaSabdokte agnihotrAdO “vApIkUpataqAgAdi
-073338:0: vcp: <>devatAyatanAni ca . annapradAnamArAmaH pUrttamityaBiDI-
-073339:0: vcp: <>yate” iti manUkte pUrtte ca . “vitaTantu vadeyuryye DarmaM
-073340:0: vcp: <>prahlAda pfcCate . izwApUrttaYca te Gnanti sapta saptaparAvarAn”
-073341:1: vcp: <>mA0 sa0 66 a0 . “izwApUrttena ca taTA vaktavyamanftaM
-073342:1: vcp: <>na tu” A0 pa0 195 a0 . “izwApUrttaPalaM na syAnna Sizyona
-073343:0: vcp: <>gururBavet” BA0 va0 32 a0 . kvacit itaretaradvandvo'pi
-073344:2: vcp: <>dvi0 ba0 . “IzwApUrtte saMsfjeTAmayaYca” yaju0 10, 54 . [Page1000-b+ 38]
+073337:0: vcp: dIrGaH . izwaSabdokte agnihotrAdO “vApIkUpataqAgAdi
+073338:0: vcp: devatAyatanAni ca . annapradAnamArAmaH pUrttamityaBiDI-
+073339:0: vcp: yate” iti manUkte pUrtte ca . “vitaTantu vadeyuryye DarmaM
+073340:0: vcp: prahlAda pfcCate . izwApUrttaYca te Gnanti sapta saptaparAvarAn”
+073341:1: vcp: mA0 sa0 66 a0 . “izwApUrttena ca taTA vaktavyamanftaM
+073342:1: vcp: na tu” A0 pa0 195 a0 . “izwApUrttaPalaM na syAnna Sizyona
+073343:0: vcp: gururBavet” BA0 va0 32 a0 . kvacit itaretaradvandvo'pi
+073344:2: vcp: dvi0 ba0 . “IzwApUrtte saMsfjeTAmayaYca” yaju0 10, 54 . [Page1000-b+ 38]
 073345:0: vcp: <HI>{@izwArTodyukta@}¦ tri0 izwe arTe udyuktaH . utsuke izwArTa
-073346:0: vcp: <>lABAya tvaramARe kAlAsahizRO .
+073346:0: vcp: lABAya tvaramARe kAlAsahizRO .
 073347:6: vcp: <HI>{@izwASva@}¦ tri0 izwo'Svoyasya . 1 priyahaye 2 rAjaBede pu0 .
-073348:0: vcp: <>“kimizwASva izwaraSmiretaH” f0 1, 122, 13 . “izwASva
-073349:0: vcp: <>etannAmako rAjA” BA0 .
+073348:0: vcp: “kimizwASva izwaraSmiretaH” f0 1, 122, 13 . “izwASva
+073349:0: vcp: etannAmako rAjA” BA0 .
 073350:4: vcp: <HI>{@izwi@}¦ strI yaja--ktin . 1 yAgaBede . sa ca kAtyA0 SrO0 sU0
-073351:1: vcp: <>darSitaH “karmaSabdo dravyadevatAyukto yajatiH” . 4, 3, 1, sU0
-073352:2: vcp: <>“kriyASabdaH AKyAtapratyayAnto nirvapatyAdiSabdo yaja-
-073353:0: vcp: <>tiH pratyetavyaH yAgo jYeya ityarTaH na nirvApAlamBAdirUpa-
-073354:0: vcp: <>saMskAramAtraviDAyakaH yajatiSabdo'tra tadarTayAgaparaH .
-073355:0: vcp: <>evaMyAgatve sidDe'pi idaM saMdihyate sOryaM caruM nirva-
-073356:0: vcp: <>pedagnizomIyamajamAlaBetetyAdO kiM yAgamAtraM Bavati
-073357:0: vcp: <>uta DarmA api BavantIti yadA ca DarmA BavantIti pakza-
-073358:1: vcp: <>stadApi saMdehaH kiM pUrRAhutisambanDinI DarmA Bavanti
-073359:0: vcp: <>utAgnihotrasambanDinaH, AhosviddarSapUrRAmAsayoH, aTavA
-073360:0: vcp: <>jyotizwomasyeti, aTavA darSapUrRamAsayoreveti, . DarmA-
-073361:0: vcp: <>RAmanAmnAnAdyaTASrutaM yAgamAtraM kartavyamiti prApte Aha”
-073362:0: vcp: <>ka0 “darSapUrRamAsaDarmA izwipaSuzu sAmarTyAt” 2 sU0 . sO-
-073363:0: vcp: <>ryAdO DarmA Bavanti na yAgamAtram evametAni viDivAkyAni
-073364:0: vcp: <>samarTAnyarTavanti saprayojanAni Bavanti anyaTA sAkANkza-
-073365:3: vcp: <>tvAdarTapratipAdanABAvena nirarTakAnyeva syuH . taTA hi
-073366:0: vcp: <>sOryeRa yAgena brahmavarcasaM BAvayedityatrAMSatrayavatI BAvanA
-073367:0: vcp: <>viDIyate kim, kena, kaTamiti, kimaMSo brahmavarcasam,
-073368:0: vcp: <>tatra kenAMSaH sOryeReti, kaTamaM Sastu vAkyamaDye nAsti tena
-073369:0: vcp: <>kaTaM BAvayediti vAkyaM kaTamaMSasApekzam . yacca sApekzaM
-073370:0: vcp: <>Bavati tadaDyAhAreRAnuzaNgeRa vA pUrayitvA nirAkANkzaM
-073371:0: vcp: <>kartavyam . anyaTA tasyAnarTakyApatteH na ca vede mAtrA-
-073372:0: vcp: <>mAtrasya tadizyate tasmAdatra nirAkANkzIkaraRAya viDyante-
-073373:1: vcp: <>tikartavyatAparaparyAyaH kaTamaMSo'tra kaScidanuzaYjanIya iti
-073374:2: vcp: <>sidDe Aha “darSapUrRamAsaDarmmA izwipaSuzu sAmarTyAditi”
-073375:0: vcp: <>sarvAsu izwizu agnIzomIye paSO ca darSapUrRamAsayoreva DarmA
-073376:3: vcp: <>Bavanti sAmarTyAt pUrvokta eva heturatrApi yojyaH . durSapUrRa-
-073377:0: vcp: <>mAsaDarmA eva sOryAdiviDInAM SezIBavituM samarTAH carupu-
-073378:0: vcp: <>roqASAdayo hyavaGAtAdiBireva siDyanti nABizavAdiBiri-
-073379:0: vcp: <>ti . izwipaSuzviti izwizu sarvAsu agnIzomIye paSO ca
-073380:1: vcp: <>paSvantarezu hyagnIzomIyaDarmA Bavanti” ka0 . ityAraBya
-073381:0: vcp: <>paYcaviMSatyA sUtrEstadviSeza uktastatra vistareRAvaseyaH .
-073382:1: vcp: <>taDA ca darSapOrRamAsetikartavyatAko yAgaBeda izwiraga- [Page1001-a+ 38]
-073383:0: vcp: <>ntavyA . tatkaraRaprakAraH ASvalA0 SrO0 sUtre darSito
-073384:0: vcp: <>“yaTA pOrRa mAsenezwisomA upadizwAH” . 2, 1, 1, praTame'-
-073385:1: vcp: <>DyAye darSapUrRa mAsO vyAKyAtO viDyantarasahitO . utta-
-073386:1: vcp: <>ratnezwayaH paSavaSca vakzyante viDyantaravihitAH . tezAM vi-
-073387:1: vcp: <>DyantarApekzAsti” “ato'yamarTaH sUtrasya, yasmiYCAstre u-
-073388:0: vcp: <>padizwA izwayaH paSavaScApi aviSezitAjyaBAgAste sarve vArtra-
-073389:1: vcp: <>znAjyaBAgA iti” . “pOrRamAsenetyasyAyamarTaH, pOrRamAsena
-073390:0: vcp: <>vyAKyAtA iti vArtraGnAjyaBAgA ityaTaH . tena samA-
-073391:1: vcp: <>mnAtAnAmizwInAM paSUnAYca anyadevatAgamamAtraH sidDo
-073392:0: vcp: <>Bavati . taTA coktamizwyayanaprakaraRe “asamAmnAtAsvarTAt
-073393:0: vcp: <>tantravikAraH” nArA0 vfttiH tasya kAlastatreva darSitaH yaTA
-073394:0: vcp: <>“tEramAvAsyAyAM pOrRamAsyAM vA yajeta” sU0 2, 1, 2, “tEri
-073395:0: vcp: <>zwipaSusomEramAvAsyAyAM pOrRamAsyAM vA yAgaH kartavya iti
-073396:0: vcp: <>izwipaSUnAM prakftiprApta evAyaM kAlaH punarviDIyate dvyaha-
-073397:0: vcp: <>kAlatAM nivartya sadyaskAlatAprAptyarTam . kiYca darSaprakftera-
-073398:0: vcp: <>mAvAsyA pOrRamAsaprakfteH pOrRamAsItyevaM niyamaM nivartya
-073399:0: vcp: <>aniyamena uBayakAlatAprAptyarTam . prakftyaviroDAt parva-
-073400:0: vcp: <>RastadvatyahorAtre vikftiH kartavyA . yahAhnaH pUrvaBAge parva
-073401:0: vcp: <>syAt tadA prakftiM kftvA vikftiH kAryA . yadA paraBAge
-073402:1: vcp: <>rAtrO vA tadA vikftiM kftvA prakftiH kAryeti somasyA-
-073403:0: vcp: <>yamaprAptaH kAlo viDIyate . izwyAdiSabdasambanDAdeva
-073404:0: vcp: <>yajetetyapi sidDe yajetetivacanaM somasya yAga evAnayoH
-073405:0: vcp: <>kAlayoH sampAdanIyo nAnyat dIkzAdIti” vfttiH . “rAjanya-
-073406:2: vcp: <>ScAgnihotraM juhuyAt” 3 sU0 . “kzatriyasyAgnihotrahomaH
-073407:0: vcp: <>parvaRoreva kartavyo nAnyasmin kAla iti caSabdAdvESyo'pya-
-073408:0: vcp: <>nayoreva kAlayoragnihotraM juhuyAt nAnyasminnitya-
-073409:0: vcp: <>vagamyate . tatra viSezamAha” vfttiH . “tapasvine brAhmaRAyetaraM
-073410:0: vcp: <>kAlaM Baktamupaharet” 4 sU0 . “tapasvI karmaniratastasmE brAhmaRAya
-073411:3: vcp: <>atapasvine'pi brAhmaRAyEva dadyAt na jAtyantarAya tapasvi-
-073412:0: vcp: <>ne'pIti . itaraM kAlamiti, itarezu sarvezvagnihotrakAle-
-073413:0: vcp: <>zvityarTaH . Baktamupaharet, BaktaM pakvodanaM pakvAnnamupaharet,
-073414:0: vcp: <>dadyAt . etaduktaM Bavati . rAjanyavESyayoH parvaRyagni-
-073415:0: vcp: <>hotrakAladvayaM varjayitvA itarezu kAlezu brAhmaRAyodano
-073416:0: vcp: <>dAtavyona homaH kartavya iti . agniDAraRantu kriyata eva”
-073417:0: vcp: <>vfttiH . tato'gnyADAnaM prasaNgAduktaM taccADAnaSabde pUrvaM
-073418:2: vcp: <>darSitam agnyADAnottaraM karttavyamAha “yadi tvizwaya-
-073419:0: vcp: <>stanuyuH” 2, 1, 18, sU0 “agnIneveti vAkyaSezaH . yadya-
-073420:0: vcp: <>naDikAratvAdADAnaviDerviniyojakasya prakaraRasya vyApArA- [Page1001-b+ 38]
-073421:0: vcp: <>samBavAdADAnANgamizwayo na syuH, izwInAYcAnaDikAratvA-
-073422:0: vcp: <>dizwyaNgamADAnaM na syAt, taTApi na kaSciddozaH, agnyarTa-
-073423:0: vcp: <>tvenEvoBayorapyanuzWAnasidDeH” . “asminnarTe sUtrayojanA .
-073424:0: vcp: <>yadyAsAmizwonAmADAnANgatA syAt taTApi AhavanIyA-
-073425:0: vcp: <>dyagnisambanDAt tAnevAgnInizwayastanuyuH vistArayeyuH
-073426:1: vcp: <>kuryuH sADayeyurityarTaH . tuSabdastu sADanAdizu viSezaM
-073427:0: vcp: <>darSayati . ADAne'gnInAM sADyatvena sambadDAnAmeva
-073428:0: vcp: <>sADyatvam . izwizu sADanatvena sambadDAnAmapi kalpanA-
-073429:0: vcp: <>gOravaBayAt sADyatvamiti viSezaM gfhRImaH evaM yadyA-
-073430:0: vcp: <>DAnenezwiBiScAgnaya evAMSataH sADyA ityanaDikArARAM
-073431:1: vcp: <>kaTamanuzWAnasidDiriti nyAyAvidAmeza upAlamBo nAsmA-
-073432:0: vcp: <>kam . asmAkaM tu sADyasADanasambanDe'vagate tadarTinAM
-073433:0: vcp: <>kartftvenAvagatAnAM brAhmaRAdInAM kaTaYcidaDikArakalpana-
-073434:0: vcp: <>yAnuzWAnasidDiH . aTavA'naDikArARAmananyaSezARAmapi
-073435:0: vcp: <>tatsADanasADyarUpeRopakArakatvena kAmaM SrutiprayuktyEvaMvi-
-073436:0: vcp: <>DAnAmanuzWAnasidDirityalamativistareRa” nArA0 vfttiH .
-073437:0: vcp: <>“praTamAyAmagniragniH pavamAnaH” 19 sU0 . “praTamAyA-
-073438:0: vcp: <>mizwO dve devate . agniH praTamaH kevalaH . dvitIyaH pava-
-073439:0: vcp: <>mAnaguRako'gniH . kevalasyAgnernitye eva . “agna
-073440:0: vcp: <>AyUMzi pavase'gne pavasva svapAH” 20 sU0 . “ete dvitIyasya
-073441:0: vcp: <>pavamAnaguRakasya” vf0 . “sa havyavAqamatyA'gnirhotA puro-
-073442:0: vcp: <>hita iti svizwakftaH saMyAjye ityukte sOvizwakftI pratI-
-073443:0: vcp: <>yAt” 21 sU0 . “sOvizwakftyoryAjyAnuvAkyayorfcoranena
-073444:0: vcp: <>saMyAjye iti saMjYA viDIyate” vf0 . “sarvatra devatAgame
-073445:1: vcp: <>nityAnABapAyaH” 22 sU0 . “sarvatreti prakaraRAntare-
-073446:0: vcp: <>'pIti darSayati . devatAgama ityatra samAsanirdeSasya
-073447:0: vcp: <>tulyatvAddevatAyAH devatayordevatAnAM vA Agama ityevaM
-073448:0: vcp: <>Bavati . nityAnAM prAkftInAmityarTaH . apAya udDAra
-073449:1: vcp: <>ityarTaH . etaduktaM Bavati . vikftO devatAyAH ekasyA
-073450:0: vcp: <>Agame dvayorbahvInAM vA anAgame'pi prAkftInAM sarvA-
-073451:0: vcp: <>sAmudDAra iti syAM punarvikftO izwinodanAM kftvA
-073452:1: vcp: <>devatAM na vidaDAti, tatra nodDAraH prAkftonAm . tatra
-073453:0: vcp: <>tA eva devatA BavantItyarTaH . yaTA gaditaH somena paSunA
-073454:0: vcp: <>izwyA vA ityAdO” vf0 . “yAH svizwakftamantarAjyaBAgO ca
-073455:1: vcp: <>tAstatsyAne” 23 sU0 . “nityAnAmapAya uktaH . tatra kiM
-073456:1: vcp: <>sarvA nityA udDatevyAH uta kAciddevatetyetaM saMSayaM nivarta-
-073457:0: vcp: <>yati yA AjyaBAgO svizwakftaM cAntarA devatA yazwavyAstA
-073458:1: vcp: <>udvartavyAH . yAH punarvikftO vihitAstAstatsTAne u- [Page1002-a+ 38]
-073459:2: vcp: <>dDftAnAM prAMkftInAM sTAne Bavanti” iti vacanAt, tadDa-
-073460:0: vcp: <>rmikASca BatantIti gamyate” vf0 . “eza samAnajAtiDarmaH”
-073461:3: vcp: <>24 sU0 . “yo'yamatidizwo viDirdervatAByo'nyatrApi sa
-073462:0: vcp: <>samAnajAtIyezu Bavati . samAnajAtIya ekakArya ityarTaH”
-073463:2: vcp: <>vf0 . “dvItoyasyAM vfDanvantO agniH pAvako'gniH SuciH
-073464:1: vcp: <>sa naH pAvakadIdivo'gne pAvakarocizAgniH Sucivratatana
-073465:0: vcp: <>udagne Sucayastava” 25 sU0 . “ekaH pAvakaguRako'gniH,
-073466:0: vcp: <>aparaHSuciguRakaH . “sAhvAn viSvA aBiyujo'gnimIle
-073467:0: vcp: <>purohitamiti saMyAjye tftIyasyAM sAmiDenyAvAvapate prAgu-
-073468:0: vcp: <>pottamAyAH pfTupAjA amartya iti dve” 26 sU0 . “Avapate
+073351:1: vcp: darSitaH “karmaSabdo dravyadevatAyukto yajatiH” . 4, 3, 1, sU0
+073352:2: vcp: “kriyASabdaH AKyAtapratyayAnto nirvapatyAdiSabdo yaja-
+073353:0: vcp: tiH pratyetavyaH yAgo jYeya ityarTaH na nirvApAlamBAdirUpa-
+073354:0: vcp: saMskAramAtraviDAyakaH yajatiSabdo'tra tadarTayAgaparaH .
+073355:0: vcp: evaMyAgatve sidDe'pi idaM saMdihyate sOryaM caruM nirva-
+073356:0: vcp: pedagnizomIyamajamAlaBetetyAdO kiM yAgamAtraM Bavati
+073357:0: vcp: uta DarmA api BavantIti yadA ca DarmA BavantIti pakza-
+073358:1: vcp: stadApi saMdehaH kiM pUrRAhutisambanDinI DarmA Bavanti
+073359:0: vcp: utAgnihotrasambanDinaH, AhosviddarSapUrRAmAsayoH, aTavA
+073360:0: vcp: jyotizwomasyeti, aTavA darSapUrRamAsayoreveti, . DarmA-
+073361:0: vcp: RAmanAmnAnAdyaTASrutaM yAgamAtraM kartavyamiti prApte Aha”
+073362:0: vcp: ka0 “darSapUrRamAsaDarmA izwipaSuzu sAmarTyAt” 2 sU0 . sO-
+073363:0: vcp: ryAdO DarmA Bavanti na yAgamAtram evametAni viDivAkyAni
+073364:0: vcp: samarTAnyarTavanti saprayojanAni Bavanti anyaTA sAkANkza-
+073365:3: vcp: tvAdarTapratipAdanABAvena nirarTakAnyeva syuH . taTA hi
+073366:0: vcp: sOryeRa yAgena brahmavarcasaM BAvayedityatrAMSatrayavatI BAvanA
+073367:0: vcp: viDIyate kim, kena, kaTamiti, kimaMSo brahmavarcasam,
+073368:0: vcp: tatra kenAMSaH sOryeReti, kaTamaM Sastu vAkyamaDye nAsti tena
+073369:0: vcp: kaTaM BAvayediti vAkyaM kaTamaMSasApekzam . yacca sApekzaM
+073370:0: vcp: Bavati tadaDyAhAreRAnuzaNgeRa vA pUrayitvA nirAkANkzaM
+073371:0: vcp: kartavyam . anyaTA tasyAnarTakyApatteH na ca vede mAtrA-
+073372:0: vcp: mAtrasya tadizyate tasmAdatra nirAkANkzIkaraRAya viDyante-
+073373:1: vcp: tikartavyatAparaparyAyaH kaTamaMSo'tra kaScidanuzaYjanIya iti
+073374:2: vcp: sidDe Aha “darSapUrRamAsaDarmmA izwipaSuzu sAmarTyAditi”
+073375:0: vcp: sarvAsu izwizu agnIzomIye paSO ca darSapUrRamAsayoreva DarmA
+073376:3: vcp: Bavanti sAmarTyAt pUrvokta eva heturatrApi yojyaH . durSapUrRa-
+073377:0: vcp: mAsaDarmA eva sOryAdiviDInAM SezIBavituM samarTAH carupu-
+073378:0: vcp: roqASAdayo hyavaGAtAdiBireva siDyanti nABizavAdiBiri-
+073379:0: vcp: ti . izwipaSuzviti izwizu sarvAsu agnIzomIye paSO ca
+073380:1: vcp: paSvantarezu hyagnIzomIyaDarmA Bavanti” ka0 . ityAraBya
+073381:0: vcp: paYcaviMSatyA sUtrEstadviSeza uktastatra vistareRAvaseyaH .
+073382:1: vcp: taDA ca darSapOrRamAsetikartavyatAko yAgaBeda izwiraga- [Page1001-a+ 38]
+073383:0: vcp: ntavyA . tatkaraRaprakAraH ASvalA0 SrO0 sUtre darSito
+073384:0: vcp: “yaTA pOrRa mAsenezwisomA upadizwAH” . 2, 1, 1, praTame'-
+073385:1: vcp: DyAye darSapUrRa mAsO vyAKyAtO viDyantarasahitO . utta-
+073386:1: vcp: ratnezwayaH paSavaSca vakzyante viDyantaravihitAH . tezAM vi-
+073387:1: vcp: DyantarApekzAsti” “ato'yamarTaH sUtrasya, yasmiYCAstre u-
+073388:0: vcp: padizwA izwayaH paSavaScApi aviSezitAjyaBAgAste sarve vArtra-
+073389:1: vcp: znAjyaBAgA iti” . “pOrRamAsenetyasyAyamarTaH, pOrRamAsena
+073390:0: vcp: vyAKyAtA iti vArtraGnAjyaBAgA ityaTaH . tena samA-
+073391:1: vcp: mnAtAnAmizwInAM paSUnAYca anyadevatAgamamAtraH sidDo
+073392:0: vcp: Bavati . taTA coktamizwyayanaprakaraRe “asamAmnAtAsvarTAt
+073393:0: vcp: tantravikAraH” nArA0 vfttiH tasya kAlastatreva darSitaH yaTA
+073394:0: vcp: “tEramAvAsyAyAM pOrRamAsyAM vA yajeta” sU0 2, 1, 2, “tEri
+073395:0: vcp: zwipaSusomEramAvAsyAyAM pOrRamAsyAM vA yAgaH kartavya iti
+073396:0: vcp: izwipaSUnAM prakftiprApta evAyaM kAlaH punarviDIyate dvyaha-
+073397:0: vcp: kAlatAM nivartya sadyaskAlatAprAptyarTam . kiYca darSaprakftera-
+073398:0: vcp: mAvAsyA pOrRamAsaprakfteH pOrRamAsItyevaM niyamaM nivartya
+073399:0: vcp: aniyamena uBayakAlatAprAptyarTam . prakftyaviroDAt parva-
+073400:0: vcp: RastadvatyahorAtre vikftiH kartavyA . yahAhnaH pUrvaBAge parva
+073401:0: vcp: syAt tadA prakftiM kftvA vikftiH kAryA . yadA paraBAge
+073402:1: vcp: rAtrO vA tadA vikftiM kftvA prakftiH kAryeti somasyA-
+073403:0: vcp: yamaprAptaH kAlo viDIyate . izwyAdiSabdasambanDAdeva
+073404:0: vcp: yajetetyapi sidDe yajetetivacanaM somasya yAga evAnayoH
+073405:0: vcp: kAlayoH sampAdanIyo nAnyat dIkzAdIti” vfttiH . “rAjanya-
+073406:2: vcp: ScAgnihotraM juhuyAt” 3 sU0 . “kzatriyasyAgnihotrahomaH
+073407:0: vcp: parvaRoreva kartavyo nAnyasmin kAla iti caSabdAdvESyo'pya-
+073408:0: vcp: nayoreva kAlayoragnihotraM juhuyAt nAnyasminnitya-
+073409:0: vcp: vagamyate . tatra viSezamAha” vfttiH . “tapasvine brAhmaRAyetaraM
+073410:0: vcp: kAlaM Baktamupaharet” 4 sU0 . “tapasvI karmaniratastasmE brAhmaRAya
+073411:3: vcp: atapasvine'pi brAhmaRAyEva dadyAt na jAtyantarAya tapasvi-
+073412:0: vcp: ne'pIti . itaraM kAlamiti, itarezu sarvezvagnihotrakAle-
+073413:0: vcp: zvityarTaH . Baktamupaharet, BaktaM pakvodanaM pakvAnnamupaharet,
+073414:0: vcp: dadyAt . etaduktaM Bavati . rAjanyavESyayoH parvaRyagni-
+073415:0: vcp: hotrakAladvayaM varjayitvA itarezu kAlezu brAhmaRAyodano
+073416:0: vcp: dAtavyona homaH kartavya iti . agniDAraRantu kriyata eva”
+073417:0: vcp: vfttiH . tato'gnyADAnaM prasaNgAduktaM taccADAnaSabde pUrvaM
+073418:2: vcp: darSitam agnyADAnottaraM karttavyamAha “yadi tvizwaya-
+073419:0: vcp: stanuyuH” 2, 1, 18, sU0 “agnIneveti vAkyaSezaH . yadya-
+073420:0: vcp: naDikAratvAdADAnaviDerviniyojakasya prakaraRasya vyApArA- [Page1001-b+ 38]
+073421:0: vcp: samBavAdADAnANgamizwayo na syuH, izwInAYcAnaDikAratvA-
+073422:0: vcp: dizwyaNgamADAnaM na syAt, taTApi na kaSciddozaH, agnyarTa-
+073423:0: vcp: tvenEvoBayorapyanuzWAnasidDeH” . “asminnarTe sUtrayojanA .
+073424:0: vcp: yadyAsAmizwonAmADAnANgatA syAt taTApi AhavanIyA-
+073425:0: vcp: dyagnisambanDAt tAnevAgnInizwayastanuyuH vistArayeyuH
+073426:1: vcp: kuryuH sADayeyurityarTaH . tuSabdastu sADanAdizu viSezaM
+073427:0: vcp: darSayati . ADAne'gnInAM sADyatvena sambadDAnAmeva
+073428:0: vcp: sADyatvam . izwizu sADanatvena sambadDAnAmapi kalpanA-
+073429:0: vcp: gOravaBayAt sADyatvamiti viSezaM gfhRImaH evaM yadyA-
+073430:0: vcp: DAnenezwiBiScAgnaya evAMSataH sADyA ityanaDikArARAM
+073431:1: vcp: kaTamanuzWAnasidDiriti nyAyAvidAmeza upAlamBo nAsmA-
+073432:0: vcp: kam . asmAkaM tu sADyasADanasambanDe'vagate tadarTinAM
+073433:0: vcp: kartftvenAvagatAnAM brAhmaRAdInAM kaTaYcidaDikArakalpana-
+073434:0: vcp: yAnuzWAnasidDiH . aTavA'naDikArARAmananyaSezARAmapi
+073435:0: vcp: tatsADanasADyarUpeRopakArakatvena kAmaM SrutiprayuktyEvaMvi-
+073436:0: vcp: DAnAmanuzWAnasidDirityalamativistareRa” nArA0 vfttiH .
+073437:0: vcp: “praTamAyAmagniragniH pavamAnaH” 19 sU0 . “praTamAyA-
+073438:0: vcp: mizwO dve devate . agniH praTamaH kevalaH . dvitIyaH pava-
+073439:0: vcp: mAnaguRako'gniH . kevalasyAgnernitye eva . “agna
+073440:0: vcp: AyUMzi pavase'gne pavasva svapAH” 20 sU0 . “ete dvitIyasya
+073441:0: vcp: pavamAnaguRakasya” vf0 . “sa havyavAqamatyA'gnirhotA puro-
+073442:0: vcp: hita iti svizwakftaH saMyAjye ityukte sOvizwakftI pratI-
+073443:0: vcp: yAt” 21 sU0 . “sOvizwakftyoryAjyAnuvAkyayorfcoranena
+073444:0: vcp: saMyAjye iti saMjYA viDIyate” vf0 . “sarvatra devatAgame
+073445:1: vcp: nityAnABapAyaH” 22 sU0 . “sarvatreti prakaraRAntare-
+073446:0: vcp: 'pIti darSayati . devatAgama ityatra samAsanirdeSasya
+073447:0: vcp: tulyatvAddevatAyAH devatayordevatAnAM vA Agama ityevaM
+073448:0: vcp: Bavati . nityAnAM prAkftInAmityarTaH . apAya udDAra
+073449:1: vcp: ityarTaH . etaduktaM Bavati . vikftO devatAyAH ekasyA
+073450:0: vcp: Agame dvayorbahvInAM vA anAgame'pi prAkftInAM sarvA-
+073451:0: vcp: sAmudDAra iti syAM punarvikftO izwinodanAM kftvA
+073452:1: vcp: devatAM na vidaDAti, tatra nodDAraH prAkftonAm . tatra
+073453:0: vcp: tA eva devatA BavantItyarTaH . yaTA gaditaH somena paSunA
+073454:0: vcp: izwyA vA ityAdO” vf0 . “yAH svizwakftamantarAjyaBAgO ca
+073455:1: vcp: tAstatsyAne” 23 sU0 . “nityAnAmapAya uktaH . tatra kiM
+073456:1: vcp: sarvA nityA udDatevyAH uta kAciddevatetyetaM saMSayaM nivarta-
+073457:0: vcp: yati yA AjyaBAgO svizwakftaM cAntarA devatA yazwavyAstA
+073458:1: vcp: udvartavyAH . yAH punarvikftO vihitAstAstatsTAne u- [Page1002-a+ 38]
+073459:2: vcp: dDftAnAM prAMkftInAM sTAne Bavanti” iti vacanAt, tadDa-
+073460:0: vcp: rmikASca BatantIti gamyate” vf0 . “eza samAnajAtiDarmaH”
+073461:3: vcp: 24 sU0 . “yo'yamatidizwo viDirdervatAByo'nyatrApi sa
+073462:0: vcp: samAnajAtIyezu Bavati . samAnajAtIya ekakArya ityarTaH”
+073463:2: vcp: vf0 . “dvItoyasyAM vfDanvantO agniH pAvako'gniH SuciH
+073464:1: vcp: sa naH pAvakadIdivo'gne pAvakarocizAgniH Sucivratatana
+073465:0: vcp: udagne Sucayastava” 25 sU0 . “ekaH pAvakaguRako'gniH,
+073466:0: vcp: aparaHSuciguRakaH . “sAhvAn viSvA aBiyujo'gnimIle
+073467:0: vcp: purohitamiti saMyAjye tftIyasyAM sAmiDenyAvAvapate prAgu-
+073468:0: vcp: pottamAyAH pfTupAjA amartya iti dve” 26 sU0 . “Avapate
 073469:0: vcp: <P>iti vacanAt aDike ete sAmiGenyO BavataH . praTa-
-073470:0: vcp: <>mAyAM dvitIyasyAM tftIyasyAmiti vacanAt yasyAmizwO
-073471:0: vcp: <>yat tantraM vihitaM tasyAmekadevatAyAmapi tat tantraM Bavati
-073472:0: vcp: <>na yaToktanAnAdevatAyAmeveti” vf0 . “DyAyye ityukta ete
-073473:1: vcp: <>pratIyAt puzwimantAvagninA rayimaSnavadgayasPAno amIvaheti .
-073474:1: vcp: <>agnIzomAvindrAgnI vizRuriti vEkalpikAni” 27 sU0 .
-073475:1: vcp: <>“trayARAmeko gfhyate” vf0 . “aditiH” 28 sU0 .
-073476:0: vcp: <>aditiScAnyA, asyAM dve devate” vf0 . “uta tvAmadite
-073477:0: vcp: <>suvratAnAmftasya patnImavase huvema tuvikzatrAmajarantImurUcIM
-073478:0: vcp: <>mahi mahImUzu mAtaraM suSarmARamaditiM supraRItim”
-073479:2: vcp: <>29 sU0 . “ezA kalpajA” vf0 . “predDo agna
-073480:0: vcp: <>imo agna iti saMyAjye virAjAvityukta ete pratIyA-
-073481:0: vcp: <>diti tisraH” 30 sU0 . “ityetAstisra izwayo'nu-
-073482:0: vcp: <>krAntA ityarTaH . uktAnukIrttanamuttarArTam . yadAdyottame
-073483:1: vcp: <>vEva syAtAmAdyA veti pakzastadApi tisFRAmizwInAM yAva-
-073484:2: vcp: <>tyo devatAstAH sarvA yazwavyA ityevamaTem . Adyottamapakze
-073485:0: vcp: <>maDyamAyAM ye devate te AdyAyAmeva prakzeptavye . yadA puna-
-073486:0: vcp: <>rAdyEva tadA sarvA devatA AdyAyAmeva prakzeptavyA ityeva-
-073487:1: vcp: <>marTam” vf0 . “Adyottame vEva syAtAm” 31 sU0 .
-073488:0: vcp: <>“izwI iti SezaH . “AdyA vA” 32 sU0 . “AdyEva-
-073489:2: vcp: <>vezwirBavatotyarTaH” vf0 . “taTA sati tasyAmeva DAyye
-073490:0: vcp: <>virAjO” 33 sU0 . “yadyAdyEva Bavati tadA dvitIya-
-073491:1: vcp: <>tftIyayIrapi devatAstatra BavantItyuktam . atastasyAmeva
-073492:1: vcp: <>DAyye virAjO BavataH . DAyyAvirAjAmanupraveSasya
-073493:0: vcp: <>nimittaM tftIyasyA izwerdevatAnupraveSa ityevamarTaM taTA
-073494:0: vcp: <>satItyuktam” vf0 . “itimAtre vikAre vErAjatantreti pratI-
-073495:0: vcp: <>yAt” 34 sU0 . “pOrRamAsatantrAyAmizwO DAyyAvirAR-
-073496:1: vcp: <>mAtre vikAre sati sezwirvErAjatantreti veditavyA” vf0 . [Page1002-b+ 38]
-073497:0: vcp: <>“ADAnAd dvAdaSarAtramajasrAH” 35 sU0 . “atrA-
-073498:2: vcp: <>DAnamizwIScoktvA ADAnAdUrdDvaM dvAdaSarAtramajasrA ityu-
-073499:0: vcp: <>ktam . tasyAyamaBiprAyaH, yAvatA karmasamudAyenAgnInAM
-073500:1: vcp: <>sidDirBavati tAvataH karmasamudAyasyADAnaSabdo vAcaka iti
+073470:0: vcp: mAyAM dvitIyasyAM tftIyasyAmiti vacanAt yasyAmizwO
+073471:0: vcp: yat tantraM vihitaM tasyAmekadevatAyAmapi tat tantraM Bavati
+073472:0: vcp: na yaToktanAnAdevatAyAmeveti” vf0 . “DyAyye ityukta ete
+073473:1: vcp: pratIyAt puzwimantAvagninA rayimaSnavadgayasPAno amIvaheti .
+073474:1: vcp: agnIzomAvindrAgnI vizRuriti vEkalpikAni” 27 sU0 .
+073475:1: vcp: “trayARAmeko gfhyate” vf0 . “aditiH” 28 sU0 .
+073476:0: vcp: aditiScAnyA, asyAM dve devate” vf0 . “uta tvAmadite
+073477:0: vcp: suvratAnAmftasya patnImavase huvema tuvikzatrAmajarantImurUcIM
+073478:0: vcp: mahi mahImUzu mAtaraM suSarmARamaditiM supraRItim”
+073479:2: vcp: 29 sU0 . “ezA kalpajA” vf0 . “predDo agna
+073480:0: vcp: imo agna iti saMyAjye virAjAvityukta ete pratIyA-
+073481:0: vcp: diti tisraH” 30 sU0 . “ityetAstisra izwayo'nu-
+073482:0: vcp: krAntA ityarTaH . uktAnukIrttanamuttarArTam . yadAdyottame
+073483:1: vcp: vEva syAtAmAdyA veti pakzastadApi tisFRAmizwInAM yAva-
+073484:2: vcp: tyo devatAstAH sarvA yazwavyA ityevamaTem . Adyottamapakze
+073485:0: vcp: maDyamAyAM ye devate te AdyAyAmeva prakzeptavye . yadA puna-
+073486:0: vcp: rAdyEva tadA sarvA devatA AdyAyAmeva prakzeptavyA ityeva-
+073487:1: vcp: marTam” vf0 . “Adyottame vEva syAtAm” 31 sU0 .
+073488:0: vcp: “izwI iti SezaH . “AdyA vA” 32 sU0 . “AdyEva-
+073489:2: vcp: vezwirBavatotyarTaH” vf0 . “taTA sati tasyAmeva DAyye
+073490:0: vcp: virAjO” 33 sU0 . “yadyAdyEva Bavati tadA dvitIya-
+073491:1: vcp: tftIyayIrapi devatAstatra BavantItyuktam . atastasyAmeva
+073492:1: vcp: DAyye virAjO BavataH . DAyyAvirAjAmanupraveSasya
+073493:0: vcp: nimittaM tftIyasyA izwerdevatAnupraveSa ityevamarTaM taTA
+073494:0: vcp: satItyuktam” vf0 . “itimAtre vikAre vErAjatantreti pratI-
+073495:0: vcp: yAt” 34 sU0 . “pOrRamAsatantrAyAmizwO DAyyAvirAR-
+073496:1: vcp: mAtre vikAre sati sezwirvErAjatantreti veditavyA” vf0 . [Page1002-b+ 38]
+073497:0: vcp: “ADAnAd dvAdaSarAtramajasrAH” 35 sU0 . “atrA-
+073498:2: vcp: DAnamizwIScoktvA ADAnAdUrdDvaM dvAdaSarAtramajasrA ityu-
+073499:0: vcp: ktam . tasyAyamaBiprAyaH, yAvatA karmasamudAyenAgnInAM
+073500:1: vcp: sidDirBavati tAvataH karmasamudAyasyADAnaSabdo vAcaka iti

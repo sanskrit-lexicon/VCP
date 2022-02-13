@@ -1,500 +1,500 @@
-147001:1: vcp: <>yatnavAninyAdyanvayaDIH kapAla Gawavat karomItyAdivat
-147002:4: vcp: <>kapAle Gawa karAmItyAdiprayogo'pa zyataevetyapi vadanti .
+147001:1: vcp: yatnavAninyAdyanvayaDIH kapAla Gawavat karomItyAdivat
+147002:4: vcp: kapAle Gawa karAmItyAdiprayogo'pa zyataevetyapi vadanti .
 147003:0: vcp: <P>aparA ca upAdAnatAperanAmnI sidDatvAKyavizayatA
-147004:2: vcp: <>sa ca sidDakapAlahavistaRqulAdyapAya nazWA . kapAlena GawaM
-147005:3: vcp: <>karomi havizA ya gaM karomItyAdyanuvyacasAyAt tatra
-147006:0: vcp: <>upAdAnatvAKyavizayatAyA eva tftIyArTatvAt tasya ca
-147007:1: vcp: <>DAtvarTakftAvanvayAt . na ca tatrajanyatvaM vizayatvavA tftI-
-147008:2: vcp: <>yArTastasya ca GawayAgAdAvevAnvaya iti vAcyama sarvvatra
-147009:3: vcp: <>tfta yArTasya Da tvarTaevAnrayamya vyutpannatvAt anyaTA
-147010:4: vcp: <>taRqulAbayavena taRqulaM pacatItyapi vyavahArApatteH .
+147004:2: vcp: sa ca sidDakapAlahavistaRqulAdyapAya nazWA . kapAlena GawaM
+147005:3: vcp: karomi havizA ya gaM karomItyAdyanuvyacasAyAt tatra
+147006:0: vcp: upAdAnatvAKyavizayatAyA eva tftIyArTatvAt tasya ca
+147007:1: vcp: DAtvarTakftAvanvayAt . na ca tatrajanyatvaM vizayatvavA tftI-
+147008:2: vcp: yArTastasya ca GawayAgAdAvevAnvaya iti vAcyama sarvvatra
+147009:3: vcp: tfta yArTasya Da tvarTaevAnrayamya vyutpannatvAt anyaTA
+147010:4: vcp: taRqulAbayavena taRqulaM pacatItyapi vyavahArApatteH .
 147011:3: vcp: <P>anyA ca uddeSyacAKyavizayatA sA ca yatasADanatA-
-147012:0: vcp: <>jYAnADInA cikIrzA tannizWA tacca jalAharaRasvargAda-
-147013:0: vcp: <>nAdirUpaM jalAharaRArTitayA GawaM karomi svargA-
-147014:4: vcp: <>rTitayA yAgaM karotityanavyavasAyAt . jalAharaRamuddeSya
-147015:1: vcp: <>GawaM kAromi svargamudviSya yAgaM karomotyanuvyavasAyAcca
-147016:0: vcp: <>evaYca tattatsADyatAvacCedakatattat sADyakapravfttitvAvacCinnaM
-147017:5: vcp: <>prati kattatasADyatAvacCadakaviSazyavAvacCedakakatattatsADya-
-147018:0: vcp: <>viSezyakakftisADyatAjYAnaM heturiti na vyaBicAraH evaM
-147019:1: vcp: <>cikIrzAyA api hetutvamavaseyaM tena tasyA api kapAla-
-147020:4: vcp: <>havistaRquScAdO na vyaBicAra” anyaTA nEyAyikaBate'pi
-147021:1: vcp: <>vyaBicArasya durvAratvAt tErapi kftisADyata jYAnacikIrza-
-147022:3: vcp: <>yorhetutvopragamAditi BAva . yattupravfttervizayavAtrEviDye
-147023:0: vcp: <>mAnABAvaH kintu kapAlahavistaRqulAdyupAya eva
-147024:5: vcp: <>pravattigziyaH pravattiviSezyatvameva copAdAnatvam . nacEvaM
-147025:5: vcp: <>zawaM karoti yAgaM kArotAtyAdivya ha rAnupapAttaH kfti-
-147026:7: vcp: <>bAciDAtayo gadvavIyAyA viSazyavArTakatvAdanyaTA kapAlaM
-147027:4: vcp: <>karototyAdivyAhArApattiriti vAcyam tatra GawayAga-
-147028:2: vcp: <>pAkAdipadasya kapa lahavistaRqulAdO lakzaRikatvAt
-147029:3: vcp: <>kftivAciDa--tuyo gadvitIyAyA viSezyatAnukUlatAnyatarArTa-
-147030:2: vcp: <>katvaniyamenAnukUlatvaM viSazyatA vA tatra dvitAyArTaH iti
-147031:1: vcp: <>prAYconEyAyikA badanti . tadasat lakzaRayA SabdaprayogarUpa-
-147032:3: vcp: <>vyavahArasamaTatte'pi GawAdiviSezyakatvAvagAhitvenAnuBUya-
-147033:0: vcp: <>mAnAyA GawaM karomItyAdiprAtyakzikapratIteranupapAdanAt
-147034:0: vcp: <>lakzaRAyAM mAnABAvAcca . kiYca jalAharaRasvargAdirUpa
-147035:1: vcp: <>kalasya uddeSyatAKyavizayatAyA GawayAgapAkAdeSca sA- [Page1972-b+ 38]
-147036:2: vcp: <>DyAtAKyavizayatAyA anaByupagame izwasADanatAjYAna
-147037:3: vcp: <>kftisADAtAcikIrzARAM kAryakAraRaBAvo'pi durvvaca
-147038:0: vcp: <>ityuktaprAyaeva vakzyamARaScoparizwAt iti dik . atra
-147039:1: vcp: <>ca tatprakArakatadviSezyakatatsADanatAjYAnatvaM tatsADyatA-
-147040:1: vcp: <>vacCedakakatatsADyakatadarTipravfttikAraRatAvacCedaka na vA,
-147041:0: vcp: <>jYAnatadarTipravfttitvaM tatsADanatAjYAnajanyavftti navetyAdi
-147042:2: vcp: <>vipratipattayaH tena nEyAyikErapi kfttisADyatAjYAnasTa
-147043:5: vcp: <>pravattakatvAByapagame'pi na kzati . tadarTitvaYca taduda SyakatvaM
-147044:1: vcp: <>na tu izwasa--DanatAjYAnaM pravarttakaM na vA tatsADanatAjYAnaM
-147045:3: vcp: <>tadarpipravattikAraRaM navetyAdivipratipattiH pararapi havi-
-147046:2: vcp: <>rAdyapAdAnanizWayAgAdirUpacikArzAvizayasADanatAjYAnasya
-147047:2: vcp: <>yAgAdigocarapravfttO hetutvasyAByapagamAt izwasADanatva-
-147048:0: vcp: <>kftisADyatvoBayavizayakasamUhAlambanasya pravfttihetutvAByu-
-147049:1: vcp: <>pagamAcceti Dyeyam . cikIrzAtirikaM na karttavyamastIti
-147050:0: vcp: <>karttavyaM dvAraM cikIrzA avaSyaM dvAramiti samuditArTaH
-147051:0: vcp: <>taTEva prakftopayogAt . nacEvaM pravarttakajYAnatvavyApakaM ci-
-147052:0: vcp: <>kIrzAvyApArakatvamiti PalitArTaH taccAyuktaM upAdAna
-147053:1: vcp: <>pratyakze vyaBicArAt tasya sAkzAdeva pravfttihetutvAta upA-
-147054:0: vcp: <>dAnecCayostasya dvAratvamate'pi cikIrzAyA advAratvAcca
-147055:0: vcp: <>iti vAcyaM jYAnasyetyasya pravfttiM prati sAkzAdasADanIBUtasya
-147056:0: vcp: <>jYAnasyetyarTAt upAdAnapratyakzaYca na sAkzAt sADanaM
-147057:1: vcp: <>upAdAnapratyakzavirahe pravfttyanudayAt upAdAnecCAya sta-
-147058:0: vcp: <>ddvAratvamate'pi tasya sAkzAtsADanatvAvaSyakatvAt . na ca
-147059:0: vcp: <>taTApi PalajYAne vyaBicAraH PalacikIrzAyAH pravfttAva-
-147060:0: vcp: <>hetutvAt iti vAcyaM PalajYAnasya PalecCAdvArA upA-
-147061:2: vcp: <>yecCAmAtrasampAdakatvanAtyaTAsidDatayA pravfttijanakatvasyEva
-147062:0: vcp: <>tatrAsidDeH . yadi ca PalajYAnamapi pravfttijanakaM tadA
-147063:0: vcp: <>upAyacikIrzAyA eva tadvyApAratvena cikIrzAvyApArakatva
-147064:1: vcp: <>rUpasADyasyApi tatra sutarAM sattvAcca na hi svamamAna-
-147065:2: vcp: <>viSezyakacikIrzAvyApArakatvaparyantaM sADyamanupayogA-
-147066:1: vcp: <>diti Dyeyam . nanu cikArzArUpavyApArasattve'pi kuto
-147067:3: vcp: <>na kvacit kftyutpAdEyata Aha tatsattve iti . hetvanta-
-147068:1: vcp: <>reti hetvantara daRqakapAlAdyupAdAnalOkikapratyakzaM, pratiba-
-147069:2: vcp: <>nDakABAvaScati BAvaH . nanu tattadupAdanatAvacCedakakatatta-
-147070:4: vcp: <>dupAdAnakapravfttitvena tattaduprAdAnatAvacCedakaprakAraka
-147071:2: vcp: <>tattadupAdAnaviSezyakalOkikasAkzAtkAratvenoprAdAnapratyakzasya
-147072:1: vcp: <>hetuhetumadBAvAt daRqakapAlAdyupAdAnapratyakzABAve tadu-
-147073:1: vcp: <>zAdAnakapravfttirmAstu GawAdisADyakapravfttiM vinApi [Page1973-a+ 38]
-147074:2: vcp: <>saMyogAdisADyakapravfttO daRqAdyupAdAnakapraDattisattvena
-147075:5: vcp: <>tadupa dAnakyavfttisAmagyrAH GawAdisADyakapravfttisAma-
-147076:6: vcp: <>gryapekzayA viSezasABagratvicirahAt daRqopAdAnaka
-147077:1: vcp: <>pravfttiM vinApi kapAlopAdAnakaGawasADyakapravfttA Gawa
-147078:1: vcp: <>sADyakapavfttisattvena tadupAdAnakapravfttisAmagryA GawAdi
-147079:4: vcp: <>sADyakapravfttisAmagyrapekzayA sAmAnyasAmagrItvavivahAccati
-147080:0: vcp: <>cenna sAmagryAH sAmAnyaviSezaBAvAnApannatve'pi
-147081:3: vcp: <>daRqacaka kapa lAdyanyatamopAdAnakapravfttyatiriktAyA GawA-
-147082:5: vcp: <>disADyakapravraterala katayA tAdfSAnTataBopAdAnakapravftti
-147083:3: vcp: <>sAmagrIvirahAdeva tAdfSAnyatamopAda napratyakzABAvadaSAyAM
-147084:2: vcp: <>tadanutpattastadarmAvacCinnayatkiYcidvyaktisAmagrIsahitAyA
-147085:1: vcp: <>eva tadDarmmAvacCinnasAmagryAstadDarmmAvacCinnakAryyopaDAyaka-
-147086:0: vcp: <>tvAt idameva ca kAraRasamAjADInA kAryotpatti-
-147087:1: vcp: <>riti gIyate . etena GawAdicika rzAvirahe'pi daRqa-
-147088:1: vcp: <>gocarapratyakzAt daRqopAdAnakapavfttyApattistadavacCinnasya
-147089:0: vcp: <>sattvAdityapi nirastaM saMyogaBramyAdyanyatamasADyakapravf-
-147090:0: vcp: <>ttyatiriktAyA daRqopAdAnakapravftteralIkatayA tAdf-
-147091:1: vcp: <>SAnyatamasADyakapavfttisAmagrIvirahAdeva tadanutpAdAt
-147092:0: vcp: <>kAryotpatteH kAraRasamAjADInatvAt . navyAstu upA-
-147093:1: vcp: <>dAnapratyakzamya hi svAtantryeRa na hetutA kintu GawAdi-
-147094:2: vcp: <>nizWacikIrzAyA daRqAdyupAdAnakalOkikasAkzAtkArasya ca
-147095:1: vcp: <>sattva 'pi daRqAdO GawasADanatvajYAnABAvadaSAyAM Gawa-
-147096:1: vcp: <>sADyakadaRqopAdAnakapravfttivAraRIya daRqopAdAnanizWa-
-147097:1: vcp: <>cikArzAvizayaGawAdisADanatAjYAnasyApi GawAdisADyakada
-147098:5: vcp: <>RqAdyupAdAnakapavfttitva vAcCanna prati nyAyanaye paranaye ca
-147099:1: vcp: <>viSezakAraRatvAvaSyakatvAttadeva cikorzAvizayasADanatAjYAna
-147100:1: vcp: <>mupAdAnAMSe lOkikapratyakzAtmaka heturupeyate ka ryakAraRa-
-147101:2: vcp: <>BAvadfyakalpanAmapekzya lAGavAt . na ca GawasADyaka-
-147102:0: vcp: <>kapAlopAdAnakaGawaDvaM sasADyakadaRqopAdAnakasamUhAlamba-
-147103:2: vcp: <>napravfttO daRqanizWaGawasADanatAjYAnasyAhetucAt tatra
-147104:0: vcp: <>vyaBicAravAraRAya GawatvAvacCinnasADyatAnirUpitadaRqatvA
-147105:7: vcp: <>bacCinnopAdanatASAlivatttitvameva kAryatAvacCedakamupeyaM
-147106:4: vcp: <>taTAca daRqatvAvacCinnopAdanatAnirUpatazWawatvAvaccCi-
-147107:0: vcp: <>nnasADyatASAlipravfttitvamAdAya vinigamanAvirahAttavApi
-147108:1: vcp: <>gurutarakAryakAraRaBAvadvayamAvaSyakamiti vAcya daRqAdyu-
-147109:2: vcp: <>pAdAnanizWacikIrzAvizayaGawasaDinatAjYAnasya GawAdisA-
-147110:1: vcp: <>DyakadaRqAdyupAdanakapravftti prati viSezakAranatvAvaSyakatayA
-147111:1: vcp: <>vinigamanAvirahAt tAdfSakAryaka raRaBAvadvayasya sarvasammata- [Page1973-b+ 38]
-147112:4: vcp: <>tvAt . ityaYca viSazasAmagrovirahAdeva upAdAnapatyakzA-
-147113:5: vcp: <>BAvadaSAyAM na GawAdisa DyakAvfttyutpattiprasaNgaH . etena
-147114:3: vcp: <>GawAdinizWacirkArzAvirahe'pi daRqagocarapatyakzAt daRqa-
-147115:1: vcp: <>nizWaGawasADanatAjYAnAtmakaviSezasAmagrIsahakftAta daRqo-
-147116:4: vcp: <>pAdAnakapravattya pattistadavacCinnasAmagrIsattvAditi dvirtAyA-
-147117:4: vcp: <>tiprasaNgo'pi nirastaH, kevaladaRqopAdAnakAvfttitvasya kA-
-147118:5: vcp: <>yatAnavacaCedakatvAt GawAdisADyakadaRqAdyapAdaHnakapavftteSca
-147119:1: vcp: <>GawAdinizWacikIrzAlakzaRaGawAdisADyakapravfttasAmAnyasA-
-147120:4: vcp: <>magrIvirahAdevAsamBava diti pra huH . aTa pratyajavizaya-
-147121:3: vcp: <>kapAlavyakto idaM na kapAlamityamasargagrahasattve'pi kapAla-
-147122:3: vcp: <>tvapraka reRa kapAlaM GawasADanaBiti kapAlatvAMSa nirdDarmi-
-147123:4: vcp: <>tAvacCedakakatatkapAlAvazayakalAkikapratyakzAta kapAlatva-
-147124:2: vcp: <>praka reRa tatkapAlopAdanakapravfttyApattiH . na ca kapAla-
-147125:2: vcp: <>tvaprakAreRa tadvyaktO vfzwAvivezwa pattirita vAcyam
-147126:2: vcp: <>anuBavaviroDAdi ta cenna tadupAdanatAvacCedakAMSe
-147127:2: vcp: <>idantvaDammitAvacCedakakatadupAdAnaviSezyakapratyakzasyedaM Gawa-
-147128:0: vcp: <>sADanamityAkArasya vA tattadupAdAnatAvacCedaka
-147129:0: vcp: <>katadupAdAnakapravfttiM prati hetutvena nirdDarmmitAvacCedaka-
-147130:1: vcp: <>kajYAnasyAhetutvAt . nacEvamida GawasADanamiti lO-
-147131:6: vcp: <>kikapratyakzAdidantvaprakAreRetadvyaktyupAda nakAvfttirna syAt
-147132:0: vcp: <>tasya idantvAMSe nirdDarmmitAvacCedakakatvAditi vAcyam
-147133:1: vcp: <>upAdAnatAvacCedakaBadena kAryyakAraRaBAvaBedAdidantva
-147134:3: vcp: <>sTale nirdDa rmmatA cCedakakajYAnasyApi pravarttakatvAt
-147135:1: vcp: <>idamidaM netyamaMsargAgrahAsamBavena tatrApi pramaNga-
-147136:0: vcp: <>virahAdityAstAM vistaraH . cikIrzA ceti vyApArIBUta
-147137:4: vcp: <>cikIrzA cetyarTaH . anyaTA--cikArzAsAmAnyamya ssakzyatve .
-147138:2: vcp: <>lakzaRe PalacikIrzAyAmativyAptivArakaM kftisADyAkrayA
-147139:0: vcp: <>vizayatvaM viSezaRaM vyarTaM syAdityanupadameva sPuwIBavi-
-147140:0: vcp: <>zyati . kftisADyatvaprakAriketi . atra PalacikIrzAyA-
-147141:4: vcp: <>vyApAratvABAvena lakzyacAttatrAtivyAptivAraRAya kfti
-147142:1: vcp: <>sADyakriyeti kriyApadaM DarmmimAtraparam kftisa DyatvaYca
-147143:3: vcp: <>sADyatvAKyaPalImUtavizayatASAlinizWatva naTA ca sa Dya
-147144:0: vcp: <>tvAKyaPalIBUtakftivizayatASAliDarmmivizayiketyarTaH Pa-
-147145:0: vcp: <>laYca na tAdfSavizayatASAlIti BAvaH . kecittu kriyA-
-147146:0: vcp: <>padameva sADyacAKyaPalIBUtakftivizayatASAliparam na
-147147:0: vcp: <>cEva pfTak kftisADyatvaM kriyAviSezaRaM vyarTamiti
-147148:0: vcp: <>vAcyaM kftisADyatvaprakArakajYAnasya vyApArIBUtA yA ci-
-147149:5: vcp: <>korzA sarva prakfte lakzyA sA ca saMvAdinI cikArzEva, visaM- [Page1974-a+ 38]
-147150:0: vcp: <>vAdicikIrzAyAM tatprakArakajYAnasya hetutve'nyaTAKyA-
-147151:4: vcp: <>tyApatteH . taTA ca pfzTAdivisaMvAdicikIrzAyAmati-
-147152:2: vcp: <>vyAptivAraRAya tadviSezaRasyAvaSyakatvAt ityAhuH . pAka-
-147153:1: vcp: <>miti pAkaM kftyA sADayAmItyAkArikAyAM tasyAM tadanu-
-147154:2: vcp: <>BavAt kftisADyatvaprakArakatvasyAnuBavamidDatvAdityarTaH
-147155:3: vcp: <>kftisADyatvena pAkamicCAmIti tadanuvyavasAyasattvAditi
-147156:0: vcp: <>BAvaH . icCAyA ityAdi . icCAyAH svaprakArakasaMvA-
-147157:2: vcp: <>dIcCAyAH tatprakArakasaMvAdIcCAyAstatprakArakaDosADya-
-147158:0: vcp: <>tvaniyamAditi PalitArTaH . gurunaye rajatAdiprakA-
-147159:2: vcp: <>rakavisaMvAdIcCAyAM rajatAdiprakArakajYAnAjanyAyAM
-147160:0: vcp: <>vyaBicAravAraRAya saMvAditvopAdAnaM kUwaliNgasTale-
-147161:1: vcp: <>'pyanAyattyA tadicCAyA vizayAntaracizayakatvakalpanena vi-
-147162:7: vcp: <>saMvAdaH kalpyate . na cEvaM saMvAdivikorzAyAM tajjanya
-147163:2: vcp: <>pravfttO ca kftisADyavaprakArakajYAnasya hetutve'pi ci-
-147164:2: vcp: <>korzAsAmAnye ca kftisADyatvajYAnasya na hetutvasidDi-
-147165:1: vcp: <>riti vAcyaM saMvAdicikorzAdO kftisADyatAprakAraka-
-147166:2: vcp: <>jYAnasya hetutye sidve yadviSezayoriti (yadviSezayoH kAryya
-147167:0: vcp: <>kAraRaBAvastatsAmAnyayorapIti) nyAyAt cikIrzAdi-
-147168:1: vcp: <>mAtraM pratyeva kftisADyatAvizayakajYAnasya hetutvaMsidDeriti
-147169:0: vcp: <>BAvaH evamagre'pi . kecittuyA yatprakArikecCA sA
-147170:0: vcp: <>tadvizayakajYAnasADyeti niyamaH na tu prakAratAparyyanta
-147171:1: vcp: <>praveSaH mUle'pi svaprakAraketyasya svavizayaketyarTaH evaYca
-147172:0: vcp: <>rajatAdivisaMvAdIcCAyAM na vyaBicAraH tatra tannaye icCA
-147173:1: vcp: <>viSezyaviSezyakarajataprakArakajYAnasyAhetutve'pi svAtantryeRa
-147174:0: vcp: <>rajatopasTiteravaSyaM hetutvAt . na ca tannaye visaMvAdI-
-147175:0: vcp: <>cCAyAmupasTitezwatAvacCedakAsaMsargAgrahasyEva hetutayA raja
-147176:1: vcp: <>tajYAnaM tatra kAraRatAMvacCedakameva na tu kAraRamiti
-147177:0: vcp: <>vyaBicAro durvAraeveti vAcyaM kAraRakAraRatAvacCedaka
-147178:0: vcp: <>sADAraRaprayojyatvarUpasya sADyatvasya niyamaGawakatvAt .
-147179:0: vcp: <>nacEvaM prakfte'pi kftisADyatAjYAnasyEkakAlAvacCinnEkAtma-
-147180:1: vcp: <>vfttitvasambanDena izwasADanatAjYAnanizWakAraRatAvacCedakatva
-147181:0: vcp: <>mevAyAtu kutaH kAraRatvam? iti vAcyaM vakzyamARakrameRa
-147182:0: vcp: <>tannaye izwasADanatvajYAnasyecCAviroDitayA izwasADanatA-
-147183:0: vcp: <>jYAnasya cikIrzAhetutvAsamBavAt pariSezeRa janyatArUpa-
-147184:0: vcp: <>syEva kftisADyatAjYAnaprayojyatvasya cikIrzAyAM sidDeH .
-147185:1: vcp: <>nacezwasADanatAjYAnasyAjanakatve'pi balavadanizwAnanubanDitva-
-147186:1: vcp: <>jYAnanizWajanakatAvacCedakatvamevAyAtviti vAcyaM balavaddveza-
-147187:1: vcp: <>syEvecCAviroDitayA tajjYAnasyApi cikIrzAhetutvAsidDeH . [Page1974-b+ 38]
-147188:1: vcp: <>vastutastu viSezyaviSezaRaBAve vinigamakABAvAdupasTitezwa-
-147189:2: vcp: <>tAvacCedakAsaMsargAgrahavaduagfhotAsaMsargakezwatAvacCedakopa-
-147190:0: vcp: <>sTiterapi visaMvAdIcCAjanakatayA janyatvarUpasADyatvameva
-147191:0: vcp: <>niyamaGawakamiti na ko'pi doza iti prAhuH . ata-
-147192:0: vcp: <>eveti cikIrzAyAH svakftisADyatAjYAnasADyatvAdevetyarTaH .
-147193:1: vcp: <>svakftisADye--svakftisADyatvena jYAte . idaYcApAtataH
-147194:0: vcp: <>vastuto lAGavAtpAko matkftimAn BavatvityAkArikA sA-
-147195:0: vcp: <>DyatAsaMsargeRa kftiprakArikA icCEva vyApAro na tu kfti-
-147196:0: vcp: <>sADyatvaprakArikA gOravAdataeva jYAnamapi sADyatAsaMsargeRa
-147197:1: vcp: <>kftiprakArakameva heturiti tattvam . yadyapyuktaniyamavalena
-147198:0: vcp: <>kftisADyatAjYAnasya hetutvaM sADitameva taTApi yuktyantara-
-147199:1: vcp: <>dAnAya punaranuvadati na dvizweti izwasADanatAjYAnasADyA-
-147200:0: vcp: <>kftisADyatAjYAnaM vinApi izwasADanatAjYAnasADyA yaTA-
-147201:2: vcp: <>Srute'grimahetvasaNgateH . svakfTasADye--svakftyasADyatvena ni-
-147202:1: vcp: <>Scite svakftyasADyatAjYAnaBiti svakftyasADyatAniScaya
-147203:0: vcp: <>ityarTaH kftisADyatAsaMSaye'pi pravftteranuBavAdyaTASrutA
-147204:2: vcp: <>saNgateH . na ca kftisADyatAsaMSaye pravfttirsvakAre bahu-
-147205:1: vcp: <>vittavyayAyAsasADye'pi pravfttvApattiriti vAcyaM balava-
-147206:0: vcp: <>danizwAnubanDitvajYAnasya viroDitvAdeva tatrecCApravfttyora-
-147207:3: vcp: <>BAvAditi Dyeyam . tadaBAvakAraRatva iti kftimADyatA-
-147208:0: vcp: <>jYAnatvena kAraRatvamapekzya kftyasADyatAniScayABAvatvena-
-147209:0: vcp: <>kAraRatve gOravAt ityarTaH . nacAprAmARyaniScayAnAska-
-147210:0: vcp: <>nditakftisADyatAjYAnatvApekzayA'prAmARyajYAnAnAskandita
-147211:0: vcp: <>kftyasADyatAniScayABAvatvameva laGviti vAcyaM kfti-
-147212:1: vcp: <>sADyatAjYAnasyAprAmARyaniScaye balavadanizwAnubanDitA-
-147213:0: vcp: <>jYAnodayAdeva pravfttyaBAvasamBavAttatra tadanAskanditatva
-147214:1: vcp: <>syApraveSAt svakftatyasADyatAniScayavattadaBAvavyApyAdini-
-147215:0: vcp: <>niScayasyApi pratibanDakatvAvaSyakatayA bahutarakAryyakAraRa
-147216:0: vcp: <>BAvakalpanAgoravAcceti BAvaH . kecittu nanUktani-
-147217:3: vcp: <>yamabalAdastu kftisADyatAjYAnaM hetustaTApi kftisADyatA-
-147218:0: vcp: <>jYAnatvena tasya na hetutA api tu izwasADanatAjYAnatvena
-147219:1: vcp: <>sarvvatrezwasADanatAkftisADyatoBayavizayakasamUhAlambanA-
-147220:0: vcp: <>deva cikIrzetyata Aha na dvizwasADanatAjYAnasADyeti
-147221:0: vcp: <>na dvizwasADanatAjYAnatvAvacCinnakftisADyatAjYAnakAraRa
-147222:0: vcp: <>tAketyarTaH . svakftyasADye svakftyasADyatvena niScite . ci-
-147223:0: vcp: <>kIrzApatteH--kevalezwasADanatAjYAnAccikIrzApatteH kAra-
-147224:1: vcp: <>RatAvacCinnasattvAdizwApattO coktaniyamaBaNgAditi BAvaH .
-147225:0: vcp: <>tadaBAvakAraRatve gOravAditi . idamupalakzaRaM kftya- [Page1975-a+ 38]
-147226:0: vcp: <>sADyatAniScayasya pratibanDakatve'pi yatra kAraRAntarA-
-147227:1: vcp: <>BAvAdiwasADanatAjYAne kftisADyatvasya na BAnaM tatra
-147228:3: vcp: <>kavalezwasADanatAjYAnAccikIrzApatterdurvvArratvAcca ityapi-
-147229:0: vcp: <>boDyam . uktaniyamamasmftvEva tawasTaH SaNkate aTetIti .
-147230:0: vcp: <>aBAvaH--kftyasADyatAniScayABAvaH . uBayasidDaH--cikI-
-147231:0: vcp: <>rzApUrvvamuBayasidDaH, asidDA--cikIrzApUrvvamuBayAsidDA . na
-147232:0: vcp: <>lAGavAvasaraH iti kftisADyatAjYAnatvasya sadapi lAGavaM
-147233:0: vcp: <>na kAraRatAvacCedakatAyAM vinigamakam ityarTaH laGu guru-
-147234:1: vcp: <>DarmmadvayAvacCinnaM yadi PalapUrvvamuBayabAdisidDaM tadeva
-147235:4: vcp: <>lATAsya kAraRatAvacCedakatAyAM vinigamakatvAditi BAvaH .
-147236:2: vcp: <>dEvAtpratibanDakavirahAt . sA--cikIrzApUrvvakftisADya-
-147237:0: vcp: <>tADIH . lADavAvatArAditi kftisADyatAjYAnatvarUpalaGu-
-147238:4: vcp: <>DarmmAvacCinnasya cikIrzApUrvvamuBayamataM sattvAdityarTaH .
-147239:0: vcp: <>icCAyA iti tatprakArakasaMvAdIcCAyAstatprakAraka
-147240:0: vcp: <>jYAnajanyatAniyamenetyarTaH . AvaSyakatvAt--cikIrzA-
-147241:0: vcp: <>hetutAvaSyakatvAt api ca kftyasADyatAjYAnapratibanDa-
-147242:0: vcp: <>katAnyaTAnupapattyA kftisADyatAjYAnasya cikIrzAhetutA
-147243:1: vcp: <>sidDirityAha janakajYAnamiti . tajjanakIBUtajYAna-
-147244:0: vcp: <>viGawakasyEva jYAnasya viDipratibanDakatvAccetyarTaH . atra
-147245:0: vcp: <>vyAptO dfzwAntamAha vyAptijYAnaviGawanadvAreti anumiti
-147246:0: vcp: <>janakavyAptijYAnaviGawanenetyarTaH . taTA ca yat yatprati-
-147247:0: vcp: <>banDakaM jYAnaM Bavati tattajjanakajYAnaviGawakaM yaTA
-147248:0: vcp: <>vyaBicArajYAnamanumitipratibanDakaM jYAnaM Bavat anu-
-147249:1: vcp: <>mitijanakavyAptijYAnaviGawakamapi Bavati iti sAmA-
-147250:0: vcp: <>nyatovyAptyA kftyasADyatAniScayasya cikIrzApratiba-
-147251:0: vcp: <>nDakajYAnatvena hetunA cikIrzAjanakajYAnaviGawakatvasA
-147252:1: vcp: <>Dane pakzaDarmmatAbalAtkftisADyatAjYAnasyEva cikIrzAjana-
-147253:0: vcp: <>katvasidDiriti BAvaH . na ca janakajYAnaviGawakatvenA-
-147254:0: vcp: <>'nyaTAsidDatayA tadaBAvasyAhetutvAt svarUpAsidDirdfzwAntA-
-147255:0: vcp: <>sidDiSca iti vAcyaM pratibanDakatvaM hi na kAraRIBUtA-
-147256:0: vcp: <>BAvapratiyogitvam kintu prayojakIBUtABAvapratiyogitvam .
-147257:2: vcp: <>prayojakatvaM ca kAraRakAraRavyAvfttAnyaTAsidDicatuzwaya-
-147258:2: vcp: <>rAhitye sati niyatapUrvavarttitvam--kAraRatatkAraRasADA-
-147259:2: vcp: <>raRam . hetO jYAnapadopAdAnAdeva ca vizayAntarasaYcArAdO
-147260:2: vcp: <>na vyaBicAraH . sADya ca jYAnapadaM svarUpakaTanam . viGawa-
-147261:0: vcp: <>katvaYca pratibanDakatvameva natvekakAlAvacCedena tadaDikaraRA-
-147262:0: vcp: <>vfttitvarUpaviroDitvaM gurunaye'DikaraRajYAnarUpatayA kfti-
-147263:0: vcp: <>sADyatAjYAnasyApi kftyasADyatAjYAnABAvasya jYAnAtmakasya [Page1975-b+ 38]
-147264:0: vcp: <>viroDitayA sidDasADanApatteH . nacAsADutvajYAne sADu-
-147265:0: vcp: <>tvajYAnAjanyaSAbdaDIpratibanDake vyaBicAra iti vAcyam
-147266:3: vcp: <>nirAkANkzatvarUpAsADutvajYAne AkANkzAjYAnamAdAya
-147267:0: vcp: <>sADyasyApi sattvAt asADutvajYAnasya ca pratibanDakatve mA-
-147268:0: vcp: <>nABAvAt . na ca taTApi sidDO vyaBicAra iti vAcyam
-147269:0: vcp: <>gurunaye sidDerapratibanDakatvAt tadvyAvfttapratibanDakatAyA vA
-147270:0: vcp: <>hetO niveSAt . ataevAsidDatvajYAnAjanyecCApratibanDaka-
-147271:0: vcp: <>sidDatvajYAne'pi na vyaBicAraH tadvyAvfttapratibanDakatAyA
-147272:2: vcp: <>eva hetO niveSAt asidDatvaniScayasyApi icCAhetutvAdvA .
-147273:0: vcp: <>aTa taTApi bADasatpratipakzAdO vyaBicAraH . na ca
-147274:1: vcp: <>tadvyAvfttA'pi pratibanDakata hetO niveSanAyeti vAcyam
-147275:0: vcp: <>kftyasADyatAjYAnABAvavyaBicArajYAnABAvayorapi bADA-
-147276:1: vcp: <>BAvatayEva cikIrzAnumityoH prayojakatayA svarUpAsidDi
-147277:0: vcp: <>dfzwAntAsidDyorApatteH . na ca sAkzAdaviroDitve satI-
-147278:0: vcp: <>tyanena heturviSezaRIya iti bAcyam sAkzAdaviroDitvaM
-147279:0: vcp: <>hi na grAhyABAvatadvyApyAdyanavagAhitvaM, prakfte'pi tada-
-147280:0: vcp: <>sidDeH kftyasADyatAjYAnasya cikIrzAprakArIBUtakftisADya-
-147281:0: vcp: <>tvABAvAvagAhitvAt ataeva na kAraRIBUtABAvaprati-
-147282:0: vcp: <>yogitvamapi, prakfte'pi tadasidDeH pUrvapakziRA kftyasADyatA
-147283:0: vcp: <>DiyaH sAkzAdeva pratibanDakatvAByupagamAt na ca hetO
-147284:0: vcp: <>pratibanDakajYAnatvapadena jYAnatvAvacCinnapratibanDakatASAlitvaM
-147285:0: vcp: <>vivakzitaM bADasatpratipakzAdeSca niScayatvena pratibanDakatvamiti
-147286:0: vcp: <>vAcyam prakfte tadasidDeH uktayuktyA kftyasADyatAniScaya
-147287:0: vcp: <>syEva pUrvapakzimate pratibanDakatvAditi cenna hetO svagrAhya-
-147288:0: vcp: <>viroDAvagAhijYAnaBinnatvena yatpadArTaviSezaRAt . svapadaM
-147289:0: vcp: <>pratibanDakajYAnaparaM cikIrzAyASca jYAnaBinnatvAdeva saMgrahaH
-147290:0: vcp: <>svagrAhyaviroDAvagAhitvantu svaM yatra yadaBAvatadvyApya
-147291:0: vcp: <>tadavacCedakAdyanyatamamavagAhate tatra tadavagAhitvaM saMvAdi-
-147292:0: vcp: <>tvenApi hetO yatpadArTo viSezaRIyaH tena izwaBedagrahe
-147293:0: vcp: <>pravfttyAdipratibanDake tannaye na vyaBicAraH . saMvAdi-
-147294:1: vcp: <>pravfttO viSizwajYAvameva heturiti sADyasattvAdeva na tamA-
-147295:0: vcp: <>dAya vyaBicAraH . na ca taTApi kUwaBramaparAmarSaliNga-
-147296:0: vcp: <>sTale liNgAsaMsargAgraheRa lENgikAsaMsargAgrahADInasaMvAdI-
-147297:0: vcp: <>cCAprabfttipratibanDakezwaBedagrahe janakIBUtaviSizwajYAnaviGa-
-147298:0: vcp: <>wakatvABAvAdvyaBicAra iti vAcyam viSizwajYAnasya
-147299:0: vcp: <>saMvAdIcCApravfttihetutvenAnAyatyA tatrApIcCApravfttyorviza-
-147300:0: vcp: <>yAntaravizayakatvakalpanena visaMvAditvasya tEH svIkArAditi
-147301:0: vcp: <>dik . anyaTA--etAdfSavyAptyanaNgIkAre . upekzaRIyatvam- [Page1976-a+ 38]
-147302:0: vcp: <>izwasADanatAvacCedakarUpaSUnyatvam . nizPalatvam izwaPalopa
-147303:2: vcp: <>DAnaSUnyatvam, pratibanDakaM--cikArzApatibanDakam . kriyA-
-147304:3: vcp: <>jYAnameveyokAreRa izwasADanatvAdijYAnavyavacCedaH . sonda-
-147305:5: vcp: <>qaH SaNkate nanviti . sana iti . vAcicAt boDakatAt patacca
-147306:3: vcp: <>cirkarzApadasya yOgikatvapakze cika rzApadasyAKaRqarUQatva-
-147307:5: vcp: <>pakze tvAhalAGavAtiti, kftisa DyatvaprakArakecCAtva pejYayA
-147308:4: vcp: <>kftIcCAtvasya pravfttinimittasya laGu vAdiTaryaH . cikIrzA-
-147309:2: vcp: <>cikarzApadapratipAdyA . vfzwAviveti vfzwirBavatvitAcCEvetyarTaH .
-147310:2: vcp: <>izwasaHDanatAjYAnAt--izwasADanatAjYAnamAtrAt kftisA-
-147311:1: vcp: <>DyavAjYAnaM vinApIzwasADanatAjYAnAditi yAvat . tatra
-147312:1: vcp: <>kftisADyatvasyAprakAratayA kftyasADyata niScayasyApratibanDaka
-147313:1: vcp: <>tayA ca kftisADyatAjYAnasya hetutve mAnABAvAditi
-147314:2: vcp: <>mAvaH . atra vfzwirBavatvita cCeveti prakftasADyANgako dfzwAntaH
-147315:0: vcp: <>gurunaye vfzwisADyaM suKaM BavatvitIcCEva viSezaRatayA suKa-
-147316:1: vcp: <>tvamiva vfzwimapi vizaya karoti na tu vfzwirBavatviti svAta-
-147317:1: vcp: <>ntryeRecCA kftisADyatvaprakArakecCAM prati suKatvaduHKA-
-147318:0: vcp: <>BAvatvaprakArakajYAnayorhetutvena kftisADyatvAprakArakopA
-147319:2: vcp: <>yecCAyA alIkatvAt vfzwisADyaM suKaM BavatvitocCAyAntu
-147320:1: vcp: <>suKevfzwisADyatvajYAnameva hetu rati mantavyam . vahninA
-147321:0: vcp: <>sADayAmItivaditi sADyatvaprakArikAyA iti SezaH . anu-
-147322:3: vcp: <>BUyamAnAyAH--niyamato'nuBUyamAnAyaH . sanantAvAcyaDena-
-147323:0: vcp: <>sanantApratipAdyatvena . gOraveRa--pravfttinimittagOraveRa .
-147324:3: vcp: <>pratyAKyAtuptaSaktyatvAtiti kAraRatAyAH pratyAKyAtumaSakya-
-147325:0: vcp: <>tvAdityarTaH taTAca cikIrzApadApratipAdyApi sA pravf-
-147326:2: vcp: <>ttihetturiti BAvaH . prADAnyeneti viSezyavayetyarTaH .
-147327:0: vcp: <>aprADAnyena vizayatvasya tatra dvitIyArTatve pAkatvaM cikI-
-147328:1: vcp: <>rzati ityapi prayogApatteriti BAvaH . na tu kfteriti
-147329:2: vcp: <>ato na kftIcCA cikIzApratipAdyeti BAvaH . nanu ciko-
-147330:1: vcp: <>rzatItyatra pAkasya viSazyatayA icCAvizayatvamanuBUyate itya-
-147331:6: vcp: <>yuktaM satpraTayasamaBivyAhftaDAtoricCAviSezavAcitayA
-147332:3: vcp: <>DAtvarTasyO viSezyatvAtityataAha DAtoSceti . icCAprakAra
-147333:3: vcp: <>vAcitvamiti na tu viSezyapAcitvamiti SezaH . pakAraSca
-147334:0: vcp: <>kftisADyatvaM sADyatAsaMsargeRa kftirvA . Adye tu lakzaRA-
-147335:1: vcp: <>dikaM SaraRamityanyadetat . BojanaviSezyatayeti BojanaprakA-
-147336:1: vcp: <>rakecCAviSezyavayetyarTaH . odanaviSezyakaBojanaprakArake-
-147337:0: vcp: <>cCASraya ityanvayaboDAditi BAvaH . nanu kftisADyatva-
-147338:1: vcp: <>prakArakecCAyAniyamataH kftipUrvvamanuBavasidDatve'pi na sA
-147339:0: vcp: <>pravftterheturavacCedakagOravAt, kintu kftIcCEva izwa sADanatA [Page1976-b+ 38]
-147340:1: vcp: <>jYAnena, tasyA api pUrvvaM samBavAt . nacEvaM kriyAyA
-147341:2: vcp: <>izwAsADanatAdijYAne'pi kfterizwopAyatvAdistAnAt pravf-
-147342:0: vcp: <>ttyApattiriti vAcyam izwatvAt . anyaTA tavApi kfte-
-147343:0: vcp: <>rizwAjanakatvAdijYAnadaSAyAmapi kriyAyA izwajanakatvAdi
-147344:6: vcp: <>jYAna tpragttyApattestulyatvAdataAha izwaBAzwanatveneti izwa-
-147345:2: vcp: <>sADanatvajYAnenetyarTaH . vuzwAviveti pravfttipUrvvamiti SezaH .
-147346:0: vcp: <>karotIti tAdfSAnuvyavasAyenetyarTaH . jYAnacikIrzA-
-147347:0: vcp: <>pravfttInAmiti pravfttyA saha pravfttikAraRajYAnacikIrzAyAH
-147348:2: vcp: <>samAnaviSezyakatvasya vizayokaraRAta ityarTaH . idamupalakzaRam
-147349:5: vcp: <>atipramaNgaBaNgAya tadvigezyakakftO tada kUlakftocCAyAeva
-147350:0: vcp: <>hetutAyA vaktavyatvAt pAkAnukUlakftIcCAtvasvakftisADyatva-
-147351:3: vcp: <>prakArake cCAtvayoH samaSaroratvena lAGavagOra mapi nAstI-
-147352:4: vcp: <>tyavaDayam . kftyA sADayitumiti kftisaDadatvaprakArike-
-147353:3: vcp: <>tyarTaH . sA--cikorzA cikIrzatasya pAkasyaticikIrzAviza-
-147354:3: vcp: <>yatAcacCedakapAkatvAvacCinnasyertyaTaH . anyataH sidDO anyataH
-147355:3: vcp: <>sidDatvagrahe, sA--pAkatvapfkarikA nApagacCet na na jAyeta
-147356:0: vcp: <>jAyeteti yAvat . upAyaviSezasADyatveneti ekopAya-
-147357:1: vcp: <>sADyatvaprakAriketyarTaH . upAyAntarADoneti upAyAntarA-
-147358:3: vcp: <>DonasidDatvajYAnenetyarTaH . protyeti pratyADanalABasya prItyA
-147359:0: vcp: <>sidDatvajYAne'pItyarTaH . pratigraheReti pratigrahasADyatva-
-147360:1: vcp: <>prakArakaDanalABecCAyA ityarTaH . anivftterutpattyanivftte-
-147361:0: vcp: <>rutpatteriti yAvat . taTA ca tadupAyasADyatvaprakArake-
-147362:0: vcp: <>cCAM prati tadupAyataHsidDatvajYAnasyEva pratibanDakatayA upA-
-147363:3: vcp: <>yAntarADInasidDatvajYAne'pi kf tasADyatvajYakArakecCot-
-147364:0: vcp: <>pattO na bADakamiti BAvaH . svavizayasidDatvasyeti svavizaya-
-147365:1: vcp: <>tAvacCedakAvacCinna vaSezyatAkasidDatvajYAnasyetyarTaH yaTA
-147366:1: vcp: <>Srute pAkaM kftyA sADayAmItIcCAyA anyataH sidDapAkA
-147367:3: vcp: <>ziyatayA tatsidDO tannivftteranupapAdanAt . na ca tasyA
-147368:3: vcp: <>anyataH sidDapAko'pi vizayaH vyaDikaraRa kArakecCAyA
-147369:1: vcp: <>aByupagamAt iti vAcyaM taTApi pAkatvarUpreRAnyataH sidDa-
-147370:0: vcp: <>pAke sidDatvajYAne tena rUpeRa sidDapAkamAtre tadApatte-
-147371:0: vcp: <>stAdavasTyAt BinnaprakArakasyApi sidDatvajYAnasya prati-
-147372:1: vcp: <>banDakatvApAtAcca . sidDatvaYca kvacidutpannatvaM, kvacidvidya-
-147373:1: vcp: <>BAnatvaM, kvacicca kzemasADyatAviroDitvarUpaM, yaTA duHKa-
-147374:0: vcp: <>prAgaBAvAdO pratibanDakABAvakUwasya hetutvAcca nAnanuga-
-147375:0: vcp: <>modozAya . nacEvaM sidDe grAmAdO kaTamicCeti vAcyaM tatra
-147376:0: vcp: <>grAmAdilABasyAsidDasyEva icCAvizayatvAt na tu grAmA-
-147377:4: vcp: <>deriti BAvaH . upAyecCAviroDitvAt upAyecCaganutapA [Page1977-a+ 38]
-147378:2: vcp: <>prayojakavAt, PalecCAvicCedasya pratibanDakatvABAvena yaTA
-147379:3: vcp: <>SrutAsaNgateH . tatra--cika rzatasya pAkasyAnyavaH sidDatvajYAna
-147380:2: vcp: <>sTale . sidDatvam--midDatvagrahaH pAkasya sidDatvajYAnAt svavi
-147381:2: vcp: <>zaya sadDatvajYAnam odanasya sidDatvajYAnAt PalecCA vacCeda
-147382:2: vcp: <>iti BAvaH . nanusvapizayatAbacCedakAvacCinnaviSezyatAkasidDa-
-147383:3: vcp: <>tvajYAnatvena patibanDakatve svavAntarBAvAt ananugamaH na
-147384:1: vcp: <>ca tadDarmmASrayaviSezyakecCAM prati tAdfSasidDatvajYAnaM viro-
-147385:2: vcp: <>DIti vAcyaM visaMvAdocCAyA asaMgrahAt . aTa tadarmmAva
-147386:3: vcp: <>cCinnaviSezyatAkasidDatvajYAnaM viroDi nacE . SUdrAdi-
-147387:1: vcp: <>pAke sidDatvajYAne'pi brAhmaRasya pAke cika rzA na syAditi
-147388:0: vcp: <>vAcyaM tadAnIM svIyapAkatvAdirUpeREva” brAhmaRasya cikI-
-147389:0: vcp: <>rzotpAdAt pAkatvarUpeRa tadanutpAdAt iti cenna grAme
-147390:2: vcp: <>svatvaM me Bavatviya disidDagrAmAdigocarecCAyAM grAmatvAdi
-147391:1: vcp: <>rUpeRa sidDatvajYAne'pi ja yamAnAyAM vyaBicArAt kapAla-
-147392:1: vcp: <>havirAdirUpeRa sidDatvajYAne'pi kapAlahavirAdya pAdAne-
-147393:1: vcp: <>cCAyAM vyaBicArAt sidDatvajYAnadaSAyAM tadanaByupagame ta
-147394:0: vcp: <>dAnIM pravftterapyapalApaprasaNgAt upAdAnecCAyAH pravfttO-
-147395:4: vcp: <>hetuvAdataeva tadvarmmaprakArakacAvacCinnamuKyaviSezyatA-
-147396:3: vcp: <>kecCAM prati tadvarmmAvacCinnaviSezyanAkasidDatvajYAna viroDi
-147397:2: vcp: <>nAto grAme svatvaMme Bavatviti sidDagrAmAdigAcarecaCAyAM
-147398:0: vcp: <>vyaBicAra iti kasyacit pralapitamapAstaM, kapAlahavi
-147399:1: vcp: <>rAdyupAdAnecCAyAM vyaBicarAt pAkatvAdirUpeRa sidDatva-
-147400:0: vcp: <>jYAnadaSAyAM mama kftisADyapAkoBavatviti cikIrzAyA
-147401:0: vcp: <>anutpAdavat GawatvAdirUpeRa sidDatvajYAnadaSAyAmapi nI-
-147402:1: vcp: <>RoGawoBavatvitIcCAyA anutpattiprasaNgAcca iti cet? mEvaM
-147403:2: vcp: <>tadDarmmeddeSyatAvacCedakakecCAM prati tadDarmmaprakArakasidDatva-
-147404:0: vcp: <>jYAnasya pratibanDakatvAt . uddeSyatvaYca BavatvityAdipadABi-
-147405:4: vcp: <>lapyanAno vizavatAviSezaH grAme svatvame BavatvityAdO
-147406:2: vcp: <>grAmAdirnoddeSyaH kintu svacameva evaM kapAlAdyupAdAna
-147407:4: vcp: <>gocarecCAyAmapi kapAla dirnoddaSyaH . uddeSyatAvacCadakatvaYca
-147408:1: vcp: <>tatparyAptyaDikaraRatvaM tena GawatvAdirUpeRa sidDatvajYAna-
-147409:0: vcp: <>daSAyAM nIloGawoBavatvitIcCotpattiH . ataeva yasyAM
-147410:1: vcp: <>pAkAdiviSezyakaDikIrzAyAM, pAkatvAdimAtreRoddeSyatA
-147411:0: vcp: <>pAkatvAdirUpeRa sidDatvajYAnAdeva sApEti yasyAntu svakfti-
-147412:0: vcp: <>sADyapAkatvAdirUpeRa, sA tu svakftisADyapAkatvAdirUpeRa
-147413:0: vcp: <>sidDatvajYAnAdevApEti iti viBAgaH . tAdfSavilakzaRa-
-147414:1: vcp: <>vizayatAnaNgIkAra tu tattadvyaktitvenEva pratibaDyatA, prati-
-147415:0: vcp: <>banDakatA tu sAmAnyatastadDarmmAvacCinnaviSezyatAkasidDatva- [Page1977-b+ 38]
-147416:1: vcp: <>jYAnatvena tattadvyaktitvena vetyanyadetat . kecitta yadDarmA-
-147417:0: vcp: <>vacCedenezwasADanatAjYAnADInA icCA tadDarmmaprakArakasidDa-
-147418:5: vcp: <>tva naScayo viroDa . izwasADanaziyatvaYca yatra pAkatva-
-147419:2: vcp: <>rUpeRa gfhotaM tatra pAkatvaprakArakasidDatvaDiyova sApagacCati
-147420:0: vcp: <>yatra matkftisADyapAkatvAdinA tadavagataM, tatra tadavacCinna-
-147421:2: vcp: <>sidDacaDiyEveti viBAgaH . tena pratigrahasADyaDanalABatva-
-147422:2: vcp: <>syezwasADanatva vacCedakatvAt prakArAntareRa talla Be'pi na
-147423:2: vcp: <>tadapagamaH . na ca sidDatvajYAnadaSAyAM GawayAgadisADyakapra-
-147424:0: vcp: <>vfttijanakakapAlahavirAdyupAdAnecCAyAM vyaBicAra iti
-147425:1: vcp: <>vAcyam gurunaye upAdAnanizWacikorzAvizayasADanatAjYA
-147426:0: vcp: <>nasya sAkzAdeva pravfttihetutvena tAdfSecCAyAM mAnABAvAt .
-147427:3: vcp: <>tacCAgre sPawaBavizyati evaM nyAyanaye'pi na ca taTApi
-147428:2: vcp: <>yaTA pAkacarUpeRa izwasADanatAjYAnAt kftisADyatvapra-
-147429:0: vcp: <>kArakajYAnasahakftAt pAkaH kftisADyo Bavatu itIcCAyA
-147430:1: vcp: <>grAmatvAdirUpeRa sidDagrAma dAvizwasADanatAjYAnAt svIya-
-147431:1: vcp: <>svatvapraka rakajYAnasahakftAt grAmo me svatvavAn Bavatu iti
-147432:1: vcp: <>sidDagrAmaviSezyakecCAyAScotpattObADakaBAvAt tatra vyaBi-
-147433:0: vcp: <>cAraH grAmatvAdirUpeRa sidDatvajYAne'pi tadutpatteriti
-147434:2: vcp: <>vAcyam svakf tasADyatAtiriktasTale tatpraka rakaPalArTI
-147435:0: vcp: <>cCAyAM tatprakArakaPalasADanatAjYAnasya Palabalena hetutayA
-147436:0: vcp: <>grAmatvarUpeRezwasADanatAjYAne tAdfSecCAyA evAsidDeri-
-147437:0: vcp: <>tyAhuH, tadasat gurunaye nityavizayakecCAyA asaMgrahAt .
-147438:1: vcp: <>GawAdisAGyakapravfttO GawAdicikIrzAvat kapAlAdyupA-
-147439:0: vcp: <>dAnakapravfttO GawAdicikIrzAvatkapAlAdyupAdAnakapravfttO
-147440:2: vcp: <>kapAlAdIcCAyA api he tvena kapAlAdyudAnakecCAyA
-147441:0: vcp: <>vyaBicArasya durvAratvAcca, anyaTA cikIrzAvizayasADanatA
-147442:0: vcp: <>jYAnasya lOkikapratyakzasya cAviSizwatve'pi yatrecCA tatrE-
-147443:2: vcp: <>vopAdAnatayA pravfttiryava necCA tatra neti niyamAnupa-
-147444:1: vcp: <>patteH . nya yamImAMsAsidDAntasya ca yuktivirudDatvenAnupA-
-147445:1: vcp: <>deyatvAditi saMkzevaH” . aDikaM tadgranTe dfSyam .
-147446:2: vcp: <>nyAvayate tu kAryyatvajYAnamizwasADanatvajYAnaM balavadanizwA
-147447:2: vcp: <>nanubanDitvajYAnaM ceti yaTAyayam pravarttakamiti BedaH
-147448:0: vcp: <>vistarastu Akare dfSyaH .
+147012:0: vcp: jYAnADInA cikIrzA tannizWA tacca jalAharaRasvargAda-
+147013:0: vcp: nAdirUpaM jalAharaRArTitayA GawaM karomi svargA-
+147014:4: vcp: rTitayA yAgaM karotityanavyavasAyAt . jalAharaRamuddeSya
+147015:1: vcp: GawaM kAromi svargamudviSya yAgaM karomotyanuvyavasAyAcca
+147016:0: vcp: evaYca tattatsADyatAvacCedakatattat sADyakapravfttitvAvacCinnaM
+147017:5: vcp: prati kattatasADyatAvacCadakaviSazyavAvacCedakakatattatsADya-
+147018:0: vcp: viSezyakakftisADyatAjYAnaM heturiti na vyaBicAraH evaM
+147019:1: vcp: cikIrzAyA api hetutvamavaseyaM tena tasyA api kapAla-
+147020:4: vcp: havistaRquScAdO na vyaBicAra” anyaTA nEyAyikaBate'pi
+147021:1: vcp: vyaBicArasya durvAratvAt tErapi kftisADyata jYAnacikIrza-
+147022:3: vcp: yorhetutvopragamAditi BAva . yattupravfttervizayavAtrEviDye
+147023:0: vcp: mAnABAvaH kintu kapAlahavistaRqulAdyupAya eva
+147024:5: vcp: pravattigziyaH pravattiviSezyatvameva copAdAnatvam . nacEvaM
+147025:5: vcp: zawaM karoti yAgaM kArotAtyAdivya ha rAnupapAttaH kfti-
+147026:7: vcp: bAciDAtayo gadvavIyAyA viSazyavArTakatvAdanyaTA kapAlaM
+147027:4: vcp: karototyAdivyAhArApattiriti vAcyam tatra GawayAga-
+147028:2: vcp: pAkAdipadasya kapa lahavistaRqulAdO lakzaRikatvAt
+147029:3: vcp: kftivAciDa--tuyo gadvitIyAyA viSezyatAnukUlatAnyatarArTa-
+147030:2: vcp: katvaniyamenAnukUlatvaM viSazyatA vA tatra dvitAyArTaH iti
+147031:1: vcp: prAYconEyAyikA badanti . tadasat lakzaRayA SabdaprayogarUpa-
+147032:3: vcp: vyavahArasamaTatte'pi GawAdiviSezyakatvAvagAhitvenAnuBUya-
+147033:0: vcp: mAnAyA GawaM karomItyAdiprAtyakzikapratIteranupapAdanAt
+147034:0: vcp: lakzaRAyAM mAnABAvAcca . kiYca jalAharaRasvargAdirUpa
+147035:1: vcp: kalasya uddeSyatAKyavizayatAyA GawayAgapAkAdeSca sA- [Page1972-b+ 38]
+147036:2: vcp: DyAtAKyavizayatAyA anaByupagame izwasADanatAjYAna
+147037:3: vcp: kftisADAtAcikIrzARAM kAryakAraRaBAvo'pi durvvaca
+147038:0: vcp: ityuktaprAyaeva vakzyamARaScoparizwAt iti dik . atra
+147039:1: vcp: ca tatprakArakatadviSezyakatatsADanatAjYAnatvaM tatsADyatA-
+147040:1: vcp: vacCedakakatatsADyakatadarTipravfttikAraRatAvacCedaka na vA,
+147041:0: vcp: jYAnatadarTipravfttitvaM tatsADanatAjYAnajanyavftti navetyAdi
+147042:2: vcp: vipratipattayaH tena nEyAyikErapi kfttisADyatAjYAnasTa
+147043:5: vcp: pravattakatvAByapagame'pi na kzati . tadarTitvaYca taduda SyakatvaM
+147044:1: vcp: na tu izwasa--DanatAjYAnaM pravarttakaM na vA tatsADanatAjYAnaM
+147045:3: vcp: tadarpipravattikAraRaM navetyAdivipratipattiH pararapi havi-
+147046:2: vcp: rAdyapAdAnanizWayAgAdirUpacikArzAvizayasADanatAjYAnasya
+147047:2: vcp: yAgAdigocarapravfttO hetutvasyAByapagamAt izwasADanatva-
+147048:0: vcp: kftisADyatvoBayavizayakasamUhAlambanasya pravfttihetutvAByu-
+147049:1: vcp: pagamAcceti Dyeyam . cikIrzAtirikaM na karttavyamastIti
+147050:0: vcp: karttavyaM dvAraM cikIrzA avaSyaM dvAramiti samuditArTaH
+147051:0: vcp: taTEva prakftopayogAt . nacEvaM pravarttakajYAnatvavyApakaM ci-
+147052:0: vcp: kIrzAvyApArakatvamiti PalitArTaH taccAyuktaM upAdAna
+147053:1: vcp: pratyakze vyaBicArAt tasya sAkzAdeva pravfttihetutvAta upA-
+147054:0: vcp: dAnecCayostasya dvAratvamate'pi cikIrzAyA advAratvAcca
+147055:0: vcp: iti vAcyaM jYAnasyetyasya pravfttiM prati sAkzAdasADanIBUtasya
+147056:0: vcp: jYAnasyetyarTAt upAdAnapratyakzaYca na sAkzAt sADanaM
+147057:1: vcp: upAdAnapratyakzavirahe pravfttyanudayAt upAdAnecCAya sta-
+147058:0: vcp: ddvAratvamate'pi tasya sAkzAtsADanatvAvaSyakatvAt . na ca
+147059:0: vcp: taTApi PalajYAne vyaBicAraH PalacikIrzAyAH pravfttAva-
+147060:0: vcp: hetutvAt iti vAcyaM PalajYAnasya PalecCAdvArA upA-
+147061:2: vcp: yecCAmAtrasampAdakatvanAtyaTAsidDatayA pravfttijanakatvasyEva
+147062:0: vcp: tatrAsidDeH . yadi ca PalajYAnamapi pravfttijanakaM tadA
+147063:0: vcp: upAyacikIrzAyA eva tadvyApAratvena cikIrzAvyApArakatva
+147064:1: vcp: rUpasADyasyApi tatra sutarAM sattvAcca na hi svamamAna-
+147065:2: vcp: viSezyakacikIrzAvyApArakatvaparyantaM sADyamanupayogA-
+147066:1: vcp: diti Dyeyam . nanu cikArzArUpavyApArasattve'pi kuto
+147067:3: vcp: na kvacit kftyutpAdEyata Aha tatsattve iti . hetvanta-
+147068:1: vcp: reti hetvantara daRqakapAlAdyupAdAnalOkikapratyakzaM, pratiba-
+147069:2: vcp: nDakABAvaScati BAvaH . nanu tattadupAdanatAvacCedakakatatta-
+147070:4: vcp: dupAdAnakapravfttitvena tattaduprAdAnatAvacCedakaprakAraka
+147071:2: vcp: tattadupAdAnaviSezyakalOkikasAkzAtkAratvenoprAdAnapratyakzasya
+147072:1: vcp: hetuhetumadBAvAt daRqakapAlAdyupAdAnapratyakzABAve tadu-
+147073:1: vcp: zAdAnakapravfttirmAstu GawAdisADyakapravfttiM vinApi [Page1973-a+ 38]
+147074:2: vcp: saMyogAdisADyakapravfttO daRqAdyupAdAnakapraDattisattvena
+147075:5: vcp: tadupa dAnakyavfttisAmagyrAH GawAdisADyakapravfttisAma-
+147076:6: vcp: gryapekzayA viSezasABagratvicirahAt daRqopAdAnaka
+147077:1: vcp: pravfttiM vinApi kapAlopAdAnakaGawasADyakapravfttA Gawa
+147078:1: vcp: sADyakapavfttisattvena tadupAdAnakapravfttisAmagryA GawAdi
+147079:4: vcp: sADyakapravfttisAmagyrapekzayA sAmAnyasAmagrItvavivahAccati
+147080:0: vcp: cenna sAmagryAH sAmAnyaviSezaBAvAnApannatve'pi
+147081:3: vcp: daRqacaka kapa lAdyanyatamopAdAnakapravfttyatiriktAyA GawA-
+147082:5: vcp: disADyakapravraterala katayA tAdfSAnTataBopAdAnakapravftti
+147083:3: vcp: sAmagrIvirahAdeva tAdfSAnyatamopAda napratyakzABAvadaSAyAM
+147084:2: vcp: tadanutpattastadarmAvacCinnayatkiYcidvyaktisAmagrIsahitAyA
+147085:1: vcp: eva tadDarmmAvacCinnasAmagryAstadDarmmAvacCinnakAryyopaDAyaka-
+147086:0: vcp: tvAt idameva ca kAraRasamAjADInA kAryotpatti-
+147087:1: vcp: riti gIyate . etena GawAdicika rzAvirahe'pi daRqa-
+147088:1: vcp: gocarapratyakzAt daRqopAdAnakapavfttyApattistadavacCinnasya
+147089:0: vcp: sattvAdityapi nirastaM saMyogaBramyAdyanyatamasADyakapravf-
+147090:0: vcp: ttyatiriktAyA daRqopAdAnakapravftteralIkatayA tAdf-
+147091:1: vcp: SAnyatamasADyakapavfttisAmagrIvirahAdeva tadanutpAdAt
+147092:0: vcp: kAryotpatteH kAraRasamAjADInatvAt . navyAstu upA-
+147093:1: vcp: dAnapratyakzamya hi svAtantryeRa na hetutA kintu GawAdi-
+147094:2: vcp: nizWacikIrzAyA daRqAdyupAdAnakalOkikasAkzAtkArasya ca
+147095:1: vcp: sattva 'pi daRqAdO GawasADanatvajYAnABAvadaSAyAM Gawa-
+147096:1: vcp: sADyakadaRqopAdAnakapravfttivAraRIya daRqopAdAnanizWa-
+147097:1: vcp: cikArzAvizayaGawAdisADanatAjYAnasyApi GawAdisADyakada
+147098:5: vcp: RqAdyupAdAnakapavfttitva vAcCanna prati nyAyanaye paranaye ca
+147099:1: vcp: viSezakAraRatvAvaSyakatvAttadeva cikorzAvizayasADanatAjYAna
+147100:1: vcp: mupAdAnAMSe lOkikapratyakzAtmaka heturupeyate ka ryakAraRa-
+147101:2: vcp: BAvadfyakalpanAmapekzya lAGavAt . na ca GawasADyaka-
+147102:0: vcp: kapAlopAdAnakaGawaDvaM sasADyakadaRqopAdAnakasamUhAlamba-
+147103:2: vcp: napravfttO daRqanizWaGawasADanatAjYAnasyAhetucAt tatra
+147104:0: vcp: vyaBicAravAraRAya GawatvAvacCinnasADyatAnirUpitadaRqatvA
+147105:7: vcp: bacCinnopAdanatASAlivatttitvameva kAryatAvacCedakamupeyaM
+147106:4: vcp: taTAca daRqatvAvacCinnopAdanatAnirUpatazWawatvAvaccCi-
+147107:0: vcp: nnasADyatASAlipravfttitvamAdAya vinigamanAvirahAttavApi
+147108:1: vcp: gurutarakAryakAraRaBAvadvayamAvaSyakamiti vAcya daRqAdyu-
+147109:2: vcp: pAdAnanizWacikIrzAvizayaGawasaDinatAjYAnasya GawAdisA-
+147110:1: vcp: DyakadaRqAdyupAdanakapravftti prati viSezakAranatvAvaSyakatayA
+147111:1: vcp: vinigamanAvirahAt tAdfSakAryaka raRaBAvadvayasya sarvasammata- [Page1973-b+ 38]
+147112:4: vcp: tvAt . ityaYca viSazasAmagrovirahAdeva upAdAnapatyakzA-
+147113:5: vcp: BAvadaSAyAM na GawAdisa DyakAvfttyutpattiprasaNgaH . etena
+147114:3: vcp: GawAdinizWacirkArzAvirahe'pi daRqagocarapatyakzAt daRqa-
+147115:1: vcp: nizWaGawasADanatAjYAnAtmakaviSezasAmagrIsahakftAta daRqo-
+147116:4: vcp: pAdAnakapravattya pattistadavacCinnasAmagrIsattvAditi dvirtAyA-
+147117:4: vcp: tiprasaNgo'pi nirastaH, kevaladaRqopAdAnakAvfttitvasya kA-
+147118:5: vcp: yatAnavacaCedakatvAt GawAdisADyakadaRqAdyapAdaHnakapavftteSca
+147119:1: vcp: GawAdinizWacikIrzAlakzaRaGawAdisADyakapravfttasAmAnyasA-
+147120:4: vcp: magrIvirahAdevAsamBava diti pra huH . aTa pratyajavizaya-
+147121:3: vcp: kapAlavyakto idaM na kapAlamityamasargagrahasattve'pi kapAla-
+147122:3: vcp: tvapraka reRa kapAlaM GawasADanaBiti kapAlatvAMSa nirdDarmi-
+147123:4: vcp: tAvacCedakakatatkapAlAvazayakalAkikapratyakzAta kapAlatva-
+147124:2: vcp: praka reRa tatkapAlopAdanakapravfttyApattiH . na ca kapAla-
+147125:2: vcp: tvaprakAreRa tadvyaktO vfzwAvivezwa pattirita vAcyam
+147126:2: vcp: anuBavaviroDAdi ta cenna tadupAdanatAvacCedakAMSe
+147127:2: vcp: idantvaDammitAvacCedakakatadupAdAnaviSezyakapratyakzasyedaM Gawa-
+147128:0: vcp: sADanamityAkArasya vA tattadupAdAnatAvacCedaka
+147129:0: vcp: katadupAdAnakapravfttiM prati hetutvena nirdDarmmitAvacCedaka-
+147130:1: vcp: kajYAnasyAhetutvAt . nacEvamida GawasADanamiti lO-
+147131:6: vcp: kikapratyakzAdidantvaprakAreRetadvyaktyupAda nakAvfttirna syAt
+147132:0: vcp: tasya idantvAMSe nirdDarmmitAvacCedakakatvAditi vAcyam
+147133:1: vcp: upAdAnatAvacCedakaBadena kAryyakAraRaBAvaBedAdidantva
+147134:3: vcp: sTale nirdDa rmmatA cCedakakajYAnasyApi pravarttakatvAt
+147135:1: vcp: idamidaM netyamaMsargAgrahAsamBavena tatrApi pramaNga-
+147136:0: vcp: virahAdityAstAM vistaraH . cikIrzA ceti vyApArIBUta
+147137:4: vcp: cikIrzA cetyarTaH . anyaTA--cikArzAsAmAnyamya ssakzyatve .
+147138:2: vcp: lakzaRe PalacikIrzAyAmativyAptivArakaM kftisADyAkrayA
+147139:0: vcp: vizayatvaM viSezaRaM vyarTaM syAdityanupadameva sPuwIBavi-
+147140:0: vcp: zyati . kftisADyatvaprakAriketi . atra PalacikIrzAyA-
+147141:4: vcp: vyApAratvABAvena lakzyacAttatrAtivyAptivAraRAya kfti
+147142:1: vcp: sADyakriyeti kriyApadaM DarmmimAtraparam kftisa DyatvaYca
+147143:3: vcp: sADyatvAKyaPalImUtavizayatASAlinizWatva naTA ca sa Dya
+147144:0: vcp: tvAKyaPalIBUtakftivizayatASAliDarmmivizayiketyarTaH Pa-
+147145:0: vcp: laYca na tAdfSavizayatASAlIti BAvaH . kecittu kriyA-
+147146:0: vcp: padameva sADyacAKyaPalIBUtakftivizayatASAliparam na
+147147:0: vcp: cEva pfTak kftisADyatvaM kriyAviSezaRaM vyarTamiti
+147148:0: vcp: vAcyaM kftisADyatvaprakArakajYAnasya vyApArIBUtA yA ci-
+147149:5: vcp: korzA sarva prakfte lakzyA sA ca saMvAdinI cikArzEva, visaM- [Page1974-a+ 38]
+147150:0: vcp: vAdicikIrzAyAM tatprakArakajYAnasya hetutve'nyaTAKyA-
+147151:4: vcp: tyApatteH . taTA ca pfzTAdivisaMvAdicikIrzAyAmati-
+147152:2: vcp: vyAptivAraRAya tadviSezaRasyAvaSyakatvAt ityAhuH . pAka-
+147153:1: vcp: miti pAkaM kftyA sADayAmItyAkArikAyAM tasyAM tadanu-
+147154:2: vcp: BavAt kftisADyatvaprakArakatvasyAnuBavamidDatvAdityarTaH
+147155:3: vcp: kftisADyatvena pAkamicCAmIti tadanuvyavasAyasattvAditi
+147156:0: vcp: BAvaH . icCAyA ityAdi . icCAyAH svaprakArakasaMvA-
+147157:2: vcp: dIcCAyAH tatprakArakasaMvAdIcCAyAstatprakArakaDosADya-
+147158:0: vcp: tvaniyamAditi PalitArTaH . gurunaye rajatAdiprakA-
+147159:2: vcp: rakavisaMvAdIcCAyAM rajatAdiprakArakajYAnAjanyAyAM
+147160:0: vcp: vyaBicAravAraRAya saMvAditvopAdAnaM kUwaliNgasTale-
+147161:1: vcp: 'pyanAyattyA tadicCAyA vizayAntaracizayakatvakalpanena vi-
+147162:7: vcp: saMvAdaH kalpyate . na cEvaM saMvAdivikorzAyAM tajjanya
+147163:2: vcp: pravfttO ca kftisADyavaprakArakajYAnasya hetutve'pi ci-
+147164:2: vcp: korzAsAmAnye ca kftisADyatvajYAnasya na hetutvasidDi-
+147165:1: vcp: riti vAcyaM saMvAdicikorzAdO kftisADyatAprakAraka-
+147166:2: vcp: jYAnasya hetutye sidve yadviSezayoriti (yadviSezayoH kAryya
+147167:0: vcp: kAraRaBAvastatsAmAnyayorapIti) nyAyAt cikIrzAdi-
+147168:1: vcp: mAtraM pratyeva kftisADyatAvizayakajYAnasya hetutvaMsidDeriti
+147169:0: vcp: BAvaH evamagre'pi . kecittuyA yatprakArikecCA sA
+147170:0: vcp: tadvizayakajYAnasADyeti niyamaH na tu prakAratAparyyanta
+147171:1: vcp: praveSaH mUle'pi svaprakAraketyasya svavizayaketyarTaH evaYca
+147172:0: vcp: rajatAdivisaMvAdIcCAyAM na vyaBicAraH tatra tannaye icCA
+147173:1: vcp: viSezyaviSezyakarajataprakArakajYAnasyAhetutve'pi svAtantryeRa
+147174:0: vcp: rajatopasTiteravaSyaM hetutvAt . na ca tannaye visaMvAdI-
+147175:0: vcp: cCAyAmupasTitezwatAvacCedakAsaMsargAgrahasyEva hetutayA raja
+147176:1: vcp: tajYAnaM tatra kAraRatAMvacCedakameva na tu kAraRamiti
+147177:0: vcp: vyaBicAro durvAraeveti vAcyaM kAraRakAraRatAvacCedaka
+147178:0: vcp: sADAraRaprayojyatvarUpasya sADyatvasya niyamaGawakatvAt .
+147179:0: vcp: nacEvaM prakfte'pi kftisADyatAjYAnasyEkakAlAvacCinnEkAtma-
+147180:1: vcp: vfttitvasambanDena izwasADanatAjYAnanizWakAraRatAvacCedakatva
+147181:0: vcp: mevAyAtu kutaH kAraRatvam? iti vAcyaM vakzyamARakrameRa
+147182:0: vcp: tannaye izwasADanatvajYAnasyecCAviroDitayA izwasADanatA-
+147183:0: vcp: jYAnasya cikIrzAhetutvAsamBavAt pariSezeRa janyatArUpa-
+147184:0: vcp: syEva kftisADyatAjYAnaprayojyatvasya cikIrzAyAM sidDeH .
+147185:1: vcp: nacezwasADanatAjYAnasyAjanakatve'pi balavadanizwAnanubanDitva-
+147186:1: vcp: jYAnanizWajanakatAvacCedakatvamevAyAtviti vAcyaM balavaddveza-
+147187:1: vcp: syEvecCAviroDitayA tajjYAnasyApi cikIrzAhetutvAsidDeH . [Page1974-b+ 38]
+147188:1: vcp: vastutastu viSezyaviSezaRaBAve vinigamakABAvAdupasTitezwa-
+147189:2: vcp: tAvacCedakAsaMsargAgrahavaduagfhotAsaMsargakezwatAvacCedakopa-
+147190:0: vcp: sTiterapi visaMvAdIcCAjanakatayA janyatvarUpasADyatvameva
+147191:0: vcp: niyamaGawakamiti na ko'pi doza iti prAhuH . ata-
+147192:0: vcp: eveti cikIrzAyAH svakftisADyatAjYAnasADyatvAdevetyarTaH .
+147193:1: vcp: svakftisADye--svakftisADyatvena jYAte . idaYcApAtataH
+147194:0: vcp: vastuto lAGavAtpAko matkftimAn BavatvityAkArikA sA-
+147195:0: vcp: DyatAsaMsargeRa kftiprakArikA icCEva vyApAro na tu kfti-
+147196:0: vcp: sADyatvaprakArikA gOravAdataeva jYAnamapi sADyatAsaMsargeRa
+147197:1: vcp: kftiprakArakameva heturiti tattvam . yadyapyuktaniyamavalena
+147198:0: vcp: kftisADyatAjYAnasya hetutvaM sADitameva taTApi yuktyantara-
+147199:1: vcp: dAnAya punaranuvadati na dvizweti izwasADanatAjYAnasADyA-
+147200:0: vcp: kftisADyatAjYAnaM vinApi izwasADanatAjYAnasADyA yaTA-
+147201:2: vcp: Srute'grimahetvasaNgateH . svakfTasADye--svakftyasADyatvena ni-
+147202:1: vcp: Scite svakftyasADyatAjYAnaBiti svakftyasADyatAniScaya
+147203:0: vcp: ityarTaH kftisADyatAsaMSaye'pi pravftteranuBavAdyaTASrutA
+147204:2: vcp: saNgateH . na ca kftisADyatAsaMSaye pravfttirsvakAre bahu-
+147205:1: vcp: vittavyayAyAsasADye'pi pravfttvApattiriti vAcyaM balava-
+147206:0: vcp: danizwAnubanDitvajYAnasya viroDitvAdeva tatrecCApravfttyora-
+147207:3: vcp: BAvAditi Dyeyam . tadaBAvakAraRatva iti kftimADyatA-
+147208:0: vcp: jYAnatvena kAraRatvamapekzya kftyasADyatAniScayABAvatvena-
+147209:0: vcp: kAraRatve gOravAt ityarTaH . nacAprAmARyaniScayAnAska-
+147210:0: vcp: nditakftisADyatAjYAnatvApekzayA'prAmARyajYAnAnAskandita
+147211:0: vcp: kftyasADyatAniScayABAvatvameva laGviti vAcyaM kfti-
+147212:1: vcp: sADyatAjYAnasyAprAmARyaniScaye balavadanizwAnubanDitA-
+147213:0: vcp: jYAnodayAdeva pravfttyaBAvasamBavAttatra tadanAskanditatva
+147214:1: vcp: syApraveSAt svakftatyasADyatAniScayavattadaBAvavyApyAdini-
+147215:0: vcp: niScayasyApi pratibanDakatvAvaSyakatayA bahutarakAryyakAraRa
+147216:0: vcp: BAvakalpanAgoravAcceti BAvaH . kecittu nanUktani-
+147217:3: vcp: yamabalAdastu kftisADyatAjYAnaM hetustaTApi kftisADyatA-
+147218:0: vcp: jYAnatvena tasya na hetutA api tu izwasADanatAjYAnatvena
+147219:1: vcp: sarvvatrezwasADanatAkftisADyatoBayavizayakasamUhAlambanA-
+147220:0: vcp: deva cikIrzetyata Aha na dvizwasADanatAjYAnasADyeti
+147221:0: vcp: na dvizwasADanatAjYAnatvAvacCinnakftisADyatAjYAnakAraRa
+147222:0: vcp: tAketyarTaH . svakftyasADye svakftyasADyatvena niScite . ci-
+147223:0: vcp: kIrzApatteH--kevalezwasADanatAjYAnAccikIrzApatteH kAra-
+147224:1: vcp: RatAvacCinnasattvAdizwApattO coktaniyamaBaNgAditi BAvaH .
+147225:0: vcp: tadaBAvakAraRatve gOravAditi . idamupalakzaRaM kftya- [Page1975-a+ 38]
+147226:0: vcp: sADyatAniScayasya pratibanDakatve'pi yatra kAraRAntarA-
+147227:1: vcp: BAvAdiwasADanatAjYAne kftisADyatvasya na BAnaM tatra
+147228:3: vcp: kavalezwasADanatAjYAnAccikIrzApatterdurvvArratvAcca ityapi-
+147229:0: vcp: boDyam . uktaniyamamasmftvEva tawasTaH SaNkate aTetIti .
+147230:0: vcp: aBAvaH--kftyasADyatAniScayABAvaH . uBayasidDaH--cikI-
+147231:0: vcp: rzApUrvvamuBayasidDaH, asidDA--cikIrzApUrvvamuBayAsidDA . na
+147232:0: vcp: lAGavAvasaraH iti kftisADyatAjYAnatvasya sadapi lAGavaM
+147233:0: vcp: na kAraRatAvacCedakatAyAM vinigamakam ityarTaH laGu guru-
+147234:1: vcp: DarmmadvayAvacCinnaM yadi PalapUrvvamuBayabAdisidDaM tadeva
+147235:4: vcp: lATAsya kAraRatAvacCedakatAyAM vinigamakatvAditi BAvaH .
+147236:2: vcp: dEvAtpratibanDakavirahAt . sA--cikIrzApUrvvakftisADya-
+147237:0: vcp: tADIH . lADavAvatArAditi kftisADyatAjYAnatvarUpalaGu-
+147238:4: vcp: DarmmAvacCinnasya cikIrzApUrvvamuBayamataM sattvAdityarTaH .
+147239:0: vcp: icCAyA iti tatprakArakasaMvAdIcCAyAstatprakAraka
+147240:0: vcp: jYAnajanyatAniyamenetyarTaH . AvaSyakatvAt--cikIrzA-
+147241:0: vcp: hetutAvaSyakatvAt api ca kftyasADyatAjYAnapratibanDa-
+147242:0: vcp: katAnyaTAnupapattyA kftisADyatAjYAnasya cikIrzAhetutA
+147243:1: vcp: sidDirityAha janakajYAnamiti . tajjanakIBUtajYAna-
+147244:0: vcp: viGawakasyEva jYAnasya viDipratibanDakatvAccetyarTaH . atra
+147245:0: vcp: vyAptO dfzwAntamAha vyAptijYAnaviGawanadvAreti anumiti
+147246:0: vcp: janakavyAptijYAnaviGawanenetyarTaH . taTA ca yat yatprati-
+147247:0: vcp: banDakaM jYAnaM Bavati tattajjanakajYAnaviGawakaM yaTA
+147248:0: vcp: vyaBicArajYAnamanumitipratibanDakaM jYAnaM Bavat anu-
+147249:1: vcp: mitijanakavyAptijYAnaviGawakamapi Bavati iti sAmA-
+147250:0: vcp: nyatovyAptyA kftyasADyatAniScayasya cikIrzApratiba-
+147251:0: vcp: nDakajYAnatvena hetunA cikIrzAjanakajYAnaviGawakatvasA
+147252:1: vcp: Dane pakzaDarmmatAbalAtkftisADyatAjYAnasyEva cikIrzAjana-
+147253:0: vcp: katvasidDiriti BAvaH . na ca janakajYAnaviGawakatvenA-
+147254:0: vcp: 'nyaTAsidDatayA tadaBAvasyAhetutvAt svarUpAsidDirdfzwAntA-
+147255:0: vcp: sidDiSca iti vAcyaM pratibanDakatvaM hi na kAraRIBUtA-
+147256:0: vcp: BAvapratiyogitvam kintu prayojakIBUtABAvapratiyogitvam .
+147257:2: vcp: prayojakatvaM ca kAraRakAraRavyAvfttAnyaTAsidDicatuzwaya-
+147258:2: vcp: rAhitye sati niyatapUrvavarttitvam--kAraRatatkAraRasADA-
+147259:2: vcp: raRam . hetO jYAnapadopAdAnAdeva ca vizayAntarasaYcArAdO
+147260:2: vcp: na vyaBicAraH . sADya ca jYAnapadaM svarUpakaTanam . viGawa-
+147261:0: vcp: katvaYca pratibanDakatvameva natvekakAlAvacCedena tadaDikaraRA-
+147262:0: vcp: vfttitvarUpaviroDitvaM gurunaye'DikaraRajYAnarUpatayA kfti-
+147263:0: vcp: sADyatAjYAnasyApi kftyasADyatAjYAnABAvasya jYAnAtmakasya [Page1975-b+ 38]
+147264:0: vcp: viroDitayA sidDasADanApatteH . nacAsADutvajYAne sADu-
+147265:0: vcp: tvajYAnAjanyaSAbdaDIpratibanDake vyaBicAra iti vAcyam
+147266:3: vcp: nirAkANkzatvarUpAsADutvajYAne AkANkzAjYAnamAdAya
+147267:0: vcp: sADyasyApi sattvAt asADutvajYAnasya ca pratibanDakatve mA-
+147268:0: vcp: nABAvAt . na ca taTApi sidDO vyaBicAra iti vAcyam
+147269:0: vcp: gurunaye sidDerapratibanDakatvAt tadvyAvfttapratibanDakatAyA vA
+147270:0: vcp: hetO niveSAt . ataevAsidDatvajYAnAjanyecCApratibanDaka-
+147271:0: vcp: sidDatvajYAne'pi na vyaBicAraH tadvyAvfttapratibanDakatAyA
+147272:2: vcp: eva hetO niveSAt asidDatvaniScayasyApi icCAhetutvAdvA .
+147273:0: vcp: aTa taTApi bADasatpratipakzAdO vyaBicAraH . na ca
+147274:1: vcp: tadvyAvfttA'pi pratibanDakata hetO niveSanAyeti vAcyam
+147275:0: vcp: kftyasADyatAjYAnABAvavyaBicArajYAnABAvayorapi bADA-
+147276:1: vcp: BAvatayEva cikIrzAnumityoH prayojakatayA svarUpAsidDi
+147277:0: vcp: dfzwAntAsidDyorApatteH . na ca sAkzAdaviroDitve satI-
+147278:0: vcp: tyanena heturviSezaRIya iti bAcyam sAkzAdaviroDitvaM
+147279:0: vcp: hi na grAhyABAvatadvyApyAdyanavagAhitvaM, prakfte'pi tada-
+147280:0: vcp: sidDeH kftyasADyatAjYAnasya cikIrzAprakArIBUtakftisADya-
+147281:0: vcp: tvABAvAvagAhitvAt ataeva na kAraRIBUtABAvaprati-
+147282:0: vcp: yogitvamapi, prakfte'pi tadasidDeH pUrvapakziRA kftyasADyatA
+147283:0: vcp: DiyaH sAkzAdeva pratibanDakatvAByupagamAt na ca hetO
+147284:0: vcp: pratibanDakajYAnatvapadena jYAnatvAvacCinnapratibanDakatASAlitvaM
+147285:0: vcp: vivakzitaM bADasatpratipakzAdeSca niScayatvena pratibanDakatvamiti
+147286:0: vcp: vAcyam prakfte tadasidDeH uktayuktyA kftyasADyatAniScaya
+147287:0: vcp: syEva pUrvapakzimate pratibanDakatvAditi cenna hetO svagrAhya-
+147288:0: vcp: viroDAvagAhijYAnaBinnatvena yatpadArTaviSezaRAt . svapadaM
+147289:0: vcp: pratibanDakajYAnaparaM cikIrzAyASca jYAnaBinnatvAdeva saMgrahaH
+147290:0: vcp: svagrAhyaviroDAvagAhitvantu svaM yatra yadaBAvatadvyApya
+147291:0: vcp: tadavacCedakAdyanyatamamavagAhate tatra tadavagAhitvaM saMvAdi-
+147292:0: vcp: tvenApi hetO yatpadArTo viSezaRIyaH tena izwaBedagrahe
+147293:0: vcp: pravfttyAdipratibanDake tannaye na vyaBicAraH . saMvAdi-
+147294:1: vcp: pravfttO viSizwajYAvameva heturiti sADyasattvAdeva na tamA-
+147295:0: vcp: dAya vyaBicAraH . na ca taTApi kUwaBramaparAmarSaliNga-
+147296:0: vcp: sTale liNgAsaMsargAgraheRa lENgikAsaMsargAgrahADInasaMvAdI-
+147297:0: vcp: cCAprabfttipratibanDakezwaBedagrahe janakIBUtaviSizwajYAnaviGa-
+147298:0: vcp: wakatvABAvAdvyaBicAra iti vAcyam viSizwajYAnasya
+147299:0: vcp: saMvAdIcCApravfttihetutvenAnAyatyA tatrApIcCApravfttyorviza-
+147300:0: vcp: yAntaravizayakatvakalpanena visaMvAditvasya tEH svIkArAditi
+147301:0: vcp: dik . anyaTA--etAdfSavyAptyanaNgIkAre . upekzaRIyatvam- [Page1976-a+ 38]
+147302:0: vcp: izwasADanatAvacCedakarUpaSUnyatvam . nizPalatvam izwaPalopa
+147303:2: vcp: DAnaSUnyatvam, pratibanDakaM--cikArzApatibanDakam . kriyA-
+147304:3: vcp: jYAnameveyokAreRa izwasADanatvAdijYAnavyavacCedaH . sonda-
+147305:5: vcp: qaH SaNkate nanviti . sana iti . vAcicAt boDakatAt patacca
+147306:3: vcp: cirkarzApadasya yOgikatvapakze cika rzApadasyAKaRqarUQatva-
+147307:5: vcp: pakze tvAhalAGavAtiti, kftisa DyatvaprakArakecCAtva pejYayA
+147308:4: vcp: kftIcCAtvasya pravfttinimittasya laGu vAdiTaryaH . cikIrzA-
+147309:2: vcp: cikarzApadapratipAdyA . vfzwAviveti vfzwirBavatvitAcCEvetyarTaH .
+147310:2: vcp: izwasaHDanatAjYAnAt--izwasADanatAjYAnamAtrAt kftisA-
+147311:1: vcp: DyavAjYAnaM vinApIzwasADanatAjYAnAditi yAvat . tatra
+147312:1: vcp: kftisADyatvasyAprakAratayA kftyasADyata niScayasyApratibanDaka
+147313:1: vcp: tayA ca kftisADyatAjYAnasya hetutve mAnABAvAditi
+147314:2: vcp: mAvaH . atra vfzwirBavatvita cCeveti prakftasADyANgako dfzwAntaH
+147315:0: vcp: gurunaye vfzwisADyaM suKaM BavatvitIcCEva viSezaRatayA suKa-
+147316:1: vcp: tvamiva vfzwimapi vizaya karoti na tu vfzwirBavatviti svAta-
+147317:1: vcp: ntryeRecCA kftisADyatvaprakArakecCAM prati suKatvaduHKA-
+147318:0: vcp: BAvatvaprakArakajYAnayorhetutvena kftisADyatvAprakArakopA
+147319:2: vcp: yecCAyA alIkatvAt vfzwisADyaM suKaM BavatvitocCAyAntu
+147320:1: vcp: suKevfzwisADyatvajYAnameva hetu rati mantavyam . vahninA
+147321:0: vcp: sADayAmItivaditi sADyatvaprakArikAyA iti SezaH . anu-
+147322:3: vcp: BUyamAnAyAH--niyamato'nuBUyamAnAyaH . sanantAvAcyaDena-
+147323:0: vcp: sanantApratipAdyatvena . gOraveRa--pravfttinimittagOraveRa .
+147324:3: vcp: pratyAKyAtuptaSaktyatvAtiti kAraRatAyAH pratyAKyAtumaSakya-
+147325:0: vcp: tvAdityarTaH taTAca cikIrzApadApratipAdyApi sA pravf-
+147326:2: vcp: ttihetturiti BAvaH . prADAnyeneti viSezyavayetyarTaH .
+147327:0: vcp: aprADAnyena vizayatvasya tatra dvitIyArTatve pAkatvaM cikI-
+147328:1: vcp: rzati ityapi prayogApatteriti BAvaH . na tu kfteriti
+147329:2: vcp: ato na kftIcCA cikIzApratipAdyeti BAvaH . nanu ciko-
+147330:1: vcp: rzatItyatra pAkasya viSazyatayA icCAvizayatvamanuBUyate itya-
+147331:6: vcp: yuktaM satpraTayasamaBivyAhftaDAtoricCAviSezavAcitayA
+147332:3: vcp: DAtvarTasyO viSezyatvAtityataAha DAtoSceti . icCAprakAra
+147333:3: vcp: vAcitvamiti na tu viSezyapAcitvamiti SezaH . pakAraSca
+147334:0: vcp: kftisADyatvaM sADyatAsaMsargeRa kftirvA . Adye tu lakzaRA-
+147335:1: vcp: dikaM SaraRamityanyadetat . BojanaviSezyatayeti BojanaprakA-
+147336:1: vcp: rakecCAviSezyavayetyarTaH . odanaviSezyakaBojanaprakArake-
+147337:0: vcp: cCASraya ityanvayaboDAditi BAvaH . nanu kftisADyatva-
+147338:1: vcp: prakArakecCAyAniyamataH kftipUrvvamanuBavasidDatve'pi na sA
+147339:0: vcp: pravftterheturavacCedakagOravAt, kintu kftIcCEva izwa sADanatA [Page1976-b+ 38]
+147340:1: vcp: jYAnena, tasyA api pUrvvaM samBavAt . nacEvaM kriyAyA
+147341:2: vcp: izwAsADanatAdijYAne'pi kfterizwopAyatvAdistAnAt pravf-
+147342:0: vcp: ttyApattiriti vAcyam izwatvAt . anyaTA tavApi kfte-
+147343:0: vcp: rizwAjanakatvAdijYAnadaSAyAmapi kriyAyA izwajanakatvAdi
+147344:6: vcp: jYAna tpragttyApattestulyatvAdataAha izwaBAzwanatveneti izwa-
+147345:2: vcp: sADanatvajYAnenetyarTaH . vuzwAviveti pravfttipUrvvamiti SezaH .
+147346:0: vcp: karotIti tAdfSAnuvyavasAyenetyarTaH . jYAnacikIrzA-
+147347:0: vcp: pravfttInAmiti pravfttyA saha pravfttikAraRajYAnacikIrzAyAH
+147348:2: vcp: samAnaviSezyakatvasya vizayokaraRAta ityarTaH . idamupalakzaRam
+147349:5: vcp: atipramaNgaBaNgAya tadvigezyakakftO tada kUlakftocCAyAeva
+147350:0: vcp: hetutAyA vaktavyatvAt pAkAnukUlakftIcCAtvasvakftisADyatva-
+147351:3: vcp: prakArake cCAtvayoH samaSaroratvena lAGavagOra mapi nAstI-
+147352:4: vcp: tyavaDayam . kftyA sADayitumiti kftisaDadatvaprakArike-
+147353:3: vcp: tyarTaH . sA--cikorzA cikIrzatasya pAkasyaticikIrzAviza-
+147354:3: vcp: yatAcacCedakapAkatvAvacCinnasyertyaTaH . anyataH sidDO anyataH
+147355:3: vcp: sidDatvagrahe, sA--pAkatvapfkarikA nApagacCet na na jAyeta
+147356:0: vcp: jAyeteti yAvat . upAyaviSezasADyatveneti ekopAya-
+147357:1: vcp: sADyatvaprakAriketyarTaH . upAyAntarADoneti upAyAntarA-
+147358:3: vcp: DonasidDatvajYAnenetyarTaH . protyeti pratyADanalABasya prItyA
+147359:0: vcp: sidDatvajYAne'pItyarTaH . pratigraheReti pratigrahasADyatva-
+147360:1: vcp: prakArakaDanalABecCAyA ityarTaH . anivftterutpattyanivftte-
+147361:0: vcp: rutpatteriti yAvat . taTA ca tadupAyasADyatvaprakArake-
+147362:0: vcp: cCAM prati tadupAyataHsidDatvajYAnasyEva pratibanDakatayA upA-
+147363:3: vcp: yAntarADInasidDatvajYAne'pi kf tasADyatvajYakArakecCot-
+147364:0: vcp: pattO na bADakamiti BAvaH . svavizayasidDatvasyeti svavizaya-
+147365:1: vcp: tAvacCedakAvacCinna vaSezyatAkasidDatvajYAnasyetyarTaH yaTA
+147366:1: vcp: Srute pAkaM kftyA sADayAmItIcCAyA anyataH sidDapAkA
+147367:3: vcp: ziyatayA tatsidDO tannivftteranupapAdanAt . na ca tasyA
+147368:3: vcp: anyataH sidDapAko'pi vizayaH vyaDikaraRa kArakecCAyA
+147369:1: vcp: aByupagamAt iti vAcyaM taTApi pAkatvarUpreRAnyataH sidDa-
+147370:0: vcp: pAke sidDatvajYAne tena rUpeRa sidDapAkamAtre tadApatte-
+147371:0: vcp: stAdavasTyAt BinnaprakArakasyApi sidDatvajYAnasya prati-
+147372:1: vcp: banDakatvApAtAcca . sidDatvaYca kvacidutpannatvaM, kvacidvidya-
+147373:1: vcp: BAnatvaM, kvacicca kzemasADyatAviroDitvarUpaM, yaTA duHKa-
+147374:0: vcp: prAgaBAvAdO pratibanDakABAvakUwasya hetutvAcca nAnanuga-
+147375:0: vcp: modozAya . nacEvaM sidDe grAmAdO kaTamicCeti vAcyaM tatra
+147376:0: vcp: grAmAdilABasyAsidDasyEva icCAvizayatvAt na tu grAmA-
+147377:4: vcp: deriti BAvaH . upAyecCAviroDitvAt upAyecCaganutapA [Page1977-a+ 38]
+147378:2: vcp: prayojakavAt, PalecCAvicCedasya pratibanDakatvABAvena yaTA
+147379:3: vcp: SrutAsaNgateH . tatra--cika rzatasya pAkasyAnyavaH sidDatvajYAna
+147380:2: vcp: sTale . sidDatvam--midDatvagrahaH pAkasya sidDatvajYAnAt svavi
+147381:2: vcp: zaya sadDatvajYAnam odanasya sidDatvajYAnAt PalecCA vacCeda
+147382:2: vcp: iti BAvaH . nanusvapizayatAbacCedakAvacCinnaviSezyatAkasidDa-
+147383:3: vcp: tvajYAnatvena patibanDakatve svavAntarBAvAt ananugamaH na
+147384:1: vcp: ca tadDarmmASrayaviSezyakecCAM prati tAdfSasidDatvajYAnaM viro-
+147385:2: vcp: DIti vAcyaM visaMvAdocCAyA asaMgrahAt . aTa tadarmmAva
+147386:3: vcp: cCinnaviSezyatAkasidDatvajYAnaM viroDi nacE . SUdrAdi-
+147387:1: vcp: pAke sidDatvajYAne'pi brAhmaRasya pAke cika rzA na syAditi
+147388:0: vcp: vAcyaM tadAnIM svIyapAkatvAdirUpeREva” brAhmaRasya cikI-
+147389:0: vcp: rzotpAdAt pAkatvarUpeRa tadanutpAdAt iti cenna grAme
+147390:2: vcp: svatvaM me Bavatviya disidDagrAmAdigocarecCAyAM grAmatvAdi
+147391:1: vcp: rUpeRa sidDatvajYAne'pi ja yamAnAyAM vyaBicArAt kapAla-
+147392:1: vcp: havirAdirUpeRa sidDatvajYAne'pi kapAlahavirAdya pAdAne-
+147393:1: vcp: cCAyAM vyaBicArAt sidDatvajYAnadaSAyAM tadanaByupagame ta
+147394:0: vcp: dAnIM pravftterapyapalApaprasaNgAt upAdAnecCAyAH pravfttO-
+147395:4: vcp: hetuvAdataeva tadvarmmaprakArakacAvacCinnamuKyaviSezyatA-
+147396:3: vcp: kecCAM prati tadvarmmAvacCinnaviSezyanAkasidDatvajYAna viroDi
+147397:2: vcp: nAto grAme svatvaMme Bavatviti sidDagrAmAdigAcarecaCAyAM
+147398:0: vcp: vyaBicAra iti kasyacit pralapitamapAstaM, kapAlahavi
+147399:1: vcp: rAdyupAdAnecCAyAM vyaBicarAt pAkatvAdirUpeRa sidDatva-
+147400:0: vcp: jYAnadaSAyAM mama kftisADyapAkoBavatviti cikIrzAyA
+147401:0: vcp: anutpAdavat GawatvAdirUpeRa sidDatvajYAnadaSAyAmapi nI-
+147402:1: vcp: RoGawoBavatvitIcCAyA anutpattiprasaNgAcca iti cet? mEvaM
+147403:2: vcp: tadDarmmeddeSyatAvacCedakakecCAM prati tadDarmmaprakArakasidDatva-
+147404:0: vcp: jYAnasya pratibanDakatvAt . uddeSyatvaYca BavatvityAdipadABi-
+147405:4: vcp: lapyanAno vizavatAviSezaH grAme svatvame BavatvityAdO
+147406:2: vcp: grAmAdirnoddeSyaH kintu svacameva evaM kapAlAdyupAdAna
+147407:4: vcp: gocarecCAyAmapi kapAla dirnoddaSyaH . uddeSyatAvacCadakatvaYca
+147408:1: vcp: tatparyAptyaDikaraRatvaM tena GawatvAdirUpeRa sidDatvajYAna-
+147409:0: vcp: daSAyAM nIloGawoBavatvitIcCotpattiH . ataeva yasyAM
+147410:1: vcp: pAkAdiviSezyakaDikIrzAyAM, pAkatvAdimAtreRoddeSyatA
+147411:0: vcp: pAkatvAdirUpeRa sidDatvajYAnAdeva sApEti yasyAntu svakfti-
+147412:0: vcp: sADyapAkatvAdirUpeRa, sA tu svakftisADyapAkatvAdirUpeRa
+147413:0: vcp: sidDatvajYAnAdevApEti iti viBAgaH . tAdfSavilakzaRa-
+147414:1: vcp: vizayatAnaNgIkAra tu tattadvyaktitvenEva pratibaDyatA, prati-
+147415:0: vcp: banDakatA tu sAmAnyatastadDarmmAvacCinnaviSezyatAkasidDatva- [Page1977-b+ 38]
+147416:1: vcp: jYAnatvena tattadvyaktitvena vetyanyadetat . kecitta yadDarmA-
+147417:0: vcp: vacCedenezwasADanatAjYAnADInA icCA tadDarmmaprakArakasidDa-
+147418:5: vcp: tva naScayo viroDa . izwasADanaziyatvaYca yatra pAkatva-
+147419:2: vcp: rUpeRa gfhotaM tatra pAkatvaprakArakasidDatvaDiyova sApagacCati
+147420:0: vcp: yatra matkftisADyapAkatvAdinA tadavagataM, tatra tadavacCinna-
+147421:2: vcp: sidDacaDiyEveti viBAgaH . tena pratigrahasADyaDanalABatva-
+147422:2: vcp: syezwasADanatva vacCedakatvAt prakArAntareRa talla Be'pi na
+147423:2: vcp: tadapagamaH . na ca sidDatvajYAnadaSAyAM GawayAgadisADyakapra-
+147424:0: vcp: vfttijanakakapAlahavirAdyupAdAnecCAyAM vyaBicAra iti
+147425:1: vcp: vAcyam gurunaye upAdAnanizWacikorzAvizayasADanatAjYA
+147426:0: vcp: nasya sAkzAdeva pravfttihetutvena tAdfSecCAyAM mAnABAvAt .
+147427:3: vcp: tacCAgre sPawaBavizyati evaM nyAyanaye'pi na ca taTApi
+147428:2: vcp: yaTA pAkacarUpeRa izwasADanatAjYAnAt kftisADyatvapra-
+147429:0: vcp: kArakajYAnasahakftAt pAkaH kftisADyo Bavatu itIcCAyA
+147430:1: vcp: grAmatvAdirUpeRa sidDagrAma dAvizwasADanatAjYAnAt svIya-
+147431:1: vcp: svatvapraka rakajYAnasahakftAt grAmo me svatvavAn Bavatu iti
+147432:1: vcp: sidDagrAmaviSezyakecCAyAScotpattObADakaBAvAt tatra vyaBi-
+147433:0: vcp: cAraH grAmatvAdirUpeRa sidDatvajYAne'pi tadutpatteriti
+147434:2: vcp: vAcyam svakf tasADyatAtiriktasTale tatpraka rakaPalArTI
+147435:0: vcp: cCAyAM tatprakArakaPalasADanatAjYAnasya Palabalena hetutayA
+147436:0: vcp: grAmatvarUpeRezwasADanatAjYAne tAdfSecCAyA evAsidDeri-
+147437:0: vcp: tyAhuH, tadasat gurunaye nityavizayakecCAyA asaMgrahAt .
+147438:1: vcp: GawAdisAGyakapravfttO GawAdicikIrzAvat kapAlAdyupA-
+147439:0: vcp: dAnakapravfttO GawAdicikIrzAvatkapAlAdyupAdAnakapravfttO
+147440:2: vcp: kapAlAdIcCAyA api he tvena kapAlAdyudAnakecCAyA
+147441:0: vcp: vyaBicArasya durvAratvAcca, anyaTA cikIrzAvizayasADanatA
+147442:0: vcp: jYAnasya lOkikapratyakzasya cAviSizwatve'pi yatrecCA tatrE-
+147443:2: vcp: vopAdAnatayA pravfttiryava necCA tatra neti niyamAnupa-
+147444:1: vcp: patteH . nya yamImAMsAsidDAntasya ca yuktivirudDatvenAnupA-
+147445:1: vcp: deyatvAditi saMkzevaH” . aDikaM tadgranTe dfSyam .
+147446:2: vcp: nyAvayate tu kAryyatvajYAnamizwasADanatvajYAnaM balavadanizwA
+147447:2: vcp: nanubanDitvajYAnaM ceti yaTAyayam pravarttakamiti BedaH
+147448:0: vcp: vistarastu Akare dfSyaH .
 147449:1: vcp: <HI>{@kAryyapuwa@}¦ pu0 kAryyAM karttavye karmmaRi na puwati puwa--Sleze
-147450:3: vcp: <>ka 7 ta0 . 1 kzapaRake 2 unmatte 3 anarTakare tri0 medi0 .
+147450:3: vcp: ka 7 ta0 . 1 kzapaRake 2 unmatte 3 anarTakare tri0 medi0 .
 147451:0: vcp: <HI>{@kAryyapradveza@}¦ pu0 kAryyaM pradvizatyanena pra + dviza--karaRe GaY
-147452:1: vcp: <>6 ta0 . Alasye rAjani0 Alasyena hi kAryyadvezA-
-147453:0: vcp: <>ttasya taTAtvam . [Page1978-a+ 38]
+147452:1: vcp: 6 ta0 . Alasye rAjani0 Alasyena hi kAryyadvezA-
+147453:0: vcp: ttasya taTAtvam . [Page1978-a+ 38]
 147454:0: vcp: <HI>{@kAryyaSabdika@}¦ tri0 kAryyaH Sabda ityAha Wak . kAryyaH
-147455:0: vcp: <>Sabda iti kaTake nEyAyike tena SabdasyAnityatvasya svIkA-
-147456:0: vcp: <>rAttasya taTAtvam .
+147455:0: vcp: Sabda iti kaTake nEyAyike tena SabdasyAnityatvasya svIkA-
+147456:0: vcp: rAttasya taTAtvam .
 147457:1: vcp: <HI>{@kAryyasidDi@}¦ strI kAryyasyABIzwasya sidDiH . 1 aBIzwasidDO
-147458:1: vcp: <>“vittaM brahmaRi kAryyasidDiratulA Sakre hutASe Bayam” ti0
-147459:1: vcp: <>ta0 KaYjanaSakune . 2 karttavyakarmmanizpattO nIla0 tA-
-147460:3: vcp: <>jakIkte 3 sahamaBede ca tatra hi “puRyaM gururjYAnayaSo'Ta
-147461:0: vcp: <>mitram” ityupakrame “syAdanyakarmasabaRik tvaTakAryasidDiH”
-147462:0: vcp: <>ityAdinA paYcASat sahamAni viBajya “syAt karmma-
-147463:1: vcp: <>sidDiH satataM (divAniSoH) viSoDya mandaM sitAt syAttu
-147464:0: vcp: <>vivAhasadma” ityanena tadAnayanaprakArodarSitaH taTA ca
-147465:1: vcp: <>barzalagnakAlikasPuwa SaniM SukrasPuwAt tyaktvA lagnayoge
-147466:0: vcp: <>tatsahamasPuwaM Bavati iyAMstu BedaH SoDyamandaSudDyASraya
-147467:2: vcp: <>SukrayormaDye yadi lagnasPuwaM na BarvattadA rASO ekANka
-147468:2: vcp: <>yogaH kAryya iti . tatPale ca tatrEvoktaM yaTA “kAryya-
-147469:0: vcp: <>sidDisahamaM yutaM SuBErdfzwamUTaSilagam jayapradam .
-147470:0: vcp: <>saNgare'Ta SuBapApadfzwiyuk kleSatojaya udIrito vuDEH”
+147458:1: vcp: “vittaM brahmaRi kAryyasidDiratulA Sakre hutASe Bayam” ti0
+147459:1: vcp: ta0 KaYjanaSakune . 2 karttavyakarmmanizpattO nIla0 tA-
+147460:3: vcp: jakIkte 3 sahamaBede ca tatra hi “puRyaM gururjYAnayaSo'Ta
+147461:0: vcp: mitram” ityupakrame “syAdanyakarmasabaRik tvaTakAryasidDiH”
+147462:0: vcp: ityAdinA paYcASat sahamAni viBajya “syAt karmma-
+147463:1: vcp: sidDiH satataM (divAniSoH) viSoDya mandaM sitAt syAttu
+147464:0: vcp: vivAhasadma” ityanena tadAnayanaprakArodarSitaH taTA ca
+147465:1: vcp: barzalagnakAlikasPuwa SaniM SukrasPuwAt tyaktvA lagnayoge
+147466:0: vcp: tatsahamasPuwaM Bavati iyAMstu BedaH SoDyamandaSudDyASraya
+147467:2: vcp: SukrayormaDye yadi lagnasPuwaM na BarvattadA rASO ekANka
+147468:2: vcp: yogaH kAryya iti . tatPale ca tatrEvoktaM yaTA “kAryya-
+147469:0: vcp: sidDisahamaM yutaM SuBErdfzwamUTaSilagam jayapradam .
+147470:0: vcp: saNgare'Ta SuBapApadfzwiyuk kleSatojaya udIrito vuDEH”
 147471:0: vcp: <HI>{@kAryyA@}¦ strI kf--Ryat . kArovfkze rAjani0 .
 147472:1: vcp: <HI>{@kAryyADipa@}¦ pu0 6 ta0 . jyotizokte 1 vyApArarUpakAryya-
-147473:1: vcp: <>sTAnADipe lagnAvaDikadaSamasTAnADISvare . 2 kAryyA-
-147474:0: vcp: <>Dyakze ca . kAryyADISAdayo'pyatra .
+147473:1: vcp: sTAnADipe lagnAvaDikadaSamasTAnADISvare . 2 kAryyA-
+147474:0: vcp: Dyakze ca . kAryyADISAdayo'pyatra .
 147475:1: vcp: <HI>{@kAryyAnvita@}¦ tri0 kAryyeRa karttavyenAnvitaH . 1 kAryyayukte
-147476:2: vcp: <>2 kAryya tAboDakapudapratipAdyArTAnvite ca . mImAMsakanaye
-147477:0: vcp: <>kAryyAnvite eva Sabdasya yaTA SaktistaTA pUrvvapakzaviDayA
-147478:1: vcp: <>Sabdaci0 nirRRItaM yaTA
+147476:2: vcp: 2 kAryya tAboDakapudapratipAdyArTAnvite ca . mImAMsakanaye
+147477:0: vcp: kAryyAnvite eva Sabdasya yaTA SaktistaTA pUrvvapakzaviDayA
+147478:1: vcp: Sabdaci0 nirRRItaM yaTA
 147479:1: vcp: <P>“nanvarTabAdAnAM sidDArTatayA na prAmARyaM kAryyAnvita
-147480:3: vcp: <>eva padAnAM SaktyavaDAraRAt vfdDavyavahArAdeva hi sarvezA-
-147481:1: vcp: <>mAdyA vyuppattiH upAyAntarasya SabdavyutpattyaDInatvAt .
-147482:0: vcp: <>taTAhi prayojakavAkyoccAraRAnantaraM prayojyasya vfdDasya
-147483:0: vcp: <>pravfttimupalaBamAnobAlaH prekzAvadvAkyoccAraRasya prayojana-
-147484:1: vcp: <>jijYAsAyAM tadanvayavya tarekAnuviDAyitvAdupasTitatvAcca
-147485:0: vcp: <>prayojyavfdDapravfttimeva prayojanamavaDArayati nacAkiYcit
-147486:0: vcp: <>kurvatastAdarTyaM samBavatIti ca tajjanyaM pravfttyanukUlaM kAryyatA-
-147487:0: vcp: <>jYAnameva kalpayati svapravfttO tena kAryyatAjYAnasya
-147488:0: vcp: <>hetutvAvaDAraRAt nAnyataH pravftteH kAryyatAjYAnAvarudDatvAt,
-147489:0: vcp: <>nacEvaM Sabdasya svArTajYAnadvArA pravfttihetutvam . svapra-
-147490:0: vcp: <>vfttO bAlena SabdAhitaviSezasya kAryatAjYAnasya hetutvenA-
-147491:0: vcp: <>naDAraRAt . jYAne ca pratyakzAdinAnopAyakatvadarSa- [Page1978-b+ 38]
-147492:3: vcp: <>nAt Sabdo'pi kAryatAjYAnaheturityavaDArya tatrEva SaktiM
-147493:0: vcp: <>kalpayati upasTitatvAt . paScAdAvApodDAreRa kriyA-
-147494:1: vcp: <>kArakapadAnAM kAryyAnvitatattadaryezu SaktiM gfhRAti
-147495:0: vcp: <>praTamagfhItasAmAnyaSaktyanuroDAt . aTa yadyapi vfdDavyava-
-147496:2: vcp: <>hArAdO kAryAnvitaDIranumitA taTApyanvatamAtraSaktyEva
-147497:0: vcp: <>kAryyavAcakapadasamaBivyAhArAdAkANkzAdimahimnA kAryya-
-147498:0: vcp: <>tvaDIsamBavAnna kAryyAMSe'pi SaktiH paramparayApi
-147499:0: vcp: <>Sabdasya kAryyAnvitajYAnAnukUlatvAdarTApattAvanyaTopapatti-
-147500:0: vcp: <>rapi . avaSyaYcAkANkzAdeH kAraRatvaM kAryyAMSaSaktAvapi .
+147480:3: vcp: eva padAnAM SaktyavaDAraRAt vfdDavyavahArAdeva hi sarvezA-
+147481:1: vcp: mAdyA vyuppattiH upAyAntarasya SabdavyutpattyaDInatvAt .
+147482:0: vcp: taTAhi prayojakavAkyoccAraRAnantaraM prayojyasya vfdDasya
+147483:0: vcp: pravfttimupalaBamAnobAlaH prekzAvadvAkyoccAraRasya prayojana-
+147484:1: vcp: jijYAsAyAM tadanvayavya tarekAnuviDAyitvAdupasTitatvAcca
+147485:0: vcp: prayojyavfdDapravfttimeva prayojanamavaDArayati nacAkiYcit
+147486:0: vcp: kurvatastAdarTyaM samBavatIti ca tajjanyaM pravfttyanukUlaM kAryyatA-
+147487:0: vcp: jYAnameva kalpayati svapravfttO tena kAryyatAjYAnasya
+147488:0: vcp: hetutvAvaDAraRAt nAnyataH pravftteH kAryyatAjYAnAvarudDatvAt,
+147489:0: vcp: nacEvaM Sabdasya svArTajYAnadvArA pravfttihetutvam . svapra-
+147490:0: vcp: vfttO bAlena SabdAhitaviSezasya kAryatAjYAnasya hetutvenA-
+147491:0: vcp: naDAraRAt . jYAne ca pratyakzAdinAnopAyakatvadarSa- [Page1978-b+ 38]
+147492:3: vcp: nAt Sabdo'pi kAryatAjYAnaheturityavaDArya tatrEva SaktiM
+147493:0: vcp: kalpayati upasTitatvAt . paScAdAvApodDAreRa kriyA-
+147494:1: vcp: kArakapadAnAM kAryyAnvitatattadaryezu SaktiM gfhRAti
+147495:0: vcp: praTamagfhItasAmAnyaSaktyanuroDAt . aTa yadyapi vfdDavyava-
+147496:2: vcp: hArAdO kAryAnvitaDIranumitA taTApyanvatamAtraSaktyEva
+147497:0: vcp: kAryyavAcakapadasamaBivyAhArAdAkANkzAdimahimnA kAryya-
+147498:0: vcp: tvaDIsamBavAnna kAryyAMSe'pi SaktiH paramparayApi
+147499:0: vcp: Sabdasya kAryyAnvitajYAnAnukUlatvAdarTApattAvanyaTopapatti-
+147500:0: vcp: rapi . avaSyaYcAkANkzAdeH kAraRatvaM kAryyAMSaSaktAvapi .

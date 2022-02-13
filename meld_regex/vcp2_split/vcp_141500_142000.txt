@@ -1,500 +1,500 @@
-141501:2: vcp: <>yaTA “ratiH 1 prItiH 2 kAminI ca 3, mohinI 4
-141502:0: vcp: <>kamalapriyA 5 . vilAsinI 6 kalpalatA 7, SyAmalA
-141503:2: vcp: <>ca 8 SucismitA 9 . vismitAkzI 10 viSAlAkzI 11,
-141504:2: vcp: <>lelihAnA 12 digambarA 13 . vAmA 14 kubjA 15
-141505:0: vcp: <>DarA 16 nityA 17, kalyARI 18 mohinI 19 taTA .
-141506:3: vcp: <>sulocanA 20 sulAvaRyA 21, taTEva ca vimarddinI 22 .
-141507:3: vcp: <>kalahapriyA 23 cekAkzI 24, sumuKI 25 nalinI 26
-141508:4: vcp: <>taTA . jawilA 27 pAlino 28 ceva SivA 29 mugDA 30
-141509:2: vcp: <>rasA 31 BramA 32 . cArulolA 33 caYcalA 34
-141510:2: vcp: <>ca, dIrGajihvA 35 ratipriyA 36 . lolAkzI 37
-141511:1: vcp: <>BfNgiRI 38 cEva0 pAwalA 39 mAdinI 40 taTA .
-141512:6: vcp: <>mAlA 43 ca haMsinI 42 viSvatomuKI 43 nandinI 44
-141513:4: vcp: <>taTA . rAYjanI ca taTA kAntiH 46 . kalakaRWI 47
-141514:0: vcp: <>vfkodarA 48 . meGaSyAmA 40 ruzonmattA 50, evaM
-141515:0: vcp: <>paYcASadIritAH . SaktayaH kuNkumaniBAH sarvvABaraRa-
-141516:1: vcp: <>BUzitAH . nIlotpalakarA DyeyAstrElokyAkarpalakzamAH”
-141517:2: vcp: <>iti . tantrasAre kAmaratinyAse paYcASadvarRRAtmakamAtf-
-141518:2: vcp: <>kAyA ekEkavarRRayogena kAmaSabadadarSitAnAM paYcASataH
-141519:0: vcp: <>kAmAnAM yogena ca etAsAM nyAso'BihitaH . tatra-
-141520:2: vcp: <>nAmamAtre kvacidBodo'sti . “paYcASadvarRRaguRitA
-141521:2: vcp: <>paYcASadvarRRamAlikAm . sUte tadvarRRatoBinnAM taTA rudrA-
-141522:1: vcp: <>dikAn kramAditi” SA0 ti0 padyavyA0 rAGavaBawwena
-141523:0: vcp: <>Adipadena paYcASatkAmAstacCaktayaSca grAhyA iti kIrtta-
-141524:1: vcp: <>RAt paYcASadeva kAmaSaktayaH . ataH Sabdakalpadrume
-141525:2: vcp: <>kAmaSabde ratiBedasyEkapaYcASattva yat pratijYAtaM tat- [Page1900-a+ 38]
-141526:0: vcp: <>prAmAdikameva . kiYca ekapaYcASatkAmaSaktayo ratiSabde
-141527:1: vcp: <>drazwavyA ityuktirApi pratijYAmAtraM ratiSabde tatra tannAmA-
-141528:0: vcp: <>nulleKanAt paYcASatkAmAnAmekapaYcASat Saktayo'-
-141529:2: vcp: <>'nupapannA eveti boDyam .
+141501:2: vcp: yaTA “ratiH 1 prItiH 2 kAminI ca 3, mohinI 4
+141502:0: vcp: kamalapriyA 5 . vilAsinI 6 kalpalatA 7, SyAmalA
+141503:2: vcp: ca 8 SucismitA 9 . vismitAkzI 10 viSAlAkzI 11,
+141504:2: vcp: lelihAnA 12 digambarA 13 . vAmA 14 kubjA 15
+141505:0: vcp: DarA 16 nityA 17, kalyARI 18 mohinI 19 taTA .
+141506:3: vcp: sulocanA 20 sulAvaRyA 21, taTEva ca vimarddinI 22 .
+141507:3: vcp: kalahapriyA 23 cekAkzI 24, sumuKI 25 nalinI 26
+141508:4: vcp: taTA . jawilA 27 pAlino 28 ceva SivA 29 mugDA 30
+141509:2: vcp: rasA 31 BramA 32 . cArulolA 33 caYcalA 34
+141510:2: vcp: ca, dIrGajihvA 35 ratipriyA 36 . lolAkzI 37
+141511:1: vcp: BfNgiRI 38 cEva0 pAwalA 39 mAdinI 40 taTA .
+141512:6: vcp: mAlA 43 ca haMsinI 42 viSvatomuKI 43 nandinI 44
+141513:4: vcp: taTA . rAYjanI ca taTA kAntiH 46 . kalakaRWI 47
+141514:0: vcp: vfkodarA 48 . meGaSyAmA 40 ruzonmattA 50, evaM
+141515:0: vcp: paYcASadIritAH . SaktayaH kuNkumaniBAH sarvvABaraRa-
+141516:1: vcp: BUzitAH . nIlotpalakarA DyeyAstrElokyAkarpalakzamAH”
+141517:2: vcp: iti . tantrasAre kAmaratinyAse paYcASadvarRRAtmakamAtf-
+141518:2: vcp: kAyA ekEkavarRRayogena kAmaSabadadarSitAnAM paYcASataH
+141519:0: vcp: kAmAnAM yogena ca etAsAM nyAso'BihitaH . tatra-
+141520:2: vcp: nAmamAtre kvacidBodo'sti . “paYcASadvarRRaguRitA
+141521:2: vcp: paYcASadvarRRamAlikAm . sUte tadvarRRatoBinnAM taTA rudrA-
+141522:1: vcp: dikAn kramAditi” SA0 ti0 padyavyA0 rAGavaBawwena
+141523:0: vcp: Adipadena paYcASatkAmAstacCaktayaSca grAhyA iti kIrtta-
+141524:1: vcp: RAt paYcASadeva kAmaSaktayaH . ataH Sabdakalpadrume
+141525:2: vcp: kAmaSabde ratiBedasyEkapaYcASattva yat pratijYAtaM tat- [Page1900-a+ 38]
+141526:0: vcp: prAmAdikameva . kiYca ekapaYcASatkAmaSaktayo ratiSabde
+141527:1: vcp: drazwavyA ityuktirApi pratijYAmAtraM ratiSabde tatra tannAmA-
+141528:0: vcp: nulleKanAt paYcASatkAmAnAmekapaYcASat Saktayo'-
+141529:2: vcp: 'nupapannA eveti boDyam .
 141530:2: vcp: <HI>{@kAmaSara@}¦ pu0 kAmasya Sara iva . 1 Amravfkze rAjani0 .
-141531:0: vcp: <>tanmukulasya kAmaSarAkAratvAttasya taTAtvam .
+141531:0: vcp: tanmukulasya kAmaSarAkAratvAttasya taTAtvam .
 141532:0: vcp: <HI>{@kAmaSAstra@}¦ na0 kAmasya kAmyasya svargAdeH pratipAdakaM SAstram .
-141533:3: vcp: <>1 kAmyapratipAdakaSAstre . “arTaSAstramidam prokta Darmma-
-141534:2: vcp: <>SAstramidaM mahata . kAmaSAstramidaM prokta vyAsenA-
-141535:1: vcp: <>mitabudDinA” BA0 A0 1 a0 BAratapraSaMsAyAn .
-141536:1: vcp: <>kAmasya taccezwitasya pratipAdakaM SAstram . 2 ratiSAstre ca .
+141533:3: vcp: 1 kAmyapratipAdakaSAstre . “arTaSAstramidam prokta Darmma-
+141534:2: vcp: SAstramidaM mahata . kAmaSAstramidaM prokta vyAsenA-
+141535:1: vcp: mitabudDinA” BA0 A0 1 a0 BAratapraSaMsAyAn .
+141536:1: vcp: kAmasya taccezwitasya pratipAdakaM SAstram . 2 ratiSAstre ca .
 141537:1: vcp: <HI>{@kAmasaKa@}¦ pu0 6 ta0 wac samA0 . vasantakAle rAjani0 .
-141538:2: vcp: <>ataeva kumAre “sahacaramaDuhastanyastacUtANkurAstraH” iti
-141539:3: vcp: <>“sa mADavenABimatana saKyA” iti “sahAyamekaM maDumeva
-141540:2: vcp: <>labDvA” iti ca vasantasya tatsahAyatvaM varRRitam .
+141538:2: vcp: ataeva kumAre “sahacaramaDuhastanyastacUtANkurAstraH” iti
+141539:3: vcp: “sa mADavenABimatana saKyA” iti “sahAyamekaM maDumeva
+141540:2: vcp: labDvA” iti ca vasantasya tatsahAyatvaM varRRitam .
 141541:3: vcp: <HI>{@kAmasuta@}¦ pu0 rda ta0 . anirudDe hema0 .
 141542:0: vcp: <HI>{@kAmasU@}¦ tri0 kAmamaBIzwaM sUte sU--kvip 6 ta0 . aBIzwa-
-141543:2: vcp: <>sampAdake . “kimatra citraM yadi kAmasUrBUH” raGuH .
-141544:1: vcp: <>kAmaM kAmAvatAraM kandarpaM sUte . 2 rukmiRyAM strI .
-141545:2: vcp: <>gaBADAnasya sUterarTatve . 3 vAsudeve pu0 .
+141543:2: vcp: sampAdake . “kimatra citraM yadi kAmasUrBUH” raGuH .
+141544:1: vcp: kAmaM kAmAvatAraM kandarpaM sUte . 2 rukmiRyAM strI .
+141545:2: vcp: gaBADAnasya sUterarTatve . 3 vAsudeve pu0 .
 141546:0: vcp: <HI>{@kAmasUtra@}¦ na0 kAmasya tadvyApArasya pratipAdakaM sUtram .
-141547:2: vcp: <>vAtsyAyanAdipraRIte kAmavyApAraboDake SAstraBede .
+141547:2: vcp: vAtsyAyanAdipraRIte kAmavyApAraboDake SAstraBede .
 141548:1: vcp: <HI>{@kAmastuti@}¦ strI 6 ta0 . pratigrahadozApanuttaye pratigrahItrA-
-141549:2: vcp: <>pAWye kAmasya stutirUpe mantraBede sa ca mantraH “ko'dAt?
-141550:1: vcp: <>kasmAadAt? kAmo'dAt kAmAyAdAt kAmodAtA kAmaH
-141551:1: vcp: <>pratigrahItA kAmEtatte” yaju0 7 . 48 . yaTAcAsya
-141552:0: vcp: <>pratigrahadozABAvajYApakatvam taTA'sya mantrasya vyAKyAne-
-141553:1: vcp: <>na vedadIpe darSitam . yaTA “dAturdAnABimAnABAvAya
-141554:1: vcp: <>svasya pratigrahadozABAvAya ca dehendriyasaGAt kAmaM vivi-
-141555:0: vcp: <>nakti ko'dAditi . konaro'dAt? dattavAn kasmE
-141556:0: vcp: <>narAyAdAt? . praSnadvayasyottaramAha . kAmo'dAt kAmA-
-141557:0: vcp: <>yEvAdAt na tvaM dAtA nAhaM pratigrahItA . tvatkAmA-
-141558:0: vcp: <>BimAnI devo matkAmABimAnine'dAt . evaYca kAmaeva
-141559:0: vcp: <>dAtA kAmaeva pratigrahItA nAnyaH . he kAma! etad
-141560:2: vcp: <>dravyaM te tava dAtfpratigrahItftvAt” . aya BAvaH tattat
-141561:2: vcp: <>PalakAmanayava dAtrA tattaddravyARAM dAnAt svABIzwasidDaye
-141562:2: vcp: <>ca pratigrahItrA tezAM grahaRAta kAmABimAninI devasyEva
-141563:0: vcp: <>dAnapratigrahayoH prayojakatvAt dravyasvAmitvaM kAmadevasyEveti [Page1900-b+ 38]
-141564:0: vcp: <>na pratigrahIturiti uktamantrapAWe na pratigrahadozaH iti .
-141565:1: vcp: <>ataeva “pratigrahajadozasya SAntyE kAmastutiM paWet”
-141566:1: vcp: <>smftO tatpAWovihitaH .
+141549:2: vcp: pAWye kAmasya stutirUpe mantraBede sa ca mantraH “ko'dAt?
+141550:1: vcp: kasmAadAt? kAmo'dAt kAmAyAdAt kAmodAtA kAmaH
+141551:1: vcp: pratigrahItA kAmEtatte” yaju0 7 . 48 . yaTAcAsya
+141552:0: vcp: pratigrahadozABAvajYApakatvam taTA'sya mantrasya vyAKyAne-
+141553:1: vcp: na vedadIpe darSitam . yaTA “dAturdAnABimAnABAvAya
+141554:1: vcp: svasya pratigrahadozABAvAya ca dehendriyasaGAt kAmaM vivi-
+141555:0: vcp: nakti ko'dAditi . konaro'dAt? dattavAn kasmE
+141556:0: vcp: narAyAdAt? . praSnadvayasyottaramAha . kAmo'dAt kAmA-
+141557:0: vcp: yEvAdAt na tvaM dAtA nAhaM pratigrahItA . tvatkAmA-
+141558:0: vcp: BimAnI devo matkAmABimAnine'dAt . evaYca kAmaeva
+141559:0: vcp: dAtA kAmaeva pratigrahItA nAnyaH . he kAma! etad
+141560:2: vcp: dravyaM te tava dAtfpratigrahItftvAt” . aya BAvaH tattat
+141561:2: vcp: PalakAmanayava dAtrA tattaddravyARAM dAnAt svABIzwasidDaye
+141562:2: vcp: ca pratigrahItrA tezAM grahaRAta kAmABimAninI devasyEva
+141563:0: vcp: dAnapratigrahayoH prayojakatvAt dravyasvAmitvaM kAmadevasyEveti [Page1900-b+ 38]
+141564:0: vcp: na pratigrahIturiti uktamantrapAWe na pratigrahadozaH iti .
+141565:1: vcp: ataeva “pratigrahajadozasya SAntyE kAmastutiM paWet”
+141566:1: vcp: smftO tatpAWovihitaH .
 141567:0: vcp: <HI>{@kAmahan@}¦ tri0 kAmaM hatavAn han kvip--6 ta0 . parameSvare .
-141568:1: vcp: <>“kAmadvA kAmakft kAmI” vizRusa0 . tasya ca svAtma-
-141569:1: vcp: <>jYAnena sarvvakAmahantftvAt taTAtvam “Cidyate hfdayagranTi-
-141570:1: vcp: <>rBidyante sarvvasaMSayAH . kzIyante cAsya karmmARi dfzwe
-141571:1: vcp: <>tasmin parAvare” iti SrutyA tasya darSanenAvidyAgranTirUpa-
-141572:0: vcp: <>kAmAdiviBedakatvamuktam . taTAca tattvajYAnena miTyAjYAna-
-141573:0: vcp: <>sya nASe tatkAryyARAM rAgadvezAdidozARAM nASAt tasya
-141574:1: vcp: <>taTAtvam tadetaduktam gO0 sU0 tattvajYAnAdityanuvfttO
-141575:2: vcp: <>“duHsvajanmapravfttidozamiTyAjYAnAnAmuttarottarApAyAdana-
-141576:3: vcp: <>ntarApAyAdapadargaH” iti 2 mahAdeve ca .
+141568:1: vcp: “kAmadvA kAmakft kAmI” vizRusa0 . tasya ca svAtma-
+141569:1: vcp: jYAnena sarvvakAmahantftvAt taTAtvam “Cidyate hfdayagranTi-
+141570:1: vcp: rBidyante sarvvasaMSayAH . kzIyante cAsya karmmARi dfzwe
+141571:1: vcp: tasmin parAvare” iti SrutyA tasya darSanenAvidyAgranTirUpa-
+141572:0: vcp: kAmAdiviBedakatvamuktam . taTAca tattvajYAnena miTyAjYAna-
+141573:0: vcp: sya nASe tatkAryyARAM rAgadvezAdidozARAM nASAt tasya
+141574:1: vcp: taTAtvam tadetaduktam gO0 sU0 tattvajYAnAdityanuvfttO
+141575:2: vcp: “duHsvajanmapravfttidozamiTyAjYAnAnAmuttarottarApAyAdana-
+141576:3: vcp: ntarApAyAdapadargaH” iti 2 mahAdeve ca .
 141577:1: vcp: <HI>{@kAmAkzI@}¦ strI kAmaM SoBanamakzi yasyAH zac samA0 zittvAt
-141578:3: vcp: <>NIz . 1 devImUrttiBede tantrokte 2 vIjaBede ca .
+141578:3: vcp: NIz . 1 devImUrttiBede tantrokte 2 vIjaBede ca .
 141579:2: vcp: <HI>{@kAmAKyA@}¦ strI satIdevyA 1 yonipIWarUpe sTAne 2 tadaDizWAtryAM
-141580:4: vcp: <>devyAYca . tannAmanirukti 5 durBAvAdi kAli0 pu0 61 a0
-141581:0: vcp: <>darSitaM yaTA
-141582:2: vcp: <>“SrIBagavAnuvAca . kAmArzwamAgatA yasmAnmayA sArdDaM
-141583:0: vcp: <>mahAgirO . kAmAKyA procyate devI nIlakUwe rahogatA .
-141584:0: vcp: <>kAmadA kaminI kAmA kAntA kAmANgadAyinI . kAmANga-
-141585:0: vcp: <>nASinI yasmAt kAmAKyA tena cocyate . tatpIWa-
-141586:1: vcp: <>kAraRamuktaM tatrEva . “aTa kAle bahutiTe vyatIte prARisa-
-141587:2: vcp: <>rjjane . agfhRAM dakzatanayAM, BAryyArTe'haM baDUvarAm . sA
-141588:0: vcp: <>me'BUt preyasI BAryyA, pradAya samayaM pituH . anizwakArI
-141589:0: vcp: <>tvaYcet syAH, prARAMstyakzye tadA tvahaM . tato yajYe samastantu
-141590:2: vcp: <>sa ca vabre carAcaram . na mAM nApi satIM vabre tadanizwA-
-141591:3: vcp: <>nmftA tu sA . tato mohasamApannastAmAdAya mftAnaham .
-141592:0: vcp: <>prAptapIWavaraM tantu BramamARa itastataH . tasyAstvaNgAni-
-141593:0: vcp: <>paryyAyAt patitAni yato yataH . tattat puRyatamaM jAtaM
-141594:1: vcp: <>yoganindrApraBAvataH . tasmiMstu kubjikApIWe satyAstadyoni
-141595:0: vcp: <>maRqalam . patitaM, tatra sA devI mahAmAyA vyalIyata .
-141596:1: vcp: <>lInAyAM yoganidrAyAM mayi parvvatarUpiRi . sa nIlavarRaH
-141597:0: vcp: <>SElo'BUt patite yonimaRqale . sa tu SElo mahAtuNgaH
-141598:0: vcp: <>pAtAlatalamAviSat . tasyA AkramaRAdgAQaM tatastaM
-141599:0: vcp: <>druhiRo'ByayAt . sa tu pUrvvaM brahmaSaktiSilAM DarttuM
-141600:0: vcp: <>caturmuKaH . SElarUpo'Bavattena SElarUpeRa mAmaDAt
-141601:1: vcp: <>brahmA parvvatarUpeRa mayi parvvatarUpiRi . saMsaMkto'Do [Page1901-a+ 38]
-141602:1: vcp: <>'gamadgAQamAkrAnto mAyayA viDiH . tato varAhaH sasakto
-141603:0: vcp: <>mayi mAM sa tu mADavaH . SElarUpaH SElarUpaM DarttuM samu-
-141604:0: vcp: <>pacakrame . so'pyaDo'gAnmayA sArdDaM tadA parvvatarUpiRA .
-141605:0: vcp: <>Akramya devIM pfTivIM sTito Buvi niKAtakaH . SataM
-141606:0: vcp: <>SataM yojanAnAM tuNgamAsIdgiritrayam . tadAkrAntaM mahA-
-141607:0: vcp: <>devyA sarvvameva hyaDogatam . kroSamAtre sTitaM tuNgaM SezaM
-141608:0: vcp: <>tattriyasya tu . ekA samastajagatAM prakftiH sA yatastataH .
-141609:0: vcp: <>brahmavizRuSivEdevErDftA sA jagatAM prasUH . tatra pUrvvo
-141610:0: vcp: <>brahmaSElaH Sveta ityucyate buDEH . madrUpaDArI SElastu
-141611:0: vcp: <>nIla ityucyate taTA . sa tu maDyagataH SElastrikoRo-
-141612:0: vcp: <>dUKalAkftiH . viBrAjamAnaH satataM maDye brahmavarAhayoH .
-141613:1: vcp: <>varAhaH SElarUpo yaH sa citra iti kaTyate . sa sarvvezAM
-141614:0: vcp: <>sTitaH paScAt dIrGaH sarveBya eva tu . ESAnyAM yo'-
-141615:0: vcp: <>Bavat kUrmmaH SElarUpo mahAdyutiH . maRikarRaH sa
-141616:0: vcp: <>nAmnA tu KyAto devOGasevitaH . yo'nantarUpaH SElastu
-141617:0: vcp: <>vAyavyAM samavasTitaH . maRiparvvatasaMjYo'sO parvato
-141618:0: vcp: <>mADavapriyaH . mahAmAyAgiriryastu nErftyAM samavasTitaH .
-141619:0: vcp: <>sa ganDamAdano nAmnA sarvadA SaNkarapriyaH . varAhapfzWaBavane
-141620:1: vcp: <>yatra CinnO mahAsurO (maDukEwaBO) . hariRA tatra saMjAtaH
-141621:1: vcp: <>prARqunATa iti smftaH . brahmaSaktiSilAyAstu pUrvva-
-141622:0: vcp: <>BAge tu maDyataH . yastu parvatarUpo'haM sa tu BasmAcalA-
-141623:1: vcp: <>hvayaH . puRyakUwe mayA sArdDaM devI rahasi saMsTitA .
-141624:0: vcp: <>satyAstu patitaM tatra viSIrRaM yonimaRqalam . SilA-
-141625:1: vcp: <>tvamagamata SEle kAmAKyA tatra saMsTitA . saMspfSya tAM
-141626:0: vcp: <>SilAM martyo hyamartyatvamavApnuyAt . tasyAH SilAyA
-141627:1: vcp: <>mAhAtmyAt yatra kAmeSvarI sTitA . adButaM yasya guhye
-141628:1: vcp: <>tu lohaM Basma Bavedgatam . sA cApri pratyahaM putra! paYca-
-141629:0: vcp: <>mUrttiDarA Bavet . mohArTaM sarvalokAnAM mamApi prItaye
-141630:2: vcp: <>SivA . aha paYcamuKenASa paYcaBAge vyavasTitaH .
-141631:0: vcp: <>ISAnaH pUrvvaBAgasTaH kAmeSvaryyAH praDAnataH . ESAnyAM
-141632:0: vcp: <>vE tatpuruzo hyaGorastasya sanniDO . sadyojAto'Ta vAya
-141633:0: vcp: <>vyAM vAmadevastu saNgataH . devyAScApi suraSrezWa! paYcarUpARi
-141634:0: vcp: <>BErava! . SfRu vetAla! guhyAni devErapi sadEva hi .
-141635:0: vcp: <>kAmAKyA tripurA cEva taTA kAmeSvarI SivA . sAra-
-141636:0: vcp: <>dA'Ta mahotsAhA kAmarUpaguREryutA . mayi liNgatvamA-
-141637:0: vcp: <>panne SilAyAM yonimaRqale . sarve SilAtvamagaman SEla-
-141638:0: vcp: <>rUpASca nirjjarAH . yaTAhaM nijarUpeRa reme vE saha
-141639:2: vcp: <>sAyayA . tilArUpapraticCannAstadA sarvAstu devatAH . [Page1901-b+ 38]
-141640:0: vcp: <>SilArUpapraticCannAH SEle SEve vyavasTitA . ramante ca
-141641:0: vcp: <>svarUpeRa nityaM rahasi saNgatAH . brahmA vizRurahaYcAtra
-141642:0: vcp: <>dikpAlAH sarva eva te . anye'pyatra sTitA devAH sAnu-
-141643:0: vcp: <>kUlAH sadA mayi . upAsituM tadA devIM kAmAKyAM
-141644:0: vcp: <>kAmarUpiRIm . nIlaSElastrikoRastu maDye nimnaH sadA-
-141645:0: vcp: <>SivaH . tanmaDye maRqalaM cAru zazwiSaktisamanvitam .
-141646:0: vcp: <>guhA manoBavA tatra manoBavavinirmmitA . yonistasyAM
-141647:1: vcp: <>SilAyAntu SilArUpA manoharA . vitastimAtravistIrRRA
-141648:0: vcp: <>ekaviMSANgulAyatA . kramasUkzmavinirmmARaBasmaSElAnu-
-141649:0: vcp: <>gAminI . sindUrakuNkumAraktA sarvakAmapradAyinI . tasyAM
-141650:0: vcp: <>yonO paYcarUpA nityaM tizWati kAminI . mahAmAyA
-141651:0: vcp: <>jagadDAtrI mUlaBUtA sanAtanI . tatrAzwO yoginIrnityaM
-141652:3: vcp: <>sUlaBUtAH sanAtanIH . pUrvvoktAH SElaputrAdyAH sTitA
-141653:1: vcp: <>devyAH samantataH . tAsAntu pIWanAmAni SfRu cEkatra BErava! .
-141654:3: vcp: <>guptakAmA 1 ca SrIkAmA 2 taTA ca vinDyavAsinI 3 .
-141655:0: vcp: <>kowISvarI 4 DanasTA 5 tu pAdadurgA 6 taTAparA . dIrGe-
-141656:1: vcp: <>SvarI 7 kramAdeva prakawA BuvaneSvarI 8 svayoginyaH poWa-
-141657:0: vcp: <>nAmnA KyAtA azwO ca devatAH . sarvatIrTAni cEkatra jala-
-141658:0: vcp: <>rUpARi BErava! . sTitAni nAmnA sOBAgyA vareRyA
-141659:1: vcp: <>prARipuRyadA . vizRustu tIre tasyAH sa nAmnA kamala
-141660:0: vcp: <>ityuta . kAmukAKyastu vawukaH kAmAKyAByarRasaMsTitaH .
-141661:0: vcp: <>lakzmIH sarasvatI devyO devyA aNge vyavasTite . lali-
-141662:1: vcp: <>tAKyA'BavallakzmIrmmAtaNgI tu sarasvatI . gaRADyakzaH pUrbaBAge
-141663:0: vcp: <>tasya SElasya saMsTitaH . sidDaH sa nAmnA viKyAto dvAri
-141664:1: vcp: <>devyAH priyaH sutaH . kalpavfkzaH kalpaballI tintiqI cA-
-141665:0: vcp: <>parAjitA . BUtAstasminmahASEle sTite devyA Dftapriye .
-141666:1: vcp: <>varAhaH pARqunATAKyaH sTitastatra hariryataH . jaGane
-141667:1: vcp: <>SirasI kftvA jaGAna maDuvEwaBO . tasyAsanne brahmakuRqaM
-141668:0: vcp: <>brahmaRA nirmmitaM purA . ISAnAKyaM SiroratnaM tat
-141669:3: vcp: <>sidDeSvarasaMjYakam . SilArUlaM sidDakuRqaM maDyasTaM vidDi
-141670:0: vcp: <>BErava! . tasyAsanne gayAkzetraM kzetraM vArARasI taTA” .
-141671:2: vcp: <>“yonimaRqalasaNkASaM kuRqaM BUtvA vyavasTitam .
-141672:0: vcp: <>tatrEvAmftakuRqantu suDAsaMGaprapUritam . mama priyArTa-
-141673:0: vcp: <>mindreRa sTApitaM saha nirjjarEH . vAmadevAhvayaM SIrzaM
-141674:0: vcp: <>SrIkAmeSvarasaMjYakam . kAmakuRqaM mahApuRyaM tasyAsanne
-141675:0: vcp: <>vyavasTitam . kedArasaMjYakaM kzetraM maDyasTaM sidDakAmayoH .
-141676:0: vcp: <>dIrGaM caturddaSavyAmaM CAyAcCatrAhvayaM tu tat . tasyAsanne
-141677:1: vcp: <>SElaputrI guptakAmAhvayA tu sA . guptakuRqasya maDyamTA [Page1902-a+ 38]
-141678:0: vcp: <>kAmeSagrAvRi saNgatA . kAmeSvaraSilAsaktA lAmAKyA-
-141679:1: vcp: <>sajYitA sadA . pUrvvaBAgeRa saMsaktA yonestu paraBAgataH .
-141680:0: vcp: <>kAmakAmAKyayormmaDye kAlarAtrirvyavasTitA . pIWe
-141681:0: vcp: <>dIrGeSvarI nAmnA sImABAge pracaRqikA . kAmAKyA-
-141682:3: vcp: <>prastaraprAnte kuzmARqI nAma yoginI . pIWe kowISvarI
-141683:0: vcp: <>nAmnA yonirUpeRa saMsTitA . yaccAGorAhvayaM SIrzaM
-141684:0: vcp: <>tat kAmAyAstu dakziRe . pIWe BEravanAmA tu gIyate
-141685:1: vcp: <>paramarziBiH . cAmuRqABEravI nAmnA BEravAsannasaM-
-141686:0: vcp: <>sTitA . nAyikA kAmadA Bakte, caRqamuRqavinASinI .
-141687:1: vcp: <>kAmABEravayormmaDye svayaM devI surApagA . hitAya sarvva-
-141688:0: vcp: <>jagatAM devyAstu prItaye sTitA . sadyojAtAhvayaM SIrzaM
-141689:0: vcp: <>pIWe tvAmrAtakeSvaram . BEravAKye gahvare tu sTitaM deva-
-141690:0: vcp: <>rzisevitam . vidDi tatrEva durgAKyAM nAyikAM yogarUpi-
-141691:3: vcp: <>Rom . sidDakAmeSvarIM nAmnA KyAtAM devezu nityaSaH .
-141692:1: vcp: <>ajIrRapatraH sucCAyo vfkzastatra tu saMsTitaH . AmrA-
-141693:1: vcp: <>takaH kalpavfkzaH kalpavallIsamanvitaH . pIWe tu sidDagaNgAKyA
-141694:0: vcp: <>svayaM gaNgA samutTitA . AmrAtakasya nikawe mama prIti-
-141695:0: vcp: <>vivfdDaye . puzkarAKyantu tat kzetraM pIWe tvAmrAtakA-
-141696:0: vcp: <>hvayam . ESAnyAM tatpuruzAKyaM mama SIrzaM vyavasTitam .
-141697:0: vcp: <>BuvaneSvaranAmnA tu pIWe KyAtaYca BErava! . gahvaraM Buva-
-141698:0: vcp: <>neSasya BuvanAnandasaMjYakam . tasyAsanne tu suraBiH
-141699:0: vcp: <>SilArUpeRa saMsTitA . kAmaDenuriti KyAtA pIWe
-141700:0: vcp: <>kAmapradAyinI . yo'sO saraBamUrttistu maDyaKaRqapraca-
-141701:1: vcp: <>RqakaH . caRqaBeravanAmA'BUt kowiliNgAhvayastu saH .
-141702:1: vcp: <>mUrttiBiH paYcaBiH paYcaBAgeza samamAsTitaH . ahaM paScA-
-141703:0: vcp: <>datiprItyA BEravAKyaH sTito'Dare . mahAgOrI tu yA
-141704:0: vcp: <>devI yoginI sidDarUpiRI . sA brahmaparvate cAste
-141705:1: vcp: <>SilArUpeRa cordDataH . atIvarUpasampannA nAmnA sA
-141706:4: vcp: <>tvaparAjitA . kAmaDenoradUrasTA pUrvvaBAge maheSvarI .
-141707:0: vcp: <>SrIkAmAKyA yonirUpA caRqikA sA tu yoginI .
-141708:0: vcp: <>AgneyyAM vidDi tAM saMsTAM sarvvakAmapradAM SuBAm .
-141709:1: vcp: <>yoginI caRqaGaRwAKyA pIWe'BUt vinDyavAsinI .
-141710:0: vcp: <>yoginI skandamAtA tatpIWe'BUdvanavAsinI . kAtyA-
-141711:0: vcp: <>yanIpIWanAmnA pAdadurgeti gadyate . nErftyAM nIlaSElasya
-141712:0: vcp: <>prAnte sA saMsTitA SivA . yo'sO nandI mama tanuH sa
-141713:0: vcp: <>tu pAzARarUpaDfk . saMsTitaH paScimadvAri hanUmAn
-141714:1: vcp: <>pAWanAmataH” .
-141715:2: vcp: <>kzetraparatvamapyuktaM devIgItAyAm yaTA “SrImat tripuraBE- [Page1902-b+ 38]
-141716:0: vcp: <>ravyAH kAmAKyA yonimaRqalam . BUmaRqale kzetraratnaM mahA
-141717:0: vcp: <>mAyADivAsitam . nAtaHparataraM sTAnaM kvacidasti DarA-
-141718:0: vcp: <>tale . pratimAsaM BaveddevI yatra sAkzAdrajasvalA . tatratyAH
-141719:1: vcp: <>devatAH sarvvoH parvvatAtmakatAM gatAH . parvvatezu vasantyeva
-141720:0: vcp: <>mahatyo devatA api . tatratyA pfTivI sarvvA devIrUpA
-141721:0: vcp: <>smftA buDEH . nAtaHparataraM sTAnaM kAmAKyAyoni-
-141722:1: vcp: <>maRqalAt” .
+141580:4: vcp: devyAYca . tannAmanirukti 5 durBAvAdi kAli0 pu0 61 a0
+141581:0: vcp: darSitaM yaTA
+141582:2: vcp: “SrIBagavAnuvAca . kAmArzwamAgatA yasmAnmayA sArdDaM
+141583:0: vcp: mahAgirO . kAmAKyA procyate devI nIlakUwe rahogatA .
+141584:0: vcp: kAmadA kaminI kAmA kAntA kAmANgadAyinI . kAmANga-
+141585:0: vcp: nASinI yasmAt kAmAKyA tena cocyate . tatpIWa-
+141586:1: vcp: kAraRamuktaM tatrEva . “aTa kAle bahutiTe vyatIte prARisa-
+141587:2: vcp: rjjane . agfhRAM dakzatanayAM, BAryyArTe'haM baDUvarAm . sA
+141588:0: vcp: me'BUt preyasI BAryyA, pradAya samayaM pituH . anizwakArI
+141589:0: vcp: tvaYcet syAH, prARAMstyakzye tadA tvahaM . tato yajYe samastantu
+141590:2: vcp: sa ca vabre carAcaram . na mAM nApi satIM vabre tadanizwA-
+141591:3: vcp: nmftA tu sA . tato mohasamApannastAmAdAya mftAnaham .
+141592:0: vcp: prAptapIWavaraM tantu BramamARa itastataH . tasyAstvaNgAni-
+141593:0: vcp: paryyAyAt patitAni yato yataH . tattat puRyatamaM jAtaM
+141594:1: vcp: yoganindrApraBAvataH . tasmiMstu kubjikApIWe satyAstadyoni
+141595:0: vcp: maRqalam . patitaM, tatra sA devI mahAmAyA vyalIyata .
+141596:1: vcp: lInAyAM yoganidrAyAM mayi parvvatarUpiRi . sa nIlavarRaH
+141597:0: vcp: SElo'BUt patite yonimaRqale . sa tu SElo mahAtuNgaH
+141598:0: vcp: pAtAlatalamAviSat . tasyA AkramaRAdgAQaM tatastaM
+141599:0: vcp: druhiRo'ByayAt . sa tu pUrvvaM brahmaSaktiSilAM DarttuM
+141600:0: vcp: caturmuKaH . SElarUpo'Bavattena SElarUpeRa mAmaDAt
+141601:1: vcp: brahmA parvvatarUpeRa mayi parvvatarUpiRi . saMsaMkto'Do [Page1901-a+ 38]
+141602:1: vcp: 'gamadgAQamAkrAnto mAyayA viDiH . tato varAhaH sasakto
+141603:0: vcp: mayi mAM sa tu mADavaH . SElarUpaH SElarUpaM DarttuM samu-
+141604:0: vcp: pacakrame . so'pyaDo'gAnmayA sArdDaM tadA parvvatarUpiRA .
+141605:0: vcp: Akramya devIM pfTivIM sTito Buvi niKAtakaH . SataM
+141606:0: vcp: SataM yojanAnAM tuNgamAsIdgiritrayam . tadAkrAntaM mahA-
+141607:0: vcp: devyA sarvvameva hyaDogatam . kroSamAtre sTitaM tuNgaM SezaM
+141608:0: vcp: tattriyasya tu . ekA samastajagatAM prakftiH sA yatastataH .
+141609:0: vcp: brahmavizRuSivEdevErDftA sA jagatAM prasUH . tatra pUrvvo
+141610:0: vcp: brahmaSElaH Sveta ityucyate buDEH . madrUpaDArI SElastu
+141611:0: vcp: nIla ityucyate taTA . sa tu maDyagataH SElastrikoRo-
+141612:0: vcp: dUKalAkftiH . viBrAjamAnaH satataM maDye brahmavarAhayoH .
+141613:1: vcp: varAhaH SElarUpo yaH sa citra iti kaTyate . sa sarvvezAM
+141614:0: vcp: sTitaH paScAt dIrGaH sarveBya eva tu . ESAnyAM yo'-
+141615:0: vcp: Bavat kUrmmaH SElarUpo mahAdyutiH . maRikarRaH sa
+141616:0: vcp: nAmnA tu KyAto devOGasevitaH . yo'nantarUpaH SElastu
+141617:0: vcp: vAyavyAM samavasTitaH . maRiparvvatasaMjYo'sO parvato
+141618:0: vcp: mADavapriyaH . mahAmAyAgiriryastu nErftyAM samavasTitaH .
+141619:0: vcp: sa ganDamAdano nAmnA sarvadA SaNkarapriyaH . varAhapfzWaBavane
+141620:1: vcp: yatra CinnO mahAsurO (maDukEwaBO) . hariRA tatra saMjAtaH
+141621:1: vcp: prARqunATa iti smftaH . brahmaSaktiSilAyAstu pUrvva-
+141622:0: vcp: BAge tu maDyataH . yastu parvatarUpo'haM sa tu BasmAcalA-
+141623:1: vcp: hvayaH . puRyakUwe mayA sArdDaM devI rahasi saMsTitA .
+141624:0: vcp: satyAstu patitaM tatra viSIrRaM yonimaRqalam . SilA-
+141625:1: vcp: tvamagamata SEle kAmAKyA tatra saMsTitA . saMspfSya tAM
+141626:0: vcp: SilAM martyo hyamartyatvamavApnuyAt . tasyAH SilAyA
+141627:1: vcp: mAhAtmyAt yatra kAmeSvarI sTitA . adButaM yasya guhye
+141628:1: vcp: tu lohaM Basma Bavedgatam . sA cApri pratyahaM putra! paYca-
+141629:0: vcp: mUrttiDarA Bavet . mohArTaM sarvalokAnAM mamApi prItaye
+141630:2: vcp: SivA . aha paYcamuKenASa paYcaBAge vyavasTitaH .
+141631:0: vcp: ISAnaH pUrvvaBAgasTaH kAmeSvaryyAH praDAnataH . ESAnyAM
+141632:0: vcp: vE tatpuruzo hyaGorastasya sanniDO . sadyojAto'Ta vAya
+141633:0: vcp: vyAM vAmadevastu saNgataH . devyAScApi suraSrezWa! paYcarUpARi
+141634:0: vcp: BErava! . SfRu vetAla! guhyAni devErapi sadEva hi .
+141635:0: vcp: kAmAKyA tripurA cEva taTA kAmeSvarI SivA . sAra-
+141636:0: vcp: dA'Ta mahotsAhA kAmarUpaguREryutA . mayi liNgatvamA-
+141637:0: vcp: panne SilAyAM yonimaRqale . sarve SilAtvamagaman SEla-
+141638:0: vcp: rUpASca nirjjarAH . yaTAhaM nijarUpeRa reme vE saha
+141639:2: vcp: sAyayA . tilArUpapraticCannAstadA sarvAstu devatAH . [Page1901-b+ 38]
+141640:0: vcp: SilArUpapraticCannAH SEle SEve vyavasTitA . ramante ca
+141641:0: vcp: svarUpeRa nityaM rahasi saNgatAH . brahmA vizRurahaYcAtra
+141642:0: vcp: dikpAlAH sarva eva te . anye'pyatra sTitA devAH sAnu-
+141643:0: vcp: kUlAH sadA mayi . upAsituM tadA devIM kAmAKyAM
+141644:0: vcp: kAmarUpiRIm . nIlaSElastrikoRastu maDye nimnaH sadA-
+141645:0: vcp: SivaH . tanmaDye maRqalaM cAru zazwiSaktisamanvitam .
+141646:0: vcp: guhA manoBavA tatra manoBavavinirmmitA . yonistasyAM
+141647:1: vcp: SilAyAntu SilArUpA manoharA . vitastimAtravistIrRRA
+141648:0: vcp: ekaviMSANgulAyatA . kramasUkzmavinirmmARaBasmaSElAnu-
+141649:0: vcp: gAminI . sindUrakuNkumAraktA sarvakAmapradAyinI . tasyAM
+141650:0: vcp: yonO paYcarUpA nityaM tizWati kAminI . mahAmAyA
+141651:0: vcp: jagadDAtrI mUlaBUtA sanAtanI . tatrAzwO yoginIrnityaM
+141652:3: vcp: sUlaBUtAH sanAtanIH . pUrvvoktAH SElaputrAdyAH sTitA
+141653:1: vcp: devyAH samantataH . tAsAntu pIWanAmAni SfRu cEkatra BErava! .
+141654:3: vcp: guptakAmA 1 ca SrIkAmA 2 taTA ca vinDyavAsinI 3 .
+141655:0: vcp: kowISvarI 4 DanasTA 5 tu pAdadurgA 6 taTAparA . dIrGe-
+141656:1: vcp: SvarI 7 kramAdeva prakawA BuvaneSvarI 8 svayoginyaH poWa-
+141657:0: vcp: nAmnA KyAtA azwO ca devatAH . sarvatIrTAni cEkatra jala-
+141658:0: vcp: rUpARi BErava! . sTitAni nAmnA sOBAgyA vareRyA
+141659:1: vcp: prARipuRyadA . vizRustu tIre tasyAH sa nAmnA kamala
+141660:0: vcp: ityuta . kAmukAKyastu vawukaH kAmAKyAByarRasaMsTitaH .
+141661:0: vcp: lakzmIH sarasvatI devyO devyA aNge vyavasTite . lali-
+141662:1: vcp: tAKyA'BavallakzmIrmmAtaNgI tu sarasvatI . gaRADyakzaH pUrbaBAge
+141663:0: vcp: tasya SElasya saMsTitaH . sidDaH sa nAmnA viKyAto dvAri
+141664:1: vcp: devyAH priyaH sutaH . kalpavfkzaH kalpaballI tintiqI cA-
+141665:0: vcp: parAjitA . BUtAstasminmahASEle sTite devyA Dftapriye .
+141666:1: vcp: varAhaH pARqunATAKyaH sTitastatra hariryataH . jaGane
+141667:1: vcp: SirasI kftvA jaGAna maDuvEwaBO . tasyAsanne brahmakuRqaM
+141668:0: vcp: brahmaRA nirmmitaM purA . ISAnAKyaM SiroratnaM tat
+141669:3: vcp: sidDeSvarasaMjYakam . SilArUlaM sidDakuRqaM maDyasTaM vidDi
+141670:0: vcp: BErava! . tasyAsanne gayAkzetraM kzetraM vArARasI taTA” .
+141671:2: vcp: “yonimaRqalasaNkASaM kuRqaM BUtvA vyavasTitam .
+141672:0: vcp: tatrEvAmftakuRqantu suDAsaMGaprapUritam . mama priyArTa-
+141673:0: vcp: mindreRa sTApitaM saha nirjjarEH . vAmadevAhvayaM SIrzaM
+141674:0: vcp: SrIkAmeSvarasaMjYakam . kAmakuRqaM mahApuRyaM tasyAsanne
+141675:0: vcp: vyavasTitam . kedArasaMjYakaM kzetraM maDyasTaM sidDakAmayoH .
+141676:0: vcp: dIrGaM caturddaSavyAmaM CAyAcCatrAhvayaM tu tat . tasyAsanne
+141677:1: vcp: SElaputrI guptakAmAhvayA tu sA . guptakuRqasya maDyamTA [Page1902-a+ 38]
+141678:0: vcp: kAmeSagrAvRi saNgatA . kAmeSvaraSilAsaktA lAmAKyA-
+141679:1: vcp: sajYitA sadA . pUrvvaBAgeRa saMsaktA yonestu paraBAgataH .
+141680:0: vcp: kAmakAmAKyayormmaDye kAlarAtrirvyavasTitA . pIWe
+141681:0: vcp: dIrGeSvarI nAmnA sImABAge pracaRqikA . kAmAKyA-
+141682:3: vcp: prastaraprAnte kuzmARqI nAma yoginI . pIWe kowISvarI
+141683:0: vcp: nAmnA yonirUpeRa saMsTitA . yaccAGorAhvayaM SIrzaM
+141684:0: vcp: tat kAmAyAstu dakziRe . pIWe BEravanAmA tu gIyate
+141685:1: vcp: paramarziBiH . cAmuRqABEravI nAmnA BEravAsannasaM-
+141686:0: vcp: sTitA . nAyikA kAmadA Bakte, caRqamuRqavinASinI .
+141687:1: vcp: kAmABEravayormmaDye svayaM devI surApagA . hitAya sarvva-
+141688:0: vcp: jagatAM devyAstu prItaye sTitA . sadyojAtAhvayaM SIrzaM
+141689:0: vcp: pIWe tvAmrAtakeSvaram . BEravAKye gahvare tu sTitaM deva-
+141690:0: vcp: rzisevitam . vidDi tatrEva durgAKyAM nAyikAM yogarUpi-
+141691:3: vcp: Rom . sidDakAmeSvarIM nAmnA KyAtAM devezu nityaSaH .
+141692:1: vcp: ajIrRapatraH sucCAyo vfkzastatra tu saMsTitaH . AmrA-
+141693:1: vcp: takaH kalpavfkzaH kalpavallIsamanvitaH . pIWe tu sidDagaNgAKyA
+141694:0: vcp: svayaM gaNgA samutTitA . AmrAtakasya nikawe mama prIti-
+141695:0: vcp: vivfdDaye . puzkarAKyantu tat kzetraM pIWe tvAmrAtakA-
+141696:0: vcp: hvayam . ESAnyAM tatpuruzAKyaM mama SIrzaM vyavasTitam .
+141697:0: vcp: BuvaneSvaranAmnA tu pIWe KyAtaYca BErava! . gahvaraM Buva-
+141698:0: vcp: neSasya BuvanAnandasaMjYakam . tasyAsanne tu suraBiH
+141699:0: vcp: SilArUpeRa saMsTitA . kAmaDenuriti KyAtA pIWe
+141700:0: vcp: kAmapradAyinI . yo'sO saraBamUrttistu maDyaKaRqapraca-
+141701:1: vcp: RqakaH . caRqaBeravanAmA'BUt kowiliNgAhvayastu saH .
+141702:1: vcp: mUrttiBiH paYcaBiH paYcaBAgeza samamAsTitaH . ahaM paScA-
+141703:0: vcp: datiprItyA BEravAKyaH sTito'Dare . mahAgOrI tu yA
+141704:0: vcp: devI yoginI sidDarUpiRI . sA brahmaparvate cAste
+141705:1: vcp: SilArUpeRa cordDataH . atIvarUpasampannA nAmnA sA
+141706:4: vcp: tvaparAjitA . kAmaDenoradUrasTA pUrvvaBAge maheSvarI .
+141707:0: vcp: SrIkAmAKyA yonirUpA caRqikA sA tu yoginI .
+141708:0: vcp: AgneyyAM vidDi tAM saMsTAM sarvvakAmapradAM SuBAm .
+141709:1: vcp: yoginI caRqaGaRwAKyA pIWe'BUt vinDyavAsinI .
+141710:0: vcp: yoginI skandamAtA tatpIWe'BUdvanavAsinI . kAtyA-
+141711:0: vcp: yanIpIWanAmnA pAdadurgeti gadyate . nErftyAM nIlaSElasya
+141712:0: vcp: prAnte sA saMsTitA SivA . yo'sO nandI mama tanuH sa
+141713:0: vcp: tu pAzARarUpaDfk . saMsTitaH paScimadvAri hanUmAn
+141714:1: vcp: pAWanAmataH” .
+141715:2: vcp: kzetraparatvamapyuktaM devIgItAyAm yaTA “SrImat tripuraBE- [Page1902-b+ 38]
+141716:0: vcp: ravyAH kAmAKyA yonimaRqalam . BUmaRqale kzetraratnaM mahA
+141717:0: vcp: mAyADivAsitam . nAtaHparataraM sTAnaM kvacidasti DarA-
+141718:0: vcp: tale . pratimAsaM BaveddevI yatra sAkzAdrajasvalA . tatratyAH
+141719:1: vcp: devatAH sarvvoH parvvatAtmakatAM gatAH . parvvatezu vasantyeva
+141720:0: vcp: mahatyo devatA api . tatratyA pfTivI sarvvA devIrUpA
+141721:0: vcp: smftA buDEH . nAtaHparataraM sTAnaM kAmAKyAyoni-
+141722:1: vcp: maRqalAt” .
 141723:0: vcp: <HI>{@kAmAgnisandIpana@}¦ na0 BEzajyaratnAvalIdarSite modakaBede
-141724:0: vcp: <>“karzorasoganDakamaBrakaYca dvikzAracitre lavaRAni paYca .
-141725:0: vcp: <>SaWIyamAnIdvayakIwahAritAlISapatrARyaparaM dvikarzam .
-141726:1: vcp: <>jIraM caturjAtalavaNgajAtiPalaYca karzatrayamevamanyat . sa-
-141727:1: vcp: <>vfdDadAraM kawukatrayaYca taTA catuzkarzamitaM niboDa . DanyA-
-141728:0: vcp: <>kayazwImaDukaM kaSeru, karzAH pfTak paYca varI vidArI .
-141729:3: vcp: <>vIreBakAReBabalAtmaguptAvIjaM taTA gokzuravIjayuktam .
-141730:3: vcp: <>savIjapatrendrarajaHsamAnaM samA sitA kzOdraGftaYca tulyam .
-141731:0: vcp: <>karzEkamindoraTa modakaM tat kAmAgnisandIpanametaduktam” .
-141732:1: vcp: <>tadguRASca kAmasyAgneSca dIpakatAdayastatroktA drazwavyAH .
+141724:0: vcp: “karzorasoganDakamaBrakaYca dvikzAracitre lavaRAni paYca .
+141725:0: vcp: SaWIyamAnIdvayakIwahAritAlISapatrARyaparaM dvikarzam .
+141726:1: vcp: jIraM caturjAtalavaNgajAtiPalaYca karzatrayamevamanyat . sa-
+141727:1: vcp: vfdDadAraM kawukatrayaYca taTA catuzkarzamitaM niboDa . DanyA-
+141728:0: vcp: kayazwImaDukaM kaSeru, karzAH pfTak paYca varI vidArI .
+141729:3: vcp: vIreBakAReBabalAtmaguptAvIjaM taTA gokzuravIjayuktam .
+141730:3: vcp: savIjapatrendrarajaHsamAnaM samA sitA kzOdraGftaYca tulyam .
+141731:0: vcp: karzEkamindoraTa modakaM tat kAmAgnisandIpanametaduktam” .
+141732:1: vcp: tadguRASca kAmasyAgneSca dIpakatAdayastatroktA drazwavyAH .
 141733:4: vcp: <HI>{@kAmANkuSa@}¦ pu0 kAme kAmoddIpane aNkuSEva . 1 naKe trikA0
-141734:0: vcp: <>tasyAGAtena kAmoddIpanAt tasya taTAtvam . kAmasya ca
-141735:0: vcp: <>tiTiBede sTAnaviSeze naKAGAtena yaToddIpanaM Bavati taTA
-141736:1: vcp: <>smaradIpikAyAmukaM tacca vAkyaM kAmaSabde darSitam .
-141737:2: vcp: <>2 puMsoliNge jawADaraH . kAmasyANkuSaiva . 3 kAma-
-141738:0: vcp: <>pratiroDake ca .
+141734:0: vcp: tasyAGAtena kAmoddIpanAt tasya taTAtvam . kAmasya ca
+141735:0: vcp: tiTiBede sTAnaviSeze naKAGAtena yaToddIpanaM Bavati taTA
+141736:1: vcp: smaradIpikAyAmukaM tacca vAkyaM kAmaSabde darSitam .
+141737:2: vcp: 2 puMsoliNge jawADaraH . kAmasyANkuSaiva . 3 kAma-
+141738:0: vcp: pratiroDake ca .
 141739:0: vcp: <HI>{@kAmANga@}¦ pu0 kAmaM kAmoddIpanam aNgaM mukulamasya . Amravfkze jawADaraH .
 141740:0: vcp: <HI>{@kAmAtmaja@}¦ pu0 6 ta0 . anirudDe .
 141741:1: vcp: <HI>{@kAmAtman@}¦ pu0 kAmapraDAnaH rAgapraDAna AtmA manoyasya .
-141742:1: vcp: <>rAgapraDAnacitte . “kAmAtmatA na praSastA na cEvehAstya-
-141743:1: vcp: <>kAmatA” manuH . kAmaH tadAyattaH AtmA svarUpaM yasya .
-141744:3: vcp: <>2 kAmAyattasvarUpe kAmaprasakte 3 kAmamaye ca . “kAmA-
-141745:2: vcp: <>tmAnaM tadAtmAnaM na SaSAka niyacCitum” BA0 A0
-141746:3: vcp: <>184 Slo0 . kAmAtmAnaM kAmamayamAtmAnamantaHkaraRam
-141747:0: vcp: <>niyacCitumityArzaH niyantumityarTe .
+141742:1: vcp: rAgapraDAnacitte . “kAmAtmatA na praSastA na cEvehAstya-
+141743:1: vcp: kAmatA” manuH . kAmaH tadAyattaH AtmA svarUpaM yasya .
+141744:3: vcp: 2 kAmAyattasvarUpe kAmaprasakte 3 kAmamaye ca . “kAmA-
+141745:2: vcp: tmAnaM tadAtmAnaM na SaSAka niyacCitum” BA0 A0
+141746:3: vcp: 184 Slo0 . kAmAtmAnaM kAmamayamAtmAnamantaHkaraRam
+141747:0: vcp: niyacCitumityArzaH niyantumityarTe .
 141748:1: vcp: <HI>{@kAmADizWAna@}¦ na0 6 ta0 . indriyamanobudDizu “indriyARi
-141749:2: vcp: <>manobudDirasyADizWAnamucyate” gItAyAmindriyAdInAM
-141750:0: vcp: <>asya--kAmasyADizWAnatvoktestezAM taTAtvam .
+141749:2: vcp: manobudDirasyADizWAnamucyate” gItAyAmindriyAdInAM
+141750:0: vcp: asya--kAmasyADizWAnatvoktestezAM taTAtvam .
 141751:1: vcp: <HI>{@kAmAnaSana@}¦ na0 kAmamanaSanam . yaTezwaBIjanarahite tapo-
-141752:1: vcp: <>Bede . rArgadvezAdirahitErindriyEH vizayasevane'pi yaTezwA-
-141753:0: vcp: <>naSanaM Bavatyeveti boDyam . [Page1903-a+ 38]
+141752:1: vcp: Bede . rArgadvezAdirahitErindriyEH vizayasevane'pi yaTezwA-
+141753:0: vcp: naSanaM Bavatyeveti boDyam . [Page1903-a+ 38]
 141754:0: vcp: <HI>{@kAmAnDa@}¦ puMstrI kAmena kAmoddIpanena anDayati anDa Ric-
-141755:2: vcp: <>ac . 1 kokile rAjani0 . taduDvaninA hi kAmasyoddI-
-141756:0: vcp: <>panAttasya taTAtvam . striyAM jAtitvAt NIz . kAmenAnDaH
-141757:2: vcp: <>6 ta0 . 2 smarAnDe smaravegena karttavyatAjYAnaSUnye tri0 .
+141755:2: vcp: ac . 1 kokile rAjani0 . taduDvaninA hi kAmasyoddI-
+141756:0: vcp: panAttasya taTAtvam . striyAM jAtitvAt NIz . kAmenAnDaH
+141757:2: vcp: 6 ta0 . 2 smarAnDe smaravegena karttavyatAjYAnaSUnye tri0 .
 141758:2: vcp: <HI>{@kAmAnDA@}¦ strI kAmaM yaTezwamanDayati anDa--ac . kastUryyAM
-141759:0: vcp: <>rAjani0 . tasyAH kfzRarUpatvena yaTezwAnDakAratulyatvAt
-141760:0: vcp: <>taTAtvam .
+141759:0: vcp: rAjani0 . tasyAH kfzRarUpatvena yaTezwAnDakAratulyatvAt
+141760:0: vcp: taTAtvam .
 141761:1: vcp: <HI>{@kAmAyuDa@}¦ yu0 kAmasyAyuDamiva mukule AkAro'styasya ac .
-141762:1: vcp: <>Amravfkze rAjani0 . 6 ta0 . kAmasyAstre na0 .
+141762:1: vcp: Amravfkze rAjani0 . 6 ta0 . kAmasyAstre na0 .
 141763:0: vcp: <HI>{@kAmAyus@}¦ pu0 kAmaM yaTezwamAyuryasya . garuqe trikA0 .
 141764:0: vcp: <HI>{@kAmAraRya@}¦ na0 kAmaM SoBanamaraRyam . manoharavane Sabdara0
 141765:2: vcp: <HI>{@kAmAri@}¦ pu0 6 ta0 . 1 mahAdeve . 2 mAkzikopaDAtuBede ca hemaca0
 141766:1: vcp: <HI>{@kAmArtta@}¦ tri0 kAmena ftaH 3 ta0 vfdDiH . kAmena pIqite
-141767:2: vcp: <>“kAmArttAhi prakfticapalAScetanAcetanezu” meGa0
+141767:2: vcp: “kAmArttAhi prakfticapalAScetanAcetanezu” meGa0
 141768:0: vcp: <HI>{@kAmAlikA@}¦ strI kAmamalati BUzayati ala--BUzaRe Rvul
-141769:0: vcp: <>wApi ata ittvam . surAyAM hArA0 .
+141769:0: vcp: wApi ata ittvam . surAyAM hArA0 .
 141770:1: vcp: <HI>{@kAmAlu@}¦ pu0 kAmaM yaTezwamalati puzpavikASena ala--paryyAptO
-141771:8: vcp: <>uR . raktakAYcane Sabdaca0 . tasya puzpeRa sarvvAvayavavyA-
-141772:0: vcp: <>panAt taTAtvam .
+141771:8: vcp: uR . raktakAYcane Sabdaca0 . tasya puzpeRa sarvvAvayavavyA-
+141772:0: vcp: panAt taTAtvam .
 141773:0: vcp: <HI>{@kAmAvatAra@}¦ pu0 6 ta0 . rOkmiReye vAsudevAtmaje .
 141774:1: vcp: <HI>{@kAmAvaSAyitA@}¦ strI kAmena icCayA avaSAyayati padArTAn
-141775:0: vcp: <>svacitte ava + SI--Ric--Rini tasya BAvaH tal . satyasaNka-
-141776:0: vcp: <>lpatve yoginAmESvaryaBede Sabdaci0 yaTecCaM padArTAnAM svacitte
-141777:1: vcp: <>samAveSanAt yoginastaTAtvam . anyezAM niScetavyAnu-
-141778:1: vcp: <>sAreRa padArTaniScayAnna tayAtvam .
+141775:0: vcp: svacitte ava + SI--Ric--Rini tasya BAvaH tal . satyasaNka-
+141776:0: vcp: lpatve yoginAmESvaryaBede Sabdaci0 yaTecCaM padArTAnAM svacitte
+141777:1: vcp: samAveSanAt yoginastaTAtvam . anyezAM niScetavyAnu-
+141778:1: vcp: sAreRa padArTaniScayAnna tayAtvam .
 141779:2: vcp: <HI>{@kAmAvasAyitA@}¦ strI kAmena svecCayA'vasyati padArTAn
-141780:0: vcp: <>ava + so--Rini tasya BAvaH tal . satyasaNkalpatvarUpe yogi-
-141781:2: vcp: <>nAmESvaryyaBede . “aRimA laGimA prAptiH prAkAmyaYca
-141782:0: vcp: <>taTeSitA . vyApitvaYca vaSitvaYca taTA kAmAvasAyitA” .
-141783:2: vcp: <>“yaTAsya saNkalpo Bavati BUtezutaTEva BUtAni Bavanti anyezAM
-141784:1: vcp: <>niScayA niScetavyamanuviDIyante” iti sAM0 kO0 .
+141780:0: vcp: ava + so--Rini tasya BAvaH tal . satyasaNkalpatvarUpe yogi-
+141781:2: vcp: nAmESvaryyaBede . “aRimA laGimA prAptiH prAkAmyaYca
+141782:0: vcp: taTeSitA . vyApitvaYca vaSitvaYca taTA kAmAvasAyitA” .
+141783:2: vcp: “yaTAsya saNkalpo Bavati BUtezutaTEva BUtAni Bavanti anyezAM
+141784:1: vcp: niScayA niScetavyamanuviDIyante” iti sAM0 kO0 .
 141785:1: vcp: <HI>{@kAmAsana@}¦ na0 kAmasyati kzipatyanena asa--karaRe lyuw
-141786:2: vcp: <>6 ta0 . rudrayAmalokte AsanaBede . tallakzaRaM yaTA “aTa
-141787:0: vcp: <>kAmAsanaM vakzye kAmamardanahetunA . garuqAsanamAkftya
-141788:1: vcp: <>kanizWAgraM spfSedBuvi” . garuqAsanaYca garuqAsanaSabdevakzyate
+141786:2: vcp: 6 ta0 . rudrayAmalokte AsanaBede . tallakzaRaM yaTA “aTa
+141787:0: vcp: kAmAsanaM vakzye kAmamardanahetunA . garuqAsanamAkftya
+141788:1: vcp: kanizWAgraM spfSedBuvi” . garuqAsanaYca garuqAsanaSabdevakzyate
 141789:0: vcp: <HI>{@kAmi@}¦ tri0 kama--RiN--iR . kAmuke . kAmapatnyAM ratyAM
-141790:0: vcp: <>strI medi0 .
+141790:0: vcp: strI medi0 .
 141791:2: vcp: <HI>{@kAmika@}¦ puMstrI kAmo'styasyaWan . 1 kAraRqavapakziRi Sabdara0 [Page1903-b+ 38]
-141792:0: vcp: <>striyAM jAtitvAt NIz . kAmena nirvfttam WaY .
-141793:2: vcp: <>2 kAmena nirvftte kAmye . “devatAstasya tuzyanti kAmikaM
-141794:1: vcp: <>tasya siDyati” BA0 anu0 6025 Slo0 . striyAM NIp .
-141795:5: vcp: <>“tatEzwiM cakArarzistasya vE putrakAmikIm” BA0 anu0
-141796:4: vcp: <>1969 Slo0 . kAmikaM kAmyamaDikftya kftogranTaH aR .
-141797:1: vcp: <>3 kAmyADikAreRa kfte granTe hemAdrO tatpramARAni
-141798:0: vcp: <>BUrIRi santi kAmaDenuSabde diNmAtraM dfSyam .
+141792:0: vcp: striyAM jAtitvAt NIz . kAmena nirvfttam WaY .
+141793:2: vcp: 2 kAmena nirvftte kAmye . “devatAstasya tuzyanti kAmikaM
+141794:1: vcp: tasya siDyati” BA0 anu0 6025 Slo0 . striyAM NIp .
+141795:5: vcp: “tatEzwiM cakArarzistasya vE putrakAmikIm” BA0 anu0
+141796:4: vcp: 1969 Slo0 . kAmikaM kAmyamaDikftya kftogranTaH aR .
+141797:1: vcp: 3 kAmyADikAreRa kfte granTe hemAdrO tatpramARAni
+141798:0: vcp: BUrIRi santi kAmaDenuSabde diNmAtraM dfSyam .
 141799:2: vcp: <HI>{@kAmin@}¦ tri0 kama--RiN--Rini . 1 kAmanAyukte 2 ati-
-141800:3: vcp: <>Sayasmaravegayukte ca . “sa baBUva tataH kAmI tayA sArdDa-
-141801:1: vcp: <>makAmayA” BA0 A0 4184 Slo0 . striyAM NIp NI-
-141802:1: vcp: <>bantaH 3 strIsAmAnye . kAma + BUmni prASastye vA ini NIp .
-141803:2: vcp: <>4 atismaravegayuktAyAM striyAM 5 sundaryyAM ca strI amaraH .
-141804:2: vcp: <>“kezAM nEzA BavatikavitA kAminI kOtukAya” prasannarA0 .
-141805:1: vcp: <>“maDUni vaktrARi ca kAminInAmAmodakarmma vyati-
-141806:3: vcp: <>hAramIyuH” mAGaH . 6 BIrustriyAM 7 vandAyAM (para-
-141807:4: vcp: <>gACA) medi0 . 8 dAruharidrAyAM sundaravarRavattvAt
-141808:1: vcp: <>tasyA taTAtvam 9 surAyAYca strI rAjani0 . tasyAH kAmA-
-141809:0: vcp: <>DikyasampAdakatvAttaTAtvam . praSastaH kAmo'styasya ini .
-141810:3: vcp: <>10 satyasaNkalpe parameSvare pu0 . “kAmI kAntaH kftAgamaH”
-141811:6: vcp: <>vizRusa0 . 11 cakravAke 12 pArAvate ca puMstrI medi0
-141812:2: vcp: <>13 cawake puMstrI Sabdara0 etezAM kAmAtiSayavattvAttaTA-
-141813:2: vcp: <>tvam . 14 candre pu0 trikA0 kAmoddIpakatvAttasya taTAtvam .
-141814:2: vcp: <>15 fzaBozaDO pu0 sevanena kAmapozaRAttasya taTAtvam .
-141815:2: vcp: <>16 sArasapakziRi ca puMstrI rAjani0 kAmukatvAttasya
-141816:2: vcp: <>taTAttvam . sarvatra striyAM NIp 17 kAmaSaktiBede strI .
-141817:1: vcp: <>kAminIvirAgAnurAgacihnatatsevaprakArAdiH vf0 sa0 darSito
-141818:1: vcp: <>yaTA “SastreRa veRIvinigUhitena vidUraTaM (rAjaBedam) svA
-141819:0: vcp: <>mahizI jaGAna . vizapradigDena ca nUpureRa devI viraktA
-141820:0: vcp: <>kila kASIrAjam . evaM viraktA janayanti dozAn
-141821:0: vcp: <>prARacCido'nyEranukIrttitEH kim? . raktA viraktAH
-141822:0: vcp: <>puruzErato'rTAt parIkzitavyAH pramadAH prayatnAt .
-141823:1: vcp: <>snehaM manomavakftaM kaTayanti BAvAnnABIBujastanaviBUzaRa-
-141824:0: vcp: <>darSanAni . vastrABisaMyamanakeSavimokzaRAni BrUkzepakampita-
-141825:1: vcp: <>kawAkzanirIkzaRAni . ucceHzWIvanamutkawaprahasitaM SaryyA-
-141826:0: vcp: <>sanotsarpaRaM gAtrAsPowanajfmBaRAni sulaBadravyAlpa-
-141827:1: vcp: <>samprArTanA . bAlAliNganacumbanAnyamimuKe saKyAH
-141828:3: vcp: <>samAlokanaM dfkpAtaSca parANnuKe guRakaTA karRasya
-141829:0: vcp: <>kaRqUyanam . imAM ca vindyAdanuraktacezwAM priyARi vakti [Page1904-a+ 38]
-141830:1: vcp: <>svaDanaM dadAti . vilokya saMhfzyati vItarozA pramArzwi
-141831:0: vcp: <>dozAn guRakIrtanena . tanmitrapUjA tadaridvizatvaM kftasmftiH
-141832:2: vcp: <>prozitadOrmanasyam . stanOzWadAnAnyupagUhanaM ca svedo'Ta
-141833:0: vcp: <>cumbApraTamABiyogaH . viraktacezwA BrukuwImuKatvaM parANmu-
-141834:2: vcp: <>KatvaM kftavismftiSca . asaMBramoduzparitozatA ca taddvizwa-
-141835:0: vcp: <>mEtrI paruzaM ca vAkyam . spfzwvATavAlokya Dunoti gAtra
-141836:1: vcp: <>karoti garvaM na ruRadDi yAntam . cumbAvirAme vadanaM
-141837:0: vcp: <>pramArzwi paScAtsamuttizWati pUrvasuptA . BikzARikA pravra-
-141838:0: vcp: <>jitA dAsI DAtrI kumArikA rajikA . mAlAkArI
-141839:0: vcp: <>duzwANganA saKI nApitI dUtyaH . kulajanavinASahetu-
-141840:0: vcp: <>rdUtyo yasmAdataH prayatnena . tAByaH striyo'BirakzyA
-141841:1: vcp: <>vaMSayaSomAnavfdyaTam . rAtrIvihArajAgararogavyapadeSa-
-141842:2: vcp: <>paragfhekzaRikAH . vyasanotsavASca saMketahetavastezu rakzyA-
-141843:0: vcp: <>Sca . AdO necCati nojJati smarakaTAM vrIqAvi-
-141844:0: vcp: <>miSrAlasA maDye hrIparivarjjitAByuparame lajjAvina-
-141845:0: vcp: <>mrAnanA . BAvErnEkaviDEH karotyaBinayaM BUyaSca yA sAdarA
-141846:0: vcp: <>budDA pumprakftiM ca yAnucarati glAnetarEScezwitEH . strIRAM
-141847:0: vcp: <>guRA yOvanarUpavezadAkziRyavijYAnavilAsapUrvAH . strI-
-141848:0: vcp: <>ratnasaYjYA ca guRAnvitAsu strIvyADayo 'nyAScaturasya
-141849:0: vcp: <>puMsaH . na grAmyavarRErmaladigDakAyA nindyANgasambanDikaTAM
-141850:0: vcp: <>ca kuryyAt . na cAnyakAryyasmaraRaM rahaHsTA mano hi
-141851:0: vcp: <>mUlaM haradagDamUrtteH . SvAsaM prakampeRa samaM tyajantI bAhU-
-141852:0: vcp: <>paDAnastanadAnadakzA . suganDakeSA prasaBoparAgA supte
-141853:0: vcp: <>'nusuptA praTamaM vibudDA . duzwasvaBAvAH parivarjanIyA
-141854:1: vcp: <>vimardakAlezu ca na kzamA yAH . yAsAmamfgvA sitanIla-
-141855:1: vcp: <>pItamAtAmravarRaM ca na tAH praSastAH . yA svapnaSIlA bahu-
-141856:0: vcp: <>raktapittA pravAhinI vAtakaPAtiriktA . mahASanA sveda-
-141857:0: vcp: <>yutANgaduzwA yA hrasvakeSI palitAnvitA ca . mAMsAni
-141858:0: vcp: <>yasyASca calanti nAryyA mahodarA KikKiminI ca yA
-141859:0: vcp: <>syAt . strIlakzaRe yAH kaTitASca pApAstABirna kuryyA-
-141860:0: vcp: <>tsaha kAmaDarmmam . SaSaSoRitasaNkASaM lAkzArasasanni-
-141861:1: vcp: <>kASamaTavA yat . prakzAlitaM virajyati yaccAsfk tadBavecCu-
-141862:1: vcp: <>dDam . yacCabdavedanAvarjitaM tryahAtsannivartate raktam .
-141863:0: vcp: <>tat puruzasamprayogAdavicAraM garBatAM yAti . na dinatrayaM
-141864:0: vcp: <>nizevet snAnaM mAlyAnulepanaM ca strI . snAyAccaturTa-
-141865:0: vcp: <>divase SAstroktenopadeSena . puzpasnAnOzaDayo yAH
-141866:0: vcp: <>kaTitAstABirambumiSrABiH . snAyAttaTAtramantraH sa eva
-141867:0: vcp: <>yastatra nirddizwaH . yugmAsu kila manuzyA niSAsu nAryo [Page1904-b+ 38]
-141868:0: vcp: <>Bavanti vizamAsu . dIrGAyuzaH surUpAH suKinaSca vikfzwa
-141869:0: vcp: <>(praSasta) yugmAsu . dakziRapArSve puruzo, vAme nArI,
-141870:0: vcp: <>yamAvuBayasaMsTO . yadudaramaDyopagataM napuMsakaM tannibodDa-
-141871:0: vcp: <>vyam . kendratrikoRezu SuBasTitezu lagne SaSANke ca SuBEH
-141872:0: vcp: <>samete . pApEstrilABArigatESca yAyAt puYjanmayogezu ca
-141873:0: vcp: <>samprayogam . na naKadaSanavikzatAni kuryyAd ftusamaye
-141874:0: vcp: <>puruzaH striyAH kaTaYcit . fturapi daSa zaw ca
-141875:1: vcp: <>vAsarARi praTamaniSAtritayaM na tatra gamyam” .
-141876:2: vcp: <>“AyuHkzayaBayAdvidvAnnAhni seveta kAminIm . avaSo
-141877:1: vcp: <>yadi seveta tadA grIzmavasantayoH” iti sAmAnyata uktvA
-141878:0: vcp: <>bAlAdyavasTApannakAminInAM sevane Palam, kAminIsevana
-141879:0: vcp: <>prakAraSca BAvapra0 darSito yaTA
-141880:0: vcp: <>“bAleti gIyate nArI yAvadvarzARi zoqaSa . tatastu
-141881:0: vcp: <>taruRI jYeyA dvAtriMSadvatsarAvaDi . tadUrdDvamaDirUQA
-141882:0: vcp: <>syAt paYcASadvatsarAvaDi . vfdDA tatparato jYeyA suratotsa-
-141883:2: vcp: <>vavarjitA . aDirUQA prOqA . nidAGaSaradorbAlA hitA
-141884:0: vcp: <>vizayiRI (BogArhA) matA . taruRI SItasamaye prOQA varzA-
-141885:0: vcp: <>vasantayoH . nityambAlA sevyamAnA nityaM vardDayate balam .
-141886:1: vcp: <>taruRI hRAsayecCaktiM prOQodBAvayate jarAm . sadyo
-141887:0: vcp: <>mAMsannavaYcAnnaM bAlA strI kzIraBojanam . GftamuzRo-
-141888:0: vcp: <>dake snAnaM sadyaH prARakarARi zaw . pUti mAMsaM striyo
-141889:1: vcp: <>vfdDA bAlArkastaruRaM daDi . praBAte mETunaM nidrA sadyaH
-141890:1: vcp: <>prARaharARi zaw . prARaSabdo'tra balavAcakaH . bAlArkaH
-141891:0: vcp: <>kanyArkaH . vfdDo'pi taruRIM gatvA taruRatvamavApnuyAt .
-141892:0: vcp: <>vayo'DikAM striyaNgatvA taruRaH sTavirAyate . Ayu-
-141893:0: vcp: <>zmanto mandajarA vapUrvarRabalAnvitAH . sTiropacita
-141894:0: vcp: <>mAMsASca Bavanti strIzu saMmatAH . seveta kAmataH kAmaM balA-
-141895:0: vcp: <>dvAjIkfto hime . prakAmantu nizeveta mETunaM SiSi-
-141896:0: vcp: <>rAgame . tryahAdvasantaSaradoH pakzAt vfzwinidAGayoH .
-141897:2: vcp: <>suSrutastu “triBistriBirahoBirhi sameyAtpramadAM naraH .
-141898:2: vcp: <>sarvvezvftuzu Garmmezu pakzAtpakzAdvrajedbuDaH” . sameyAt saNga-
-141899:2: vcp: <>cCeta Garmmezu grIzmezu . “SIte rAtrO divA grIzme vasante tu
-141900:1: vcp: <>divAniSi . varzAsu vAridaDvAne Saratsu sarasaH smaraH .
-141901:0: vcp: <>upeyAt puruzo nArIM sanDyayornaca parvvasu . gosarge
-141902:0: vcp: <>cArdDarAtre ca taTA maDyadine'pi ca . vihAramBAryyayA
-141903:1: vcp: <>kuryyAddeSe'tiSayasaMvfte . ramye SravyANganAgAne sugante
-141904:1: vcp: <>muKamArute . deSe gurujanAsanne vivfte'titrapAkare .
-141905:1: vcp: <>SrUyamARe vyaTAhetuvacane na rameta nA . snAtaScandanati- [Page1905-a+ 38]
-141906:0: vcp: <>ptANgaH suganDaH sumano'nvitaH . BuktavfzyaH suvasanaH
-141907:0: vcp: <>suveSaH samalaNkftaH . tAmbUlavadanaH patnyAmanurakto-
-141908:0: vcp: <>'DikasmaraH . putrArTI puruzo nArImupeyAcCayane
-141909:0: vcp: <>SuBe . atyASito'DftiH kzudvAn savyaTANgaH pipA
-141910:2: vcp: <>sitaH . bAlo vfdDo'nyavegArttastyajedrIgI ca mETunam .
-141911:0: vcp: <>rogI mETunasaMvardDanIyarogayuktaH . BAryyAM rUpaguRo-
-141912:0: vcp: <>petAM tulyaSIlAM kulodBavAm . aBikAmo'BikAmAntu
-141913:0: vcp: <>hfzwo hfzwAmalaNkftAm . seveta pramadAM yuktyA vAjI-
-141914:2: vcp: <>karaRavfhitaH . rajasvalAmakAmAYca malinAmapriyA-
-141915:2: vcp: <>ntaTA . varRavfdDAM vayovfdDAM taTA vyADiprapIqitAm .
-141916:0: vcp: <>hInANgIM garBiRIM dvezyAM yonirogasamanvitAm . sago-
-141917:0: vcp: <>trANgurupatnIYca taTA pravrajitAmapi . nABigacCet
-141918:0: vcp: <>pumAnnArIM BUrivEguRyaSaNkayA . rajasvalANgatavato nara-
-141919:0: vcp: <>syAsaMyatAtmanaH dfzwyAyustejasAM hAniraDarmaSca tato
-141920:0: vcp: <>Bavet . liNginIM gurupatnIYca sagotrAmaTa parvvasu .
-141921:3: vcp: <>vfdDAYca sanDyayoScApi gacCato jIvanakzayaH . liNginIM
-141922:1: vcp: <>prabrajitAm . garBiRyAM garBapIqA syAdvyADitAyAM
-141923:0: vcp: <>balakzayaH . hInANgIM malinAM dvezyAM kzAmAmbanDyAmasaM
-141924:0: vcp: <>vfte . deSe'BigacCato retaH kzIRaM mlAnaM mano Bavet .
-141925:1: vcp: <>garBiRIM garBavAsadivasAt dvitIye mAsi, garBasTite-
-141926:0: vcp: <>raniScaye yaToktanakzatrAdilABABAve vA tftIye mAsi
-141927:0: vcp: <>puMsavane kfte nABigacCet . yataH puMsavanAnantaramAha
-141928:1: vcp: <>vyAsaH “tatastyajennadItIraM devaKAtodakaM taTA . BarttuH
-141929:2: vcp: <>SayyAM mftApatyAM taTEvAmizaBojanam” . anyacca “Amiza-
-141930:0: vcp: <>syASanaM yatnAtpramadA parivarjjayet . devArAmanadI-
-141931:1: vcp: <>yAnaM prayogaM puruzasya ceti” . kzuDitaH kzubDacittaSca
-141932:1: vcp: <>maDyAhne tfzito'balaH . sTitasya hAniM Sukrasya vAyoH
-141933:0: vcp: <>kopaYca vindati . vyADitasya rujA plIhA mUrcCA mftyuSca
-141934:0: vcp: <>jAyate . pratyUze cArdDarAtre ca vAtapitte prakupyataH .
-141935:0: vcp: <>tiryyagyonAvayonO vA duzwayonO taTEva ca . upadaM-
-141936:1: vcp: <>SastaTA vAyoH kopaH SukrasuKakzayaH . uccArite mUtrite
-141937:0: vcp: <>ca retasaSca viDAraRe . uttAne ca Bavet SIGraM SukrA-
-141938:0: vcp: <>SmaryyAstu samBavaH . sarvvametattyajettasmAdyato loka
-141939:2: vcp: <>dvayA'hitam . SukrantUpasTitammohAnna sanDAryyaM kadAcana .
-141940:0: vcp: <>snAnaM saSarkvaraM kzIraM BakzyamEkzavasaMyutam . vAtomAMsarasaH
-141941:1: vcp: <>svapno suratAnte hitA amI . SUlakAsajvaraSvAsa
-141942:0: vcp: <>kArSyapARqvAmayakzayAH . ativyavAyAjjAyante rogAScAkze-
-141943:4: vcp: <>prakAMdayaH” . [Page1905-b+ 38]
+141800:3: vcp: Sayasmaravegayukte ca . “sa baBUva tataH kAmI tayA sArdDa-
+141801:1: vcp: makAmayA” BA0 A0 4184 Slo0 . striyAM NIp NI-
+141802:1: vcp: bantaH 3 strIsAmAnye . kAma + BUmni prASastye vA ini NIp .
+141803:2: vcp: 4 atismaravegayuktAyAM striyAM 5 sundaryyAM ca strI amaraH .
+141804:2: vcp: “kezAM nEzA BavatikavitA kAminI kOtukAya” prasannarA0 .
+141805:1: vcp: “maDUni vaktrARi ca kAminInAmAmodakarmma vyati-
+141806:3: vcp: hAramIyuH” mAGaH . 6 BIrustriyAM 7 vandAyAM (para-
+141807:4: vcp: gACA) medi0 . 8 dAruharidrAyAM sundaravarRavattvAt
+141808:1: vcp: tasyA taTAtvam 9 surAyAYca strI rAjani0 . tasyAH kAmA-
+141809:0: vcp: DikyasampAdakatvAttaTAtvam . praSastaH kAmo'styasya ini .
+141810:3: vcp: 10 satyasaNkalpe parameSvare pu0 . “kAmI kAntaH kftAgamaH”
+141811:6: vcp: vizRusa0 . 11 cakravAke 12 pArAvate ca puMstrI medi0
+141812:2: vcp: 13 cawake puMstrI Sabdara0 etezAM kAmAtiSayavattvAttaTA-
+141813:2: vcp: tvam . 14 candre pu0 trikA0 kAmoddIpakatvAttasya taTAtvam .
+141814:2: vcp: 15 fzaBozaDO pu0 sevanena kAmapozaRAttasya taTAtvam .
+141815:2: vcp: 16 sArasapakziRi ca puMstrI rAjani0 kAmukatvAttasya
+141816:2: vcp: taTAttvam . sarvatra striyAM NIp 17 kAmaSaktiBede strI .
+141817:1: vcp: kAminIvirAgAnurAgacihnatatsevaprakArAdiH vf0 sa0 darSito
+141818:1: vcp: yaTA “SastreRa veRIvinigUhitena vidUraTaM (rAjaBedam) svA
+141819:0: vcp: mahizI jaGAna . vizapradigDena ca nUpureRa devI viraktA
+141820:0: vcp: kila kASIrAjam . evaM viraktA janayanti dozAn
+141821:0: vcp: prARacCido'nyEranukIrttitEH kim? . raktA viraktAH
+141822:0: vcp: puruzErato'rTAt parIkzitavyAH pramadAH prayatnAt .
+141823:1: vcp: snehaM manomavakftaM kaTayanti BAvAnnABIBujastanaviBUzaRa-
+141824:0: vcp: darSanAni . vastrABisaMyamanakeSavimokzaRAni BrUkzepakampita-
+141825:1: vcp: kawAkzanirIkzaRAni . ucceHzWIvanamutkawaprahasitaM SaryyA-
+141826:0: vcp: sanotsarpaRaM gAtrAsPowanajfmBaRAni sulaBadravyAlpa-
+141827:1: vcp: samprArTanA . bAlAliNganacumbanAnyamimuKe saKyAH
+141828:3: vcp: samAlokanaM dfkpAtaSca parANnuKe guRakaTA karRasya
+141829:0: vcp: kaRqUyanam . imAM ca vindyAdanuraktacezwAM priyARi vakti [Page1904-a+ 38]
+141830:1: vcp: svaDanaM dadAti . vilokya saMhfzyati vItarozA pramArzwi
+141831:0: vcp: dozAn guRakIrtanena . tanmitrapUjA tadaridvizatvaM kftasmftiH
+141832:2: vcp: prozitadOrmanasyam . stanOzWadAnAnyupagUhanaM ca svedo'Ta
+141833:0: vcp: cumbApraTamABiyogaH . viraktacezwA BrukuwImuKatvaM parANmu-
+141834:2: vcp: KatvaM kftavismftiSca . asaMBramoduzparitozatA ca taddvizwa-
+141835:0: vcp: mEtrI paruzaM ca vAkyam . spfzwvATavAlokya Dunoti gAtra
+141836:1: vcp: karoti garvaM na ruRadDi yAntam . cumbAvirAme vadanaM
+141837:0: vcp: pramArzwi paScAtsamuttizWati pUrvasuptA . BikzARikA pravra-
+141838:0: vcp: jitA dAsI DAtrI kumArikA rajikA . mAlAkArI
+141839:0: vcp: duzwANganA saKI nApitI dUtyaH . kulajanavinASahetu-
+141840:0: vcp: rdUtyo yasmAdataH prayatnena . tAByaH striyo'BirakzyA
+141841:1: vcp: vaMSayaSomAnavfdyaTam . rAtrIvihArajAgararogavyapadeSa-
+141842:2: vcp: paragfhekzaRikAH . vyasanotsavASca saMketahetavastezu rakzyA-
+141843:0: vcp: Sca . AdO necCati nojJati smarakaTAM vrIqAvi-
+141844:0: vcp: miSrAlasA maDye hrIparivarjjitAByuparame lajjAvina-
+141845:0: vcp: mrAnanA . BAvErnEkaviDEH karotyaBinayaM BUyaSca yA sAdarA
+141846:0: vcp: budDA pumprakftiM ca yAnucarati glAnetarEScezwitEH . strIRAM
+141847:0: vcp: guRA yOvanarUpavezadAkziRyavijYAnavilAsapUrvAH . strI-
+141848:0: vcp: ratnasaYjYA ca guRAnvitAsu strIvyADayo 'nyAScaturasya
+141849:0: vcp: puMsaH . na grAmyavarRErmaladigDakAyA nindyANgasambanDikaTAM
+141850:0: vcp: ca kuryyAt . na cAnyakAryyasmaraRaM rahaHsTA mano hi
+141851:0: vcp: mUlaM haradagDamUrtteH . SvAsaM prakampeRa samaM tyajantI bAhU-
+141852:0: vcp: paDAnastanadAnadakzA . suganDakeSA prasaBoparAgA supte
+141853:0: vcp: 'nusuptA praTamaM vibudDA . duzwasvaBAvAH parivarjanIyA
+141854:1: vcp: vimardakAlezu ca na kzamA yAH . yAsAmamfgvA sitanIla-
+141855:1: vcp: pItamAtAmravarRaM ca na tAH praSastAH . yA svapnaSIlA bahu-
+141856:0: vcp: raktapittA pravAhinI vAtakaPAtiriktA . mahASanA sveda-
+141857:0: vcp: yutANgaduzwA yA hrasvakeSI palitAnvitA ca . mAMsAni
+141858:0: vcp: yasyASca calanti nAryyA mahodarA KikKiminI ca yA
+141859:0: vcp: syAt . strIlakzaRe yAH kaTitASca pApAstABirna kuryyA-
+141860:0: vcp: tsaha kAmaDarmmam . SaSaSoRitasaNkASaM lAkzArasasanni-
+141861:1: vcp: kASamaTavA yat . prakzAlitaM virajyati yaccAsfk tadBavecCu-
+141862:1: vcp: dDam . yacCabdavedanAvarjitaM tryahAtsannivartate raktam .
+141863:0: vcp: tat puruzasamprayogAdavicAraM garBatAM yAti . na dinatrayaM
+141864:0: vcp: nizevet snAnaM mAlyAnulepanaM ca strI . snAyAccaturTa-
+141865:0: vcp: divase SAstroktenopadeSena . puzpasnAnOzaDayo yAH
+141866:0: vcp: kaTitAstABirambumiSrABiH . snAyAttaTAtramantraH sa eva
+141867:0: vcp: yastatra nirddizwaH . yugmAsu kila manuzyA niSAsu nAryo [Page1904-b+ 38]
+141868:0: vcp: Bavanti vizamAsu . dIrGAyuzaH surUpAH suKinaSca vikfzwa
+141869:0: vcp: (praSasta) yugmAsu . dakziRapArSve puruzo, vAme nArI,
+141870:0: vcp: yamAvuBayasaMsTO . yadudaramaDyopagataM napuMsakaM tannibodDa-
+141871:0: vcp: vyam . kendratrikoRezu SuBasTitezu lagne SaSANke ca SuBEH
+141872:0: vcp: samete . pApEstrilABArigatESca yAyAt puYjanmayogezu ca
+141873:0: vcp: samprayogam . na naKadaSanavikzatAni kuryyAd ftusamaye
+141874:0: vcp: puruzaH striyAH kaTaYcit . fturapi daSa zaw ca
+141875:1: vcp: vAsarARi praTamaniSAtritayaM na tatra gamyam” .
+141876:2: vcp: “AyuHkzayaBayAdvidvAnnAhni seveta kAminIm . avaSo
+141877:1: vcp: yadi seveta tadA grIzmavasantayoH” iti sAmAnyata uktvA
+141878:0: vcp: bAlAdyavasTApannakAminInAM sevane Palam, kAminIsevana
+141879:0: vcp: prakAraSca BAvapra0 darSito yaTA
+141880:0: vcp: “bAleti gIyate nArI yAvadvarzARi zoqaSa . tatastu
+141881:0: vcp: taruRI jYeyA dvAtriMSadvatsarAvaDi . tadUrdDvamaDirUQA
+141882:0: vcp: syAt paYcASadvatsarAvaDi . vfdDA tatparato jYeyA suratotsa-
+141883:2: vcp: vavarjitA . aDirUQA prOqA . nidAGaSaradorbAlA hitA
+141884:0: vcp: vizayiRI (BogArhA) matA . taruRI SItasamaye prOQA varzA-
+141885:0: vcp: vasantayoH . nityambAlA sevyamAnA nityaM vardDayate balam .
+141886:1: vcp: taruRI hRAsayecCaktiM prOQodBAvayate jarAm . sadyo
+141887:0: vcp: mAMsannavaYcAnnaM bAlA strI kzIraBojanam . GftamuzRo-
+141888:0: vcp: dake snAnaM sadyaH prARakarARi zaw . pUti mAMsaM striyo
+141889:1: vcp: vfdDA bAlArkastaruRaM daDi . praBAte mETunaM nidrA sadyaH
+141890:1: vcp: prARaharARi zaw . prARaSabdo'tra balavAcakaH . bAlArkaH
+141891:0: vcp: kanyArkaH . vfdDo'pi taruRIM gatvA taruRatvamavApnuyAt .
+141892:0: vcp: vayo'DikAM striyaNgatvA taruRaH sTavirAyate . Ayu-
+141893:0: vcp: zmanto mandajarA vapUrvarRabalAnvitAH . sTiropacita
+141894:0: vcp: mAMsASca Bavanti strIzu saMmatAH . seveta kAmataH kAmaM balA-
+141895:0: vcp: dvAjIkfto hime . prakAmantu nizeveta mETunaM SiSi-
+141896:0: vcp: rAgame . tryahAdvasantaSaradoH pakzAt vfzwinidAGayoH .
+141897:2: vcp: suSrutastu “triBistriBirahoBirhi sameyAtpramadAM naraH .
+141898:2: vcp: sarvvezvftuzu Garmmezu pakzAtpakzAdvrajedbuDaH” . sameyAt saNga-
+141899:2: vcp: cCeta Garmmezu grIzmezu . “SIte rAtrO divA grIzme vasante tu
+141900:1: vcp: divAniSi . varzAsu vAridaDvAne Saratsu sarasaH smaraH .
+141901:0: vcp: upeyAt puruzo nArIM sanDyayornaca parvvasu . gosarge
+141902:0: vcp: cArdDarAtre ca taTA maDyadine'pi ca . vihAramBAryyayA
+141903:1: vcp: kuryyAddeSe'tiSayasaMvfte . ramye SravyANganAgAne sugante
+141904:1: vcp: muKamArute . deSe gurujanAsanne vivfte'titrapAkare .
+141905:1: vcp: SrUyamARe vyaTAhetuvacane na rameta nA . snAtaScandanati- [Page1905-a+ 38]
+141906:0: vcp: ptANgaH suganDaH sumano'nvitaH . BuktavfzyaH suvasanaH
+141907:0: vcp: suveSaH samalaNkftaH . tAmbUlavadanaH patnyAmanurakto-
+141908:0: vcp: 'DikasmaraH . putrArTI puruzo nArImupeyAcCayane
+141909:0: vcp: SuBe . atyASito'DftiH kzudvAn savyaTANgaH pipA
+141910:2: vcp: sitaH . bAlo vfdDo'nyavegArttastyajedrIgI ca mETunam .
+141911:0: vcp: rogI mETunasaMvardDanIyarogayuktaH . BAryyAM rUpaguRo-
+141912:0: vcp: petAM tulyaSIlAM kulodBavAm . aBikAmo'BikAmAntu
+141913:0: vcp: hfzwo hfzwAmalaNkftAm . seveta pramadAM yuktyA vAjI-
+141914:2: vcp: karaRavfhitaH . rajasvalAmakAmAYca malinAmapriyA-
+141915:2: vcp: ntaTA . varRavfdDAM vayovfdDAM taTA vyADiprapIqitAm .
+141916:0: vcp: hInANgIM garBiRIM dvezyAM yonirogasamanvitAm . sago-
+141917:0: vcp: trANgurupatnIYca taTA pravrajitAmapi . nABigacCet
+141918:0: vcp: pumAnnArIM BUrivEguRyaSaNkayA . rajasvalANgatavato nara-
+141919:0: vcp: syAsaMyatAtmanaH dfzwyAyustejasAM hAniraDarmaSca tato
+141920:0: vcp: Bavet . liNginIM gurupatnIYca sagotrAmaTa parvvasu .
+141921:3: vcp: vfdDAYca sanDyayoScApi gacCato jIvanakzayaH . liNginIM
+141922:1: vcp: prabrajitAm . garBiRyAM garBapIqA syAdvyADitAyAM
+141923:0: vcp: balakzayaH . hInANgIM malinAM dvezyAM kzAmAmbanDyAmasaM
+141924:0: vcp: vfte . deSe'BigacCato retaH kzIRaM mlAnaM mano Bavet .
+141925:1: vcp: garBiRIM garBavAsadivasAt dvitIye mAsi, garBasTite-
+141926:0: vcp: raniScaye yaToktanakzatrAdilABABAve vA tftIye mAsi
+141927:0: vcp: puMsavane kfte nABigacCet . yataH puMsavanAnantaramAha
+141928:1: vcp: vyAsaH “tatastyajennadItIraM devaKAtodakaM taTA . BarttuH
+141929:2: vcp: SayyAM mftApatyAM taTEvAmizaBojanam” . anyacca “Amiza-
+141930:0: vcp: syASanaM yatnAtpramadA parivarjjayet . devArAmanadI-
+141931:1: vcp: yAnaM prayogaM puruzasya ceti” . kzuDitaH kzubDacittaSca
+141932:1: vcp: maDyAhne tfzito'balaH . sTitasya hAniM Sukrasya vAyoH
+141933:0: vcp: kopaYca vindati . vyADitasya rujA plIhA mUrcCA mftyuSca
+141934:0: vcp: jAyate . pratyUze cArdDarAtre ca vAtapitte prakupyataH .
+141935:0: vcp: tiryyagyonAvayonO vA duzwayonO taTEva ca . upadaM-
+141936:1: vcp: SastaTA vAyoH kopaH SukrasuKakzayaH . uccArite mUtrite
+141937:0: vcp: ca retasaSca viDAraRe . uttAne ca Bavet SIGraM SukrA-
+141938:0: vcp: SmaryyAstu samBavaH . sarvvametattyajettasmAdyato loka
+141939:2: vcp: dvayA'hitam . SukrantUpasTitammohAnna sanDAryyaM kadAcana .
+141940:0: vcp: snAnaM saSarkvaraM kzIraM BakzyamEkzavasaMyutam . vAtomAMsarasaH
+141941:1: vcp: svapno suratAnte hitA amI . SUlakAsajvaraSvAsa
+141942:0: vcp: kArSyapARqvAmayakzayAH . ativyavAyAjjAyante rogAScAkze-
+141943:4: vcp: prakAMdayaH” . [Page1905-b+ 38]
 141944:4: vcp: <HI>{@kAminISa@}¦ pu0 kAminyAH kAminIpriyAYjanasya imaKat-
-141945:0: vcp: <>sADanatvAt . SoBAYjanavfkze Sabdaca0 . tasya kAminI
-141946:0: vcp: <>priyAYjanahetutvAt taTAtvam .
+141945:0: vcp: sADanatvAt . SoBAYjanavfkze Sabdaca0 . tasya kAminI
+141946:0: vcp: priyAYjanahetutvAt taTAtvam .
 141947:1: vcp: <HI>{@kAmIna@}¦ pu0 kAmamanugacCati Ka . 1 rAmapUge trikA0 . kAmA-
-141948:1: vcp: <>nugate tri0 . kAmIla iti trikA0 pAWAntaraM pfzo0 . rAmapUge .
+141948:1: vcp: nugate tri0 . kAmIla iti trikA0 pAWAntaraM pfzo0 . rAmapUge .
 141949:2: vcp: <HI>{@kAmuka@}¦ tri0 kamaH ukaY . 1 aSokavfkze 2 mADavIlatAyAm
-141950:2: vcp: <>medi0 . 3 cawake puMstrI rAjani0 . mETunecCAvati tri0
-141951:0: vcp: <>ama0 . striyAM NIp . icCAmAtrayukte tri0 ama0 tatra
-141952:1: vcp: <>striyAM na NIp kintu wAp iti BedaH “boDayitvA SuBE-
-141953:1: vcp: <>rvAkyEH kAminImiva kAmukaH” rAmA0 .
+141950:2: vcp: medi0 . 3 cawake puMstrI rAjani0 . mETunecCAvati tri0
+141951:0: vcp: ama0 . striyAM NIp . icCAmAtrayukte tri0 ama0 tatra
+141952:1: vcp: striyAM na NIp kintu wAp iti BedaH “boDayitvA SuBE-
+141953:1: vcp: rvAkyEH kAminImiva kAmukaH” rAmA0 .
 141954:0: vcp: <HI>{@kAmukakAntA@}¦ strI 6 ta0 . mADavIlatAyAm rAjani0 .
 141955:0: vcp: <HI>{@kAmukAyana@}¦ pu0 strI kAmukasyApatyaM naqAdi0 Pak . kAmu-
-141956:1: vcp: <>kApatye striyAM NIp .
+141956:1: vcp: kApatye striyAM NIp .
 141957:3: vcp: <HI>{@kAmeSvara@}¦ pu0 kAmAnAmISvaraH . 1 parameSvare 2 BaravIBade
-141958:4: vcp: <>strI “kAmeSvarI ca rudrArRA pUrvvasiMhAsane sTitA” tantrasA0
-141959:2: vcp: <>kAmAKyApaYcamUrttyantargate 3 mUrttiBede ca strI “devyA-
-141960:0: vcp: <>ScApi naraSrezWa! paYca rUpARi BErava! . SfRu vetAla!
-141961:0: vcp: <>guhyAni devErapi sadEva hi . kAmAKyA 1 tripurA 2 cEva
-141962:2: vcp: <>taTA kAmeSvarI 3 SivA 4 . sAradA 5 'Ta mahotsAhA
-141963:1: vcp: <>kAmarUpaguREryutA” kAlikA pu0 61 a0 .
+141958:4: vcp: strI “kAmeSvarI ca rudrArRA pUrvvasiMhAsane sTitA” tantrasA0
+141959:2: vcp: kAmAKyApaYcamUrttyantargate 3 mUrttiBede ca strI “devyA-
+141960:0: vcp: ScApi naraSrezWa! paYca rUpARi BErava! . SfRu vetAla!
+141961:0: vcp: guhyAni devErapi sadEva hi . kAmAKyA 1 tripurA 2 cEva
+141962:2: vcp: taTA kAmeSvarI 3 SivA 4 . sAradA 5 'Ta mahotsAhA
+141963:1: vcp: kAmarUpaguREryutA” kAlikA pu0 61 a0 .
 141964:1: vcp: <HI>{@kAmodaka@}¦ na0 kAmena svecCatA pretoddeSena dIyamAnam uda-
-141965:0: vcp: <>kam . mftoddeSena svecCayA dIyamAne udake . svecCayA
-141966:2: vcp: <>taddAnaYcapretaviSezAyEva yaTAha manuH “nAdvivarzasya karttavyA
-141967:1: vcp: <>bAnDavErudakakriyA . jAtadantasya vA kuryyurnAmnivA'pi kfte
-141968:1: vcp: <>sati” atra vASabdena icCayA taddAnam . vyaktamAha lOgA-
-141969:1: vcp: <>kziH “tUzRImevodakaM kAryaM tUzRIM saMskArameva ca . sarvezAM
-141970:1: vcp: <>kftacUqAnAmanyatrApIcCayA dvayam” cOlakarmAnantarakAle
-141971:3: vcp: <>niyamenAgnyadakaM kAryyam anyatrApi nAmakaraRAdUrdDvaBa-
-141972:0: vcp: <>kftacUqe'pi icCayA pretAByudayakAmanayA dvayamagnyudaka-
-141973:2: vcp: <>dAnAKyaM tUzRIM kAryyaM na niyameneti vikalpaH” mitA0
+141965:0: vcp: kam . mftoddeSena svecCayA dIyamAne udake . svecCayA
+141966:2: vcp: taddAnaYcapretaviSezAyEva yaTAha manuH “nAdvivarzasya karttavyA
+141967:1: vcp: bAnDavErudakakriyA . jAtadantasya vA kuryyurnAmnivA'pi kfte
+141968:1: vcp: sati” atra vASabdena icCayA taddAnam . vyaktamAha lOgA-
+141969:1: vcp: kziH “tUzRImevodakaM kAryaM tUzRIM saMskArameva ca . sarvezAM
+141970:1: vcp: kftacUqAnAmanyatrApIcCayA dvayam” cOlakarmAnantarakAle
+141971:3: vcp: niyamenAgnyadakaM kAryyam anyatrApi nAmakaraRAdUrdDvaBa-
+141972:0: vcp: kftacUqe'pi icCayA pretAByudayakAmanayA dvayamagnyudaka-
+141973:2: vcp: dAnAKyaM tUzRIM kAryyaM na niyameneti vikalpaH” mitA0
 141974:0: vcp: <HI>{@kAmodA@}¦ strI kutsito modo yasyAH . rAgiRIBede halA0 .
 141975:3: vcp: <HI>{@kAmpilya@}¦ pu0 1 deSaBede SabdaratnA0 2 puraBede ca . “mAkandI-
-141976:0: vcp: <>maTa gaNgAyAstIre janapadAyutAm . so'DyavAtsIt dIna-
-141977:1: vcp: <>manAH kAmpilyaYca purottamam” . dakziRAMScApi pAYcAlAn
-141978:1: vcp: <>yAvat carmmaRvatIM nadIm . droRena cEvaM druzadaH pariBUyA-
-141979:2: vcp: <>'Ta pAlitaH” BA0 A0 180 . “kAmpilye brahmadattasya
-141980:1: vcp: <>tvantaHpuranivAsinI” BA0 SA0 139 a0 . tatra
-141981:5: vcp: <>jAtAdi “DanvayopaDAdvuY” pA0 vaYa . kAmpilyaka [Page1906-a+ 38]
-141982:0: vcp: <>tadBavAdO . kAmpilyadeSaH utpattisTAnatvenAstyasya ac .
-141983:1: vcp: <>(guqArocanA) 3 nAmaganDadravye asyEva cUrRam (kamalA
-141984:0: vcp: <>guqi) kApilla kAmpilyaka etAvapyatra pfzo0 sADu .
+141976:0: vcp: maTa gaNgAyAstIre janapadAyutAm . so'DyavAtsIt dIna-
+141977:1: vcp: manAH kAmpilyaYca purottamam” . dakziRAMScApi pAYcAlAn
+141978:1: vcp: yAvat carmmaRvatIM nadIm . droRena cEvaM druzadaH pariBUyA-
+141979:2: vcp: 'Ta pAlitaH” BA0 A0 180 . “kAmpilye brahmadattasya
+141980:1: vcp: tvantaHpuranivAsinI” BA0 SA0 139 a0 . tatra
+141981:5: vcp: jAtAdi “DanvayopaDAdvuY” pA0 vaYa . kAmpilyaka [Page1906-a+ 38]
+141982:0: vcp: tadBavAdO . kAmpilyadeSaH utpattisTAnatvenAstyasya ac .
+141983:1: vcp: (guqArocanA) 3 nAmaganDadravye asyEva cUrRam (kamalA
+141984:0: vcp: guqi) kApilla kAmpilyaka etAvapyatra pfzo0 sADu .
 141985:0: vcp: <HI>{@kApillakA@}¦ strI deSaBede hArAvalI .
 141986:1: vcp: <HI>{@kAmpIla@}¦ pu0 pfzo0 kAmpilyaSabdArTe “devIM kAmpIla
-141987:2: vcp: <>vAsinom” yaju0 23 . 18 . svArTe kan taTArTe .
+141987:2: vcp: vAsinom” yaju0 23 . 18 . svArTe kan taTArTe .
 141988:0: vcp: <HI>{@kAmbala@}¦ pu0 kambalena parivfto raTaH aR . kambalapari-
-141989:0: vcp: <>vfte raTe amaraH .
+141989:0: vcp: vfte raTe amaraH .
 141990:0: vcp: <HI>{@kAmbavika@}¦ pu0 strI kambuH SaNKaBUzaRaM Silpamasya Wak .
-141991:2: vcp: <>“yezAYca viroDaH SASvatikaH” pA0 nirdeSAt “isusuka-
-141992:1: vcp: <>tAntAt kaH” pA0 ityasyAnityatvena na kAdeSaH kintu
-141993:1: vcp: <>WasyekaH . SaNKakAre (SA~KArI) amaraH striyAM jAti-
-141994:0: vcp: <>tvAt NIz .
+141991:2: vcp: “yezAYca viroDaH SASvatikaH” pA0 nirdeSAt “isusuka-
+141992:1: vcp: tAntAt kaH” pA0 ityasyAnityatvena na kAdeSaH kintu
+141993:1: vcp: WasyekaH . SaNKakAre (SA~KArI) amaraH striyAM jAti-
+141994:0: vcp: tvAt NIz .
 141995:0: vcp: <HI>{@kAmbukA@}¦ strI0 kutsitamambu yasya koH kAdeSaH kap . aSvaganDAyAm ratnamAlA .
 141996:0: vcp: <HI>{@kAmboja@}¦ tri0 kambojo'Bijano yasya sinDvA0 aR . pitrA-
-141997:0: vcp: <>dikrameRa kambojadeSavAsini striyAM NIp . kambojadeSe
-141998:2: vcp: <>BavaH kacCA0 aR . kambojaBave'manuzye tri0 “SataM yastu
-141999:2: vcp: <>kAmbojAn brAhmaReByaH prayacCati” BA0 SA0 35 a0 . 2 soma-
-142000:4: vcp: <>balke 3 punnAgavfkze ca pu0 medi0 . kambojAnAM janapadAnAM
+141997:0: vcp: dikrameRa kambojadeSavAsini striyAM NIp . kambojadeSe
+141998:2: vcp: BavaH kacCA0 aR . kambojaBave'manuzye tri0 “SataM yastu
+141999:2: vcp: kAmbojAn brAhmaReByaH prayacCati” BA0 SA0 35 a0 . 2 soma-
+142000:4: vcp: balke 3 punnAgavfkze ca pu0 medi0 . kambojAnAM janapadAnAM

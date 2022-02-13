@@ -1,500 +1,500 @@
-097001:5: vcp: <>nAtawajAH savAhlikA JazagAH suhmajanEH samanvitAH .
-097002:2: vcp: <>ABIrAYCavarAn sapahlavAn saha mallAMn matsyakarUYCa-
-097003:0: vcp: <>kAnapi . pAYcAlAnvikalAMSca pIqayatyannaM cApi nihanti
-097004:2: vcp: <>kaMrkawe . siMhe puliMndagaRamekalasatvayuktAn rAjopamAnnarapa-
-097005:1: vcp: <>tIn vanagocarAMSca . zazWe tu sasyakavileKakageyasaktAn
-097006:0: vcp: <>hantyaSmakatripuraSAliyutAMSca deSAn . tulADare'vantyaparA- [Page1312-a+ 38]
-097007:4: vcp: <>ntasADUn baRigadaSArRAna marukacCapAMSca . alinyaTodumba-
-097008:4: vcp: <>ramadracAMlAna dramAn sayODeyavizAyuDIyAn . DanvinyamA-
-097009:1: vcp: <>tyavaravAjividehamallAn pAYcAlavEdyabaRijo vizamAyuDa-
-097010:1: vcp: <>jYAn . hanyAnmfge tu JazamantrikalAni nIcAn mantrOza-
-097011:3: vcp: <>Dizu kaSalAn sTavirAyuDIyAn . kumBo'ntargirijAg sa
-097012:6: vcp: <>paScimajanAm BAroqahAMstaskarAn ABorAndaradArRasiMha-
-097013:0: vcp: <>purakAnhanyAttaTA barbbarAn . mIne sAgarakUlasAgaraja-
-097014:2: vcp: <>ladravyARi mAnyAt janAn prAjYAn vAryyupajIvinaSca BaPalaM
-097015:3: vcp: <>kUrmmopadeSAdvadet” tArAPalaM kUrmmaviBAgaSabde vakzyate .
+097001:5: vcp: nAtawajAH savAhlikA JazagAH suhmajanEH samanvitAH .
+097002:2: vcp: ABIrAYCavarAn sapahlavAn saha mallAMn matsyakarUYCa-
+097003:0: vcp: kAnapi . pAYcAlAnvikalAMSca pIqayatyannaM cApi nihanti
+097004:2: vcp: kaMrkawe . siMhe puliMndagaRamekalasatvayuktAn rAjopamAnnarapa-
+097005:1: vcp: tIn vanagocarAMSca . zazWe tu sasyakavileKakageyasaktAn
+097006:0: vcp: hantyaSmakatripuraSAliyutAMSca deSAn . tulADare'vantyaparA- [Page1312-a+ 38]
+097007:4: vcp: ntasADUn baRigadaSArRAna marukacCapAMSca . alinyaTodumba-
+097008:4: vcp: ramadracAMlAna dramAn sayODeyavizAyuDIyAn . DanvinyamA-
+097009:1: vcp: tyavaravAjividehamallAn pAYcAlavEdyabaRijo vizamAyuDa-
+097010:1: vcp: jYAn . hanyAnmfge tu JazamantrikalAni nIcAn mantrOza-
+097011:3: vcp: Dizu kaSalAn sTavirAyuDIyAn . kumBo'ntargirijAg sa
+097012:6: vcp: paScimajanAm BAroqahAMstaskarAn ABorAndaradArRasiMha-
+097013:0: vcp: purakAnhanyAttaTA barbbarAn . mIne sAgarakUlasAgaraja-
+097014:2: vcp: ladravyARi mAnyAt janAn prAjYAn vAryyupajIvinaSca BaPalaM
+097015:3: vcp: kUrmmopadeSAdvadet” tArAPalaM kUrmmaviBAgaSabde vakzyate .
 097016:0: vcp: <P>aTa grAsaBedanAmatatPale “savyApasavyalehagrasana-
-097017:0: vcp: <>niroDAvamardanArohAH . AGrAtaM maDyatamastamo'ntya iti
-097018:0: vcp: <>te daSa grAsAH . savyagate tamasi jagajjalaplutaM
-097019:1: vcp: <>Bavati muditamaBayaM ca . apasarvye narapatitaskarAva-
-097020:0: vcp: <>mardEH prajAnASaH . jihveva leQi paritastimiranudo
-097021:0: vcp: <>maRqalaM yadi sa lehaH . pramuditasamastaBUtA praBUtatoyA
-097022:1: vcp: <>ca tatra mahI . grasanamiti yadA tryaMSaH pAdo vA
-097023:1: vcp: <>gfhyate'TavApyardDam . sPItanfpavittahAniH pIqA ca
-097024:0: vcp: <>sPItadeSAnAm . paryyantezu gfhItvA maDye piRqIkftaM
-097025:1: vcp: <>tamastizWet . sa niroDo vijYeyaH pramodakft sarvvaBUtA-
-097026:2: vcp: <>nAm . avamardanamiti niHSezameva saYCAdya yadi ciraM
-097027:0: vcp: <>tizWet . hanyAt praDAnadeSAn praDAnaBUpAMSca timiramayaH .
-097028:1: vcp: <>vftte grahe yadi tamastatkzaRamAvftya dfSyate BUyaH . A
-097029:0: vcp: <>rohaRamityanyo'nyamardanErBayakaraM rAjYAm . darpaRa ivEka-
-097030:1: vcp: <>deSe savAzyaniHSvAsamArutopahataH . dfSyetAGrAtaM tat su-
-097031:3: vcp: <>vfzwivfdDyAvahaM jagataH . maDye tamaH pravizwaM vitamaskaM ma-
-097032:1: vcp: <>RqalaM ca yadi paritaH . tanmaDyadeSanASaM karoti kukzyA-
-097033:2: vcp: <>mayaBayaM ca . paryyantezvatibahula svalpa maDye tamastamo'ntyA-
-097034:0: vcp: <>Kyam . sasyAnAmItiBayaM BayamasmiMstaskarARAM ca” .
+097017:0: vcp: niroDAvamardanArohAH . AGrAtaM maDyatamastamo'ntya iti
+097018:0: vcp: te daSa grAsAH . savyagate tamasi jagajjalaplutaM
+097019:1: vcp: Bavati muditamaBayaM ca . apasarvye narapatitaskarAva-
+097020:0: vcp: mardEH prajAnASaH . jihveva leQi paritastimiranudo
+097021:0: vcp: maRqalaM yadi sa lehaH . pramuditasamastaBUtA praBUtatoyA
+097022:1: vcp: ca tatra mahI . grasanamiti yadA tryaMSaH pAdo vA
+097023:1: vcp: gfhyate'TavApyardDam . sPItanfpavittahAniH pIqA ca
+097024:0: vcp: sPItadeSAnAm . paryyantezu gfhItvA maDye piRqIkftaM
+097025:1: vcp: tamastizWet . sa niroDo vijYeyaH pramodakft sarvvaBUtA-
+097026:2: vcp: nAm . avamardanamiti niHSezameva saYCAdya yadi ciraM
+097027:0: vcp: tizWet . hanyAt praDAnadeSAn praDAnaBUpAMSca timiramayaH .
+097028:1: vcp: vftte grahe yadi tamastatkzaRamAvftya dfSyate BUyaH . A
+097029:0: vcp: rohaRamityanyo'nyamardanErBayakaraM rAjYAm . darpaRa ivEka-
+097030:1: vcp: deSe savAzyaniHSvAsamArutopahataH . dfSyetAGrAtaM tat su-
+097031:3: vcp: vfzwivfdDyAvahaM jagataH . maDye tamaH pravizwaM vitamaskaM ma-
+097032:1: vcp: RqalaM ca yadi paritaH . tanmaDyadeSanASaM karoti kukzyA-
+097033:2: vcp: mayaBayaM ca . paryyantezvatibahula svalpa maDye tamastamo'ntyA-
+097034:0: vcp: Kyam . sasyAnAmItiBayaM BayamasmiMstaskarARAM ca” .
 097035:3: vcp: <P>aTOtpAtikarAhuvaRREBede Palam . “Svete kzemasuBikzaM
-097036:1: vcp: <>brAhmaRapIqAM ca nirdiSedrAhO . agniBayamanalavarRe
-097037:2: vcp: <>pIqA ca hutASavfttInAm . harite rozolvaRatA
-097038:1: vcp: <>sasyAnAmItiBiSca viDvaMsaH . kapile SIGragasatvamlecCa-
-097039:0: vcp: <>DvaMso'Ta durBikzam . aruRakiraRAnurUpe durBikzAvfzwayo
-097040:2: vcp: <>vihagapIqA . ADUmre kzemasuBikzamAdiSenmandavfzwiM ca .
-097041:1: vcp: <>kApotAruRakapilaSyAvABe kzudBayaM vinirdeSyam . kApotaH
-097042:2: vcp: <>SUdrARAM vyADivaraH kfzRaparRaSca . vimalakamaRipItABo
-097043:2: vcp: <>vESyaGvaMsI Bavet suBikzAya . sArcizmatyagniBayaM gOrikarUpe
-097044:1: vcp: <>tu yudDAni . dUrvAkARqaSyAme hAridre vApi nirdiSe- [Page1312-b+ 38]
-097045:2: vcp: <>nmarakam . aSaniBayasampradAyI pAwalakusumopamo-
-097046:1: vcp: <>rAhuH . pAMSuvilohitarUpaH kzatraDvaMsAya Bavati vfzweSca .
-097047:1: vcp: <>bAlaravikamalasuracAparUpaBfcCastrakopAya . SiromaRyukto
-097048:2: vcp: <>grAsaBede grAsavarRaBedastu svABAvika indaviroDaH .
+097036:1: vcp: brAhmaRapIqAM ca nirdiSedrAhO . agniBayamanalavarRe
+097037:2: vcp: pIqA ca hutASavfttInAm . harite rozolvaRatA
+097038:1: vcp: sasyAnAmItiBiSca viDvaMsaH . kapile SIGragasatvamlecCa-
+097039:0: vcp: DvaMso'Ta durBikzam . aruRakiraRAnurUpe durBikzAvfzwayo
+097040:2: vcp: vihagapIqA . ADUmre kzemasuBikzamAdiSenmandavfzwiM ca .
+097041:1: vcp: kApotAruRakapilaSyAvABe kzudBayaM vinirdeSyam . kApotaH
+097042:2: vcp: SUdrARAM vyADivaraH kfzRaparRaSca . vimalakamaRipItABo
+097043:2: vcp: vESyaGvaMsI Bavet suBikzAya . sArcizmatyagniBayaM gOrikarUpe
+097044:1: vcp: tu yudDAni . dUrvAkARqaSyAme hAridre vApi nirdiSe- [Page1312-b+ 38]
+097045:2: vcp: nmarakam . aSaniBayasampradAyI pAwalakusumopamo-
+097046:1: vcp: rAhuH . pAMSuvilohitarUpaH kzatraDvaMsAya Bavati vfzweSca .
+097047:1: vcp: bAlaravikamalasuracAparUpaBfcCastrakopAya . SiromaRyukto
+097048:2: vcp: grAsaBede grAsavarRaBedastu svABAvika indaviroDaH .
 097049:0: vcp: <P>aTa grahaBedErdarSane PalaBedaH . “paSyan grastaM
-097050:0: vcp: <>sOmyo GftamaDutElakzayAya rAjYAM ca . BOmaH sama-
-097051:1: vcp: <>ravimardaM SiKikopaM taskaraBayaM ca . SukaH sasya-
-097052:1: vcp: <>vimardaM nAnAkleSAMSca janayati DaritryAm . ravija
-097053:2: vcp: <>karotyavfzwiM duBikzaM taskaraBayaM ca . yadaSuBamavalokanA-
-097054:0: vcp: <>BiruktaM grahajanitaM grahaRe pramokzaRe vA . surapati-
-097055:0: vcp: <>guruRAvalokakfkaM tacCumamupayAti jalErivAgniridDaH” .
+097050:0: vcp: sOmyo GftamaDutElakzayAya rAjYAM ca . BOmaH sama-
+097051:1: vcp: ravimardaM SiKikopaM taskaraBayaM ca . SukaH sasya-
+097052:1: vcp: vimardaM nAnAkleSAMSca janayati DaritryAm . ravija
+097053:2: vcp: karotyavfzwiM duBikzaM taskaraBayaM ca . yadaSuBamavalokanA-
+097054:0: vcp: BiruktaM grahajanitaM grahaRe pramokzaRe vA . surapati-
+097055:0: vcp: guruRAvalokakfkaM tacCumamupayAti jalErivAgniridDaH” .
 097056:1: vcp: <P>aya grAsottarazaRmAsAByantare punargrAse BUkampAdO sa-
-097057:0: vcp: <>pAtendunA sUryasyeva BOmAdipaYcakasyApyAcCAdasamBavena ta-
-097058:1: vcp: <>TAtve otpAtikaM grahaRaM tezvanizwaPalAni coktAni yaTA
-097059:1: vcp: <>“graste kramAnnimittEH punargraho mAsazawakaparivfdDyA
-097060:0: vcp: <>pavanolkapAtarajaHkzitikampatamo'SaninipAtEH . AvantikA
-097061:0: vcp: <>janapadAH kAverInarmadAtawASrayiRaH . dfptASca manujapatayaH
-097062:2: vcp: <>pIqyante kzitisute graste . antarvedIM sarayUM nepAlaM pUrvva-
-097063:0: vcp: <>sAgaraM SoRam . strInfpayoDakumArAn saha vidvadBi-
-097064:1: vcp: <>rbuDo hanti . grahaRopagate jIve vidvannfpamantrigajahaya-
-097065:1: vcp: <>DvaMsaH . sinDutawavAsinAmapyudagdiSaM saMSritAnAM ca .
-097066:0: vcp: <>Bfgutanaye rAhugate daserakAH sekEkayAH sayODeyAH . A-
-097067:0: vcp: <>ryyAvarttAH SivayaH strIsacivagaRASca pIqyante . sOre maruBava-
-097068:1: vcp: <>puzkarasOrAzwrA DAbato'rvudAntyajanAH . gomantapAriyAtrA
-097069:0: vcp: <>SritASca nASaM vrajantyASu” .
+097057:0: vcp: pAtendunA sUryasyeva BOmAdipaYcakasyApyAcCAdasamBavena ta-
+097058:1: vcp: TAtve otpAtikaM grahaRaM tezvanizwaPalAni coktAni yaTA
+097059:1: vcp: “graste kramAnnimittEH punargraho mAsazawakaparivfdDyA
+097060:0: vcp: pavanolkapAtarajaHkzitikampatamo'SaninipAtEH . AvantikA
+097061:0: vcp: janapadAH kAverInarmadAtawASrayiRaH . dfptASca manujapatayaH
+097062:2: vcp: pIqyante kzitisute graste . antarvedIM sarayUM nepAlaM pUrvva-
+097063:0: vcp: sAgaraM SoRam . strInfpayoDakumArAn saha vidvadBi-
+097064:1: vcp: rbuDo hanti . grahaRopagate jIve vidvannfpamantrigajahaya-
+097065:1: vcp: DvaMsaH . sinDutawavAsinAmapyudagdiSaM saMSritAnAM ca .
+097066:0: vcp: Bfgutanaye rAhugate daserakAH sekEkayAH sayODeyAH . A-
+097067:0: vcp: ryyAvarttAH SivayaH strIsacivagaRASca pIqyante . sOre maruBava-
+097068:1: vcp: puzkarasOrAzwrA DAbato'rvudAntyajanAH . gomantapAriyAtrA
+097069:0: vcp: SritASca nASaM vrajantyASu” .
 097070:0: vcp: <P>aTa mAsaBede grAsaPalam . “kArttikyAmanalopajIvima-
-097071:0: vcp: <>gaDAn prAcyADipAn koSalAn kalmAzAnaTa sUrasenasa-
-097072:0: vcp: <>hitAn kASIM ca sa ntApayet . hanyAccASu kaliNgadeSanf-
-097073:3: vcp: <>patiM sAmAtyaBftyaM tamo dfzwaM kzatriyatApadaM janayati kzemaM
-097074:3: vcp: <>suBikzAnvitam . kASmIrakAn koSalakAn sapuRqrAn
-097075:2: vcp: <>mfgAMSca hanyAdaparAntakASca . ye somapAstAMSca nihanti
-097076:0: vcp: <>sOme (mArge) suvfzwikft kzemasuBikzakfcca . pOze dvijakzatra-
-097077:0: vcp: <>janoparoDaH sasEnDavAKyAH kukurA videhAH . DvaMsaM
-097078:0: vcp: <>vrajantyatra ca mandavfzwiM BayaM ca vindyAdasuBikzayuktam .
-097079:0: vcp: <>mAGe tu mAtfpitfBaktavasizWagotrAn sADyAyaDarmaniratAn
-097080:1: vcp: <>kariRasturaNgAn . vaNgANgakASimanujAMSca dunoti rAhurvfzwiM
-097081:0: vcp: <>ca karzakajanAnumatAM karoti . pIqAkaraM PAlgunamAsi parva
-097082:0: vcp: <>vaNgASmakAvantakamekalAnAm . nftyajYasasyapravarANganAnAM Da [Page1313-a+ 38]
-097083:1: vcp: <>nuzkarakzatrataprasvinAM ca . cEtre tu citrakaraleKakageyasa-
-097084:5: vcp: <>ktAn rUpopajIvinigamajYahiragayapagayAn . pORqoqra
-097085:4: vcp: <>kEkayajanAnaTa cASmakAMSca tApa spfSatTamarapo'tra vitritra-
-097086:1: vcp: <>varzI . vESAKamAsi grahaRe vinASamAyAnti karpAsatilAH
-097087:3: vcp: <>samudgAH . ijYvAkuyoDeyaSakAH kaliNgAH sopadravAH kintu
-097088:2: vcp: <>suBikzamasmin . jyEzWe narendradvijarAjapatnyaH sasyAni
-097089:0: vcp: <>vfzwiSca mahAgaRASca . praDvaMsamAyAnti narASca sOmyAH
-097090:2: vcp: <>sAlvEH sametASca nizAdasaNGAH . AzAQaparvaRyudaprAnava-
-097091:1: vcp: <>pranadIpravAhAn PalamUlavArttAn . gAnDArakASmIrapuli-
-097092:3: vcp: <>ndacInAn hatAn vadenmaRqalavarzamatyin . kASmI-
-097093:1: vcp: <>rAn sapulindacInayavanAn hanyAt kurukzetrakAn
-097094:0: vcp: <>gAnDArAnapi maDyadeSasahitAn dfzwo grahaH SrAvaRe .
-097095:0: vcp: <>kAmbojEkaSaPAMSca SAradamapi tyaktvA yaToktAnimAn
-097096:2: vcp: <>anyatra pracurAnnahfzwamanujErDAtrIM karatyAvftAm . kaliNga-
-097097:1: vcp: <>vaNgAn magaDAn surAzwrAn mlecCAn suvIrAn varadAYCa-
-097098:1: vcp: <>kAMSca . strIRAM ca garBAnasuro nihanti suBikzakfdBAdrapade'-
-097099:1: vcp: <>ByupetaH . kAmbojacInayavanAn saha SalyahfdBirvAhlIka-
-097100:1: vcp: <>sinDutawavAsijanAMSca hanyAt . AnarttapORqraBizajaSca taTA
-097101:1: vcp: <>kirAtAn dfzwo'suro'Svayuji BUrisuBikzakfcca” .
+097071:0: vcp: gaDAn prAcyADipAn koSalAn kalmAzAnaTa sUrasenasa-
+097072:0: vcp: hitAn kASIM ca sa ntApayet . hanyAccASu kaliNgadeSanf-
+097073:3: vcp: patiM sAmAtyaBftyaM tamo dfzwaM kzatriyatApadaM janayati kzemaM
+097074:3: vcp: suBikzAnvitam . kASmIrakAn koSalakAn sapuRqrAn
+097075:2: vcp: mfgAMSca hanyAdaparAntakASca . ye somapAstAMSca nihanti
+097076:0: vcp: sOme (mArge) suvfzwikft kzemasuBikzakfcca . pOze dvijakzatra-
+097077:0: vcp: janoparoDaH sasEnDavAKyAH kukurA videhAH . DvaMsaM
+097078:0: vcp: vrajantyatra ca mandavfzwiM BayaM ca vindyAdasuBikzayuktam .
+097079:0: vcp: mAGe tu mAtfpitfBaktavasizWagotrAn sADyAyaDarmaniratAn
+097080:1: vcp: kariRasturaNgAn . vaNgANgakASimanujAMSca dunoti rAhurvfzwiM
+097081:0: vcp: ca karzakajanAnumatAM karoti . pIqAkaraM PAlgunamAsi parva
+097082:0: vcp: vaNgASmakAvantakamekalAnAm . nftyajYasasyapravarANganAnAM Da [Page1313-a+ 38]
+097083:1: vcp: nuzkarakzatrataprasvinAM ca . cEtre tu citrakaraleKakageyasa-
+097084:5: vcp: ktAn rUpopajIvinigamajYahiragayapagayAn . pORqoqra
+097085:4: vcp: kEkayajanAnaTa cASmakAMSca tApa spfSatTamarapo'tra vitritra-
+097086:1: vcp: varzI . vESAKamAsi grahaRe vinASamAyAnti karpAsatilAH
+097087:3: vcp: samudgAH . ijYvAkuyoDeyaSakAH kaliNgAH sopadravAH kintu
+097088:2: vcp: suBikzamasmin . jyEzWe narendradvijarAjapatnyaH sasyAni
+097089:0: vcp: vfzwiSca mahAgaRASca . praDvaMsamAyAnti narASca sOmyAH
+097090:2: vcp: sAlvEH sametASca nizAdasaNGAH . AzAQaparvaRyudaprAnava-
+097091:1: vcp: pranadIpravAhAn PalamUlavArttAn . gAnDArakASmIrapuli-
+097092:3: vcp: ndacInAn hatAn vadenmaRqalavarzamatyin . kASmI-
+097093:1: vcp: rAn sapulindacInayavanAn hanyAt kurukzetrakAn
+097094:0: vcp: gAnDArAnapi maDyadeSasahitAn dfzwo grahaH SrAvaRe .
+097095:0: vcp: kAmbojEkaSaPAMSca SAradamapi tyaktvA yaToktAnimAn
+097096:2: vcp: anyatra pracurAnnahfzwamanujErDAtrIM karatyAvftAm . kaliNga-
+097097:1: vcp: vaNgAn magaDAn surAzwrAn mlecCAn suvIrAn varadAYCa-
+097098:1: vcp: kAMSca . strIRAM ca garBAnasuro nihanti suBikzakfdBAdrapade'-
+097099:1: vcp: ByupetaH . kAmbojacInayavanAn saha SalyahfdBirvAhlIka-
+097100:1: vcp: sinDutawavAsijanAMSca hanyAt . AnarttapORqraBizajaSca taTA
+097101:1: vcp: kirAtAn dfzwo'suro'Svayuji BUrisuBikzakfcca” .
 097102:0: vcp: <P>aTa mokzaBedanAmatatPalAni “hanukukzipAyuBedAdvirdviH
-097103:0: vcp: <>saYCardanaM ca jaraRaM ca . maDyAntayoSca vidaraRamiti daSa
-097104:3: vcp: <>SaSisUryyayormokzAH . AgneyyAmapagamanaM dakziRahanuBeda-
-097105:3: vcp: <>saMjYitaM SaSinaH . sasyavimardo muKarug nfpapIqA syAt
-097106:1: vcp: <>suvfzwiSca . pUrvottareRa vAmo hanuBedo nfpakumAraBayadAyI .
-097107:0: vcp: <>muKarogaM SastraBayaM tasmin vindyAt suBikzaYca . dakzi-
-097108:0: vcp: <>RakukziviBedo dakziRapArSvena yadi BavenmokzaH . pIqA
-097109:0: vcp: <>nfpaputrARAmaBiyojyA dakziRA ripavaH . vAmastu kukzi-
-097110:0: vcp: <>Bedo yadyuttaramArgasaMsTito rAhuH . strIRAM garBavipattiH
-097111:3: vcp: <>sasyAni ca tatra BaDyAni . nErftavAyavyasTO dakziRavAmO
-097112:0: vcp: <>tu pAyuBedO dvO . guhyarugalpA vfzwirdvayostu rAjYIkzayo
-097113:0: vcp: <>vAme . pUrvveRa grahaRaM kftvA prAgeva cApasarpeta . sa-
-097114:2: vcp: <>YCardanamiti tat kzemasasyahArdipradaM jagataH . prAkpragra-
-097115:0: vcp: <>haRaM yasmin paScAdapasarpaRaM tu tajjaraRam . kzucCastra-
-097116:0: vcp: <>BayodvignAH kva SaraRamupayAnti tatra janAH . maDye
-097117:0: vcp: <>yadi prakASaH praTamaM tanmaDyavidaraRaM nAma . antaHko-
-097118:0: vcp: <>pakaraM syAt suBikzadaM nAtivfzwikaram . paryyantezu vi-
-097119:1: vcp: <>malatAbahulaM maDye tamo'ntadaraRAKyam . maDyAKyadeSa-
-097120:1: vcp: <>nASaH SAradasasyakzayaScAsmin . ete sarve mokzA vaktavyA [Page1313-b+ 38]
-097121:1: vcp: <>BAskare'pi kintvatra . pUrvA dikSaSini yaTA taTA
-097122:0: vcp: <>ravO paScimA kalpyA” .
+097103:0: vcp: saYCardanaM ca jaraRaM ca . maDyAntayoSca vidaraRamiti daSa
+097104:3: vcp: SaSisUryyayormokzAH . AgneyyAmapagamanaM dakziRahanuBeda-
+097105:3: vcp: saMjYitaM SaSinaH . sasyavimardo muKarug nfpapIqA syAt
+097106:1: vcp: suvfzwiSca . pUrvottareRa vAmo hanuBedo nfpakumAraBayadAyI .
+097107:0: vcp: muKarogaM SastraBayaM tasmin vindyAt suBikzaYca . dakzi-
+097108:0: vcp: RakukziviBedo dakziRapArSvena yadi BavenmokzaH . pIqA
+097109:0: vcp: nfpaputrARAmaBiyojyA dakziRA ripavaH . vAmastu kukzi-
+097110:0: vcp: Bedo yadyuttaramArgasaMsTito rAhuH . strIRAM garBavipattiH
+097111:3: vcp: sasyAni ca tatra BaDyAni . nErftavAyavyasTO dakziRavAmO
+097112:0: vcp: tu pAyuBedO dvO . guhyarugalpA vfzwirdvayostu rAjYIkzayo
+097113:0: vcp: vAme . pUrvveRa grahaRaM kftvA prAgeva cApasarpeta . sa-
+097114:2: vcp: YCardanamiti tat kzemasasyahArdipradaM jagataH . prAkpragra-
+097115:0: vcp: haRaM yasmin paScAdapasarpaRaM tu tajjaraRam . kzucCastra-
+097116:0: vcp: BayodvignAH kva SaraRamupayAnti tatra janAH . maDye
+097117:0: vcp: yadi prakASaH praTamaM tanmaDyavidaraRaM nAma . antaHko-
+097118:0: vcp: pakaraM syAt suBikzadaM nAtivfzwikaram . paryyantezu vi-
+097119:1: vcp: malatAbahulaM maDye tamo'ntadaraRAKyam . maDyAKyadeSa-
+097120:1: vcp: nASaH SAradasasyakzayaScAsmin . ete sarve mokzA vaktavyA [Page1313-b+ 38]
+097121:1: vcp: BAskare'pi kintvatra . pUrvA dikSaSini yaTA taTA
+097122:0: vcp: ravO paScimA kalpyA” .
 097123:0: vcp: <P>aTa grAsottaraM saptadinamaDye pAMSupAtAdO Palam .
-097124:0: vcp: <>“mukte saptAhAntaH pAMSunipAto'nnasaMkzayaM kurute .
-097125:1: vcp: <>nIhAro rogaBayaM BUkampaH pravaranfpamftyum .
-097126:0: vcp: <>ulkA mantrivinASaM nAnAvarRA GanASca Bayamatulam .
-097127:3: vcp: <>stanitaM garBavinASaM vidyunnfpadaMqiparipIqAm . pari-
-097128:0: vcp: <>vezo rukpIqAM digdAho nfpaBayaM ca sAgniBayam .
-097129:2: vcp: <>rUkzo vAyuH prabalaScOrasamutTaM BayaM Datte . nirGAtaH sura-
-097130:0: vcp: <>cApaM daRqaSca kzudBayaM saparacakram . grahayudDaM nfpayudDaM ketuSca
-097131:0: vcp: <>tadeva saMdfzwaH . avikftasalilanipAte saptAhAntaH
-097132:3: vcp: <>suBikzamAdeSyam . yaccASuBaM grahaRajaM tat sarvaM nASa-
-097133:0: vcp: <>mupayAti . somagrahe nivftte pakzAnte yadi Bavedgraho-
-097134:0: vcp: <>'rkasya . tatrAnayaH prajAnAM dampatyorvEramanyo'nyam .
-097135:0: vcp: <>arkagrahAttu SaSino grahaRaM yadi dfSyate tato viprAH .
-097136:1: vcp: <>nEkakratuPalaBAjo Bavanti muditAH prajAScEva” vf0 sa0 .
+097124:0: vcp: “mukte saptAhAntaH pAMSunipAto'nnasaMkzayaM kurute .
+097125:1: vcp: nIhAro rogaBayaM BUkampaH pravaranfpamftyum .
+097126:0: vcp: ulkA mantrivinASaM nAnAvarRA GanASca Bayamatulam .
+097127:3: vcp: stanitaM garBavinASaM vidyunnfpadaMqiparipIqAm . pari-
+097128:0: vcp: vezo rukpIqAM digdAho nfpaBayaM ca sAgniBayam .
+097129:2: vcp: rUkzo vAyuH prabalaScOrasamutTaM BayaM Datte . nirGAtaH sura-
+097130:0: vcp: cApaM daRqaSca kzudBayaM saparacakram . grahayudDaM nfpayudDaM ketuSca
+097131:0: vcp: tadeva saMdfzwaH . avikftasalilanipAte saptAhAntaH
+097132:3: vcp: suBikzamAdeSyam . yaccASuBaM grahaRajaM tat sarvaM nASa-
+097133:0: vcp: mupayAti . somagrahe nivftte pakzAnte yadi Bavedgraho-
+097134:0: vcp: 'rkasya . tatrAnayaH prajAnAM dampatyorvEramanyo'nyam .
+097135:0: vcp: arkagrahAttu SaSino grahaRaM yadi dfSyate tato viprAH .
+097136:1: vcp: nEkakratuPalaBAjo Bavanti muditAH prajAScEva” vf0 sa0 .
 097137:1: vcp: <P>jyo0 ta0 “raviBOmanavAMSe tu niraBraM grAsamAdiSet
-097138:0: vcp: <>buDasOrinavAMSe tu malinaM kzudravarzaRam . guroraMSakamA-
-097139:2: vcp: <>sAdya dfSyate savalAhakaH . SaSiSukanavAMSe tu prAvfQ-
-097140:1: vcp: <>kAle mahajjalam . anyatrAvyaktaBUtO tO dfSyete CAdi-
-097141:0: vcp: <>tAmbarO” . “anyatra varzetaratra tO candrArkO .
+097138:0: vcp: buDasOrinavAMSe tu malinaM kzudravarzaRam . guroraMSakamA-
+097139:2: vcp: sAdya dfSyate savalAhakaH . SaSiSukanavAMSe tu prAvfQ-
+097140:1: vcp: kAle mahajjalam . anyatrAvyaktaBUtO tO dfSyete CAdi-
+097141:0: vcp: tAmbarO” . “anyatra varzetaratra tO candrArkO .
 097142:0: vcp: <P>evaM grahaRasya kAlaBedena SuBASuBasUcakatve sAmAnyataH sTite
-097143:1: vcp: <>idAnIM vyaktiBedena janmAdirASiBedena grahaRasya darSananizeDa-
-097144:0: vcp: <>statPalaYcocyate . rAjamA0 “saptAzwajanmaSezezu (12) caturTe
-097145:1: vcp: <>daSame taTA . navame ca taTA candre na kuryyAdrAhudarSanam .
-097146:3: vcp: <>SrIpativyavahAranirRaye vaSizWaH . “janmaBe janmarASO ca zazWA-
-097147:0: vcp: <>zwamagate tayoH . caturTe dvAdaSe candre na kuryyAdrAhudarSanam .
-097148:1: vcp: <>grAsadarSanamAtreRa cArTahAnirmahadBayam . jAyate nAtra
-097149:4: vcp: <>sandehastasmAttatparivarjayet” . “janmanaMkzatrApekzayA zazWe
-097150:0: vcp: <>saptame arTAt niDana tArAyAm” jyo0 raGu0 . “janmasaptA-
-097151:0: vcp: <>zwaripPANkadaSamasTe niSAkare . dfzworizwapradorAhu-
-097152:1: vcp: <>rjanmarkze niDane'pi ca” . “vEnASika fkze dfzwaM grahaRaM
-097153:0: vcp: <>suDAMSuBAskarayoH . janayati rogaM bahuDA kleSaM vitta-
-097154:0: vcp: <>kzayaM cASu” varAhaH . tacCAntirapyuktA jyo0 ta0 tatrEva
-097155:0: vcp: <>“janmAzwajAyAntyaKaDarmasaMsTe niSAkare janmasu tAra-
-097156:0: vcp: <>kAsu . dfzwvA tamaScandramasaM prayatnAdaByarccya dadyAt
-097157:0: vcp: <>kanakaM dvijAya” candramasamityupalakzaRaM candragrahe
-097158:2: vcp: <>candraM sUryyagrahe sUryyamaByarccyotyarTaH” jyo0 raGunandanaH . [Page1314-a+ 38]
-097159:0: vcp: <>grahaRaM ca svarASeH sTAnaBedena SuBAdisUcakaM yaTAha jyo-
-097160:0: vcp: <>tize . “trizaqdaSAyopagataM narARAM SuBapradaM syAdgrahaRaM
-097161:0: vcp: <>ravIndvoH . dvisaptanandezuzu maDyamaM syAcCezezvanizwaM kaTitaM
-097162:0: vcp: <>munIndrEriti” . pfTvIcandrodaye vizRuDarmme “yannakzatragato-
-097163:1: vcp: <>rAhurgrasate SaSiBAskarO tajjAtAnAM BavetpIqA ye narAH
-097164:0: vcp: <>SAntivarjjitAH” tatrEva purA0 “sUryyasya saMkramovApi
-097165:1: vcp: <>grahaRaM candrasUryyayoH . yasya trijanmanakzatre tasya rIgo-
-097166:0: vcp: <>'TavA mftiH . tasya dAnaM ca homaM ca devArcanajapO
-097167:0: vcp: <>taTA . uparAgABizekaM ca kuryAcCAntirBavizyati .
-097168:0: vcp: <>svarRena vATa pizwena kftvA sarpasya cAkftim . brAhmaRAya
-097169:0: vcp: <>dadettasya na rogAdiSca tatkftaH” . trijanmanakzatram
-097170:1: vcp: <>janmadaSamEkonaviMpati tArA iti . sarpasya tadAkArasya rAho-
-097171:0: vcp: <>rityarTaH . adButasAgare BArgavaH . “yasya rAjyasya nakzatre
-097172:1: vcp: <>svarBAnuruparajyate . rAjyaBaNgaM suhfnnASaM maraRaM vAtra
-097173:3: vcp: <>nirddiSet” tacCAntiSca nirRayasinDO darSitA tata evAvagagyA
+097143:1: vcp: idAnIM vyaktiBedena janmAdirASiBedena grahaRasya darSananizeDa-
+097144:0: vcp: statPalaYcocyate . rAjamA0 “saptAzwajanmaSezezu (12) caturTe
+097145:1: vcp: daSame taTA . navame ca taTA candre na kuryyAdrAhudarSanam .
+097146:3: vcp: SrIpativyavahAranirRaye vaSizWaH . “janmaBe janmarASO ca zazWA-
+097147:0: vcp: zwamagate tayoH . caturTe dvAdaSe candre na kuryyAdrAhudarSanam .
+097148:1: vcp: grAsadarSanamAtreRa cArTahAnirmahadBayam . jAyate nAtra
+097149:4: vcp: sandehastasmAttatparivarjayet” . “janmanaMkzatrApekzayA zazWe
+097150:0: vcp: saptame arTAt niDana tArAyAm” jyo0 raGu0 . “janmasaptA-
+097151:0: vcp: zwaripPANkadaSamasTe niSAkare . dfzworizwapradorAhu-
+097152:1: vcp: rjanmarkze niDane'pi ca” . “vEnASika fkze dfzwaM grahaRaM
+097153:0: vcp: suDAMSuBAskarayoH . janayati rogaM bahuDA kleSaM vitta-
+097154:0: vcp: kzayaM cASu” varAhaH . tacCAntirapyuktA jyo0 ta0 tatrEva
+097155:0: vcp: “janmAzwajAyAntyaKaDarmasaMsTe niSAkare janmasu tAra-
+097156:0: vcp: kAsu . dfzwvA tamaScandramasaM prayatnAdaByarccya dadyAt
+097157:0: vcp: kanakaM dvijAya” candramasamityupalakzaRaM candragrahe
+097158:2: vcp: candraM sUryyagrahe sUryyamaByarccyotyarTaH” jyo0 raGunandanaH . [Page1314-a+ 38]
+097159:0: vcp: grahaRaM ca svarASeH sTAnaBedena SuBAdisUcakaM yaTAha jyo-
+097160:0: vcp: tize . “trizaqdaSAyopagataM narARAM SuBapradaM syAdgrahaRaM
+097161:0: vcp: ravIndvoH . dvisaptanandezuzu maDyamaM syAcCezezvanizwaM kaTitaM
+097162:0: vcp: munIndrEriti” . pfTvIcandrodaye vizRuDarmme “yannakzatragato-
+097163:1: vcp: rAhurgrasate SaSiBAskarO tajjAtAnAM BavetpIqA ye narAH
+097164:0: vcp: SAntivarjjitAH” tatrEva purA0 “sUryyasya saMkramovApi
+097165:1: vcp: grahaRaM candrasUryyayoH . yasya trijanmanakzatre tasya rIgo-
+097166:0: vcp: 'TavA mftiH . tasya dAnaM ca homaM ca devArcanajapO
+097167:0: vcp: taTA . uparAgABizekaM ca kuryAcCAntirBavizyati .
+097168:0: vcp: svarRena vATa pizwena kftvA sarpasya cAkftim . brAhmaRAya
+097169:0: vcp: dadettasya na rogAdiSca tatkftaH” . trijanmanakzatram
+097170:1: vcp: janmadaSamEkonaviMpati tArA iti . sarpasya tadAkArasya rAho-
+097171:0: vcp: rityarTaH . adButasAgare BArgavaH . “yasya rAjyasya nakzatre
+097172:1: vcp: svarBAnuruparajyate . rAjyaBaNgaM suhfnnASaM maraRaM vAtra
+097173:3: vcp: nirddiSet” tacCAntiSca nirRayasinDO darSitA tata evAvagagyA
 097174:0: vcp: <P>candrArkayorgrahaRe yasya puMsodarSanaM na paryyudastaM tasyEva
-097175:0: vcp: <>SrAdDAdyaDikAra iti ti0 ta0 raGunandanena samarTitaM yaTA
-097176:0: vcp: <>“nanu jyotiHSAstrAdyukta nizeDo hiMsAvadyAdfcCikaparo-
-097177:0: vcp: <>'stu na tu vEDaparaH mEvam “rAhudarSanasaMkrAntivivAhAtyaya-
-097178:0: vcp: <>vfdDizu . snAnadAnAdikaM kuryurniSi kAmyavratezu ca”
-097179:0: vcp: <>iti devalavacane darSanapadaSravaRAddarSane sati snAnAderma-
-097180:0: vcp: <>hAByudayahetutvAddarSanamapi viDeyam . taTA ca saMvat-
-097181:0: vcp: <>sarapradIpe mArkaRqeyaH . “ekarAtramupozyEva rAhuM dfzwvA'
-097182:0: vcp: <>kzayaM naraH . puRyamApnoti kftvA ca dAnaM SrAdDaM viDA-
-097183:0: vcp: <>nataH” . tataSca tasyEva prakftatvenopasTitasya vEDadarSanasya
-097184:0: vcp: <>paryudAso na tu rAgaprAptadarSanasya nizeDo'prakftatvenAnupa-
-097185:0: vcp: <>sTiteH . evaYca padArTAntara sAkANktaviSezaviDimapahAya
-097186:1: vcp: <>taMditaratra sAmAnyamanvetIti sarvatra padAhavanIyAdO sAmA-
-097187:2: vcp: <>nyasya viSezetaraparatve vIjam . yaTA “aharahardadyAt” iti
-097188:0: vcp: <>“dIkzito na dadAtIti” pratizeDAt dIkzitetaraparaM na rAga-
-097189:0: vcp: <>prAptanizeDakam . taduktaM “triDEva jYAyate karttA viSezeRa
-097190:1: vcp: <>pratikriyam . yogyatvaM pratizidDatvaM viSezaRapradAnvayEH”
-097191:0: vcp: <>“yajamAnaH paWatIti SrutyA tadyogyovidvAn, dIkzito na
-097192:1: vcp: <>dadAtIti pratizaDAddIkzitetaraH, “svargakAmo'gnizwomena
-097193:0: vcp: <>yajeta” ityatra viSezaRAt svargakAmaH kartteti tena
-097194:0: vcp: <>saptamacandrAdItaro rAhuM dfzwvA snAyAditi laByate .
-097195:4: vcp: <>evaM vEGadarSanaparyudAse'pi nindAprAyaScicayoH SravaRAdrA-
-097196:2: vcp: <>gaprAptadarSanasya prasajyapratizezaH ftvaBigamananiyame parvaRaH [Page1314-b+ 38]
-097197:2: vcp: <>paryudastatve'pi tatra rAgaprAptagamanasva prasajyapratizeDavaditi”
-097198:2: vcp: <>tadetannirRRayasinDukftA nirAkftaM yaTA “kecidbOdDa-
-097199:0: vcp: <>tulyA rAhugrahaRasya nimittatvena tanniScayasya prayo-
-097200:0: vcp: <>jakatvAt jyotiHSAstrAdinA jAtasya jYAnasya nimi-
-097201:0: vcp: <>ttatve prApte'pi “snAnaM dAnaM tapaH SrAdDamanantaM rA-
-097202:0: vcp: <>hudarSane . candrasUryoparAge tu yAvaddarSanagocara iti jA-
-097203:1: vcp: <>bAlyAdivacanezu dfSiprayogAccAkzuvajYAnasyEvopasaMhAranyA-
-097204:0: vcp: <>yena nimittatvam . anyaTA dfSO lakzaRA syAt . tena
-097205:0: vcp: <>meGAcCAdane 'nDAdInAM, janmasaptAzwetyAdinizidDadarSa-
-097206:0: vcp: <>nAnAM ca snAnaSrAdDAdO nADikAra” iti . kalpatarura-
-097207:0: vcp: <>pyAha . “darSanaSabdena cAkzuzajYAnaM gfhyate . na jYAna-
-097208:0: vcp: <>mAtram ajYAtasya nimittatvAsamBavAnnimittamahimnEva jYA-
-097209:1: vcp: <>nalABena daSanapadavEyarTyApatteH . tena cAkzuzaDIyogyaH
-097210:0: vcp: <>kAlaH puRyaH . yogyatvaM ca prayatnAnapaneyacAkzuzajYAna-
-097211:0: vcp: <>pratibanDakarAhityaM tena meGacCanne yogyatABAvAnna snAnA-
-097212:0: vcp: <>dIti” nirRayAmfte'pyevam . tadetattucCam . yadi cAkzu-
-097213:0: vcp: <>zajYAnaM nimittaM syAttadA “sUryagraho yadA rAtrO divA
-097214:0: vcp: <>candragrahastaTA tatra snAnaM na kurvIta dadyAddAnaM na ca kvaci-
-097215:0: vcp: <>diti” vAkyaM vyarTaM syAt . cAkzuzajYAnABAvena prAptya
-097216:0: vcp: <>BAvAt tatpUrvakatvAcca nizeDasya . na cedaM grastAstaparam
-097217:0: vcp: <>ravicandrayorastAnantaraM rAtridivAgrahatvAditi vAcyam
-097218:0: vcp: <>tatrapadasya grahaparatve'DikaraRatvAyogAnnimittaparatve ca
-097219:1: vcp: <>tadgrahanimittakasnAnAderastAtprAgapyaBAvApatteH . aTa
-097220:1: vcp: <>tatreti rAtridine ucyete vESvadevItivadguRaBUte
-097221:0: vcp: <>api tanna tAdfSamantraliNgABAvAt . tayornimitta-
-097222:0: vcp: <>tve'DikaraRatve vA'nyaprayuktasnAnAdyaBAvApatteSca . kiYca
-097223:0: vcp: <>“nekzetodyantamAdityaM nAstaM yantaM kadAcana . noparaktaM
-097224:0: vcp: <>na vArisTamBamaDyaMnaBasogatamiti” manuvacanaM bADyeta
-097225:0: vcp: <>“dfzwo'rizwaprado rAhurityAdi” ca . na cAtra vihite da-
-097226:1: vcp: <>rSane nizezApravfttivatparyudasanIyatApi na yukteti vAcya-
-097227:0: vcp: <>m darSanasyAnuvAdena viDeyatvABAvAt . etaccAgre va-
-097228:2: vcp: <>kzyAmaH . tattve vA virudDatrikadvayApaseH astu sakfddarSana-
-097229:2: vcp: <>viDAnena saNkoca iti cet na “mukti dfzwvA tataH snAyA-
-097230:1: vcp: <>diti” muktisnAne'pi cAkzuzajYAnasya nimittatvApatteH
-097231:0: vcp: <>astu kiM naSCinnamiti cet na grastAste “tayoH paredyu-
-097232:0: vcp: <>rudaye dfzwvAByavaharecCuciriti” darSanottaraM BojanaviDAnA-
-097233:0: vcp: <>danDasya pUrvaveDakAla iva yAvaddarSanaM BojananizeDApattiH
-097234:0: vcp: <>maDye'nDIBUtasya sutarAM yAvaccakzuHprAptyupavAsaprasaNgaSca . [Page1315-a+ 38]
-097235:0: vcp: <>aTAnnalolupatayA tatra jYAnamAtraM vivakzyeta tat tatpUrvamapi
-097236:0: vcp: <>nirlajjena svIkriyatAm . etena yattu kESciduktaM sparSasnAne
-097237:0: vcp: <>muktisnAne ca yasya darSanaM vihitaM tenEva kAryaM nAnyena ktvA-
-097238:0: vcp: <>pratyayena samAnakarttftvAvagateriti tannirastam . kA tarhitasya
-097239:0: vcp: <>gatiH dfSeruddeSyaviSezaRatvAdgrahEkatvavadavivakzayArTataH sidDa-
-097240:0: vcp: <>jYAnamAtrAnuvAdatve sarvaM susTam . aNgalyAdyanAdeSyagrahavyA-
-097241:0: vcp: <>vfttyE vA darSanasyArTavattvam . na coktayogyatApi sA-
-097242:0: vcp: <>DvI darSanottaraM meGacCanne yogyatABAvApattyA dAnAdya-
-097243:0: vcp: <>BAvApatteH . tena tattadreKAvacCedena jyotiHSAstrAvedyatvameva
-097244:0: vcp: <>yogyatA . kiYca “rajasodarSane nArI trirAtramaSucirBavet”
-097245:1: vcp: <>ityatrApyanDastrIRAmASOcABAvaprasaNgaH . yattu vardDamAneno-
-097246:0: vcp: <>ktam “jYAnottaraM hyaDikAro na jYAnakAle, snAnakAle
-097247:0: vcp: <>jYAnABAvAt . evaM darSanottaraM muktiparyyantamastyeva
-097248:0: vcp: <>yogyateti” tadapi pratijYAmAtram . kiYca grastAste
-097249:0: vcp: <>“tayoH paredyurudaye dfzwvA'ByavaharecCucirityAdi” vAkya
-097250:0: vcp: <>vEyarTyApattiH . cAkzuzajYAnAnyaTAnupapattyEvArTAdudaye
-097251:1: vcp: <>snAnasidDeH nanu muktisnAne SAstroyameva jYAnaM nimittaM
-097252:0: vcp: <>na cAkzuzam “candrasUryyagrahe nAdyAt tasminnahani
-097253:0: vcp: <>pUrvataH . rAhorvimuktiM vijYAya snAtvA kurvIta Bojanamiti”
-097254:0: vcp: <>vfdDagOtamena vijYAyeti jYAnamAtrokteH . yattu “muktiM
-097255:0: vcp: <>dfzwvA tu BoktavyaM snAnaM kftvA tataHparamiti” tadapi
-097256:0: vcp: <>jYAnamAtraparam . “meGamAlAdidozeRa yadi muktirna df-
-097257:1: vcp: <>Syate . Akalayya tu taM kAlaM snAtvA BuYjIta vAgyataH” .
-097258:0: vcp: <>iti gOqanibanDe darSanAt” mEvam ajYAnasya nimitta-
-097259:0: vcp: <>tvABAvena nimittamahimnEva jYAnalABe vAkyavEyarTyAt .
-097260:0: vcp: <>grastAste'pi tadApatteSca . kiYca, darSanaM puMsoviSezaRa-
-097261:1: vcp: <>mupalakzaRaM vA, nAdyaH darSanAvacCinne kAle snAnatulAde-
-097262:0: vcp: <>rbADAt . darSanavicCede kftamapi snAnAdi na grahaRa
-097263:0: vcp: <>nimittaM syAt . nAntyaH, “yAvaddarSanagocara” iti yAvat
-097264:0: vcp: <>padavEyarTyaprasaNgAt dfzwagrahaRottaramapi snAnAdyApatteSca .
-097265:0: vcp: <>jYAnapakze'pyeza dozastulya iti cet . mUrKo'si . yadi
-097266:1: vcp: <>jYAnavAcakaM padaM SrUyeta tatastasyAnvayo vicAryyeta .
-097267:1: vcp: <>dfSistu SrUyata iti vEzamyAt kaTaM tarhi jYAnaM laByate .
-097268:1: vcp: <>saMkrAntO snAyAditi vadarTAdityayehi . aSrutatvAdeva-
-097269:0: vcp: <>noddeSyaviSezaRavivakzAkfto vAkyaBedo'pi . astu tarhi
-097270:0: vcp: <>dfzwagrahaRaM nimittamiti cet . grastAste'stottaraM snA-
-097271:0: vcp: <>nApatteH . viSizwoddeSe vAkyaBedAcca tavApyetattulya-
-097272:0: vcp: <>miti cet “yAvaddarSanagocara” iti vacanena tannizeDAt . [Page1315-b+ 38]
-097273:1: vcp: <>tava tvanyagraha iva grastAsteHpi syAt . kiYca, darSanasya
-097274:0: vcp: <>viDiranuvAdo vA . Adye grahaRoddeSena darSanaviDiruta-
-097275:0: vcp: <>darSanaviSizwasnAnaviDiH . nAdyaH, grahoddeSena snAna-
-097276:0: vcp: <>viDAne darSanaviDAne ca vAkyaBedAt . etena dvitI-
-097277:0: vcp: <>yo'pi parAstaH darSanasya nimittatvenAviDeya-
-097278:0: vcp: <>tvAt snAnasyAprApteH . anyaTA somavamanAdO
-097279:1: vcp: <>prasaYjanaviDiH kena vAryyeta . aTa nAnAvAkyezu kaci-
-097280:0: vcp: <>ddarSanavivizwasnAnaviDiH . kvacicca prAptadarSananimittI-
-097281:1: vcp: <>kftya snAnamAtraviDiH . tanna, snAnasya praGAnasya prAptO
-097282:0: vcp: <>tadaNgadarSanaprAptiH, tasyAM ca nimitte sati snAnamityanyo-
-097283:0: vcp: <>nyASrayAt . evaM darSanaviDO sati tannimittakasnAna-
-097284:0: vcp: <>viDiH sati ca praDAnasnAnaviDO tadaNgadarSanaviDiH .
-097285:0: vcp: <>evamaDikAre prayojakatve ca yojyam . ktvArTapUrvakAla-
-097286:0: vcp: <>tvaviDO cAsteca vAkyaBedaH . anyaTA snAnottaramapi
-097287:0: vcp: <>darSanamaNgaM syAt . na dvitIyaH . tatrApi darSanagrahaRayo
-097288:0: vcp: <>rnimittatve snAnadvayApatteH darSanAvfttO nEmittakAvftti-
-097289:0: vcp: <>prasaNgAt . darSanaviSizwagrahasya viSizwasyAnuvAde vAkya-
-097290:0: vcp: <>BedApatteH . na ca havirArttivadviSizwaM nimittamiti
-097291:0: vcp: <>vAcyaM ArttimAtrasya hi nimittatve nimezAdyA-
-097292:0: vcp: <>rtterapi tattvApatternnEmittikatvaBaNgAdyuktaM viSizwoddeSya-
-097293:0: vcp: <>tvam . iha tu grahaRamAtrasya nimittatve na kAcit
-097294:0: vcp: <>kzatiH . tasmAddarSanavAkyAnAM grastAstavizayatvAt anA-
-097295:0: vcp: <>deSyagrahaparatvAdvA jYAnasya cArTataH prAptestadeva nimi-
-097296:1: vcp: <>ttam . tena meGAcCAdane'nDAdeSca snAnAdi Bavatyeve-
-097297:0: vcp: <>tyalaM vedabAhyEH saMlApena” .
+097175:0: vcp: SrAdDAdyaDikAra iti ti0 ta0 raGunandanena samarTitaM yaTA
+097176:0: vcp: “nanu jyotiHSAstrAdyukta nizeDo hiMsAvadyAdfcCikaparo-
+097177:0: vcp: 'stu na tu vEDaparaH mEvam “rAhudarSanasaMkrAntivivAhAtyaya-
+097178:0: vcp: vfdDizu . snAnadAnAdikaM kuryurniSi kAmyavratezu ca”
+097179:0: vcp: iti devalavacane darSanapadaSravaRAddarSane sati snAnAderma-
+097180:0: vcp: hAByudayahetutvAddarSanamapi viDeyam . taTA ca saMvat-
+097181:0: vcp: sarapradIpe mArkaRqeyaH . “ekarAtramupozyEva rAhuM dfzwvA'
+097182:0: vcp: kzayaM naraH . puRyamApnoti kftvA ca dAnaM SrAdDaM viDA-
+097183:0: vcp: nataH” . tataSca tasyEva prakftatvenopasTitasya vEDadarSanasya
+097184:0: vcp: paryudAso na tu rAgaprAptadarSanasya nizeDo'prakftatvenAnupa-
+097185:0: vcp: sTiteH . evaYca padArTAntara sAkANktaviSezaviDimapahAya
+097186:1: vcp: taMditaratra sAmAnyamanvetIti sarvatra padAhavanIyAdO sAmA-
+097187:2: vcp: nyasya viSezetaraparatve vIjam . yaTA “aharahardadyAt” iti
+097188:0: vcp: “dIkzito na dadAtIti” pratizeDAt dIkzitetaraparaM na rAga-
+097189:0: vcp: prAptanizeDakam . taduktaM “triDEva jYAyate karttA viSezeRa
+097190:1: vcp: pratikriyam . yogyatvaM pratizidDatvaM viSezaRapradAnvayEH”
+097191:0: vcp: “yajamAnaH paWatIti SrutyA tadyogyovidvAn, dIkzito na
+097192:1: vcp: dadAtIti pratizaDAddIkzitetaraH, “svargakAmo'gnizwomena
+097193:0: vcp: yajeta” ityatra viSezaRAt svargakAmaH kartteti tena
+097194:0: vcp: saptamacandrAdItaro rAhuM dfzwvA snAyAditi laByate .
+097195:4: vcp: evaM vEGadarSanaparyudAse'pi nindAprAyaScicayoH SravaRAdrA-
+097196:2: vcp: gaprAptadarSanasya prasajyapratizezaH ftvaBigamananiyame parvaRaH [Page1314-b+ 38]
+097197:2: vcp: paryudastatve'pi tatra rAgaprAptagamanasva prasajyapratizeDavaditi”
+097198:2: vcp: tadetannirRRayasinDukftA nirAkftaM yaTA “kecidbOdDa-
+097199:0: vcp: tulyA rAhugrahaRasya nimittatvena tanniScayasya prayo-
+097200:0: vcp: jakatvAt jyotiHSAstrAdinA jAtasya jYAnasya nimi-
+097201:0: vcp: ttatve prApte'pi “snAnaM dAnaM tapaH SrAdDamanantaM rA-
+097202:0: vcp: hudarSane . candrasUryoparAge tu yAvaddarSanagocara iti jA-
+097203:1: vcp: bAlyAdivacanezu dfSiprayogAccAkzuvajYAnasyEvopasaMhAranyA-
+097204:0: vcp: yena nimittatvam . anyaTA dfSO lakzaRA syAt . tena
+097205:0: vcp: meGAcCAdane 'nDAdInAM, janmasaptAzwetyAdinizidDadarSa-
+097206:0: vcp: nAnAM ca snAnaSrAdDAdO nADikAra” iti . kalpatarura-
+097207:0: vcp: pyAha . “darSanaSabdena cAkzuzajYAnaM gfhyate . na jYAna-
+097208:0: vcp: mAtram ajYAtasya nimittatvAsamBavAnnimittamahimnEva jYA-
+097209:1: vcp: nalABena daSanapadavEyarTyApatteH . tena cAkzuzaDIyogyaH
+097210:0: vcp: kAlaH puRyaH . yogyatvaM ca prayatnAnapaneyacAkzuzajYAna-
+097211:0: vcp: pratibanDakarAhityaM tena meGacCanne yogyatABAvAnna snAnA-
+097212:0: vcp: dIti” nirRayAmfte'pyevam . tadetattucCam . yadi cAkzu-
+097213:0: vcp: zajYAnaM nimittaM syAttadA “sUryagraho yadA rAtrO divA
+097214:0: vcp: candragrahastaTA tatra snAnaM na kurvIta dadyAddAnaM na ca kvaci-
+097215:0: vcp: diti” vAkyaM vyarTaM syAt . cAkzuzajYAnABAvena prAptya
+097216:0: vcp: BAvAt tatpUrvakatvAcca nizeDasya . na cedaM grastAstaparam
+097217:0: vcp: ravicandrayorastAnantaraM rAtridivAgrahatvAditi vAcyam
+097218:0: vcp: tatrapadasya grahaparatve'DikaraRatvAyogAnnimittaparatve ca
+097219:1: vcp: tadgrahanimittakasnAnAderastAtprAgapyaBAvApatteH . aTa
+097220:1: vcp: tatreti rAtridine ucyete vESvadevItivadguRaBUte
+097221:0: vcp: api tanna tAdfSamantraliNgABAvAt . tayornimitta-
+097222:0: vcp: tve'DikaraRatve vA'nyaprayuktasnAnAdyaBAvApatteSca . kiYca
+097223:0: vcp: “nekzetodyantamAdityaM nAstaM yantaM kadAcana . noparaktaM
+097224:0: vcp: na vArisTamBamaDyaMnaBasogatamiti” manuvacanaM bADyeta
+097225:0: vcp: “dfzwo'rizwaprado rAhurityAdi” ca . na cAtra vihite da-
+097226:1: vcp: rSane nizezApravfttivatparyudasanIyatApi na yukteti vAcya-
+097227:0: vcp: m darSanasyAnuvAdena viDeyatvABAvAt . etaccAgre va-
+097228:2: vcp: kzyAmaH . tattve vA virudDatrikadvayApaseH astu sakfddarSana-
+097229:2: vcp: viDAnena saNkoca iti cet na “mukti dfzwvA tataH snAyA-
+097230:1: vcp: diti” muktisnAne'pi cAkzuzajYAnasya nimittatvApatteH
+097231:0: vcp: astu kiM naSCinnamiti cet na grastAste “tayoH paredyu-
+097232:0: vcp: rudaye dfzwvAByavaharecCuciriti” darSanottaraM BojanaviDAnA-
+097233:0: vcp: danDasya pUrvaveDakAla iva yAvaddarSanaM BojananizeDApattiH
+097234:0: vcp: maDye'nDIBUtasya sutarAM yAvaccakzuHprAptyupavAsaprasaNgaSca . [Page1315-a+ 38]
+097235:0: vcp: aTAnnalolupatayA tatra jYAnamAtraM vivakzyeta tat tatpUrvamapi
+097236:0: vcp: nirlajjena svIkriyatAm . etena yattu kESciduktaM sparSasnAne
+097237:0: vcp: muktisnAne ca yasya darSanaM vihitaM tenEva kAryaM nAnyena ktvA-
+097238:0: vcp: pratyayena samAnakarttftvAvagateriti tannirastam . kA tarhitasya
+097239:0: vcp: gatiH dfSeruddeSyaviSezaRatvAdgrahEkatvavadavivakzayArTataH sidDa-
+097240:0: vcp: jYAnamAtrAnuvAdatve sarvaM susTam . aNgalyAdyanAdeSyagrahavyA-
+097241:0: vcp: vfttyE vA darSanasyArTavattvam . na coktayogyatApi sA-
+097242:0: vcp: DvI darSanottaraM meGacCanne yogyatABAvApattyA dAnAdya-
+097243:0: vcp: BAvApatteH . tena tattadreKAvacCedena jyotiHSAstrAvedyatvameva
+097244:0: vcp: yogyatA . kiYca “rajasodarSane nArI trirAtramaSucirBavet”
+097245:1: vcp: ityatrApyanDastrIRAmASOcABAvaprasaNgaH . yattu vardDamAneno-
+097246:0: vcp: ktam “jYAnottaraM hyaDikAro na jYAnakAle, snAnakAle
+097247:0: vcp: jYAnABAvAt . evaM darSanottaraM muktiparyyantamastyeva
+097248:0: vcp: yogyateti” tadapi pratijYAmAtram . kiYca grastAste
+097249:0: vcp: “tayoH paredyurudaye dfzwvA'ByavaharecCucirityAdi” vAkya
+097250:0: vcp: vEyarTyApattiH . cAkzuzajYAnAnyaTAnupapattyEvArTAdudaye
+097251:1: vcp: snAnasidDeH nanu muktisnAne SAstroyameva jYAnaM nimittaM
+097252:0: vcp: na cAkzuzam “candrasUryyagrahe nAdyAt tasminnahani
+097253:0: vcp: pUrvataH . rAhorvimuktiM vijYAya snAtvA kurvIta Bojanamiti”
+097254:0: vcp: vfdDagOtamena vijYAyeti jYAnamAtrokteH . yattu “muktiM
+097255:0: vcp: dfzwvA tu BoktavyaM snAnaM kftvA tataHparamiti” tadapi
+097256:0: vcp: jYAnamAtraparam . “meGamAlAdidozeRa yadi muktirna df-
+097257:1: vcp: Syate . Akalayya tu taM kAlaM snAtvA BuYjIta vAgyataH” .
+097258:0: vcp: iti gOqanibanDe darSanAt” mEvam ajYAnasya nimitta-
+097259:0: vcp: tvABAvena nimittamahimnEva jYAnalABe vAkyavEyarTyAt .
+097260:0: vcp: grastAste'pi tadApatteSca . kiYca, darSanaM puMsoviSezaRa-
+097261:1: vcp: mupalakzaRaM vA, nAdyaH darSanAvacCinne kAle snAnatulAde-
+097262:0: vcp: rbADAt . darSanavicCede kftamapi snAnAdi na grahaRa
+097263:0: vcp: nimittaM syAt . nAntyaH, “yAvaddarSanagocara” iti yAvat
+097264:0: vcp: padavEyarTyaprasaNgAt dfzwagrahaRottaramapi snAnAdyApatteSca .
+097265:0: vcp: jYAnapakze'pyeza dozastulya iti cet . mUrKo'si . yadi
+097266:1: vcp: jYAnavAcakaM padaM SrUyeta tatastasyAnvayo vicAryyeta .
+097267:1: vcp: dfSistu SrUyata iti vEzamyAt kaTaM tarhi jYAnaM laByate .
+097268:1: vcp: saMkrAntO snAyAditi vadarTAdityayehi . aSrutatvAdeva-
+097269:0: vcp: noddeSyaviSezaRavivakzAkfto vAkyaBedo'pi . astu tarhi
+097270:0: vcp: dfzwagrahaRaM nimittamiti cet . grastAste'stottaraM snA-
+097271:0: vcp: nApatteH . viSizwoddeSe vAkyaBedAcca tavApyetattulya-
+097272:0: vcp: miti cet “yAvaddarSanagocara” iti vacanena tannizeDAt . [Page1315-b+ 38]
+097273:1: vcp: tava tvanyagraha iva grastAsteHpi syAt . kiYca, darSanasya
+097274:0: vcp: viDiranuvAdo vA . Adye grahaRoddeSena darSanaviDiruta-
+097275:0: vcp: darSanaviSizwasnAnaviDiH . nAdyaH, grahoddeSena snAna-
+097276:0: vcp: viDAne darSanaviDAne ca vAkyaBedAt . etena dvitI-
+097277:0: vcp: yo'pi parAstaH darSanasya nimittatvenAviDeya-
+097278:0: vcp: tvAt snAnasyAprApteH . anyaTA somavamanAdO
+097279:1: vcp: prasaYjanaviDiH kena vAryyeta . aTa nAnAvAkyezu kaci-
+097280:0: vcp: ddarSanavivizwasnAnaviDiH . kvacicca prAptadarSananimittI-
+097281:1: vcp: kftya snAnamAtraviDiH . tanna, snAnasya praGAnasya prAptO
+097282:0: vcp: tadaNgadarSanaprAptiH, tasyAM ca nimitte sati snAnamityanyo-
+097283:0: vcp: nyASrayAt . evaM darSanaviDO sati tannimittakasnAna-
+097284:0: vcp: viDiH sati ca praDAnasnAnaviDO tadaNgadarSanaviDiH .
+097285:0: vcp: evamaDikAre prayojakatve ca yojyam . ktvArTapUrvakAla-
+097286:0: vcp: tvaviDO cAsteca vAkyaBedaH . anyaTA snAnottaramapi
+097287:0: vcp: darSanamaNgaM syAt . na dvitIyaH . tatrApi darSanagrahaRayo
+097288:0: vcp: rnimittatve snAnadvayApatteH darSanAvfttO nEmittakAvftti-
+097289:0: vcp: prasaNgAt . darSanaviSizwagrahasya viSizwasyAnuvAde vAkya-
+097290:0: vcp: BedApatteH . na ca havirArttivadviSizwaM nimittamiti
+097291:0: vcp: vAcyaM ArttimAtrasya hi nimittatve nimezAdyA-
+097292:0: vcp: rtterapi tattvApatternnEmittikatvaBaNgAdyuktaM viSizwoddeSya-
+097293:0: vcp: tvam . iha tu grahaRamAtrasya nimittatve na kAcit
+097294:0: vcp: kzatiH . tasmAddarSanavAkyAnAM grastAstavizayatvAt anA-
+097295:0: vcp: deSyagrahaparatvAdvA jYAnasya cArTataH prAptestadeva nimi-
+097296:1: vcp: ttam . tena meGAcCAdane'nDAdeSca snAnAdi Bavatyeve-
+097297:0: vcp: tyalaM vedabAhyEH saMlApena” .
 097298:0: vcp: <P>“prAguktamanuvacanenoparakta divAkaradarSananizeDaH sAkzAd-
-097299:0: vcp: <>darSanaparaH . ataeva brahmasidDAnte “sarvEH pawasTitaM vIkzyaM
-097300:0: vcp: <>svacCatElAmbudarpaREH . grahaRaM gurviRI jAtu na paSyettu
-097301:0: vcp: <>pawaM vinA” pawadisTatayEva grahaRadarSanamuktam .
+097299:0: vcp: darSanaparaH . ataeva brahmasidDAnte “sarvEH pawasTitaM vIkzyaM
+097300:0: vcp: svacCatElAmbudarpaREH . grahaRaM gurviRI jAtu na paSyettu
+097301:0: vcp: pawaM vinA” pawadisTatayEva grahaRadarSanamuktam .
 097302:0: vcp: <P>atra pUrvAparaveDaH hemAdrO darSito yaTA “trayodaSyA-
-097303:1: vcp: <>dito varjya dinAnAM navakaM Druvam . mANgalyezu samastezu gra-
-097304:1: vcp: <>haRecandrasUryayoH” . prakArAntaraM tatrEboktam . “dvAdaSyAdi
-097305:2: vcp: <>tftIyAnto veDa indugrahe smftaH . ekAdaSyAdikaH sOre
-097306:2: vcp: <>caturTyantaH prakIrttitaH” idaM ca pUrRagrAse, “tryahaM KaRqagrahe
-097307:1: vcp: <>tayoriti” tatrEvokteH idaYca “grastAste tridinaM pUrvamiti
-097308:0: vcp: <>nAradena grastAste viSezoktergrastAstaBinnagrahaRaparam .
-097309:0: vcp: <>jyotirnibanDe cyavanaH grahaRotpAtaBaM tyAjyaM maNgalezu
-097310:0: vcp: <>ftutrayam . yAvacca raviRA BuktvA muktaM BaM dagDakAzWavat” [Page1316-a+ 38]
+097303:1: vcp: dito varjya dinAnAM navakaM Druvam . mANgalyezu samastezu gra-
+097304:1: vcp: haRecandrasUryayoH” . prakArAntaraM tatrEboktam . “dvAdaSyAdi
+097305:2: vcp: tftIyAnto veDa indugrahe smftaH . ekAdaSyAdikaH sOre
+097306:2: vcp: caturTyantaH prakIrttitaH” idaM ca pUrRagrAse, “tryahaM KaRqagrahe
+097307:1: vcp: tayoriti” tatrEvokteH idaYca “grastAste tridinaM pUrvamiti
+097308:0: vcp: nAradena grastAste viSezoktergrastAstaBinnagrahaRaparam .
+097309:0: vcp: jyotirnibanDe cyavanaH grahaRotpAtaBaM tyAjyaM maNgalezu
+097310:0: vcp: ftutrayam . yAvacca raviRA BuktvA muktaM BaM dagDakAzWavat” [Page1316-a+ 38]
 097311:0: vcp: <P>candrArkagrahaRasya BUcCAyAcandrAByAmAvaraRarUpasyA'pi
-097312:0: vcp: <>amAvAsyAsaMkrAntikAlavat tatra snAnadAnAdO bahupu-
-097313:0: vcp: <>RyasADanatvaM smftyAdizu prasidDam tatrAdO kAlamADavIye
-097314:0: vcp: <>yaTA nirRItaM tat pradarSyate vfdDagArgyaH “pUrRimAprati-
-097315:1: vcp: <>patsanDO rAhuH sampUrRamaRqalam . grasate candramarkvaYca da-
-097316:0: vcp: <>rSapratipadantare” iti tatra parvaRo'ntimoBAgaH sparSakAlaH
-097317:0: vcp: <>pratipada AdyoBAgomokzakAlaH taduktaM brahmasidDAnte “yA-
-097318:0: vcp: <>vatkAlaH parvaRo'nte tAvAnpratipadAdimaH . ravIndugraha-
-097319:0: vcp: <>RAnehAH sa puRyomiSraRAdBavediti” grahaRAnehAH rAhu-
-097320:0: vcp: <>grahaRakAlaH tatra karttavyamAha vfdDavasizWaH “gaNgAtoye ca
-097321:0: vcp: <>saMprApte indroHkowI raverdaSa . gavANkowipradAnena samyagda-
-097322:0: vcp: <>ttena yat Palam . gaNgAsnAne tat PalaM syAdrAhugraste ni-
-097323:0: vcp: <>SAkare . divAkare punastatra daSasaMKyamudAhftamiti” asya
-097324:0: vcp: <>Slokadvayasya praTamArdDamapekzitapadADyAhAreRa yojanIyaM
-097325:1: vcp: <>indrIrgrahaRe saMprApte sati gaNgAtoye avagAhanaM goko-
-097326:1: vcp: <>didAnasamaM Bavati ravergrahaRe tato daSaguRaM Palam ayame-
-097327:0: vcp: <>vArTa uparitanenArdDatrayeRa spazwIkftaH . vyAso'pi “indo-
-097328:0: vcp: <>rlakzaguRaM puRyaM raverdaSaguRaM tataH . gaNgAtoye tu saMprApte
-097329:1: vcp: <>indoH kowIraverdaSa . gavANkowisahasrasya yat PalaM laBa-
-097330:0: vcp: <>te naraH . tat PalaM jAhnavIsnAne rAhugraste niSAkare .
-097331:0: vcp: <>divAkare tu snAnasya daSasaMKyamudAhftam candrasUryagrahe cEva
-097332:0: vcp: <>yo'vagAheta jAhnavIm . sa snAtaH sarvatIrTezu kimarTamawate ma-
-097333:0: vcp: <>hImiti” gaNgAvyatiriktamahAnadItoye lakzaguRadaSalakzaguRa-
-097334:0: vcp: <>tvaM gaNgAtoye tu kowiguRadaSakowiguRatvam . brahmapurARe'pi
-097335:1: vcp: <>“tisronadyo mahApuRyA veRA godA ca jAhnavI . gAM harI-
-097336:0: vcp: <>SANGrikAt prAptA gaNgA iti hi kIrttitAH”
-097337:0: vcp: <>hareH pAdAdISvarasya SirasaSca gAmBUmiM prAptA gaNgA . ya-
-097338:0: vcp: <>dyapi jAhnavyeva tAdfSI na tu veRAgode taTApi CatriRo
-097339:0: vcp: <>gacCantIti nyAyena jAhnavyA saha nirdizwayostayorapi
-097340:0: vcp: <>gaNgAtvamavirudDaM yadvA jAhnavIjalameva kenacinnimittena
-097341:0: vcp: <>brahmagirivAyugiryorudBUtamiti kftvA tayorapi muKyameva
-097342:0: vcp: <>gaNgAtvantAsu gaNgAsu snAnaM muKyaM tadasamBave nadyantarezu
-097343:1: vcp: <>snAyAt taduktaM mahABArate “gaNgAsnAnaM tu kurvIta grahaRe
-097344:0: vcp: <>candrasUryayoH mahAnadIzu cAnyAsu snAnaM kuryAdyaTAvi-
-097345:0: vcp: <>DIti” mAhAnadyo brahmapurARe darSitAH “godAvarI BIma-
-097346:2: vcp: <>raTI tuNgaBadrA ca veRikA . tApI payozRI vinDyasya dakziRe
-097347:1: vcp: <>tu prakIrttitAH . BAgIraTI narmadA ca yamunA ca sarasvato .
-097348:0: vcp: <>viSokA ca vitastA ca vinDyasyottaratastaTeti” mahAnadyasa- [Page1316-b+ 38]
-097349:1: vcp: <>mBave jalAntarARyAha SaNKaH “vApIkUpataqAgezu giripra-
-097350:0: vcp: <>stavaRe'pi ca . nadyAnnade devaKAte sarasIzUdDftAmbuni .
-097351:0: vcp: <>uzRodakena vA snAyAt grahaRe candrasUryayoriti” etat
-097352:1: vcp: <>sarvamaBipretyAha vyAsaH “sarvaM gaNgAsamantoya sarvo brahma-
-097353:0: vcp: <>samo dvijaH . sarvaM BUmisamaM dAnaM grahaRe candrasUryayoriti”
-097354:0: vcp: <>uzRodakasyAturavizayatvamAha vyAGraH “AdityakiraREH pUtaM
-097355:0: vcp: <>punaH pUtaM ca vahninA . atovyADyAturaH snAyAdgrahaRe'-
-097356:1: vcp: <>pyuzRavAriReti” gaNgAtoyamAraByozRodakAntrezUttarottarasyA-
-097357:1: vcp: <>nukalpatvamuktam . etadevABipretyozRAdakAdizu samudrajalAnte
-097358:1: vcp: <>zUttarottarasya prASastyamAha mArkaRqeyaH “SotamuzRodakA-
-097359:0: vcp: <>tpuRyamapArakyaM parodakAt . BUmizWamudDftAtpuRyaM tataH
-097360:0: vcp: <>prasravaRodakam . tato'pi sArasaM puRyaM tataH puRyaM nadI-
-097361:0: vcp: <>jalam . tIrTatoyaM tataH puRyaMmahAnadyambupAvanam . tatasta-
-097362:0: vcp: <>to'pi gaNgAmbu puRyaM puRyastato'mbu Diriti” mAsaviSeze-
-097363:0: vcp: <>Ra grahaRe nadIviSezo devIpurARe'BihitaH “kArttike gra-
-097364:0: vcp: <>haRaM SrezWaM gaNgAyamunasaNgame . mArge tu grahaRaM proktaM
-097365:0: vcp: <>devikAyAM mahAmune . pOze tu narmadA puRyA mAGe sanni-
-097366:0: vcp: <>hitA SuBA . PAlgune varaRA puRyA cEtre puRyA sarasvatI .
-097367:0: vcp: <>vESAKe tu mahApuRyA candraBAgA saridvarA . jyEzwe tu kO-
-097368:0: vcp: <>SikI puRyA AzAQe tApikA nadI . SrAvaRe sinDunAmA
-097369:1: vcp: <>tu taTA BAdre tu candrikA . AScine sarayUH SrezWA taTA
-097370:0: vcp: <>puRyA tu narmadeti” grahaRaviSeze nadIviSezastatrEvABihitaH .
-097371:1: vcp: <>“godAvarI mahApuRyA candrerAhusamannite . sUrye ca rAhu-
-097372:1: vcp: <>RA graste tamomUte mahAmune! . narmadAtoyasaM sparSe kftakftyA
-097373:0: vcp: <>Bavanti hIti” snAnavat smaraRAdizvapi puRyamAha “smftvA-
-097374:1: vcp: <>SatakratuPalaM dfzwvA sarvAGanASanam . spazwvA gomeDapuRyaM tu pItvA
-097375:1: vcp: <>sOtrABaRerlaBet . snAtvA vAjimaKe puRyaM prAptuyAdavicArataH
-097376:0: vcp: <>ravicandroparAge ca ayane cottare taTeti” . kzetraviSeza
-097377:0: vcp: <>mAha . “gaNgA kanasvalaM puRyaM prayAgaH puzkaraM taTA .
-097378:0: vcp: <>kurukzetraM mahApuRyaM rAhugraste divAkare” iti grahaRe
-097379:1: vcp: <>SrAdDaM vihitaM liNgapurARe “vyatIpAtakzaRo yAvAMScandra-
-097380:0: vcp: <>sUryagrahakzaRaH . gajacCAyA tu sA proktA pitFRAM
-097381:0: vcp: <>dattamakzayam” iti mahABArate'pi “sarvasvenApi karttavyaM
-097382:0: vcp: <>SrAdDaM vE rAhudarSane . akurvARastu nAstikyAtpaNke
-097383:0: vcp: <>gOriva sIdatIti” . fzyaSfNgo'pi “candrasUryyagrahe
-097384:0: vcp: <>yastu SrAdDaM viDivadAcaret . tenEva sakalA pfTvI
-097385:0: vcp: <>dattA viprasya vE kare” iti . vizRurapi “rAhudarSanadattaM
-097386:0: vcp: <>hi SrAdDamAcandratArakam . guRavat sarvakAmIyaM pitaRA [Page1317-a+ 38]
-097387:0: vcp: <>mupatizWate” iti grahaRe rAtrAvapi snAnAderna nizeDaH .
-097388:0: vcp: <>taTA ca SAtAtapaH “snAnaM dAnaM tapaH SrAdDamanantaM
-097389:0: vcp: <>rAhudarSane . AsurI rAtriranyatra tasmAttAM parivarjjaye-
-097390:0: vcp: <>diti” devalaH “yaTA snAnaM ca dAnaM ca sUryyasya grahaRe
-097391:0: vcp: <>divA . somasyApi taTA rAtrO snAnaM dAnaM viDI-
-097392:0: vcp: <>yate” SrAdDaM prakftya kUrmmapurARe “nEmittikaM tu karttavyaM
-097393:0: vcp: <>grahaRe candrasUryyayoH . bAnDavAnAM tu maraRe nArakI syAda-
-097394:0: vcp: <>to'nyaTA . kAmyAni cEva SrAdDAni Sasyante grahaRA-
-097395:0: vcp: <>zviti” vAraviSeze yogaPalAtiSayamAha vyAsaH “ravi-
-097396:0: vcp: <>grahaH sUryyavAre some somagrahastaTA . cUqAmaRiriti
-097397:0: vcp: <>KyAtastatra dattamanantakam . vArezvanyezu yat puRyaM grahaRe
-097398:0: vcp: <>candrasUryyayoH . tatpuRyaM kowiguRitaM grAse cUqAmaRO
-097399:0: vcp: <>smftamiti” atiTiprAptyAdivadgrahaRasyApi SvAdvakAlatva-
-097400:1: vcp: <>mAha mArkkaRqeyaH “viSizwe brAhmaRe prApte mUryyendugra-
-097401:0: vcp: <>haRe dine . janmarkzagrahapIqAsu SrAdDaM kuryyAt taTecCa-
-097402:0: vcp: <>yeti” . atra ca SrAdDaM nAnnena kintu hemAdinA tadAha
-097403:0: vcp: <>bODAyanaH “annABAve dvijABAve pravAse putrajanmani .
-097404:0: vcp: <>hemaSrAdDaM saMgrahe ca kuryyAcCUdraH sadEvahIti” SAtA-
-097405:0: vcp: <>tapo'pi “ApadyanagnO tIrTe ca candrasUryyagrahe taTA . A-
-097406:0: vcp: <>maSrAdDaM prakurvvIta hemaSrAdDamaTA pi veti” aSOci-
-097407:0: vcp: <>no'pi grahaRe snAnAdi na nizidDaM taTA ca vfdDavasizWaH
-097408:0: vcp: <>“sUtake mftake cEva na dozo rAhudarSane . tAvadeva
-097409:1: vcp: <>BavecCudDiryAvanmuktirna dfSyate” iti iyaYca SudDiH
-097410:0: vcp: <>sarvasmArttakarmavizayA aviSezokteH etadevABipretya vyAGrapA-
-097411:0: vcp: <>dAha “smArttakarmmaparityAgo rAhoranyatra sUtake . SrOte
-097412:0: vcp: <>karmmaRi tatkAlasnAtaH SudDimavApnuyAditi” yattu
-097413:0: vcp: <>grahaRanimittamASOcaM tatsnAnena nivarttyantaduktaM brahma-
-097414:0: vcp: <>purARe “ASOcaM jAyate nFRAM grahaRe candrasUryyayoH .
-097415:0: vcp: <>rAhusparSe tayoH snAtvA dAnAdO kalpate naraH” iti zaq-
-097416:0: vcp: <>triMSanmate'pi “sarvezAmeva varRAnAM sUtakaM rAhudarSane .
-097417:0: vcp: <>snAtvA karmmARi kuvIMta SftamannaM vivarjjayediti” grahaRasya
-097418:0: vcp: <>AdyantayoH snAnaM vihitaM smftyantare “grasyamAne
-097419:2: vcp: <>Bavet snAnaM graste homo viDIyate . mucyamAne Baved-
-097420:3: vcp: <>drAbaM mukte snAnaM viDIyate” homadAnavaddevArcanamapi
-097421:0: vcp: <>snAnadvayamaDye kAryyaM taduktaM brahmavEvartte “smAnaM syAdu-
-097422:1: vcp: <>parAgAdO maDye homaH sarArcanamiti” tatkAle svA-
-097423:0: vcp: <>pAdikaM na kuryyAt taduktaM Sivarahasye “sUryyendugrahaRaM
-097424:0: vcp: <>yAvat tAvat kuryyAjjapAdikam . na svapenna ca BuYjIta- [Page1317-b+ 38]
-097425:0: vcp: <>snAtvA BuYjIta muktayoriti” mokzAnantaraBAvi yat snAnaM
-097426:2: vcp: <>tasya SudDyarTatayA tat sacelaM viDeyaM tadAha vfdDvavasizWaH “sarvezA
-097427:1: vcp: <>meva varRRAnAM sUtakaM rAhudarSane . sacelaM tu Bavet snAnaM
-097428:1: vcp: <>sUtakAnnaYca varjjarediti” grahaRakAle tataH pUrvaM vA
-097429:0: vcp: <>yAvat pakkaM tatsUtakAnnaM tattu paScAdapi na BuYjIta” .
-097430:6: vcp: <>atra viSezo'BakzyaSabde 280 pf0 uktastatrAvaseyaH
-097431:0: vcp: <>“AdimaDyAvasAnezu yadyadvihitaM tasya PalAtiSaya ukto
-097432:1: vcp: <>brahmapurARe “upamardde lakzaguRaM grahaRe candrasUryyayoH .
-097433:0: vcp: <>puRyaM kowiguRaM maDye muktikAle tvanantakamiti” atra
-097434:0: vcp: <>grahaRe yaddAnaM tat satpAtre karttavyaM taduktaM mahA-
-097435:0: vcp: <>BArate . “ayane vizuve cEva grahaRe candrasUryyayoH . pAtra-
-097436:0: vcp: <>BUtAya viprAya BUmiM dadyAt sadakziRAmiti” pAtra-
-097437:0: vcp: <>lakzaRamAha yAjYavalkyaH . “na vidyayA kevalayA tapasA
-097438:2: vcp: <>vApi pAtratA . yatra vfttamime coBe tadDi pAtraM prakIrttita-
-097439:4: vcp: <>miti” pAtre muKyAnukalpAvAha vOvAyanaH “Srotriyo-
-097440:0: vcp: <>'Srotriyo vApi pAtraM vA'pAtrameva vA . viprabruvo'pi
-097441:0: vcp: <>vA vipro grahaRe dAnamarhatIti” . ahni sUryyagrahaRaM
-097442:0: vcp: <>niSi candragrahaRamiti hi prasidDiH sarvajanInA, tAdfSe
-097443:0: vcp: <>grahaRe yadvaktavyaM taduktaM yattu kAlaviparyyAsena jYApya
-097444:0: vcp: <>mAnaM jyotiHSAstramAtraprasidDaM grahaRaM tatra snAnAdikaM na
-097445:0: vcp: <>karttavyaM taduktaM nigame “sUryyagraho yadA rAtrO divA
-097446:0: vcp: <>candragrahastaTA . tatra snAnaM na kurvIta dadyAddAnaM na ca
-097447:1: vcp: <>kvaciditi” grastAstamaye jAvAlirAha “saMkrAntO
-097448:0: vcp: <>puRyakAlastu zoqaSoBayataH kalAH . candrasUryyoparAge tu
-097449:2: vcp: <>tu yAvaddarSanagocara” iti grastasyAstamanaparyyantaM darSana-
-097450:0: vcp: <>gocaratvAt tAvat puRyakAlo Bavati grahaRe BojanavyavasTA-
-097451:0: vcp: <>mAha manuH . candrasUryyagrahe nAdyAdadyAt snAtvA vimuktayoH .
-097452:0: vcp: <>amuktayorastagayordfzwvA snAtvA pare'hanIti” grahe grahaRakAle
-097453:0: vcp: <>sparSamAraBya mokzaparyantograhaRakAlaH tasmin kAle na BuYjI-
-097454:2: vcp: <>ta kintu rAhuRA candrasUryayormuktayoH satoH paScAt snAtvA
-097455:1: vcp: <>BuYjIta yadA tu grasrAstamayastadA paredyustO vimuktO dfzwvA
-097456:0: vcp: <>snAtvA BuYjIta . na kevalaM grahaRakAla eva BojanABAvaH kintu
-097457:1: vcp: <>grahaRAtprAgapi tadAha vyAsaH “nAdyAt sUryyagrahAt pUrba
-097458:1: vcp: <>mahni sAyaM SaSigrahAt . grahakAle ca nASrIyAt srAtvASnI-
-097459:0: vcp: <>yAdvimuktayoH . mukte SaSini BuYjIta yadi na syAnmahAniSA .
-097460:1: vcp: <>amuktayorastagayoradyAt dfzwvA pare'hanIti” . pUrbakAle Boja-
-097461:7: vcp: <>nanizeDe viSezaH aBakzyaSabde 280 pf0 uktastatrAvaseyaH .
-097462:0: vcp: <>“samarTasya Bojane prAyaScittamuktaM kAtyAyanena “candrasUryya- [Page1318-a+ 38]
-097463:3: vcp: <>he BuktvA prAjApatyena SuDyati” . grastAstasamaye viSezamAha BfguH
-097464:1: vcp: <>“grastAvevAstamAnaM tu ravIndU prApnutoyadi . paredyurudaye dfzwvA
-097465:0: vcp: <>snAtvAByavaharennaraH” iti vfdDagArgyo'pi “sanDyAkAle yadA
-097466:1: vcp: <>rAhurgrasate SaSiBAskarO . tadaharnEva BuYjIta rAtrAvapi
-097467:1: vcp: <>kadAcaneti” . vizRuDarmottare'pi “ahIrAtraM na BoktavyaM
-097468:1: vcp: <>candra sUryyagraho yadA . muktiM dfzwvA tu BoktavyaM snAnaM kftvA
-097469:0: vcp: <>tataH paramiti” nanu meGAdyantarDAne cAkzuzadarSanaMna samBavatIti
-097470:0: vcp: <>na darSanaSabdena SAstrIyajYAnasya vivakzitatvAt tadAha vfdDa
-097471:1: vcp: <>gOtamaH “candrasUryyagrahe nAdyAttasminnahani pUrbataH . tayorvi-
-097472:0: vcp: <>muktiM vijYAya snAtvA kurvIta Bojanamiti” evaM tarhi pare
-097473:1: vcp: <>dyurudayAt prAgapi SAstrIyavijYAnasamBavAttadEva mojanaM
-097474:0: vcp: <>prasajyeteti cenna “paredyurudaye dfzwvA snAtvAByavaharennaraH “aho
-097475:1: vcp: <>rAtra na Boktavyamiti” vacanadvayena tadaprasakteH yattu “skanda-
-097476:0: vcp: <>purARe” yadA candragrahastAta niSITAtparato Bavet . BoktavyaM
-097477:2: vcp: <>tatra pUrvAhRe nAparAhRe kaTaYcana . pUrbaMniSITAdgrahaRaM yadA
-097478:2: vcp: <>candrasya vE Bavet . tadA niSi na karttavyaM BojanaM SisvivAha-
-097479:0: vcp: <>neti” tadidaM yAmatrayABiprAyaM “candragrahe tu yAmAMstrIniti”
-097480:0: vcp: <>viSezasya vfdDagOtamenABiDAnAt . pApakzayakAmograhaRa
-097481:1: vcp: <>dine upavaset tadAha dakzaH “ayane vizuve cEva grahaRe candra-
-097482:2: vcp: <>sUryyayoH . ahorAtrozitaH snAtvA sarvaMpApEH pramucyata” iti
-097483:0: vcp: <>putrI tu nopavaset tadAha nAradaH “saMkrAntyAmupavAsaYca kf-
-097484:0: vcp: <>zREkAdaSikAdine . candrasUryyagrahe cEva na kuryyAt putravAn
-097485:0: vcp: <>gfhIti” grastAstamaye tu putriRo'pyupavAsaeva “ahorAtraM
-097486:1: vcp: <>na Boktavyamiti, BojanapratizeDAt” . kAlamA0 .
+097312:0: vcp: amAvAsyAsaMkrAntikAlavat tatra snAnadAnAdO bahupu-
+097313:0: vcp: RyasADanatvaM smftyAdizu prasidDam tatrAdO kAlamADavIye
+097314:0: vcp: yaTA nirRItaM tat pradarSyate vfdDagArgyaH “pUrRimAprati-
+097315:1: vcp: patsanDO rAhuH sampUrRamaRqalam . grasate candramarkvaYca da-
+097316:0: vcp: rSapratipadantare” iti tatra parvaRo'ntimoBAgaH sparSakAlaH
+097317:0: vcp: pratipada AdyoBAgomokzakAlaH taduktaM brahmasidDAnte “yA-
+097318:0: vcp: vatkAlaH parvaRo'nte tAvAnpratipadAdimaH . ravIndugraha-
+097319:0: vcp: RAnehAH sa puRyomiSraRAdBavediti” grahaRAnehAH rAhu-
+097320:0: vcp: grahaRakAlaH tatra karttavyamAha vfdDavasizWaH “gaNgAtoye ca
+097321:0: vcp: saMprApte indroHkowI raverdaSa . gavANkowipradAnena samyagda-
+097322:0: vcp: ttena yat Palam . gaNgAsnAne tat PalaM syAdrAhugraste ni-
+097323:0: vcp: SAkare . divAkare punastatra daSasaMKyamudAhftamiti” asya
+097324:0: vcp: Slokadvayasya praTamArdDamapekzitapadADyAhAreRa yojanIyaM
+097325:1: vcp: indrIrgrahaRe saMprApte sati gaNgAtoye avagAhanaM goko-
+097326:1: vcp: didAnasamaM Bavati ravergrahaRe tato daSaguRaM Palam ayame-
+097327:0: vcp: vArTa uparitanenArdDatrayeRa spazwIkftaH . vyAso'pi “indo-
+097328:0: vcp: rlakzaguRaM puRyaM raverdaSaguRaM tataH . gaNgAtoye tu saMprApte
+097329:1: vcp: indoH kowIraverdaSa . gavANkowisahasrasya yat PalaM laBa-
+097330:0: vcp: te naraH . tat PalaM jAhnavIsnAne rAhugraste niSAkare .
+097331:0: vcp: divAkare tu snAnasya daSasaMKyamudAhftam candrasUryagrahe cEva
+097332:0: vcp: yo'vagAheta jAhnavIm . sa snAtaH sarvatIrTezu kimarTamawate ma-
+097333:0: vcp: hImiti” gaNgAvyatiriktamahAnadItoye lakzaguRadaSalakzaguRa-
+097334:0: vcp: tvaM gaNgAtoye tu kowiguRadaSakowiguRatvam . brahmapurARe'pi
+097335:1: vcp: “tisronadyo mahApuRyA veRA godA ca jAhnavI . gAM harI-
+097336:0: vcp: SANGrikAt prAptA gaNgA iti hi kIrttitAH”
+097337:0: vcp: hareH pAdAdISvarasya SirasaSca gAmBUmiM prAptA gaNgA . ya-
+097338:0: vcp: dyapi jAhnavyeva tAdfSI na tu veRAgode taTApi CatriRo
+097339:0: vcp: gacCantIti nyAyena jAhnavyA saha nirdizwayostayorapi
+097340:0: vcp: gaNgAtvamavirudDaM yadvA jAhnavIjalameva kenacinnimittena
+097341:0: vcp: brahmagirivAyugiryorudBUtamiti kftvA tayorapi muKyameva
+097342:0: vcp: gaNgAtvantAsu gaNgAsu snAnaM muKyaM tadasamBave nadyantarezu
+097343:1: vcp: snAyAt taduktaM mahABArate “gaNgAsnAnaM tu kurvIta grahaRe
+097344:0: vcp: candrasUryayoH mahAnadIzu cAnyAsu snAnaM kuryAdyaTAvi-
+097345:0: vcp: DIti” mAhAnadyo brahmapurARe darSitAH “godAvarI BIma-
+097346:2: vcp: raTI tuNgaBadrA ca veRikA . tApI payozRI vinDyasya dakziRe
+097347:1: vcp: tu prakIrttitAH . BAgIraTI narmadA ca yamunA ca sarasvato .
+097348:0: vcp: viSokA ca vitastA ca vinDyasyottaratastaTeti” mahAnadyasa- [Page1316-b+ 38]
+097349:1: vcp: mBave jalAntarARyAha SaNKaH “vApIkUpataqAgezu giripra-
+097350:0: vcp: stavaRe'pi ca . nadyAnnade devaKAte sarasIzUdDftAmbuni .
+097351:0: vcp: uzRodakena vA snAyAt grahaRe candrasUryayoriti” etat
+097352:1: vcp: sarvamaBipretyAha vyAsaH “sarvaM gaNgAsamantoya sarvo brahma-
+097353:0: vcp: samo dvijaH . sarvaM BUmisamaM dAnaM grahaRe candrasUryayoriti”
+097354:0: vcp: uzRodakasyAturavizayatvamAha vyAGraH “AdityakiraREH pUtaM
+097355:0: vcp: punaH pUtaM ca vahninA . atovyADyAturaH snAyAdgrahaRe'-
+097356:1: vcp: pyuzRavAriReti” gaNgAtoyamAraByozRodakAntrezUttarottarasyA-
+097357:1: vcp: nukalpatvamuktam . etadevABipretyozRAdakAdizu samudrajalAnte
+097358:1: vcp: zUttarottarasya prASastyamAha mArkaRqeyaH “SotamuzRodakA-
+097359:0: vcp: tpuRyamapArakyaM parodakAt . BUmizWamudDftAtpuRyaM tataH
+097360:0: vcp: prasravaRodakam . tato'pi sArasaM puRyaM tataH puRyaM nadI-
+097361:0: vcp: jalam . tIrTatoyaM tataH puRyaMmahAnadyambupAvanam . tatasta-
+097362:0: vcp: to'pi gaNgAmbu puRyaM puRyastato'mbu Diriti” mAsaviSeze-
+097363:0: vcp: Ra grahaRe nadIviSezo devIpurARe'BihitaH “kArttike gra-
+097364:0: vcp: haRaM SrezWaM gaNgAyamunasaNgame . mArge tu grahaRaM proktaM
+097365:0: vcp: devikAyAM mahAmune . pOze tu narmadA puRyA mAGe sanni-
+097366:0: vcp: hitA SuBA . PAlgune varaRA puRyA cEtre puRyA sarasvatI .
+097367:0: vcp: vESAKe tu mahApuRyA candraBAgA saridvarA . jyEzwe tu kO-
+097368:0: vcp: SikI puRyA AzAQe tApikA nadI . SrAvaRe sinDunAmA
+097369:1: vcp: tu taTA BAdre tu candrikA . AScine sarayUH SrezWA taTA
+097370:0: vcp: puRyA tu narmadeti” grahaRaviSeze nadIviSezastatrEvABihitaH .
+097371:1: vcp: “godAvarI mahApuRyA candrerAhusamannite . sUrye ca rAhu-
+097372:1: vcp: RA graste tamomUte mahAmune! . narmadAtoyasaM sparSe kftakftyA
+097373:0: vcp: Bavanti hIti” snAnavat smaraRAdizvapi puRyamAha “smftvA-
+097374:1: vcp: SatakratuPalaM dfzwvA sarvAGanASanam . spazwvA gomeDapuRyaM tu pItvA
+097375:1: vcp: sOtrABaRerlaBet . snAtvA vAjimaKe puRyaM prAptuyAdavicArataH
+097376:0: vcp: ravicandroparAge ca ayane cottare taTeti” . kzetraviSeza
+097377:0: vcp: mAha . “gaNgA kanasvalaM puRyaM prayAgaH puzkaraM taTA .
+097378:0: vcp: kurukzetraM mahApuRyaM rAhugraste divAkare” iti grahaRe
+097379:1: vcp: SrAdDaM vihitaM liNgapurARe “vyatIpAtakzaRo yAvAMScandra-
+097380:0: vcp: sUryagrahakzaRaH . gajacCAyA tu sA proktA pitFRAM
+097381:0: vcp: dattamakzayam” iti mahABArate'pi “sarvasvenApi karttavyaM
+097382:0: vcp: SrAdDaM vE rAhudarSane . akurvARastu nAstikyAtpaNke
+097383:0: vcp: gOriva sIdatIti” . fzyaSfNgo'pi “candrasUryyagrahe
+097384:0: vcp: yastu SrAdDaM viDivadAcaret . tenEva sakalA pfTvI
+097385:0: vcp: dattA viprasya vE kare” iti . vizRurapi “rAhudarSanadattaM
+097386:0: vcp: hi SrAdDamAcandratArakam . guRavat sarvakAmIyaM pitaRA [Page1317-a+ 38]
+097387:0: vcp: mupatizWate” iti grahaRe rAtrAvapi snAnAderna nizeDaH .
+097388:0: vcp: taTA ca SAtAtapaH “snAnaM dAnaM tapaH SrAdDamanantaM
+097389:0: vcp: rAhudarSane . AsurI rAtriranyatra tasmAttAM parivarjjaye-
+097390:0: vcp: diti” devalaH “yaTA snAnaM ca dAnaM ca sUryyasya grahaRe
+097391:0: vcp: divA . somasyApi taTA rAtrO snAnaM dAnaM viDI-
+097392:0: vcp: yate” SrAdDaM prakftya kUrmmapurARe “nEmittikaM tu karttavyaM
+097393:0: vcp: grahaRe candrasUryyayoH . bAnDavAnAM tu maraRe nArakI syAda-
+097394:0: vcp: to'nyaTA . kAmyAni cEva SrAdDAni Sasyante grahaRA-
+097395:0: vcp: zviti” vAraviSeze yogaPalAtiSayamAha vyAsaH “ravi-
+097396:0: vcp: grahaH sUryyavAre some somagrahastaTA . cUqAmaRiriti
+097397:0: vcp: KyAtastatra dattamanantakam . vArezvanyezu yat puRyaM grahaRe
+097398:0: vcp: candrasUryyayoH . tatpuRyaM kowiguRitaM grAse cUqAmaRO
+097399:0: vcp: smftamiti” atiTiprAptyAdivadgrahaRasyApi SvAdvakAlatva-
+097400:1: vcp: mAha mArkkaRqeyaH “viSizwe brAhmaRe prApte mUryyendugra-
+097401:0: vcp: haRe dine . janmarkzagrahapIqAsu SrAdDaM kuryyAt taTecCa-
+097402:0: vcp: yeti” . atra ca SrAdDaM nAnnena kintu hemAdinA tadAha
+097403:0: vcp: bODAyanaH “annABAve dvijABAve pravAse putrajanmani .
+097404:0: vcp: hemaSrAdDaM saMgrahe ca kuryyAcCUdraH sadEvahIti” SAtA-
+097405:0: vcp: tapo'pi “ApadyanagnO tIrTe ca candrasUryyagrahe taTA . A-
+097406:0: vcp: maSrAdDaM prakurvvIta hemaSrAdDamaTA pi veti” aSOci-
+097407:0: vcp: no'pi grahaRe snAnAdi na nizidDaM taTA ca vfdDavasizWaH
+097408:0: vcp: “sUtake mftake cEva na dozo rAhudarSane . tAvadeva
+097409:1: vcp: BavecCudDiryAvanmuktirna dfSyate” iti iyaYca SudDiH
+097410:0: vcp: sarvasmArttakarmavizayA aviSezokteH etadevABipretya vyAGrapA-
+097411:0: vcp: dAha “smArttakarmmaparityAgo rAhoranyatra sUtake . SrOte
+097412:0: vcp: karmmaRi tatkAlasnAtaH SudDimavApnuyAditi” yattu
+097413:0: vcp: grahaRanimittamASOcaM tatsnAnena nivarttyantaduktaM brahma-
+097414:0: vcp: purARe “ASOcaM jAyate nFRAM grahaRe candrasUryyayoH .
+097415:0: vcp: rAhusparSe tayoH snAtvA dAnAdO kalpate naraH” iti zaq-
+097416:0: vcp: triMSanmate'pi “sarvezAmeva varRAnAM sUtakaM rAhudarSane .
+097417:0: vcp: snAtvA karmmARi kuvIMta SftamannaM vivarjjayediti” grahaRasya
+097418:0: vcp: AdyantayoH snAnaM vihitaM smftyantare “grasyamAne
+097419:2: vcp: Bavet snAnaM graste homo viDIyate . mucyamAne Baved-
+097420:3: vcp: drAbaM mukte snAnaM viDIyate” homadAnavaddevArcanamapi
+097421:0: vcp: snAnadvayamaDye kAryyaM taduktaM brahmavEvartte “smAnaM syAdu-
+097422:1: vcp: parAgAdO maDye homaH sarArcanamiti” tatkAle svA-
+097423:0: vcp: pAdikaM na kuryyAt taduktaM Sivarahasye “sUryyendugrahaRaM
+097424:0: vcp: yAvat tAvat kuryyAjjapAdikam . na svapenna ca BuYjIta- [Page1317-b+ 38]
+097425:0: vcp: snAtvA BuYjIta muktayoriti” mokzAnantaraBAvi yat snAnaM
+097426:2: vcp: tasya SudDyarTatayA tat sacelaM viDeyaM tadAha vfdDvavasizWaH “sarvezA
+097427:1: vcp: meva varRRAnAM sUtakaM rAhudarSane . sacelaM tu Bavet snAnaM
+097428:1: vcp: sUtakAnnaYca varjjarediti” grahaRakAle tataH pUrvaM vA
+097429:0: vcp: yAvat pakkaM tatsUtakAnnaM tattu paScAdapi na BuYjIta” .
+097430:6: vcp: atra viSezo'BakzyaSabde 280 pf0 uktastatrAvaseyaH
+097431:0: vcp: “AdimaDyAvasAnezu yadyadvihitaM tasya PalAtiSaya ukto
+097432:1: vcp: brahmapurARe “upamardde lakzaguRaM grahaRe candrasUryyayoH .
+097433:0: vcp: puRyaM kowiguRaM maDye muktikAle tvanantakamiti” atra
+097434:0: vcp: grahaRe yaddAnaM tat satpAtre karttavyaM taduktaM mahA-
+097435:0: vcp: BArate . “ayane vizuve cEva grahaRe candrasUryyayoH . pAtra-
+097436:0: vcp: BUtAya viprAya BUmiM dadyAt sadakziRAmiti” pAtra-
+097437:0: vcp: lakzaRamAha yAjYavalkyaH . “na vidyayA kevalayA tapasA
+097438:2: vcp: vApi pAtratA . yatra vfttamime coBe tadDi pAtraM prakIrttita-
+097439:4: vcp: miti” pAtre muKyAnukalpAvAha vOvAyanaH “Srotriyo-
+097440:0: vcp: 'Srotriyo vApi pAtraM vA'pAtrameva vA . viprabruvo'pi
+097441:0: vcp: vA vipro grahaRe dAnamarhatIti” . ahni sUryyagrahaRaM
+097442:0: vcp: niSi candragrahaRamiti hi prasidDiH sarvajanInA, tAdfSe
+097443:0: vcp: grahaRe yadvaktavyaM taduktaM yattu kAlaviparyyAsena jYApya
+097444:0: vcp: mAnaM jyotiHSAstramAtraprasidDaM grahaRaM tatra snAnAdikaM na
+097445:0: vcp: karttavyaM taduktaM nigame “sUryyagraho yadA rAtrO divA
+097446:0: vcp: candragrahastaTA . tatra snAnaM na kurvIta dadyAddAnaM na ca
+097447:1: vcp: kvaciditi” grastAstamaye jAvAlirAha “saMkrAntO
+097448:0: vcp: puRyakAlastu zoqaSoBayataH kalAH . candrasUryyoparAge tu
+097449:2: vcp: tu yAvaddarSanagocara” iti grastasyAstamanaparyyantaM darSana-
+097450:0: vcp: gocaratvAt tAvat puRyakAlo Bavati grahaRe BojanavyavasTA-
+097451:0: vcp: mAha manuH . candrasUryyagrahe nAdyAdadyAt snAtvA vimuktayoH .
+097452:0: vcp: amuktayorastagayordfzwvA snAtvA pare'hanIti” grahe grahaRakAle
+097453:0: vcp: sparSamAraBya mokzaparyantograhaRakAlaH tasmin kAle na BuYjI-
+097454:2: vcp: ta kintu rAhuRA candrasUryayormuktayoH satoH paScAt snAtvA
+097455:1: vcp: BuYjIta yadA tu grasrAstamayastadA paredyustO vimuktO dfzwvA
+097456:0: vcp: snAtvA BuYjIta . na kevalaM grahaRakAla eva BojanABAvaH kintu
+097457:1: vcp: grahaRAtprAgapi tadAha vyAsaH “nAdyAt sUryyagrahAt pUrba
+097458:1: vcp: mahni sAyaM SaSigrahAt . grahakAle ca nASrIyAt srAtvASnI-
+097459:0: vcp: yAdvimuktayoH . mukte SaSini BuYjIta yadi na syAnmahAniSA .
+097460:1: vcp: amuktayorastagayoradyAt dfzwvA pare'hanIti” . pUrbakAle Boja-
+097461:7: vcp: nanizeDe viSezaH aBakzyaSabde 280 pf0 uktastatrAvaseyaH .
+097462:0: vcp: “samarTasya Bojane prAyaScittamuktaM kAtyAyanena “candrasUryya- [Page1318-a+ 38]
+097463:3: vcp: he BuktvA prAjApatyena SuDyati” . grastAstasamaye viSezamAha BfguH
+097464:1: vcp: “grastAvevAstamAnaM tu ravIndU prApnutoyadi . paredyurudaye dfzwvA
+097465:0: vcp: snAtvAByavaharennaraH” iti vfdDagArgyo'pi “sanDyAkAle yadA
+097466:1: vcp: rAhurgrasate SaSiBAskarO . tadaharnEva BuYjIta rAtrAvapi
+097467:1: vcp: kadAcaneti” . vizRuDarmottare'pi “ahIrAtraM na BoktavyaM
+097468:1: vcp: candra sUryyagraho yadA . muktiM dfzwvA tu BoktavyaM snAnaM kftvA
+097469:0: vcp: tataH paramiti” nanu meGAdyantarDAne cAkzuzadarSanaMna samBavatIti
+097470:0: vcp: na darSanaSabdena SAstrIyajYAnasya vivakzitatvAt tadAha vfdDa
+097471:1: vcp: gOtamaH “candrasUryyagrahe nAdyAttasminnahani pUrbataH . tayorvi-
+097472:0: vcp: muktiM vijYAya snAtvA kurvIta Bojanamiti” evaM tarhi pare
+097473:1: vcp: dyurudayAt prAgapi SAstrIyavijYAnasamBavAttadEva mojanaM
+097474:0: vcp: prasajyeteti cenna “paredyurudaye dfzwvA snAtvAByavaharennaraH “aho
+097475:1: vcp: rAtra na Boktavyamiti” vacanadvayena tadaprasakteH yattu “skanda-
+097476:0: vcp: purARe” yadA candragrahastAta niSITAtparato Bavet . BoktavyaM
+097477:2: vcp: tatra pUrvAhRe nAparAhRe kaTaYcana . pUrbaMniSITAdgrahaRaM yadA
+097478:2: vcp: candrasya vE Bavet . tadA niSi na karttavyaM BojanaM SisvivAha-
+097479:0: vcp: neti” tadidaM yAmatrayABiprAyaM “candragrahe tu yAmAMstrIniti”
+097480:0: vcp: viSezasya vfdDagOtamenABiDAnAt . pApakzayakAmograhaRa
+097481:1: vcp: dine upavaset tadAha dakzaH “ayane vizuve cEva grahaRe candra-
+097482:2: vcp: sUryyayoH . ahorAtrozitaH snAtvA sarvaMpApEH pramucyata” iti
+097483:0: vcp: putrI tu nopavaset tadAha nAradaH “saMkrAntyAmupavAsaYca kf-
+097484:0: vcp: zREkAdaSikAdine . candrasUryyagrahe cEva na kuryyAt putravAn
+097485:0: vcp: gfhIti” grastAstamaye tu putriRo'pyupavAsaeva “ahorAtraM
+097486:1: vcp: na Boktavyamiti, BojanapratizeDAt” . kAlamA0 .
 097487:0: vcp: <P>grahaRaSrAdDe viSezaH ni0 si0 “sEhikeyo yadA sUryaM
-097488:0: vcp: <>grasate parvasanDizu . gajacCAyA tu sA proktA tasyAM SrAdDaM
-097489:1: vcp: <>prakalpayet . Gftena BojayedviprAn GftaM BumO samutsfjet”
-097490:1: vcp: <>iti vAyupu0 vijYAneSvaropyAha “grahaRaSrAdDe BokturdozI
-097491:0: vcp: <>dAtustvaByudaya iti . “sUtake mftake BuNkte gfhIte SaSi-
-097492:0: vcp: <>BAskare . cCAyAyAM hastinaScEva na BUyaH puruzo Bavet
-097493:0: vcp: <>ityApastambena BojananizeDAt ayaM ca nizeDaH SrAdDa-
-097494:0: vcp: <>BoktuH . atra grahaRanimittakaSrAdDenEvAmAsaMkrAntyA-
-097495:1: vcp: <>dinimittakAnAM sidDiH” . prAguktabacanEraSOcAByantare'pi
-097496:2: vcp: <>smArttAdikarmmaviDAnAt “snAnamAtraM prakurvIta dAnaSrA-
-097497:2: vcp: <>dDavivarjitamiti” nirmUlaM vadanto gOqAH parAstAH
-097498:2: vcp: <>ni0 si0 . aSOcinAM grahaRakAle SudDiraviSezAnmantradI-
-097499:0: vcp: <>kzApuraScaraRAdisarvasmArttakarmavizayA madanaratne'pyevam . raja-
-097500:0: vcp: <>svalAyAstu BArgavArcanadIpikAyAm BedaH . “na sUtakAdi [Page1318-b+ 38]
+097488:0: vcp: grasate parvasanDizu . gajacCAyA tu sA proktA tasyAM SrAdDaM
+097489:1: vcp: prakalpayet . Gftena BojayedviprAn GftaM BumO samutsfjet”
+097490:1: vcp: iti vAyupu0 vijYAneSvaropyAha “grahaRaSrAdDe BokturdozI
+097491:0: vcp: dAtustvaByudaya iti . “sUtake mftake BuNkte gfhIte SaSi-
+097492:0: vcp: BAskare . cCAyAyAM hastinaScEva na BUyaH puruzo Bavet
+097493:0: vcp: ityApastambena BojananizeDAt ayaM ca nizeDaH SrAdDa-
+097494:0: vcp: BoktuH . atra grahaRanimittakaSrAdDenEvAmAsaMkrAntyA-
+097495:1: vcp: dinimittakAnAM sidDiH” . prAguktabacanEraSOcAByantare'pi
+097496:2: vcp: smArttAdikarmmaviDAnAt “snAnamAtraM prakurvIta dAnaSrA-
+097497:2: vcp: dDavivarjitamiti” nirmUlaM vadanto gOqAH parAstAH
+097498:2: vcp: ni0 si0 . aSOcinAM grahaRakAle SudDiraviSezAnmantradI-
+097499:0: vcp: kzApuraScaraRAdisarvasmArttakarmavizayA madanaratne'pyevam . raja-
+097500:0: vcp: svalAyAstu BArgavArcanadIpikAyAm BedaH . “na sUtakAdi [Page1318-b+ 38]
