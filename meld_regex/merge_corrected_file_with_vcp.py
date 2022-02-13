@@ -13,6 +13,7 @@ def strip_correction(corrin):
     result = [lin.replace('{@', '') for lin in result]
     result = [lin.replace('@}', '') for lin in result]
     result = [lin.replace('<HI>', '') for lin in result]
+    result = [lin.replace('<>', '') for lin in result]
     result = [re.sub(r' \[Page.*\]$', '', lin) for lin in result]
     return result
 
