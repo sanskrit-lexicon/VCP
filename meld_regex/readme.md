@@ -22,4 +22,6 @@ DO NOT redo this. Otherwise, it may overwrite on the files in vcp2_split folder.
 4. `cat vcp2_split/vcp_* > vcp3.txt`
 5. Compare the `vac3.txt` and `vac-vcp-cmp2/vac2.txt` file. If found suitable, copy `vac3.txt` over `vac-vcp-cmp2/vac2.txt` file.
 6. Compare the `vcp3.txt` and `vac-vcp-cmp2/vcp2.txt` file. If found suitable, copy `vcp3.txt` over `vac-vcp-cmp2/vcp2.txt` file.
+7. `python3 merge_corrected_file_with_vcp.py ../../../cologne/csl-orig/v02/vcp/vcp.txt ../vac-vcp-cmp2/vcp2.txt vcp_corrected_file.txt`
+8. Check whether the `vcp_corrected_file.txt` and `../../../cologne/csl-orig/v02/vcp/vcp.txt` are comparable, to rule out any idiosyncracy. If found OK, copy corrected file over vcp.txt in csl-orig repository.
 
