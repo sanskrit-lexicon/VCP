@@ -1,0 +1,500 @@
+406001:0:  te:  %svAnta% na0 <vkr>svana-kta.</vkr> (1)manasi amaraH. (2)gahvare medi0. (3)Sa
+406002:0:  te: bdite tri0.</3><page>vp6_0994.pdf</page><column>1</column><br/>
+406003:1:  te:  %svApa% puM0 <vkr>svapa-GaY.</vkr> (1)nidrAyAm amaraH.</1> (2)Sayane (3)ajYAne (4)sparSAjYatAyAM ca medi0.</4><page>vp6_0994.pdf</page><column>1</column><br/>
+406004:0:  te:  %svApateya% na0 <vg>svapaterAgataH</vg> <vkr>QaY.</vkr> (1)Dane amaraH. </1><page>vp6_0994.pdf</page><column>1</column><br/>
+406005:0:  te:  %svABAvika% tri0 <vg>svaBAvAdAgataH</vg> <vkr>WaY.</vkr> (1)svaBAvasidDe <vkr>striyAM
+406006:0:  te: NIp</vkr></1> <vn>(svABAvikI svacCatetyudBawaH).</vn><page>vp6_0994.pdf</page><column>1</column><br/>
+406007:3:  te:  %svAmim% puM0 <vkr>sva+astyarTe mini dIrGaH.</vkr> (1)Barttari patyO
+406008:0:  te: DaraRiH. (2)kArttikeye medi0. (3)rAjani amaraH. (4)viBO
+406009:0:  te: hare (6)harO ca Sabdara0. (7)vAtsyAyanamunO trikA
+406010:2:  te: aDipatO tri0 amaraH. (9)jEnaBede puM0 hemaca0. (10)parivrA
+406011:2:  te: jakopADiBede puM0.</10> <vn>tasyaBAvaH tva svAmitva svatvanarUpite
+406012:0:  te: krayAdyaDIne AtmavfttO padArTaBede svatvaSabde dfSyam.</vn><page>vp6_0994.pdf</page><column>1</column><br/>
+406013:2:  te:  %svAmipAlavivAda% puM0 <vg>svAmI ca pAlO ca tayorvivAdaH
+406014:0:  te: vivAdaBede</1> <vn>tatsvarUpAdikaM vIrami0 uktaM yaTA
+406015:0:  te: aTa svAmipAlavivAdAKyavyavahArapadam. tatra manu
+406016:0:  te: stadaBiDAnapratijYAM karoti.</reN> <reN><q>paSuzu svAminAM cEva
+406017:1:  te: pAlAnAYca vyatikrame. vivAdaM saMpravakzyAmi yaTAvadDarma
+406018:1:  te: tattvataH<q> iti.</reN> <reN>svAmipAlayoH pratidinakftyamAha nA
+406019:0:  te: radaH <q>upAnayedgA gopAya pratyahaM rajanIkzaye. cIrRAH
+406020:1:  te: pItASca tA gopaH sAyAhne pratyupAnayedu<q> iti.</reN> cIrRA
+406021:1:  te: stfRAdikaM BakzitavatIH. pItAH pItavatoH. svA
+406022:0:  te: minA prAtaryAvatyaH samarpitAstAvatyo gopAlena sAyaM
+406023:0:  te: pratyarpaRIyA ityarTaH. gograhaRaM paSumAtropalakzaRA
+406024:2:  te: rTam. taTA ca yAjYavalkyaH <reN><q>yaTArpitAn paSUn gopaH
+406025:0:  te: sAyaM pratyarpayet taTA<q> iti.</reN> <reN>gavAdiparipAlakasya Bfti
+406026:1:  te: parimARamAha nAradaH <q>gavAM SatAdvatsatarI DenuH syAdu dvi
+406027:2:  te: SatAdu BftiH. pratisaMvatsaraM gope sandohaScAzwame'hani
+406028:0:  te: iti.</reN> pratisaMvatsaraM saMvatsare saMvatsare goSatapari
+406029:2:  te: pAlane vatsatarI dvihAyanI gOrBftiH. dviSatapArapAlane
+406030:4:  te: TenurdogDrI savatseti yAvat. azwame divase sandohA
+406031:1:  te: sarvAsAM gavAndohaSca Bftitvena kalpanIya ityarTaH. <reN>bfha
+406032:0:  te: spatirapi <q>taTA DenuBftaH kzIraM laBetApyazwame'hani
+406033:1:  te: iti.</reN> DenuBftaH DenvABftaH dviSatapAlaka ityarTa. taTA
+406034:1:  te: ca sandoho DenvA samuccIyate na vatsatarTyeti madanaratne
+406035:0:  te: kalpatarO tu DenuBfto gopAla iti vyAKyAtantena vatsa
+406036:1:  te: taryApi samuccIyata iti gamyate. gograhaRaM mahiSyA
+406037:1:  te: dInAmupalakzaRam. nyUnADikaparipAlane tu tadanusA
+406038:0:  te: reRa BftikalpanA dravyavyA. iyaYca vatsataryAdiBfti
+406039:1:  te: kalpanA pariBAzitaBftyaBAvavizayA. pariBAzite tu pari
+406040:0:  te: BAzAnatikrameREva deyA. manustu prakArAntareRa <reN>Bfti
+406041:0:  te: parimARamAha <q>gopaH kzIraBfto yastu sa duhyAddaSato
+406042:1:  te: varAm. gosvAmyanumato BftyaH sA syAt pAle'Bfte
+406043:0:  te: BftiH<q> iti.</reN> daSAnAndogDrIRAM maDye varAsutkfzwAM
+406044:2:  te: svIkftyatakzIraBfto Bftyo gopaH daSadogaDrIpAlanakfd
+406045:3:  te: u gfhRIyAdu mftyarTam. sEzA BftiH pUrvaM dravyAntareRABfte
+406046:0:  te: jYeyA. yastu dravyAntareRa BftaH tatra tadeva BftirityarTaH
+406047:2:  te: vastu BftiM gfhItvA paSUSmArayet vinASayati vA taM
+406048:0:  te: pratyAha <reN>yAjYavalkyaH <q>pramAdamftanazwAMSca pradApyaH kfta
+406049:1:  te: vetanaH<q> iti.</reN> <reN>pramAdagrahaRaM paSupAlakadozopalakzaRA
+406050:2:  te: rTam manunA pramAdanASaH spfzwIkftaH <q>nazwaM vinazwaM
+406051:3:  te: kfmiBiH Svahata vizame sftam. hAnaM puruzakAreRa prada
+406052:0:  te: dyAt pAla eva tu<q> iti.</reN> Svahatam SunA hatam
+406053:1:  te: vizame dugamapradeSe. puruzakAraH puruzaprayatnaH. yat puruza
+406054:0:  te: prayatnena hInaM sannASAdikaM prAptaM taddAtavyamityarTaH
+406055:3:  te: puruzAkaraSca bfhaspatinA darSitaH <q>kfmicoravyAGraBayA
+406056:1:  te: ddaroSvaBrAcca pAlayet. vyAyacCecCaktitaH kroSe svAmine
+406057:1:  te: vA nivedayet<q> iti.</reN> vyAyacCet vyasanABAvAya yatete
+406058:1:  te: tyarTaH. cOrErbalAtkAreRApahfte na dApya ityAha <reN>manuH
+406059:0:  te: viGuvya tu hftaYcOrErna pAlodAtumarhati. yadi
+406060:1:  te: deSe ca kAle ca svAminaH svasya SaMsati<q> iti.</reN> viDuzya
+406061:5:  te: SfNkAdiBirGorza kftvA. deSe svAmyavasTAnadeSe. kAle
+406062:0:  te: apaharaRakAlAvyavahitakAle. vizayaviSeze paSupAlasya
+406063:1:  te: daRqamAha <reN>vyAsaH <q>gfhItamUlyo gopAlastAMstyaktA ni
+406064:1:  te: rjane vane. grAmacArI nfpErbADyaH SalAkI ca vanecaraH
+406065:1:  te: iti. SalAkI nApita iti kalpatarO. puruzeRa
+406066:4:  te: prayatnakAraRe daRqamAha <reN>nAradaH <q>syAccehovyasanaM gopo
+406067:3:  te: vyacAyacCet tatra SaktitaH. aSaktastUrRamAgamya svamine
+406068:0:  te: ca nivedayet<q>.</reN> <reN>avyAyacCannavikroSan svAmine cA
+406069:0:  te: ninedayan. voQumarhati gopastaM vinayaYcEva rAjani
+406070:0:  te: iti.</reN> taNgavAdikam. paSUnAM dEvAn maraRe pAlakasya
+406071:1:  te: dozABAvajYAnopAyamAha <reN>vyAsaH <q>mftezu ca viSudDaH
+406072:1:  te: syAdu bAlaSfNgAdidarSanAt<q>.</reN> AdiSabdena karRA
+406073:1:  te: dOnAM grahaRam. taTA ca <reN>manuH <q>karRO carma ca bAlAMSca
+406074:1:  te: vastiM snAyuYca rocanAm. paSuzu svAminAM dadyAnmfte
+406075:0:  te: zvaNgAni darSayet<q> iti.</reN> aNkAdi darSayediti kvacit
+406076:0:  te: pAWaH. aNkaH SfNgakarRAdirUpaYcihnam. AdiSabdaH sA
+406077:1:  te: kzisaNgrahArTaH. paSuzu mftezvaNkAdikaM svAmine darSayet
+406078:0:  te: rocanAdikaM yatprayojanaM tat tasmE dadyAccetyarTaH. nazwa
+406079:0:  te: gavAdidAnaYca tatsvAmine mUlyadvAreRa jYAtavyam. ata
+406080:1:  te: eva <reN>vizRuH <q>divA paSUnAM vfkAdyupaDAte pAle'tva
+406081:0:  te: nAyati pAlakadozo vinazwapaSUnAM mUlyaM svAmine da
+406082:0:  te: dyAditi<q>.</reN> anAyati anAgacCati. vinayadravyapra
+406083:1:  te: mARamAha <reN>yAjYavalkyaH <q>pAladozavinASe tu pAle
+406084:1:  te: daRqo viDIyate. ardDatrayodapaRaH svAmino dravyameva ca
+406085:0:  te: iti.</reN> ardDatrayodaSapaRaH ardDarahitatrayodaSapaRaH
+406086:0:  te: sArdDadvAdaSapaRa iti yAvat. uttarapadalopI karmaDArayaH
+406087:0:  te: yat tu kenacidardDADikatrayodaSapaRo daRqa iti vyA
+406088:0:  te: KyAtaM tat sArdDadvimAtrAdizu ardDatrimAtrAdi mahA
+406089:1:  te: BAzyAkAraSabdaprayogadarSanAdupekzyam. <reN>pAladozamAha manuH
+406090:1:  te: ajAvike tu sarudDe vfkEH pAle tvanAyati. yAM
+406091:0:  te: prasahya vfko hanyAt pAle tat kilvizaM Bavet
+406092:1:  te: iti.</reN> anAyati upadravanivAraRAya anAgacCa
+406093:1:  te: tItyarTaH. yAm ajAvikajAtIyAm. sugamasTalasya
+406094:0:  te: vizayametat. <reN>durgamasTalasTavizaye tvAha sa eva <q>tAsA
+406095:0:  te: YcedavarudDAnAM carantInAM miTovane. yAmutpluvya vfko
+406096:0:  te: hanyAnna pAlastatra kilvizI<q> iti.</reN> avarudDAnAM pAla
+406097:0:  te: kena sTApitAnAmityarTaH. <reN>gavAdipracAraRArTaM BUmimAha
+406098:0:  te: yAjYavalkyaH <q>grAmyecCayA gopracAro BUmIrAjavaSena vA
+406099:0:  te: grAmyecCayA grAmIRajanavaSena rAjecCayA vA. gopra
+406100:0:  te: cAro gavAM tfRAdiBakzaRArTaM kiyAnapi BUBAgo'kfzwaH
+406101:1:  te: parikalpanIya ityarTaH. <reN>gavAM sTAnAsanasOkaryAya grAma
+406102:3:  te: kzetrayorantarampraha sa eva <q>DanuH SataparIRAho grAma
+406103:2:  te: RetrAntaraM Bavet. dviSate svarvawasya syAnnagarasya catuH
+406104:0:  te: Satam<q> iti</reN> parIRAhaSabdenAtra sarvAsu dikzu anupta
+406105:3:  te: SasyasTalagfhAte. etAdfSaM DanuH SataM parimitaM grAma
+406106:4:  te: kzetrayorantaraM kAryam. Kavewasya Satadvayaparimitami
+406107:0:  te: tyarTaH. KarvawaH anekakArukfzIvalayukto grAma iti
+406108:3:  te: madanaratne. mADavAcAryEstu pracurakaRqakamantano grAma
+406109:1:  te: iti vyAKyAtam. tatra SasyotpatteH prAgevAvaraRaM kArya
+406110:1:  te: mityAha <reN>kAtyAyanaH <q>ajAtezveva Sasyezu kuryAdAvaraRaM
+406111:1:  te: mahat. duHKena vinivAryante labDasvAdarasA mfgAH<q> iti
+406112:0:  te: evaM paSunivAraRArTaM kfte'pyAvaraRe tamatikramya paSuBiH
+406113:1:  te: SasyAdivinASe kfte karttavyamAha <reN>manuH <q>paTikzane pari
+406114:0:  te: vfte grAmAntIye'Ta vA punaH. sa pAlaH SatadaRqArho
+406115:0:  te: vipAlaM vArayet paSum<q> iti.</reN> paTikzetre mArgasamIpe
+406116:1:  te: kzetre. grAmAnnIye grAmasamIpavarttini. sapAlaH paSuH
+406117:0:  te: paRaSatadaRqArhaH tatpaSupAlaH paRaSataM daRqanIya i
+406118:0:  te: tyarTaH. ayaYca daRqaH paSupAlane samarTena satA paSAva
+406119:1:  te: nivAryamARe veditavyaH. ata eva <reN>nAradaH <q>utkramya tu
+406120:0:  te: vftiM yaH syAcCasyaGAto gavAdiBiH. pAlaH SAsyo
+406121:0:  te: Bavet tatra na cecCakto nivArayet<q> iti.</reN> AvaraRA
+406122:4:  te: BAvenAparihArye SasyopaGAte'pi nApalasya daRqaH
+406123:1:  te: taTA ca <reN>manuH <q>tatrAparivftaM DAnyaM vihisyuH paSavo
+406124:2:  te: yadi. na tatra praRayeddaRqaM nfpatiH paSurakziRAm<q> iti
+406125:0:  te: anenAvftakzetraSasyopaGate paSurakziRAM daRqa ityarTA
+406126:0:  te: duktaM Bavati. adIrGakAlapracAravizayametat. dIrGa
+406127:0:  te: kAlapracAre tu aparivfte'pi paSupAlo daRqArhoBavati
+406128:0:  te: ata evAlpakAlapracAre dozABAvaM darSayati <reN>vizRuH, <q>paTi
+406129:0:  te: grAmavivItAnte na dozo'lpakAlamiti<q>.</reN> paSuviSeze daRqa
+406130:0:  te: parimARamAha <reN>yAjYavalkyaH <q>mAzAnazwO tu mahizI
+406131:1:  te: SasyaGAtasya kAriRI. daRqanIyA tadardDaM tu gosta
+406132:1:  te: dardDamajAvikam. BakzayitvopavizwAnAM yaToktAdu dvi
+406133:0:  te: guRo damaH. samamezAM vivIte'pi KarozwraM mahizIsamam
+406134:1:  te: iti.</reN> paraSasyaGAtakAriRyA mahizyAH svAmI azwO
+406135:1:  te: mAzAn daRqyaH. goH svAmI caturaH. CAgasvAmI meza
+406136:0:  te: svAmI ca dvO. etezAM paSUnAM SasyaBakzaRAdAraBya tatrEva
+406137:1:  te: upavizwAnAM svAmI yaToktadaRqAdu dviguRaM grAhyaH. vivI
+406138:4:  te: tasTAtfRAdyupaGAte'pi SasyopaGAtavadDaRqanIyaH. Kara
+406139:1:  te: svAmyuzwrasvAmI ca mahizIsvAmivaddaRqanIyaH. atra paSu
+406140:0:  te: svAmino daRqa ityaBiDAtavye mahizyAdigrahaRaM prati
+406141:1:  te: paSudaRqaprAptyarTam. BakzayitvopavizwavatsAvizaye yaTo
+406142:0:  te: ktAccaturguRo daRqaH. taTA ca <reN>smftyantaram <q>vasatAM
+406143:0:  te: dviguRaH proktaH savatsAnAM caturguRaH<q> iti.</reN> atrAparA
+406144:0:  te: DAnusAreRa daRqanArTaM tAmrikamAzo grAhyaH na punaH
+406145:0:  te: sOvarRo rAjato veti smfticandrikAyAm. tAmrika
+406146:1:  te: mAzaSca karzapariBAzitasya zoqaSo BAgo Bavati. ayameva
+406147:2:  te: paRasyaM paYca vApi prakIrttitAH iti yAjYavalkyoktapaYcasuva
+406148:1:  te: rRaparimitatvapakze paRacaturTA'Sasya viMSatimAzAtmakakArzA
+406149:0:  te: paRasya <q>mAzo viMSatimoBAgaH paRasya parikIrttitaH<q> iti
+406150:0:  te: nAradokto viMSo BAgo'pi Bavati.</reN> <reN>etena smfticandri
+406151:0:  te: kAyAm aparADAnusAreRa daRqanArTaM mAzo <q>viMSatimo
+406152:0:  te: BAgaH paRasya parikIrttita<q></reN> iti nAradokto mAzaH kEScit
+406153:0:  te: svIkfta ityekIyamatatvenopanyasya <reN><q>saNKyA raSmirajomUlA
+406154:0:  te: manunAsamudAhftA. kArzApaRAntA sA divye niyojyA
+406155:1:  te: vinaye taTA<q> iti</reN> bfhaspativacanaviroDena dUzitaM taduBayaTA
+406156:0:  te: pyarTaBedABAvena viroDABAvAnnirastaM mantavyam. yat tu
+406157:2:  te: manunokta <q>sapAdaM paRamarhatIti<q> tat svAmino matipurvaM
+406158:1:  te: paSuvyatikramavizayam.</reN> yAjYavalkyavacanantvabudDipUrvaviza
+406159:1:  te: yamiti na tayorviroDaH. yat tu <reN><q>paRasya pAdO dvO
+406160:1:  te: gAntu dviguRaM mahizIM taTA. taTAjAvikavatasAnAM
+406161:1:  te: pAdo daRqaH prakIrttita<q> iti smftyantaraM taduBakzayitvo
+406162:1:  te: pavizwagavAdivizayam.</reN> <reN>yat punarmAradenABihitam <q>mA
+406163:5:  te: zaNgAM dAzayedu daRqe dvO mAzO mahizIM taTA. taTA
+406164:1:  te: jAvikavatsAnAM daRqaH syAdardDamAsikaH<q> iti.</reN> tanmu
+406165:2:  te: hnarttamAtraBakzaRavizayam ata evAhatuH SaNKaliKi
+406166:7:  te: tO. <reN><q>rAtrO carantI gOH paYcamAzAM divA trInmuhnarno mAzaM
+406167:0:  te: grAme tvadaRqamiti<q>.</reN> grAse tvadaRqa ityasyAyamarTaH
+406168:1:  te: mahivyAdiBiH paraSasyezu kabalamAtraBakzaRe kaTaYcit kfte
+406169:1:  te: pAlakasya svAmino vA svalpo'pi daRqo nAstIti. Atu
+406170:1:  te: rapaSuvizaye bahuSayanASe'pyevameva daRqABAvapratipAdana
+406171:1:  te: muKenAha nArada. <reN><q>rAjagrahagfhIto vA vajrASanihato
+406172:1:  te: 'pi vA. aTa sarpeRa dazwo vA vfkzAdu vA patito
+406173:0:  te: Bavet. vyAGrAdiBirhato vApi vyADiBirvApyupadrutaH
+406174:0:  te: na tatra dozaH pAlasya na ca dozo'sti gominAm<q> iti
+406175:0:  te: gominAM gosvAminAm. AturARAmanivAryatvAditya
+406176:1:  te: BiprAyaH. anAturARAmapi kezAYcita paSUnAM daRqA
+406177:0:  te: BAvamAha sa eva <reN><q>gOH prasUtA daSahAt tu mahokzA
+406178:0:  te: vAjikuYjarAH. na nivAryAH prayatnena tezAM svAmI na
+406179:1:  te: daRqaBAg<q> iti.</reN> daSadinaparyantaM prasUtAyA nirodDu
+406180:1:  te: maSakyatvAnna svAmI daRqyaBAk. mahokzasya sarvAsANga
+406181:0:  te: rBADAnArTaM sarvadA banDanAyogAt tatsvAmI na daRqaBAk
+406182:1:  te: vAjikuYjarARAM svAminA'daRqaBAgitve hetumAhoSanAH
+406183:0:  te: adaRqyA hastino hyaSvA prajApAlAhi te smftAH
+406184:0:  te: svAmigrahaRaM pAlakasyApyupalakzaRArTam.</reN> <reN>yadAha manuH
+406185:2:  te: anirdaSAhAM gAM sUtAM vfzAn devapaSUMstaTA. sapAlAn
+406186:0:  te: vA vipAlAn vA adaRqyAnmanuravravIt<q> iti.</reN> vfzAH
+406187:1:  te: mahokzAH. yadu vA vfzotsargaviDAnenotsfzwAH. deva
+406188:0:  te: paSavaH devAlayezu devopaBogArTaM sTApitAH paSavaH. <reN>yAjYa
+406189:0:  te: valkyo'pi <q>mahokzotsfzwapaSavaH sUtikAgantukAdayaH
+406190:1:  te: pAloyezAnna te mocyA devarAjapariplutAH<q>.</reN> anirdaSAhA
+406191:0:  te: AgantukaH sa yUTAtpari BrazwaH san deSAntarAt samA
+406192:0:  te: gataH. yezAM pAlo nAsti te'pi dEvarAjopahatAH
+406193:0:  te: SasyAdinASakAriRo na daRqyA ityarTaH. AdiSabdena
+406194:2:  te: mftavatmAdonAM grahaRam. ata <reN>evoSanAH <q>adaRqyA
+406195:0:  te: mftavatsA ca saMjYA rogavatI kfSA. adaRqyAH kARa
+406196:0:  te: kUwASca vfzASca kftalakzaRAH. adaRqyAgantukA gOSca
+406197:1:  te: sUtikA cAmisAriRI<q> iti.</reN> kUwaH ekaSfNgaH
+406198:2:  te: kftalakzaRaH prataptAyamena kftalASCanaH. aBisAriRI
+406199:1:  te: svayUTAt pracyutA punaH svayUTagAminI. paraSasyavinASe na
+406200:0:  te: kevalaM paSusvAmI daRqanIyaH sadamapi dApanIya ityAha
+406201:1:  te: bfhaspatiH <q>SasyAnnivArayedgAstu cIrRe dozo dvayorBavet
+406202:2:  te: svAmI sadadasaM dApyaH pAlastAqanaBarhati<q> iti.</reN> sadaSca
+406203:0:  te: damaSca sadadamam. samUlaSasyanASavizayametat. ata eva
+406204:0:  te: nAradaH <reN><q>samUlaSasyanASe tu tatsvAmI prApnuyAt sadam
+406205:1:  te: vaDena gO ryomucye tu daRqaM svAmini pAtayet<q> iti
+406206:0:  te: tatsvAmI SasyasvAmI sadaM prApnuyAt. paSusvAminaH
+406207:0:  te: sakASAditi SezaH. baDo'tra kaSAdinA tAqanam
+406208:0:  te: na prARacCedaH pAlastaqanamarhatIti vacanAt. sadaSca
+406209:2:  te: sAmantAdiBiH parikalpito deyaH. ata eva sa evAha
+406210:0:  te: goBistu BakzitaM SasyaM yo naraH pratiyAcate. sAmantA
+406211:0:  te: numataM deyaM DAnyaM yat tatra vApitam<q> iti.</reN> yat tu
+406212:1:  te: madayAcananizeDanam <q>goBirvinASitaM DAnyaM yo naraH
+406213:1:  te: pratiyAcate. pitarastasya nASranti na vApi tridivOkasaH
+406214:2:  te: ityuSanovacanantadu grAmAdisamIpasTAnAvftakzetravizaya
+406215:2:  te: miti mADayAcAryAH. SrAdDakAlAdO goBakzitavizaya
+406216:2:  te: miti BadanaratnakftaH. sarvAsANgavAmutsave SrAdDadivase
+406217:4:  te: cAdaRqyatvamahi sa eva <reN><q>adaRqyAScotsave mATaH SrAdDa
+406218:0:  te: kAle taTEva ca<q> iti.</reN> goBiH SrAdDakAlAdO Buktamati
+406219:1:  te: SreyaskaramityASayenAha. <reN>vyAsaH <q>Akramya ca dvija
+406220:1:  te: rBuktaM parikzIsRaYca bAnDavEH. gABiSca naraSArdUla
+406221:0:  te: vAjapeyAdviSizyate<q> iti</reN> etatpadamupasaMharati <reN>manuH
+406222:0:  te: etadviDAnamAtizWedDArmikaH pfTivIpatiH. svAminAYca
+406223:0:  te: paSUnAYca pAlAnAYca vyatikrame<q>.</reN></vn><page>vp6_0994.pdf</page><column>1</column><br/>
+406224:1:  te:  %svAyamBuva% puM0 <vg>svayaMBuvo'patyam</vg> <vkr>tasyedam vA aR oro
+406225:0:  te: diti vaktavye orguRa ityuktyA saMjYApUrvakaviDeranitya
+406226:0:  te: tvajYApanAnna guRaH uvaq.</vkr> (1)svayamBUputre manO (2)svayamBU
+406227:0:  te: sambanDini tri0 <reN><q>DAma svAyamBuvaM yayuH<q> kumAraH
+406228:2:  te: striyAM NIp.</vkr></2> sA ca (3)brAhmaRyAm.</3> <reN><q>BArgavI nAra
+406229:1:  te: doyA ca vArhastatyANgirasyapi. svAyamBuvasya SAstrasya
+406230:0:  te: catasraH saMhitA matAH<q> iti taduktaDarmaSAstrasaMhitA
+406231:0:  te: catuzwayam.</reN> <vn>tadutpattyAdikaM yaTA
+406232:0:  te: tataH kAlena mahatA tasyAH putro'Bavan manuH. svAya
+406233:0:  te: mBuva iti KyAtaH sa virAqiti naH Srutam. tadrUpaguRa
+406234:1:  te: sAmAnyAdaDipUruza ucyate. vErAjA yatra te jAtA
+406235:1:  te: bahavaH saMSitavratAH. svAyamBuvAn mahABAgAH sapta sapta
+406236:0:  te: taTApare. svArocizAdyA te sarve brahmatulyasvarUpiRaH
+406237:2:  te: OttamipramuKAstadDadu yezAntvaM saptamo'DunA<q> matsyapu
+406238:2:  te: M0 4a0.</reN> <reN><q>fzIMstezAM pravakzyAmi putrAn devagaRAMstaTA
+406239:0:  te: marIciratrirBagavAnaNgirAH pulahaH kratuH. pulastyaSca vaSi
+406240:0:  te: zWaSca saptEte brahmaRaH sutAH. uttarasyAM diSi taTA
+406241:0:  te: rAjan! saptarzayaH sTitAH. yAmA nAma taTA devAstvAsan
+406242:1:  te: svAyamBuve'ntare. AgnIDraScAgnibAhuSca meDA meDAtiTi
+406243:0:  te: rvasuH. jyotizmAn dyutimAn havyaH sa naH putra eva ca
+406244:2:  te: manoH svA mBuvasyEva daSa putrA mahOjasaH. etatte
+406245:1:  te: praTama rAjan! manvantaramudAhftam<q> harivaM07a0.</reN></vn><page>vp6_0997.pdf</page><column>1</column><br/>
+406246:0:  te:  %svArAj% puM0 <vg>sva svarge rAjate</vg> <vkr>rAja-kvip.</vkr> (1)indre amaraH.</1><page>vp6_0997.pdf</page><column>1</column><br/>
+406247:0:  te:  %svArAjya% na0 <vg>svarAjaH BAvaH</vg> <vkr>zyaY.</vkr> (1)brahmatve svArAjyasidDiH.</1><page>vp6_0997.pdf</page><column>1</column><br/>
+406248:2:  te:  %svArociza% puM0 (1)dvitIye manO.</1> <reN><q>Orvo vaSizwaputraSca stambaH
+406249:1:  te: kASyapa eva ca. prARo bfhaspatiScEva datto niScyavana
+406250:1:  te: staTA. ete maharzayastAt1 vAyuproktA mahAvratAH
+406251:0:  te: devASca tuzitA nAma smftAH svArocize'ntare. havirDraH
+406252:5:  te: sukftirarjyAtirApo mUrttirayasmayaH. praTitaSca naBastaSca
+406253:0:  te: naBa UrjastaTEva ca. svArocizasya putrAste manostAta
+406254:1:  te: mahAtmanaH. kIrttitAH pfTivIpAla! mahAvIryaparAkramAH
+406255:0:  te: dvitIyametaM kaTitaM tava manvantaraM mayA<q> harivaM0 7a0.</reN><page>vp6_0997.pdf</page><column>1</column><br/>
+406256:2:  te:  %svArTa% puM0 <vg>svasya arTaH prayojanam aBiDeyo vA.</vg> (1)svaprayo
+406257:0:  te: jane (2)svABiDeye ca <reN><q>svArTakaH svArTaboDakfditi<q> SabdaSa0</reN></2><page>vp6_0997.pdf</page><column>1</column><br/>
+406258:0:  te:  %svArTika% tri0 <vg>svArTe vihitaH</vg> <vkr>WaR.</vkr> (1)svArTavihite vyAkara
+406259:0:  te: Rokte pratyaye.</1> <reN><q>svArTikAH pratyayAH prakftito liNgavaca
+406260:3:  te: nAnyanuvarttante<q></reN> <reN>mahABAzya yaTA bahuguqodrAkzA <q>skvacit
+406261:0:  te: svArTikA api pratyayAH prakftito liNgavacanAnyativarttante
+406262:0:  te: mahABAzyam.</reN> <vn>devatA apakfzwaSuRqA SuRqIra ityAdi.</vn><page>vp6_0997.pdf</page><column>1</column><br/>
+406263:0:  te:  %svAsTya% na0 <vg>svasTasya BAvaH</vg> <vkr>zyaY.</vkr> (1)Arogye (2)santoze amaraH.</2><page>vp6_0997.pdf</page><column>2</column><br/>
+406264:0:  te:  %svAhA% avya0 <vkr>su+A+hve-qA.</vkr> (1)devoddeSena havistyAge
+406265:1:  te: amaraH. (2)agniBAryAyAM strI <reN><q>svAhayeva havirBujam
+406266:0:  te: raGuH.</reN> (3)mAtfkABede ca strI <reN><q>namaH svaDAyE svAhAyE<q> iti
+406267:5:  te: pitfgATA.</reN></3> <reN><q>prakfteH kalayA cEva sarvaSaktirBUhapiRI
+406268:1:  te: baBUva dAhikA SaktiragneH svAhA svakAminI. grIzma
+406269:2:  te: maDyAhRamArttaRqapraBAcCAdanakAriRI. tvamagnerdAhikA
+406270:2:  te: SaktirBavapatnI caja sundarI. dagDuM na Saktastvadfte
+406271:1:  te: hutASaSca tvayA vinA. tvannAmocArya mantrAnte yo
+406272:0:  te: dAsyati havirnaraH. sureByastatprApnuvanti surAH svAnanda
+406273:0:  te: pUrvakam. agneH sampatsvarUpA ca SrIrUpA sA gfhe
+406274:0:  te: SvarI. devAnAM pUjitA SaSvat narAdInAM BavAmbike
+406275:0:  te: brahmavE0 pra0 37a0.</reN> (4)durgASaktiBede <reN><q>durgA SivA kzamA
+406276:0:  te: DAtrI svAhA svaDA namo'ntu te<q> durgApUjAmantraH.</reN></4><page>vp6_0997.pdf</page><column>2</column><br/>
+406277:1:  te:  %svAhApriya% puM0 6ta0. (1)agnO halA0</1> <vn>svAhApatyAdayo'pyatra. </vn><page>vp6_0997.pdf</page><column>2</column><br/>
+406278:1:  te:  %svAhABuj% puM0 <vg>svAhetimantreRa tyaktadravyaM BuNkte</vg> <vkr>Buja-kvip
+406279:0:  te: deve amaraH.</1><page>vp6_0997.pdf</page><column>2</column><br/>
+406280:2:  te:  %svidu% avya0 <vkr>svida-kvip.</vkr> (1)praSne (2)vitarke amaraH (3)pAdapUraRe ca medi0.</3><page>vp6_0997.pdf</page><column>2</column><br/>
+406281:1:  te:  %svinna% tri0 <vkr>svida-kta.</vkr> (1)Darmayukte (2)svedAnvite ca (3)pakve
+406282:0:  te: svinnamannamudAhftam<q> smftiH.</reN><page>vp6_0997.pdf</page><column>2</column><br/>
+406283:3:  te:  %svIkAra% puM0 <vg>asvasya svasya kAraH</vg> <vkr>karaRaM sva+cvi+kf-GaY.</vkr> (1)aNgIkAre.</1><page>vp6_0997.pdf</page><column>2</column><br/>
+406284:0:  te:  %svIya% tri0 <vg>svasyedam</vg> <vkr>Ca apARinIyEratra na kugiti manyate
+406285:0:  te: nijasambanDini (2)nAyikABede strI nAyikASabde
+406286:0:  te: dfSyam.</2><page>vp6_0997.pdf</page><column>2</column><br/>
+406287:0:  te:  %svurcCa% <vkr>(1)vismftO</1> BvA0 pa0 saka0 sew. svUrcCati asvUrcCIt Adit svUrRaM svUrcCitam.</vkr><page>vp6_0997.pdf</page><column>2</column><br/>
+406288:1:  te:  %svf% <vkr>(1)Sabde</1> aka0 upatApe saka0 BvA0 pa0 vew. Karati asvA
+406289:0:  te: rIt asvArzIt.</vkr><page>vp6_0997.pdf</page><column>2</column><br/>
+406290:2:  te:  %svF% <vkr>(1)hiMsane</1> kryAH pvA0 pa0 saka0 sew. svfRAti asvarIt.</vkr><page>vp6_0997.pdf</page><column>2</column><br/>
+406291:0:  te:  %sveka% <vkr>(1)gatO</1> BvAdi0 Atma0 saka0 sew. fdit caNi na hrasvaH
+406292:0:  te: svekate asvekizwa.</vkr><page>vp6_0997.pdf</page><column>2</column><br/>
+406293:0:  te:  %svecCA% strI 6ta0. (1)svABilAze hemaca0. </1><page>vp6_0997.pdf</page><column>2</column><br/>
+406294:2:  te:  %svecCAmftyu% puM0 <vg>svecCayA mftyuryasya.</vg> (1)BIzme trikA0 (2)svecCADInamftyuyukte tri0.</2><page>vp6_0997.pdf</page><column>2</column><br/>
+406295:3:  te:  %sveda% puM0 <vkr>svida-BAve GaY.</vkr> (1)pAkaBede (sekA) (2)Gartre
+406296:0:  te: gAtrAdito jalAdeH nizyandane.</2> <vkr>Ric BAve ac
+406297:1:  te: DarmanisrAvaRe</3> <vn>tatprakArAdikaM carakeRABihitaM yaTA
+406298:2:  te: ataH svedAH prakzyante yEyeTAvat prayojitAH. sveda
+406299:1:  te: sADyaH praSAmyanti gadA vAtakaPAtmakAH. snehapUrvaM
+406300:2:  te: prayuktena svedanAvarjite'nile. purozamUtraretAMsi na
+406301:0:  te: sajjanti kaTaYcana. SuzkARyapi hi kAzWAni snedaM
+406302:1:  te: svedepapAdanEH. gamayanti yaTAnyAyaM kiM punarjIvato
+406303:1:  te: narAn. rogarttuvyADitApekzonAtyuzRo'timfdurna ca
+406304:1:  te: dravyavAn kalpito deSe svedaH kAryakaro mataH. vyADO
+406305:0:  te: SIte SarIre ca mahAn svedo mahAbale. durbale durbalaH
+406306:0:  te: svedo maDyame maDyamo hitaH. vAtaSlezmaRi vAte vA
+406307:2:  te: kaPe vA sveda izyate. snigDarUkzastaTA snigDo'rUkzaScA
+406308:3:  te: pyupakalpitaH. AmASayagate vAte karPa pakvASayASrite
+406309:0:  te: rUkzapUrvo hitaH svedaH snehapUrvastaTEva ca. vfzaRO
+406310:0:  te: hfdayaM dfzwI svedayen mfdunEva vA. maDyamaM vaNkzaRO
+406311:1:  te: SezamaNgAvayavamizwataH. suSudDErnaktakEH piRqyA gADUmAnA
+406312:0:  te: maTApi vA. padmotpalapalASErvA svedyaH saMvftya cakzuzI
+406313:1:  te: muktAvaloBiH SItABiH SItalErBAjanErapi. jalArdrE
+406314:1:  te: rjalajErhastOH svidyato hfdayaM spfSet. SItaSUlavyupa
+406315:0:  te: rame stamBagOravanigrahe. saYjAte mArdave svede svedanAd
+406316:1:  te: u viratirmatA. pittaprakopo mUrcCA ca SarIrasadanaM tfzA
+406317:0:  te: dAhaH svedANgadOrbalyamatisnigDasya lakzaRam. ukta
+406318:0:  te: stasyASritIye yo grEzmikaH sarvaSo viDiH. so'ti
+406319:2:  te: svinnasya karttavyo maDuraH snigDaSItalaH. kapAyamadya
+406320:1:  te: nityAnAM garBiRyA raktapittinAm. pittinAM sAti
+406321:0:  te: sArARAM rUkzARAM maDumehinAm. vidagDaBrazwanAqInAM
+406322:3:  te: vizamadyavikArariRAm. SrAntAnAM nazwamaMjYAnAM sTUlAnAM
+406323:1:  te: pittamehinAm. tfzyatAM kzuDitAnAYca krudDAnAM Soca
+406324:3:  te: tAmapi. kAmalyudariRAYcEva kzatAnAmAdyarogiRAm
+406325:3:  te: durbalAtiviSuzkARAmupakzIROjasAM taTA. Bizak tE
+406326:1:  te: mirikARAYca na svedamavatArayet. pratiSyAye ca kAme
+406327:3:  te: ca hikkASvAsezvalAGave. karRamaRyAM SiraH SUle svaraBede
+406328:2:  te: galagrahe. arditEkANgasarvANgapakzAGAte vinAmake. ko
+406329:1:  te: zWAnAhavibanDezu SukrAGAte vijfmBake. pArSvapfzWakawI
+406330:5:  te: kukzisaNgrahe gfDramIzu ca. mUtrakfcCre mahattve na muzka
+406331:2:  te: yoraNgamardake. pAdorujAnujaNGArttisaNgrahe SvayaTAvapi
+406332:3:  te: svallIzAmezu SIte ca vezaTO vAtakaRwake. saNkocAyAm
+406333:4:  te: SUlezu stamBagOravasuptizu. sayAMNgezu vikArezu svedanaM
+406334:4:  te: hitamucyate. tilagrAzakalatTAmlavftatElABizOdanEH
+406335:1:  te: pAyasEH kfSarErmAsEH piRqasvedaM prayojayet. goKarozwra
+406336:0:  te: varAhASvaSakfdBiH satuzEryavEH. sikatApAMSupAzARakarI
+406337:0:  te: zAyasapUwakEH. SlEzmikAn svedayet pUrvErvAtikAn samu
+406338:0:  te: pAcaret. dravyARyetAni Sasyante yaTAsvaM prastarezvapi
+406339:1:  te: BUgfhezu ca jentAkezUzRagarBagfhezu ca. viDUsANgAratapte
+406340:1:  te: svaByaktaH svidyati nA suKam. grAmyAnUpodakaM mAMsaM
+406341:1:  te: payovastaSirastaTA. varAhamaDyapittAsfksnehavattila
+406342:0:  te: taRqulAn. ityetAni samutkvATya nAqIsvedaM prayo
+406343:3:  te: jayet. deSakAliviBAgajYo yuktyapekzo BizaktamaH
+406344:2:  te: vAraRAGftakEraRqaSigrumUlakasarzapEH. vAsAvaMSakaraYjArka
+406345:0:  te: patrEraSmantakasya ca. SoBAYjanakaSerIyamAlatIsurasA
+406346:0:  te: rjakEH. patrErutkvATya salilaM nAqIsvedaM prayojayet
+406347:0:  te: BUtIkapaYcamUlAByAM surayA daDilastunA. patrEramlESca
+406348:1:  te: sasnehErnAqIsvedaM prayojayet. ata eva ca niryUhAH
+406349:1:  te: prayojyA jAsakozwake. svedanArTaM GftakzIratElakozwAMSca
+406350:1:  te: kArayet. gocUmaSakalEScUrReryavAnAmamlasaMyutEH. sasneha
+406351:1:  te: kiRvalavaRerupanAhaH praSasyate. ganDEH surAyAH kiwwena
+406352:2:  te: jIvantyA SatapuzpayA. umayA kuzWatElAByAM yuktayA
+406353:1:  te: copanAhayet. carmaBiScopanadDavyaH salomaBirapUtiBiH
+406354:3:  te: uzRavIryEralABe tu kOSeyAvikaSawakEH. rAtrO badDaM
+406355:0:  te: divA muYcet muYcedrAtrO divAkftam. vidAhaparihArArTaM
+406356:0:  te: syAt prakarzastu SItale. saNkaraH1 prastaro2 nAqI3 pari
+406357:3:  te: zeko4'vagAhanam5. jentAko6'SmaGanaH7 karzUH8 ku
+406358:1:  te: wI9BUH10 kumBikEva11 ca. kUpo12 dolAka13 ityete
+406359:0:  te: svedayanti trayodaSa. tAn yaTAvat pravakzyAmi sarvA
+406360:0:  te: nevAnupUrvaSaH<q> iti.</reN> <reN>tatra vastrAntaritEravastrAnta
+406361:0:  te: ritErvA piRqEryaToktErupasvedanaM saNkarasveda1 iti vi
+406362:0:  te: dyAt. SUkaSamIDAnyapulAkAnAM veSavArAyasakfSarot
+406363:0:  te: kArikAdInAM vA prastare kOSeyAvikottarapracCade paYcA
+406364:2:  te: NguloruvakArkapatrapracCade vA svaByaktrasarvagrAtrasya SayA
+406365:0:  te: nasyopari svedanaM prastarasveda2iti vidyAt. sveda
+406366:0:  te: nadravyARAM punarmUlaPalapatraBaNgAdInAM mfgaSakunapiSita
+406367:0:  te: SiraspadAdInAmuzRasvaBAvAnAM vA yaTArhamamlalavaRa
+406368:2:  te: mnehopasaMhitAnAM mUtrakzIrAdInAM vA kumByAM vAzpapa
+406369:1:  te: nudvamantyAmutkaTitAnAM nAqyA SarezIkAvaMSadalakaraYjArka
+406370:1:  te: patrAnyatamakftayA gajAgrahastasaMsTAnayA vyAmadIrGayA
+406371:0:  te: vyAmArdDadIrGayA vA vyAmacaturBAgAzwaBAgamUlAgrapariRAha
+406372:1:  te: srotasA sarvato vAtaharapatrasaMvftacCidrayA dvastriryA vinA
+406373:1:  te: mitayA vAtaharasidDasnehAByaktagAtro vAzpamapaharet
+406374:3:  te: vAzmo hyanUrdDagAmI vihatacaRqavegastvavamavidahan susyaM
+406375:0:  te: svedayatIti nAqIsvedaH3. vAtikottaravAtikAnAMpunarmU
+406376:2:  te: zAdInAmutkATEH suKozREH kumBIrvArDulikAH pranAqIrvA
+406377:1:  te: pUrayitvA yaTArhasidDasnehAByaktagAtraM vastrAvarcCannaM pari
+406378:0:  te: zecayediti parizekaH4. vAtaharotkvATakzIratelaGftapiSi
+406379:2:  te: tarasozRalilakozWakAvagAhastu yaTokta evAvagAhaH
+406380:3:  te: aTa jentAkaM cikorzurBUmiM parokzeta ityAda
+406381:2:  te: (jentAkaSabde asya lakzaRAdyuktaprAyam6.)
+406382:1:  te: SayAnasya pramARena GanAmasmamayIM SilAm. tApa
+406383:3:  te: yitvAmArutaGnEruBi sampradIpitEH. vyapojJya sarvA
+406384:0:  te: naNgArAn prokzya cEvozRavAriRA. tAM SilAmaTa
+406385:0:  te: kurvIta kOzeyAvikasaMstarAm. tasyAM svaByaktasarvANga
+406386:1:  te: H SayAnaH svidyate suKam. rOravAjinakOzeyaprAvA
+406387:2:  te: rAdyEH susaMvftaH. ityuktoSmaGanasvedaH7. karzU
+406388:2:  te: svedaH pravakzyate. svAnayecCayanasyADa karzUM sTAna
+406389:0:  te: viBAgavit. dIptEraDUmEraNgArEstAM karzUM pUrayet tataH
+406390:1:  te: tasyAmupari SayyAyAM svapan svidyati nA suKam8. ana
+406391:1:  te: tyutmeDavistArAM vfttAkArAmalocanAm. GanaBittiM
+406392:1:  te: kuwIM kftvA kuzWAdyEH samprapalepayet. kuwImaDye Bizak
+406393:0:  te: SayyAM svAstIrRAYcopakalpayet. prAvArAjinakOzeyakutTa
+406394:0:  te: kambalagolakEH. hasantikABiraNgArapUrRABistAYca sarvaSaH
+406395:3:  te: parivAryAntarArohedaByaktaH svidyate suKam9. ya etrA
+406396:3:  te: SmaGanasvedaviDirBUmO sa eva tu. praSastAyAM nivAtAyA
+406397:2:  te: M samAyAsupadiSyate10. kumBIM vAtaharakvATapUrRAM BUmO
+406398:1:  te: niKAtayet. ardDaBAgaM triBAgaM vA SayanaM tatra copari
+406399:0:  te: sTApayedAsanaM vApi nAtisAndraparicCadam. aTa kumBya
+406400:1:  te: sumantaptAn prakzipedayasoguqAn. pAzARAn vozmaRA
+406401:0:  te: tena tatsTaH svidyati nA suKam11. susaMvftANgaH svaByaNgaH
+406402:0:  te: snehEranilanASanEH. kUpaM SayanavistAraM dviguRaYcApi
+406403:2:  te: veDataH. deSe nivAte Saste ca kuryAdantaH sumArjitam
+406404:0:  te: hastyaSvagoKarozwrARAM karozErdagDapUrite. svavacCannaH susaM
+406405:0:  te: stIrRe'ByaktaH svidyati nA suKam12. vITIkAntu karo
+406406:0:  te: zARAM yaToktAnAM pradIpayet. SayanAntaH pramARena SayyA
+406407:2:  te: mupari tatra ca. sudagDAyAM viDUmAyAM yaToktAsupakalpa
+406408:1:  te: yet. svavacCannaH svapaMstatrAByaktaH svidyati na. suKam
+406409:2:  te: dolAkasveda13 ityeza suKaH procto maharziReti<q>. iti
+406410:1:  te: trayodaSaviDaH svedo'gniguRasaMSrayaH. vyAyAma uzRasadanaM
+406411:2:  te: guruprAvaraRaM kzuDA. bahupAnaM BayakroDAvupanAhAhapA
+406412:0:  te: tapAH. svedayanti daSEtAni naramagniguRAdfte. ityukto
+406413:2:  te: dviviDaH svedaH saMyukto'gniguRErna ca. ekANgamArvANgagataH
+406414:1:  te: snigDo rUkzastaTEva ca. ityetat triviDaM dvandva sveda
+406415:1:  te: muddiSya kIrttitam. snigDa svedErupakramyaH svinnaH
+406416:1:  te: paTyASano Bavet. tadahaH svinnagAtrastu vyAyAmaM varja
+406417:1:  te: yennaraH<q> iti.</reN> <reN>tatra SlokAH <q>svedA yaTA kAryakaro
+406418:0:  te: hito yeByaSca yadviDaH. yatra deSe yaTAyogyA deSo rakzyaSca
+406419:1:  te: yo yaTA. svinnAtisvinnarUpARiM taTAtisvinnaBezajam. a
+406420:1:  te: svedyAH svedayogyASca svedadravyARi kalpanA. trayodaSa
+406421:1:  te: viDaH svedo vinA daSaviDo'gninA. saNgraheRa ca zawsvedAH
+406422:1:  te: svedADyAye nidarSitAH. svedADikAre yadvAcyasuktametanma
+406423:0:  te: harziRA. SizyEstu pratipattavyasapadezwA punarvasurite<q>. </reN></vn><page>vp6_0997.pdf</page><column>2</column><br/>
+406424:2:  te:  %svedaja% puM0 <vg>svedAjjAyate</vg> <vkr>jana-qa.</vkr> (1)svedajAte daSAdijantO
+406425:0:  te: amaraH (2)svedajAtamAtre tri
+406426:1:  te: sasvedajavikArASca yaTA yeByo Bavanti ca. mAnuzasveda
+406427:0:  te: malajA makzikAdyA Bavanti ca. navameGaprasiktAyAM
+406428:0:  te: pipIlikagaRAdayaH. saMsvedajAstu vijYeyA vfkzagopaSu
+406429:2:  te: jantavaH. samiduByA mAzamudugeByaH PaleByaScEva jantavaH
+406430:0:  te: jAyante krimayo viprAH! kAzWeByo GuRakAdayaH. taTA
+406431:0:  te: SukravikAreByaH pUtikAH praBavanti ca. saMsvedajASca
+406432:0:  te: jAyante vfScikAH SuzkagomayAt. gAByo hi mahize
+406433:1:  te: ByaSca mAnuzeByaSca jantavaH. matsyAdisyaSca viviDA
+406434:0:  te: antaHkukzO viSezataH. aTAnyAni ca sUkzmARi sUkzma
+406435:1:  te: yUkAstaTEva ca. goByo'SveByastaTA cEva azwApadakinI
+406436:0:  te: nakAH. mAkzikARAM vikArASca utsfzwodakakardamEH
+406437:0:  te: SarAvati vikArASca karIzeByo Bavanti hi. evamAdi
+406438:1:  te: rasaNKyAto gaRaH saMsvedajo mayA. sarvAsAnnihito
+406439:2:  te: hyeza prAkkarmavaSajaH smftAH<q> vahnipuM0.</reN><page>vp6_0999.pdf</page><column>2</column><br/>
+406440:1:  te:  %svedana% na0 <vkr>svida-Ric lyuw.</vkr> (1)gAtrAdito DarmAderniHsAraRa
+406441:0:  te: vyApAre(mAparA).</1> <vn>svedaSabde dfSyam.</vn><page>vp6_0999.pdf</page><column>2</column><br/>
+406442:1:  te:  %svedanI% strI <vg>svidyate pacyate'nayA</vg> <vkr>svida-lyuw.</vkr> (1)lOhapAtra
+406443:0:  te: Bede (tAoyA) amaraH.</1> <vkr>saMjYAyAM kan wApi hrasvaH
+406444:0:  te: svedanikA kandurUpe pAtre hemaca0 (3)BarjanapAtre SabdamA0.</3><page>vp6_0999.pdf</page><column>2</column><br/>
+406445:0:  te:  %svEra% na0 <vg>svasya Iram</vg> <vkr>Ira-ac vfdDiH.</vkr> (1)svecCAyAm (2)tadvati
+406446:0:  te: mande ca tri0 medi0.</3><page>vp6_0999.pdf</page><column>2</column><br/>
+406447:1:  te:  %svErin% tri0 <vg>svenEva IrayitaM SIlamasya</vg> <vkr>Ira-Rini vfdDiH
+406448:0:  te: svecCAcAriRi svatantre. (2)vyaBicAristriyAM strI
+406449:1:  te: NIp.</vkr> (3)parapuruzacatuzkamAminyAM striyAM ca. <reN><q>nAtaScaturTaM
+406450:0:  te: prasavamApatsvapi vadantyuta. ataHparaM svEriRI syAt
+406451:0:  te: banDakI paYcame Bavet<q> BA0 A0 123a0.</reN><3><page>vp6_0999.pdf</page><column>2</column><br/>
+406452:0:  te:  %svopArjita% tri0 <vg>svena upArjitam.</vg> (1)svayamarjite DanAdO
+406453:0:  te: tasya viBAgo dAyaBAge darSito yaTA
+406454:1:  te: samprati viBAjyamaviBAjyaYcocyate.</reN> <reN>tatra kAtyAyanaH
+406455:0:  te: pEtAmahaYca pitryaYca yaccAnyat svayamarjitam. dAyAdAnAM
+406456:2:  te: viBAge tu sarvametadviBajyate<q>.</reN> <reN><q>yaccAnyaditi cakAraH
+406457:4:  te: svayamityanena saMbaDyate svayaYcAjitamiti cakArAdyanya
+406458:0:  te: syApi tadarjanaM sADAraRaDanadvAreRetyarTaH.</reN> <reN>anupa
+406459:1:  te: GAtopAttamaviBAjyamAhaturmanuvizRU <q>anupaGnan pitf
+406460:0:  te: dravyaM SrameRa yadupArjayet. svayamIhitalabDaM tannA
+406461:0:  te: kAmo dAtumarhati<q>.</reN> pitfdravyopaGAtABAvena dravya
+406462:0:  te: dvAreRa netarezAM vyApAraH, svacezwAlabDatvena SArIro
+406463:0:  te: 'pi vyApAro netarezAmiti arjakasyEva tadasADA
+406464:0:  te: raRaM svayamIhitalabDaM taditi hetutvenopanyAsAt
+406465:0:  te: taTA ca <reN>vyAsaH <q>anASritya pitfdravyaM svaSaktyA
+406466:1:  te: pnoti, yaddanam. dAyAdeByI na taddadyAdvidyAlabDantu
+406467:0:  te: yadBavet<q>.</reN> svaSaktimAtreRa yat prAptamiti sAmAnye
+406468:1:  te: nABiDAnAt sarvamevaMviDaM svoyamasADAraRaM drazwavyam
+406469:1:  te: svaSaktiprAptasyApi viMdyADanasya samADikavidyEH sADA
+406470:0:  te: raRatvAt nyUnavidyAvidyanirAkaraRArTaM vidyAlabDa
+406471:0:  te: padam. taTA <reN>yAjYavalkyaH <q>pitfdravyAviroDena yada
+406472:0:  te: nyat svayamarjitam. mEtramOdvAhikaYcEva dAyAdAnAM na
+406473:0:  te: tadBavet<q>.</reN> mEtrAdigrahaRaM pradarSanArTaM, evamAdizu
+406474:0:  te: prAyeRAnupaGAtasamBavAt. taTA <reN>manuH <q>vidyADanantu
+406475:1:  te: yaduyasya tattasyEva DanaM Bavet. mEtramOdvAhikaYcEva
+406476:1:  te: mADuparkikameva ca<q>.</reN> taTA <reN>vyAsaH <q>vidyAprAptaM SOrya
+406477:0:  te: DanaM yacca sOdAyikaM Bavet. viBAgakAle tattasya
+406478:1:  te: nAnvezwavyaM svarikTiBiH<q>.</reN> pitfpitfvyAdiBya sudA
+406479:0:  te: yasasambanDiByaH prasAdAdinA labDaM sOdAyikam. taTA
+406480:2:  te: nAradaH <q>SOryaBAryADane, hitvA, yacca vidyADanaM Bavet
+406481:2:  te: trIRyetAnyaviBAjyAni prasAdo yaSca pEtfkaH<q>.</reN> BAryA
+406482:1:  te: prAptikAle labDaM BAryADanam OdvAhikamityarTaH, etAni
+406483:0:  te: varjayitvA anyadviBajedityanuvarttate vAkyAntarIyam
+406484:3:  te: tadevamAdiBiH SOryAdiDanatvamaviBAjyatve kAraRaM n
+406485:4:  te: Ocyate SOryAdyarjitasyApi viBAgaSruteH. taTA ca <reN>vyAsaH
+406486:1:  te: sADAraRaM samASritya yat kiYcidvAhanAyuDam. SOryA
+406487:0:  te: dinApnoti DanaM BrAtarastatra BAginaH. tasya BAgadvayaM
+406488:0:  te: deyaM SezAstu samaBAginaH. sADAraRadravyeRArjitasya
+406489:2:  te: Danasya viBAgaM vadati.</reN> taTA <reN>nAradaH <q>kuwumbaM biBfyAdu
+406490:0:  te: BrAturyo vidyAmaDigacCataH. BAgaM vidyADanAttasmAt
+406491:1:  te: sa laBetASruto'pi san<q>.</reN> biBfyAdityekavacananirdeSAt
+406492:2:  te: yadiM vidyAmaByasyato BrAtuH kuwumbamaparo BrAtA svaDana
+406493:0:  te: vyayaSarIrAyAsAByAM saMvardDayati tadA tadvidyopArjita
+406494:0:  te: Dane tasyApyaDikAraH. taTA <reN><q>vEdyo'vidyAya nAkAmo
+406495:0:  te: dadyAdaMSaM svato DanAt. pitryaM dravyaM samASritya na
+406496:1:  te: cettena tadarjitam<q>.</reN> patrapadaM sADAraRaDanaparaM tadanA
+406497:0:  te: SrityArjitaM vEdyo'vidyAya anicCanna dadyAt vEdyAya
+406498:0:  te: viduze punaH sADAraRamantareRApyarjitaM dadyAdeva. taTA ca
+406499:0:  te: gOtamaH <q>svayamarjitamavEdyeByo vEdyaH kAmaM na dadyAt
+406500:1:  te: asADAraRaDanaSarIravyApArArjitaM svayamarjitam avi

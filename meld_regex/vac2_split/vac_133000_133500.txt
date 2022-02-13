@@ -1,0 +1,500 @@
+133001:1:  te: ' </reN> <reN>`kaTaM sa dfzwAntaH? yaTA loke imA nadyaH syanda
+133002:0:  te: mAnAH sravantyaH samudrAyaRAH samudro'yanaM gatirAtmaBAvo
+133003:0:  te: yAsAM tAH samudrAyaRAH samudraM prApyopagamyAstaM nAma
+133004:0:  te: rUpatiraskAraM gacCanti. tAsAYcAstaM gatAnAM Bidyete
+133005:1:  te: vinaSyete nAmarUpe gaNAyamunetyAdilakzaRe. tadBede samudra
+133006:0:  te: ityevaM procyate. tadvastUdakalakzaRameva, yaTA'yaM dfzwAntaH
+133007:0:  te: uktalakzaRasya prakftasya puruzasya paridrazwuH pari samantAddrazwu
+133008:0:  te: rdarSanasya karttuH svarUpaBUtasya. yaTArkaH svAtmaprakASasya
+133009:1:  te: karttA tadvad, imAH zoqaSa kalAH prARAdyAH uktAH kalAH
+133010:0:  te: puruzAyaRA nadInAmiva samudraH puruzo'yanamAtmaBAvagamanaM
+133011:0:  te: yAsAM kalAnAM tAH puruzAyaRAH puruzaM prApya puruzAtma
+133012:0:  te: BAvamupagamya taTEvAstaM gacCanti. Bidyete tAsAM nAma
+133013:0:  te: rUpe kalAnAM prARAdyAKyA rUpaYca. yaTAsvaBede ca
+133014:0:  te: nAmarUpayoryadanazwaM tattvaM puruza ityeva procyate brahma
+133015:0:  te: vidBiH. ya evaM vidvAn guruRA pradarSitakalapralaya
+133016:0:  te: mArgaH sa eza vidyayA pravilApitAsvavidyAkAmakarmma
+133017:0:  te: janitAsu prARAdikalAsvakalo'vidyAkftakalAnimitto
+133018:1:  te: hi mftyustadapagame'kalatvAdevAmfto Bavati. tadetasminyarTe
+133019:1:  te: eza SlokaH' BA
+133020:0:  te: arA iva raTanABO kalA yasmin pratizWitAH. taM vedyaM
+133021:2:  te: puruzaM veda yaTA mA vo mftyuH parivyaTa' upa
+133022:0:  te: arA raTacakraparikarA iva raTanABO raTacakrasya nABO
+133023:0:  te: yaTA praveSitAstadASrayA Bavanti yaTA taTetyarTaH. kalAH
+133024:0:  te: prARAdyA yasmin puruze pratizWitA utpattisTitilaya
+133025:1:  te: kAlezu taM puruzaM kalAnAmAtmaBUtaM vedyaM vedanIyaM pUrRa
+133026:0:  te: tvAt puruzaM puri SayanAdvA veda jAnIyAt. yaTA he
+133027:0:  te: SizyA vo yuzmAnmftyurmA parivyaTA mA parivyaTayatu
+133028:0:  te: vyaTAmApannA duHKina eva yUyaM sTa atastanmABUd yuzmA
+133029:1:  te: kamityaBiprAyaH' BA
+133030:0:  te: taTA ca prARaH1 SradDA 2 vyoma3 vAyuH 4 tejaH
+133031:0:  te: jalaM 6 pfTivI 7 indriyaM 8 manaH 9 annam 10 vIryyam
+133032:0:  te: tapaH 12 mantrAH 23 karma 14 lokaH 15. nAma
+133033:0:  te: ityetA prARAdinAmAntAH zoqaSa kalAH puruzasya upA
+133034:1:  te: Daya iti sTitam. <reN>`gatAH kalAH paYcadaSa pratizWAm' SrutiH
+133035:0:  te: aMSamAtre ca `prAcI dik kalA dakziRA dik kalodIcI
+133036:1:  te: dikalEza sOmya ! catuzkalaH pAdo brahmaRaH prakASavAnnAma
+133037:0:  te: sa ya etamevaM vidvAMScatuzakalaM pAdaM brahmaRaH prakASavA
+133038:0:  te: nityupAste prakASavAnasmiMlloke Bavati prakASavato ha
+133039:0:  te: lokAYjayati ya eta mevaMvidvAMScatuzkalaM pAdaM brahmaRaH
+133040:1:  te: prakASavAnityupAste'</reN> <reN>`pfTivI kalA'ntarikzaM kalA dyOH
+133041:0:  te: kalA samudraH kalEza vE sOmya! catuzkalaH pAdobrahmaRo'
+133042:0:  te: nantavAnnAma. sa ya etamevaMvidvAMScatuzkalaM pAdaM brahmaRo'
+133043:3:  te: nantavAnityupAste'nantavAnasmizlloke Bavatyanantavato ha
+133044:1:  te: lokAYjayati ya etamevaM vidvAMScatuzkalaM pAdaM brahmaRo
+133045:1:  te: 'nantavAnityupAste'.</reN> <reN>`agniH kalA sUryyaH kalA candraH
+133046:0:  te: kalA vidyutkalEza vE sOmya! catuzkalaH pAdo brahmaRo
+133047:0:  te: jyotizmAnnAma sa ya etamevaM vidvAMScatuzkalaM pAdaM
+133048:1:  te: brahmaRojyotizmAnityupAste jyotizmAnasmillozke Bavati
+133049:0:  te: jyotizmato ha lokAYjayati ya etamevaM vidvAMScatuzkalaM
+133050:1:  te: pAdaM brahmaRo jyotizmAnityupAste'. `prARaH kalA
+133051:1:  te: cakzuH kalAH SrotraM kalA manaH kalEza vE sOmya! catu
+133052:1:  te: zkalaH pAdobrahmaRa AyatanavAnnAma sa ya etamevaM vidvAM
+133053:2:  te: ScuzkalaM pAdaM brahmaRa AyatanavAnityupAste Aya
+133054:1:  te: tanavAnasmillozke BavatyAyatanavato lokAYjayati ya etamevaM
+133055:1:  te: vidvAScatuzkalaM pAdaM brahmaRa AyatanavAnityupAste
+133056:1:  te: ' avatAraSabde BUri udAharaRam dfSyam
+133057:0:  te: paladvayAtmake kAlAMSaBede <vn>sa ca si0 Si0 darSitoyaTA
+133058:2:  te: yo'kzRornimezasya svarAma 30 BAgaH sa tatparastacCataBAga
+133059:1:  te: uktAH. truwirnimezErDftiBi 15Sca kAzWA tattriM SatA sadga
+133060:0:  te: RakEH kaloktA. triMSatkalA''rkzI GawikA kzaRaH syAnnAqI
+133061:3:  te: dvayaM tEH svaguRE 30 rdiMnaM ca. gurvakzarEH KendumitE (10)rasustEH
+133062:2:  te: zaqBiH palaM tErGawikA KazaqBiH 60 syAdvA GawIzazwiraha
+133063:3:  te: H svarAmE 30 rmAso dinEstErdvikuBi 12 Sca varzam. kzetre samA
+133064:1:  te: dyena samA viBAgAH syuScakrarASyaMSakalAviliptAH' Si
+133065:1:  te: yo'kzRorlocanayoH pakzyapAtaH sa nimezaH. sa yAvatA
+133066:0:  te: kAlena nizpadyate tAvAn kAlo'pi nimezaSabdeno
+133067:0:  te: cyate upacArAt. tasya triMSadviBAgastatparasaMjYaH
+133068:0:  te: tatparasya SatAMSastruwiriti. aTa ca nimezErazwAdaSaBiH
+133069:0:  te: kAzWA. kvacicCAstrAntare tiTiBiriti pAWaH. kAzWA
+133070:0:  te: triMSatA kaloktA. kalAnAM triMSatA GawikA. sA
+133071:0:  te: cAkzIM BaBramasya zazwiBAga ityarTaH. GawikAdvayena
+133072:0:  te: kzaRo muhUrttaH. kzaRAnAM triMSatA dinam. aTa
+133073:0:  te: prakArAntareRa dinamucyate. gurvakzarEH KendumitEH 10 asu
+133074:1:  te: riti. ekamAtrolaGuH dvimAtro guraH. taTA `sAnu
+133075:2:  te: svAro visargAnto dIrGoyuktaparastu yaH' iti Cando
+133076:1:  te: lakzaRe pratipAditam yadakzaraM sAnusvAraM nisargAntaM
+133077:0:  te: dIrGaM yasyAkzarasya parataH saMyogastallaGvapi gurusaMjYaM jYeya
+133078:0:  te: m. gurvakzarasyoccAryyamARasya yAvAn kAlastaddaSakenE
+133079:1:  te: ko'suH. prARaH. praSastendriyapuruzasya SvAsocCAsA
+133080:2:  te: ntarvarttI kAlaityarTaH. zaqBiH prARErekaM pAnIyapalam
+133081:2:  te: palAnAM zazWyA GawI. GawInAM zazwyA dinam. triMSaddi
+133082:0:  te: nErekomAsaH. mAsErdvAdaSaBirvarzamiti kAlasya viBAgo
+133083:1:  te: darSitaH'</reN> <reN>`prami0. `ahno'stamayavelAyAM kalAmAtrA'pi
+133084:1:  te: yA tiTiH' kAlamA0 vyAsaH. `pratipalleSamAtreRa kalA
+133085:1:  te: mAtreRa cAzwamI' paWanti. `sa ca trIRi trIRi
+133086:0:  te: kalAsahasrARi paYcadaSa ca kalA ekEkasmin DAtAvavatizWate
+133087:1:  te: ' iti suSru0.</reN> <reN>`azwAdaSa sahasrARi saMKyA cAsmin
+133088:2:  te: samuccaye. kalAnAM navatiH proktAH' suSru
+133089:2:  te: vikalAnAM kalA zazWyA tatzazWyA BAga ucyate
+133090:4:  te: tattriMSatAM BavedrASirBaRodvAdaSEva te' sU0 si0.</reN> ukte
+133091:0:  te: rASicakrasya 216000 mite BAge ca <reN>`kzetre samA
+133092:1:  te: dyena samA viBAgA ityAdi' Si0</reN> <reN>kzetre kakzAyAM samA
+133093:0:  te: dyena varzAdyena samAstulyAH kzetraviBAgA jYeyAH. te
+133094:1:  te: ke. cakrarASyaMSakalAviliptAH. yaTEkasya varzasya mAsa
+133095:1:  te: dinAdayo viBAgA evaM BagaRasya rASyaMSAdayaH' prami
+133096:0:  te: si0 Si0 ukte dinamAnajYAnopayogini dinajyAguRite
+133097:0:  te: vyAsArdDaBakte sUtrAtmake padArTe ca <vn>yaTA
+133098:0:  te: uktA praBABimatadiNniyamena tAvat tAmeva kAlaniyamena
+133099:3:  te: ca vacmiBUyaH. syAdunnataM dyugataSezakayoryadalpaM
+133100:0:  te: tenonitaM dinadalaM natasaMjYakaM ca. aTonnatAdUna
+133101:0:  te: yutAccareRa kramAdudagdahiRagolayorjyA. syAt
+133102:0:  te: sUtrametadguRitaM dyumOrvyA vyAsArDaBaktaM ca kalABiDA
+133103:1:  te: nam' Si0</reN> <reN>`divasasya yadgataM yacca SezaM tayoryadalpaM tadunnata
+133104:0:  te: saMjYaM jYeyaM tenonnatenonIkftaM dinadalapramARaM tannatasaMjYaM
+133105:0:  te: Bavati. aTonnatAdunnatakAlAduttaragole careRonitAt
+133106:0:  te: dakziRe yutAdyA jyA tat sUtram sA sUtrasaM jYetyarTaH
+133107:0:  te: tat sUtraM dyujyayA guRitaM trijyayA BaktaM kalA
+133108:1:  te: saMjYaM Bavati. atropapattiH yasmin kAle CAyA
+133109:0:  te: sADyA tasmin kAle svAhorAtravftte yAvatIBirGawi
+133110:0:  te: kABiH kzitijAdunnato ravistAsAmunnatasaMjYA. yena kAlena
+133111:0:  te: maDyAhnAnnatastasya natasaMjYA. aTa careRa maDyAhnAnnatayuta
+133112:0:  te: syonnatakAlasya kila jyA sADyA sA ca jyAmaDyAvaDi
+133113:0:  te: rBavati. sa ca maDyapradeSo'horAtravfttasyonmaRqalasaMpAte
+133114:0:  te: Bavati. yata unmaRqalasaMpAtAByAmUrDvamahorAtravfttasyA
+133115:0:  te: rDamaDo'rDam. ata unmaRqalAvaDirjIvA sADyA. kziti
+133116:0:  te: jonmaRqalayorantaraM carArDam. ataScarArDena varjitAdunna
+133117:0:  te: tAduttaragole, dakziRe tu yutAt. yata uttaragole
+133118:1:  te: kzitijAduparyunmaRqalam' dakziRe'DaH. tasmAt kAlAd yA
+133119:0:  te: jyA sADitA sA trijyAvfttapariRatA. sA ca sUtra
+133120:0:  te: saMjYA. aTa yadi trijyAvftte etAvatI, tadAdyujyA
+133121:0:  te: vftte kiyatItyanupAtena dyujyAvfttapariRatA. sA ca kalA
+133122:0:  te: saMjYA. idAnIM prakArAntareRa kalA tasyAScezwayazwi
+133123:1:  te: mAha' prami0. `sUtraM kujIvAguRitaM viBaktaM carajyayA
+133124:0:  te: syAdaTavA kalA sA. kalA palakzetrajakowiniGnI
+133125:1:  te: tatkarRaBaktA BavatIMzwayazwiH' Si0.</reN> <reN>`aTavA tat sUtraM
+133126:2:  te: kujyayA guRitaM carajyayA BaktaM sat kalA Bavati. sA
+133127:0:  te: kalAzwaDA palakzetrakowiBirguRyA svasvakarRena BAjyA
+133128:0:  te: PalamazwaDezwayazwirBavati. atropapattiH. atra carajyA
+133129:0:  te: kujye trijyAdyujyApariRate. atastAByAM cAnupAtaH
+133130:0:  te: yadi carajyayA kujyA laByate tadA sUtreRa kimiti
+133131:0:  te: PalaM kalA. sA kalA'horAtravftte jyA. sA pala
+133132:0:  te: vaSAdakzakarRavat tiraScIMnAM jAtA. aTa tasyAH
+133133:0:  te: kowisUtramAtramAneyam. tatrAnupAtaH. yadi palakzetra
+133134:0:  te: karRena tatkowirlaByate tadA kalAkarRena kimiti
+133135:0:  te: PalamunmaRqalaSaNkfgrasamasUtrAduparyarkabimbAdaDa UrDvaM
+133136:1:  te: kowirUpaM Bavati. tasyezwayazwisaMjYAM prami
+133137:1:  te: snAyuBiSca praticCannAn santatAMSca jarAyuRA. SlezmARA
+133138:0:  te: vezwitAScApi kalABAgAMstu tAn viduH. DAtvASayAntare
+133139:0:  te: DAtoryaH kledastvaDitizWati. dehozmaRABipakvaSca sA kaletya
+133140:1:  te: BiDIyate' BAvapra0</reN> ukte (7)dehasTe DAtvASayAntarasTe
+133141:0:  te: DAtukledaBede <vn>tadBedASca tatrEvoktAH. <reN>`AdyA mAMsaDarA
+133142:1:  te: poktA dvitIyA raktaDAriRI. medoDarA tftIyA tu
+133143:1:  te: caturTIM SlezmaDAriRI. paYcamI ca malaM Datte zazWI pitta
+133144:0:  te: DarA matA. retoDarA saptamI syAditi saptakalAH smftAH
+133145:2:  te: '</reN></vn> (8)ekamAtrAtmakalaGuvarRe <reN>`zaqvizame'zwO same kalAstASca
+133146:0:  te: same'syurno nirantarAH. na samAtra parASritA kalA
+133147:1:  te: '</reN> <reN>`sarvagurvantamaDyAdiguravo'tra catuzkalAH. jYayASca
+133148:1:  te: turlaGUpetA paYcAryyAdizu saMsTitAH' iti ca
+133149:1:  te: vfttara0</reN> (9)`fRaprayoge mUlaDanAdaDike AyatvenADamarRena
+133150:0:  te: uttamarRAya dIyamAne vfdDirUpe (suda) padArTe medi
+133151:1:  te: mAse Satasya yadi paYca kalAntaraM syAt' lIlA0</reN> (10) strI
+133152:1:  te: rajasi (11) nOkAyAM (12)kapawe ca viSvaH. (13)gItAdividyABeda
+133153:0:  te: sA ca catuH zazwi 34 viDA SEvatantroktA yaTA--1 gItam
+133154:1:  te: vAdyam 3 nftyam 4 nAwyam. 5 AleKyam 6 viSezakacCedyam
+133155:1:  te: taRqulakusumabalivikArAH 8 puzpAstaraRam 9 daSanavasanA
+133156:0:  te: NgarAgAH 10 maRiBUmikAkarma 11 Sayanaracanam 12 uda
+133157:0:  te: kavAdyam 13 udakaGAtaH 14 citrAyogAH
+133158:0:  te: mAlyagraTanavikalpAH 16 keSaSeKarApIqayojanam
+133159:0:  te: nepaTyayogAH 18 karRapatraBaNgAH 19 ganDayuktiH
+133160:0:  te: BUzaRayojanam. 21 indrajAlam 22 kOcumArayogAH
+133161:0:  te: hastalAGavam 24 citraSAkApUpaBakzyavikA
+133162:0:  te: rakriyA 25 pAnakarasarAgAsavayojanam 26 sUcI
+133163:0:  te: vApakarma 27 vIRAqamarukasUtrakrIqA 28 prahelikA
+133164:0:  te: pratimA 30 durvacakayogAH 31 pustakavAcanam
+133165:1:  te: a 32 nAwikAKyAyikAdarSanam 33 kAvyasamasyApUraRam
+133166:0:  te: pawwikAvetravARavikalpAH 35 tarkUkarmARi
+133167:0:  te: takzaRam 37 vAstuvidyA 38 rUpyaratnaparIkzA
+133168:0:  te: DAtuvAdaH 40 maRirAgajYAnam 41 AkarajYAnam
+133169:1:  te: vfkzAyurvedayogAH 43 mezakukkuwalAvakayudDaviDiH
+133170:1:  te: SukasArikApralApanam 45 usAdanam
+133171:0:  te: keSamArjanakOSalam 47 akzaramuzwikAkaTanam
+133172:0:  te: mlecCitaka vikalpAH 49 deSaBAzAjYAnam 50 puzpa
+133173:0:  te: SakawikAnimittajYAnam 51 (atra nimittajYA
+133174:0:  te: namiti pfTak kecit paWanti). yantramAtfkA
+133175:0:  te: DAraRamAtfkA 53 sampAwyam 54 mAnasI kAvya
+133176:0:  te: kriyA 55 kriyAvikalpAH 56 CalitakayogAH
+133177:0:  te: aBiDAnakozacCandojYAnam. 58 vastragopanAni
+133178:0:  te: dyUtaviSezaH 60 AkarzaRakrIqA 61 bAlakakrIqanakAni
+133179:0:  te: vEnAyikInAM vidyAnAM jYAnam. 63 vEjayikInAM
+133180:0:  te: vidyAnAM jYAnam 64 vEtAlikInAM vidyAnAM jYAnam iti
+133181:0:  te: BAga0 945 a0 24 Slo0 wIkAyAM SrIDaraliKitAH. kvacit
+133182:0:  te: pustake sUcIvApakarmmasUtrakrIqetyekaM padam taduttaraM
+133183:0:  te: vIRAqamarukavAdyAnIti. vEtAlikInAmityatra vEyAsikI
+133184:0:  te: nAmiti ca pAWo dfSyate.</vn> <reN>`ahorAtrEScatuH zazwyA saMyatO
+133185:2:  te: tAvatIH kalAH' BAga0 10,45,28.</reN> <reN>`catuH zazWyaNgamada
+133186:1:  te: dat kalAjYAnaM mamAdButam' BA0 anu0 18 a
+133187:2:  te: aDigata kalAkalApakam' kAda0.</reN><reN>`catuH zazwikalA
+133188:1:  te: vidyA ISvarIprItivardDanam' gAyatrIkavacam. </reN></13><page>vp3_201.pdf</page><column>1</column><br/>
+133189:0:  te:  %kalAkula% na0 <vkr><vg>kalayA mAtrayApi Akulayati</vg> Akuli
+133190:0:  te: nAmaDA0 ac.</vkr> (1)halAhalavize rAjani0.</1><page>vp3_208.pdf</page><column>1</column><br/>
+133191:0:  te:  %kalAkeli% pu0 <vg>kaleva kelirasya.</vg> (1)kAmadeve trikA0.</1><page>vp3_208.pdf</page><column>1</column><br/>
+133192:0:  te:  %kalANkura% puMstrI <vg>kalasyANkuro yatra.</vg> (1)sArasapakziRi trikA
+133193:0:  te: jAtitvAt striyAM NIz. <vg>kalAnAmaNkuro yatra.</vg> (2)steya
+133194:1:  te: SAstrapravarttake mUladeve karRIsute trikA0. <vn>mUladevasya
+133195:0:  te: steyarUpaSilpapravarttakatvAt kalANkuratvam. kaMsAsure
+133196:0:  te: iti SabdakalpadrumoktiScintyA karRIsutaSabde vivfMtiH.</vn></2><page>vp3_208.pdf</page><column>1</column><br/>
+133197:0:  te:  %kalANgalA% strI <reN>`satomarANkuSA rAjan! saSataGnIkalANgaleti
+133198:1:  te: ' BA0 va0 15 a0</reN> <vn>16 Sloke tAdfSaSabdaM kalpayan voTaliN
+133199:1:  te: buDo BrAntaH. <vkr>tatra SaWaGnyA sahitaM saSataGnIkaM <reN>`nadyftaH
+133200:1:  te: kap' pA0</reN> kap.</vkr> tAdfSaM lANgalaM yatra saSataGnIkalANgalA
+133201:0:  te: ityarTakatayA na tasya kalANgalaSabdaGawitatvamiti boDyam.</vn><page>vp3_208.pdf</page><column>1</column><br/>
+133202:0:  te:  %kalAcI% strI <vkr><vg>kalAmacati gacCati</vg> aca--gatO aR upa
+133203:0:  te: samA0 gOrA0 NIz pA0 mugDabo0 zaR zittvAt Ip
+133204:0:  te: itiBedaH.</vkr> (1)prakozWe kaPoReraDaHsTe maRibanDaparyyantahastA
+133205:0:  te: vayave. <vkr>svArTe kan.</vkr> <vn>kalAcikApyatra hemaca0.</vn></1><page>vp3_208.pdf</page><column>1</column><br/>
+133206:0:  te:  %kalAwIna% puM strI <vkr><vg>kalenAwanam</vg> AwaH kalAwastatra sADuH
+133207:0:  te: Ka.</vkr> (1)karkANge pakziBede hArA0 <vkr>jAtitvAt striyAM NIz.</vkr><page>vp3_208.pdf</page><column>2</column><br/>
+133208:1:  te:  %kalAjAjI% strI <vkr><vg>kalAyE jAyate</vg> jana--qa taTA sato AjA
+133209:1:  te: yate jana-qa gOrA0 NIz.</vkr> (kalOYjA) (maNgarElA)
+133210:0:  te: pAScAttyaBAzAprasidDe vfkzaBede Sabdaci0.</1><page>vp3_208.pdf</page><column>2</column><br/>
+133211:0:  te:  %kalAda% pu0 <vkr><vg>kalAmaMSamAdatte</vg> A--dA--ka.</vkr> (1)svarRakAre amaraH
+133212:0:  te: alaNkAragaWanArTaM gfhItaDanasyAMSaharaRAttasya taTAtvam. </vn></1><page>vp3_208.pdf</page><column>2</column><br/>
+133213:0:  te:  %kalAdaka% pu0 <vkr><vg>kalAmatti</vg> ada--Rvul 6ta0.</vkr> (1)svarRakAre
+133214:0:  te: Sabdaca0 <vn>gaWanArTaM dattadravyAMSasya BojitvAttasya taTAtvam.</vn></1><page>vp3_208.pdf</page><column>2</column><br/>
+133215:0:  te:  %kalADara% pu0 <vkr><vg>kalAH Darati</vg> Df--ac 6ta0.</vkr> (1)candre
+133216:0:  te: catuHzazwikalADArakamAtre tri0.</2><page>vp3_208.pdf</page><column>2</column><br/>
+133217:0:  te:  %kalAniDi% ka0 <vkr><vg>kalAniDIyate'smin</vg> ni+DA--ADAre ki
+133218:1:  te: upapa0 sa0.</vkr> (1)candre amaraH. <reN>`aho mahatvaM mahatAmapUrvvaM
+133219:2:  te: vipattikAle'pi parokAraH. yaTA''syamaDye patito'pi
+133220:2:  te: rAhoH' `kalAniDiH puRyacayaM dadAti' udBawaH.</reN><page>vp3_208.pdf</page><column>2</column><br/>
+133221:0:  te:  %kalAnunAdin% pu0 <vkr><vg>kalamanunadati</vg> anu+nada--Rini 6ta
+133222:0:  te: Bramare (2)cawake (3)kapiYjale (4)cAtake ca <vkr>jAtitvAt
+133223:0:  te: strItvamapi tatra nAntatvAt NIp.</vkr></4><page>vp3_208.pdf</page><column>2</column><br/>
+133224:0:  te:  %kalAntara% pu0 <vkr><vg>anyA kalA aMSaH</vg> mayU0 sa0.</vkr> (1)vfdDiBede <reN>`mAse
+133225:1:  te: Satasya yadi paYca kalAntaraM syAditi' lolAvatI</reN> (2)anyasyAM
+133226:1:  te: candra kalAyAYca <reN>`jyotsnAntarARIva kalAntarARi' kumA0.</reN></2><page>vp3_208.pdf</page><column>2</column><br/>
+133227:0:  te:  %kalAnyAsa% pu0 <vg>kalAnAM nyAsaH.</vg> (1)tantrokte nyAsaBede <vn>kalASca
+133228:0:  te: kalASabde darSitAH SAradAtilakoktarItyA tAsAM pUjANgatayA
+133229:0:  te: nyAsaH. dehe kalAviSezasya nyAsaSca yaTA
+133230:0:  te: tantrasAre `SizyaSarIre kalAnyAsaM kuryyAt. tadyaTA
+133231:0:  te: ISatrayeRa pAdatalAjjAnuparyyantam oM nivfttyE namaH
+133232:0:  te: jAnuyanonABiparyantam oM pratizWAyE namaH. nABerAkaRWam
+133233:0:  te: oM vidyAyE namaH kaRWAdAlalAwam oM SAntyE namaH
+133234:0:  te: lalAwAdbrahmaranDaparyyantam oM SAntyatItAyE namaH. punarbrahma
+133235:1:  te: ranDrAdAlalAwam oM SAntyatItAyE namaH lalAwAdAkaRWam
+133236:0:  te: oM SAntyE namaH. kaRWAnnABiparyyantam oM vidyAyE namaH
+133237:0:  te: nABerjjAnuparyyantam oM pratizWAyE namaH jAnunaH pAda
+133238:0:  te: paryyantam oM nivfttyE namaH.</reN></vn></1><page>vp3_208.pdf</page><column>2</column><br/>
+133239:0:  te:  %kalApa% pu0 <vkr><vg>kalAM mAtrAmApnoti</vg> Ap--aR.</vkr> (1)samUhe, (2)mayUra
+133240:0:  te: picCe, (3)BUzaRe, (4)kAYcyAm, (5)candre, medini0</5> <vn>tatra
+133241:2:  te: samUhe <reN>`muktAkalApokftasinDuvAram' kumA0.</reN> <reN>`aDigatakalA
+133242:5:  te: pakam' varhe AlambiBiScandrakiRaH kalApEH.</reN> <reN>`dfzwveva
+133243:1:  te: nirjjitakalApaBarAmaDastAt vyAkIrRamAlyakavarAM kavarIM
+133244:1:  te: taruRyAH' mAGaH.</reN> <reN>BUzaRe `muktAkalApasya ca nistalasya
+133245:2:  te: ' kumA0.</reN> <reN>`muktAkalApasya muktABUzaRasya' malli0.</reN> <reN>kAYcyAm
+133246:1:  te: raSanAkalApaguRena baDUH' mAGaH.</reN></vn> (6)tURe <vn>tURaSca
+133247:1:  te: SarapUrsRaH carmmamayaH BastrArUpaH yaTAha <reN>`kalApinaH
+133248:3:  te: ' kAtyA0 22,3,18, vyA0</reN> <reN>`kalApaSabdena SaramUrRA
+133249:2:  te: carmamayI Bastrocyate' karkaH.</reN> <reN>`kalApI cazAlaH
+133250:3:  te: ' ASva0 SrO0 9,7,18</reN> <reN>`sA meDI agrapradeSe DAnaypUlE
+133251:2:  te: rbadDA tizWati sa eva cazAlo Bavati' nArA0</reN> <vn>vfttyukteH
+133252:1:  te: ' DAnyapUlAnAM SaratulyatvAropeRa bahuSaravattvaguRayo
+133253:0:  te: gAttURavattvam iti taTA ca gORyA cazAlasya kalA
+133254:0:  te: pitvam.</vn> (7)Sare <reN>`kalApinO DanuzpARI SoBamAnO
+133255:2:  te: diSodaSa' rAmA0 1,22,7</reN> <vn>atrArTe klIvatvamapi <reN>`paripsa
+133256:1:  te: mAnaH pArTAnAM kalApAni DanUMzi ca' BA0 va0 157 a
+133257:1:  te: Danuzi. <reN>`hAridravarRA ye tvete hemapuNKAH SilA
+133258:0:  te: SitAH (SarAH). nakulasya kalApo'yaM paYcaSArdUlalakzaRaH
+133259:1:  te: yenAsO vyajayat kftsnAM pratIcIM diSamAhave' BA
+133260:1:  te: vi0 65 a0 nakulAstrakaTane.</reN> (9)ardDacandrakArAstraBede ca
+133261:0:  te: KaqgAMSca dIptAn dIrGAMSca kalApAMSca mahADanAn. vipA
+133262:2:  te: zWAn kzuraDArAMSca DanurBirnidaDuH saha' BA0 vi0 5 a
+133263:0:  te: kalApaH kArttikeyamayUrapicCaH utpattisTAnatvenAstyasya
+133264:0:  te: ac.</vkr> (10)vyAkaraRaBede <vn>kArttikeyamayUrapicCayonitvAttasya
+133265:0:  te: taTAtvam.</vn> <reN>`aDunA svalpatantratvAt kAtantrAKyaM Bavizyati
+133266:1:  te: tadvAhanakalApasya nAmnA kAlApakaM taTA' vfhatkaTA
+133267:0:  te: sAraH.</reN> (11)grAmaBede. <reN>`devApiryogamAsTAya kalApa
+133268:0:  te: grAmamAsTitaH. somavaMSe kalO nazwe kftAdO sTApayi
+133269:2:  te: zyati' BAga0 9,12,13</reN> <reN>`sudarSano'TAgnivarsRaH SIGra
+133270:0:  te: stasya maruH sutaH. yo'sAvAste yogasidDaH kalApagrAma
+133271:1:  te: mAsTitaH. kalerante sUryyevaMSaM nazwaM BAvayitA punaH
+133272:1:  te: ' BAga0 9,12,5</reN> <reN>`satyaBAmA taTEvAnyA devyaH kfzRasya sammatAH
+133273:0:  te: vanaM praviviSUrAjaMstapase kftaniScayAH. PalamUlAdi
+133274:0:  te: Bojinyo hariDyAnEkatatparAH. himavantamatikramya
+133275:1:  te: kalApagrAmamAviSan' BA0 mO0 7 a0.</reN> <vn>tenAsya hima
+133276:1:  te: vaduttarapArSve sanniveSa iti gamyate
+133277:1:  te: candre tu kalAmApnoti Apa--aR kalA pAti pA--ka vA
+133278:0:  te: vyutpattiH. tasya kalApatitvAt kalADAratvAcca taTAtvam
+133279:0:  te: vidagDe tri0 medi0 <vn>viviDakalADaratvAttasya taTAtvam. </vn><page>vp3_208.pdf</page><column>2</column><br/>
+133280:0:  te:  %kalApaka% pu0 <vkr>kalApa+svArTe kan.</vkr> (1)kalApArTe, (2)hastiskanDa
+133281:0:  te: banDe, hemaca0 (3)ekavAkyatApanne Slokacatuzke na
+133282:0:  te: CandobadDapadaM padyaM tenEkena ca muktakam. dvAByAM
+133283:1:  te: yugmaYca sandAnitakaM triBirihezyate. kalApakaM caturBiSca
+133284:1:  te: paYcaBiH kulakaM matam' sA0 da0</reN> ukteH <reN>kirAte udA0. lokaM
+133285:0:  te: viDAtrA vihitasya goptuM kzatrasya muzRan vasu jEtramojaH
+133286:0:  te: tejasvitAyA vijayEkavftterniGnan priyaM prARamivABimA
+133287:0:  te: nam 1. vrIqAnatErAptajanopanItaH saMSayya kfcCreRa nfpEH
+133288:0:  te: prapannaH. vitAnaBUtaM vitataM pfTivyAM yaSaH samUhanniva
+133289:1:  te: digvikIrRam'</reN> <reN>2. vIryyAvadAnezu kftAvamarzastanvannaBUtAmiva
+133290:0:  te: sampratItim. kurvan prayAsakzayamAyatInAmarkatvizAmahna
+133291:0:  te: ivAvaSezaH. 3 prasahya yo'smAsu parEH prayuktaH smarttuM na
+133292:0:  te: SakyaH kimutADikarttum. navIkarizyatyupaSuzyadArdraH
+133293:1:  te: sa tvadvinA me hfdayaM nikAraH 4.</reN> <vn>' kalApinomayUrAyasmin
+133294:0:  te: kAle so'pi kAlaH kalApI upacArAt tasmin kAle
+133295:2:  te: deyamfRam <reN>`kalApyaSvatyayavabusAdvun' pA0</reN> vun.</vkr></vn> (4)kalApaka
+133296:1:  te: M 2 tatkAle deye fRe na0 si0 kO0.</4><page>vp3_209.pdf</page><column>2</column><br/>
+133297:0:  te:  %kalApadvIpa% pu0 <vg>kalApo grAmo dvIpa iva vfhattvAt.</vg> (1)kalApa
+133298:0:  te: grAme <vn>sa ca grAmaH himavantamatikramya uttaratra varttamAnaH
+133299:0:  te: kalApaSabde darSitaH. <reN>`agnivarRasutaH SoGraH SIGrasya tu
+133300:0:  te: maruH sutaH. marustu yogamAsTAya kalApadvIpamAsTitaH
+133301:1:  te: ' harivaM0 15 a0.</reN> asyEva kalApagrAmatvena BAga
+133302:0:  te: uktiH tacca vAkyaM kalApaSabde darSitam.</vn></1><page>vp3_209.pdf</page><column>2</column><br/>
+133303:2:  te:  %kalApin% <vkr><vg>kalApovarho'syAsti</vg> ini.</vkr> (1)mayUre tadvarhatulya
+133304:1:  te: SAKAvati (2)vawavfkze medi0. <vkr>Apa--Rini kalasyApI 6ta
+133305:1:  te: kokile. <reN>`DvanihfzwakUjitakalAH kalApinaH' mAGaH
+133306:1:  te: kalApinAmudDatanftyahetO' raGuH.</reN> (3)kalApaSabdArTavati tri
+133307:0:  te: kalApaSabde rAmAyaRAdivAkyamudAhftam.</vn> <vkr>striyAM NIp
+133308:0:  te: vESampAyanAntivAsiBede pu0 <reN>tadantevAsinaSca Ala
+133309:0:  te: mbaH laNgaH kamalaH fcAmaruRi tARqyaH SyAmAyanaH
+133310:0:  te: kaWaH kalApIti kalApino'ntevAsinaSca haridruSCagalI
+133311:1:  te: tumbururulapaSceti catvAraH' mano0.</reN> <vkr><reN>`kalApivESa
+133312:1:  te: mpAyanAntevAsiByaH' pA0</reN> tena proktamaDIyate Rini
+133313:0:  te: kalApinastatproktADye tfzu ba0 va0.</vn></4><page>vp3_209.pdf</page><column>2</column><br/>
+133314:0:  te:  %kalApinI% strI <vkr><vg>kalApaScandro'styasyAm</vg> ini.</vkr> (1)rAtrO rAjani
+133315:0:  te: kalApatulyAkAravattvAt nAgaramustAyAM rAjani0.</1><page>vp3_209.pdf</page><column>2</column><br/>
+133316:1:  te:  %kalApUrRa% pu0 <vg>kalABiH pUrRaH.</vg> (1)candre SabdacandrikA. (2)kalA
+133317:1:  te: BiH pUrRe tri0. <reN>`sadA BavAn PAlgunasyaM guRErasmAn
+133318:1:  te: vikatTate. na cArjjunaH kalApUrRaH mama duryoDanasya ca
+133319:1:  te: ' BA0 vi0 36 a0. </reN></2><page>vp3_209.pdf</page><column>2</column><br/>
+133320:0:  te:  %kalABft% <vkr><vg>kalAM biBartti</vg> Bf--kvip 6ta0.</vkr> (1)kalADArake candre
+133321:1:  te: hema0 <reN>`kalA ca sA kAntimatI kalABf(va)taH' kumA
+133322:0:  te: SilpAdiDArake tri0. <reN>`daSAvdAKyaM pOrasaKyaM
+133323:1:  te: paYcAvdAKyaM kalABftAm' manuH.</reN></2><page>vp3_210.pdf</page><column>1</column><br/>
+133324:0:  te:  %kalAya% pu0 <vkr><vg>kalAmayate</vg> aya--aR.</vkr> (mawara) (1)SamIDAnyaBede
+133325:1:  te: kalAyomaDuraH svAduH pAke rUkzaSca SItalaH. kazAyo
+133326:1:  te: vAtalogrAhI kaPapittaharo laGuH' BAvapra0 tadguRAH
+133327:1:  te: kalAyaparimaRqalamuBayatomukulAgram' suSru0.</reN> <reN>`vika
+133328:2:  te: satkalAyakusumAsitadyute!' mAGaH</reN> (2)gaRqadUrvvAyAM strI. </2><page>vp3_210.pdf</page><column>1</column><br/>
+133329:0:  te:  %kalAyana% <vg>kalAnAmayanaM yatra.</vg> (1)narttakamAtre Sabdaca0</1><page>vp3_210.pdf</page><column>1</column><br/>
+133330:0:  te:  %kalAlApa% puMstrI <vkr><vg>kalamAlapati</vg> A+lapa--aR upa0 sa
+133331:0:  te: Bramare. rAjani0. <vkr>striyAM jAtitvAt NIz. 6ta
+133332:0:  te: kalasyAlApe pu0</2><page>vp3_210.pdf</page><column>1</column><br/>
+133333:0:  te:  %kalAvat% pu0 <vkr><vg>kalA amftAdikAH santyatra</vg> matup masya vaH
+133334:1:  te: candre <reN>`kalA ca kAntimatI kalAva (Bf) taH' kumA
+133335:0:  te: gItAdikalAyuktamAtre aMSavati ca tri0 <vkr>striyAM NIp </vkr><page>vp3_210.pdf</page><column>1</column><br/>
+133336:1:  te:  %kalAvatI% strI (1)SA0 ti0 4 pawalokte dIkzABede. <vn>sA ca
+133337:1:  te: aTa dIkzAM pravakzyAmi mantriRAM hitakAmyayA. vinA'nayA
+133338:0:  te: na laByeta sarvvamantraPalaM tataH jYAnaM divyaM yatodadyAt
+133339:0:  te: kuryyAt pApakzayaM yataH. tasmAddIkzeti sA proktA deSikE
+133340:2:  te: stantravediBiH. tacurviDA sA sandizwA kriyAvatyAdi
+133341:1:  te: BedataH. kriyAvatI varsRamayo kalAtmA veDavatyapi
+133342:1:  te: tAH krameREva kaTyante tantre'smin sampadAvahAH' ityupakramya
+133343:0:  te: darSitA.</reN> tatra kalAtmA kalASabdadarSitaSAradAtilakokta
+133344:0:  te: paYcASatkalAvatItyarTaH. kalAtmApyatra.</vn></1><page>vp3_210.pdf</page><column>1</column><br/>
+133345:0:  te:  %kalAvika% puM strI <vkr><vg>kalena samyak vikAyati viSezeRa SabdA
+133346:0:  te: yate</vg> A+vi+kE-ka 3 ta0.</vkr> (1)kukkuwe trikA0 <vn>tasya
+133347:0:  te: rAtriSeze viSezeRa SabdAyamAnatvAt taTAtvam.</vn> <vkr>striyAM
+133348:0:  te: jAtitvAt NIz.</vkr></1><page>vp3_210.pdf</page><column>1</column><br/>
+133349:0:  te:  %kalAvikala% puM strI <vg>kalenAvikalaH.</vg> (1)cawake Sabdara0 <vkr>striyAM
+133350:0:  te: jAtitvAt NIz.</vkr> </2><page>vp3_210.pdf</page><column>1</column><br/>
+133351:0:  te:  %kalAhaka% pu0 <vkr><vg>kalamAhanti</vg> A+han kvip saMjYAyAM kan. (1)kAhalavAdye SabdaratnA0.</vkr><page>vp3_210.pdf</page><column>1</column><br/>
+133352:0:  te:  %kali% pu0 <vkr>kala--SabdAdO in.</vkr> (1)caturTe yuge tanmAnamAha
+133353:0:  te: purARasarvvasve brahmapu0. <reN>`divyavarzasahasrEstu kftatretA
+133354:0:  te: disaMjYitam. caturyugaM dvAdaSaBistadviBAgaM niboDa me
+133355:0:  te: catvAri trIRi dve cEkaM kftAdizu yaTAkramam. divyA
+133356:1:  te: vadAnAM sahasrARi yugezvAhuH purAvidaH. tatpramAREH
+133357:2:  te: SatEH sanDyA pUrvvA tatrABiDIyate. sanDyAMSakaSca tattulyo
+133358:0:  te: yugasyAnantarohi saH. sanDyAsanDyAMSayorantaH kAlovE
+133359:0:  te: munisattama!. yugAKyaM tattu vijYeyaM kftatretAdi
+133360:1:  te: saMjYitam'.</reN> <vn>sUryyasidDAnte'pyuktaM yaTA
+133361:2:  te: sUryyAbdasaNKAyA dvitrisAgarErayutAhatEH. sanDyAsa
+133362:0:  te: nDyAMSasahitaM vijYeyaM taccaturyugam. kftAdInAM
+133363:1:  te: vyavasTeyaM DarmapAdavyavasTayA' sU0 si
+133364:0:  te: tezAM divyavarzARAM dvAdaSa sahasrARi caturyugam
+133365:0:  te: caturRAM yugAnAM kftatretAdvAparakalpAKyAnAM samAhAro
+133366:0:  te: yogastadAtmakaM mahAyugamityarTaH. etaddyotanArTaM catu
+133367:1:  te: rityuktiranyaTA yugamityuktO tadvEyarTyApatte. mAnA
+133368:0:  te: BijYEruktam. aTa sOramAnena  tatsaMKyAM viSezaM
+133369:0:  te: cAha. sUryAvdasaNKyayeti taddevAsuramAnenoktaM catu
+133370:0:  te: ryugaM dvAdaSasahasravarzAtmakaM mahAyugaM sanDyAsanDyAMSa
+133371:0:  te: sahitam. yugacaraRasyAdyantayoH krameRa pratyekaM sanDyA
+133372:0:  te: sanDyAMSAByAM yuktaM sadeva sanDyAsanDyAMSAvantargatO na
+133373:0:  te: pfTak yatrEtAdfSam. sOravarzapramARena dvitrisAgarEH
+133374:1:  te: aNkAnAM vAmato gatiH' ityanena dvAtriMSadaDikEScatuH
+133375:0:  te: SatamitEH. ayutena daSasahasreRa guRitEH. KacatuzkadvA
+133376:0:  te: triMSaccaturBiH 432000 parimitaM jYeyamityarTaH. aTa
+133377:2:  te: catuTugAntargatayugANGrIRAM viSezato mAnASravaRAt `samaM
+133378:1:  te: syAdaSrutatvAditi' nyAyena pratyekaM mahAyugacaturTAMSo
+133379:0:  te: mAnamiti caturyugamityanena PalitaM nizeDati. kftA
+133380:2:  te: dInAmiti. kftretAdvAparakaliyugAnAm DarmapAda
+133381:0:  te: vyavasTayA DarmacaraRAnAM sTityA. iyaM vakzyamARA
+133382:0:  te: vyavasTA sTitirjYeyA na tu samakAlapramARaM sTitiH
+133383:0:  te: ayamarTaH--kftayuge catuScaraRo Darma iti tasya mAna
+133384:1:  te: maDikam. tatastretAyAM Darmasya tripAdavattvAt tada
+133385:0:  te: nuroDena tretAmAnaM nyUnam. evaM dvAparakalyo
+133386:0:  te: rDarmasya krameRa dvyekacaraRavattvAt kftatretAmAnAByAM
+133387:0:  te: krameRoktAnuroDAnnyUnamAnam. na tu samaM mAna
+133388:0:  te: miti. aTa sarvaDarmacaraRayogena daSamitena yadi mahA
+133389:0:  te: yugaM Bavati tarhi svasvaDarmacaraREH kimatyanupAtena
+133390:1:  te: pUrvoktaPalitena kftAdiyugAnAM mAnajYAnaM saviSe
+133391:1:  te: zaRamAha'. raNga0. tena 4320000 varzAstanmAnam
+133392:0:  te: yugasya daSamo BAgaScatustridvyekasaNguRaH. kramAt kfta
+133393:1:  te: yugAdInAM zazWAMSaH sanDyayoH svakaH' sU0 si
+133394:2:  te: prAguktadivyavarzadvAdasahasramitasya yugasya daSamo BAgo
+133395:0:  te: daSAMSa ityarTaH. caturdDA krameRa catustridvyekErguRitaH
+133396:1:  te: guRakramAt kftayugAdInAM kftatretAdvAparakaliyugAnAM
+133397:0:  te: mAnaM syAditi SezaH. nanu manugranTe kftAdimAnaM
+133398:0:  te: divyavarzapramARena 4000. 3000. 2000. 1000. uktam
+133399:0:  te: atra tu tanmAnaM tadvarzapramARena
+133400:0:  te: iti viroDa ityata Aha. zazWa iti
+133401:1:  te: svakaH svasambanDo zazWo viBAgaH sanDyayorAdyantasanDya
+133402:0:  te: yorEkyakAla iti SezaH. taTA ca maduktamAnAni
+133403:0:  te: ezAM zaqaMSAH
+133404:0:  te: ete svasvayugAnAmAdyantayoH
+133405:0:  te: sanDyayoryoga ityezAmarDaM sanDikAlaH. pratyekamAdyantayoH
+133406:0:  te: sanDikAlaH 400. 300. 200. 100. anena pratyekaM
+133407:0:  te: maduktamAnaM nyUnIkftaM granTAntaroktaM kevalaM mAnaM
+133408:0:  te: Bavati na svasanDiByAM sahitam. yaTA kftAdisanDiH
+133409:0:  te: kftamAnam 4000. kftAntasanDiH 400. yoge
+133410:0:  te: tretAdisanDiH 300 tretAmAnaM 3000 tretAntasanDiH
+133411:4:  te: yoge 3600 dvAparAdisanDiH 200 dvAparamAnaM
+133412:4:  te: dvAparAntasanDiH 200. yoge 2400. kalyAdisanDiH 100 kali
+133413:0:  te: mAnam 1000 kalyantasanDiH 100. 1200 evaM ca
+133414:0:  te: svasanDiByAM sahitaM mayoktaM svasambanDAt sanDyayostada
+133415:1:  te: ntargatatvAcceti na viroDa iti BAvaH' raNga
+133416:0:  te: kalO yaTA prARinAM duHSIlatvam DarmmAdihAniSca taTA
+133417:0:  te: varRitam BA0 va0 190 a0 `kfte catuzpAt sakalo nirvyAjo
+133418:1:  te: pADivarjitaH. vfzaH pratizWito Darmmo manuzye BaratarzaBa
+133419:0:  te: aDarmmapAdavidDastu triBiraMSEH pratizWitaH. tretAyAM dvApare
+133420:0:  te: 'rdDena vyAmiSro Darma ucyate. triBiraMSEraDarmastu lokA
+133421:0:  te: nAkramya tizWati. tAmasaM yugamAsAdya tadA Baratasattama
+133422:0:  te: caturTAMSena Darmastu manuzyAnupatizWati. AyurvvIryyamaTo
+133423:0:  te: budDirbalantejaSca pARqava!. manuzyARAmanuyugaM hrasatIti
+133424:0:  te: niboDa me. rAjAno brAhmaRA vESyA SUdrAScEva yuDi
+133425:0:  te: zWira!. vyAjErDarmaYcarizyanti DarmavEtaMsikA narAH. satyaM
+133426:5:  te: saMkzapmyate loke narEH paRqimAniBiH. satyahAnmA
+133427:2:  te: tatastezAmAyuralpaM Bavizyati. AyuzaH prajYayAdvidyAM na
+133428:2:  te: SakzyantyupajIvitum. vidyAhInAnavijYAnAllOz Bo'pyaBi
+133429:0:  te: Bavizyati. loBakroDaparA mUQAH kAmAsaktASca mAnavAH
+133430:0:  te: vErabadDA Bavizyanti parasparabaDEziRaH. brAhmaRAH kzatriyA
+133431:1:  te: vESyAH saMkIryyante parasparam. SUdratulyA Bavizyanti tapaH
+133432:0:  te: satyavivarjjitAH. antyA maDyA Bavizyanti, maDyAScAntyA
+133433:0:  te: na saMSayaH. IdfSo BavitA loko yugAnte paryyupasTite
+133434:0:  te: vastrARAM pravarA SARI, DAnyAnAM koradUzakAH. BAryyA
+133435:1:  te: mitrASca puruzA Bavizyanti yugakzaye. matsyAmizeRa
+133436:0:  te: jIvanto duhantaScApyajEqakam. gozu nazwAsu puruzA ye'pi
+133437:0:  te: nityaM DftavratAH. te'pi loBasamAyuktA Bavizyanti yuga
+133438:1:  te: kzaye. anyo'nyaM parimuzRanto hiMmayantaSca mAnavAH
+133439:0:  te: ajapA nAstikAH stenA Bavizyanti yugakzaye. sarittIrezu
+133440:0:  te: kuddAlErvApayizyanti cOzaDIH. tAScApyalpaPalAstezAM
+133441:0:  te: Bavizyanti yugakzaye. SrAdDe dEve'pi puruzA ye'pi nityaM
+133442:0:  te: DftavratAH. te'pi loBasamAyuktA BokzyantIha parasparam
+133443:0:  te: pitA putrasya BoktA ca, pituH puttrastaTEva ca. ati
+133444:0:  te: krAntAni BojyAni Bavizyanti yugakzaye. na vratAni
+133445:0:  te: carizyanti brAhmaRA vedanindakAH. na yakzyanti na
+133446:0:  te: hozyanti hetuvAdavimohitAH. nimnezvIhAM karizyanti
+133447:0:  te: hetuvAdavimohitAH. nimne kfziM karizyanti yokzyanti
+133448:0:  te: Duri DenukAH. ekahAyanavatsAMSca yojayizyanti mAnavAH
+133449:1:  te: putraH pitfbaDaM kftvA pitA putrabaDaM taTA. nirudvego
+133450:1:  te: vfhadvAdI na nindAmupalasyate. mlecCaBUtaM jagartsarvaM
+133451:0:  te: nizkriyaM yajYavarjjitam. Bavizyati nirAnandamanu
+133452:0:  te: tsavamaTo taTA. prAyaSaH kfpaRAnAM hi taTA banDu
+133453:0:  te: matAmapi. viDavAnAYca vittAni harizyantIha
+133454:0:  te: mAnavAH. svalpavIryyabalAH stabDA loBamohaparAyaRAH
+133455:0:  te: tatkaTAdAnasantuzwA duzwAnAmapi mAnavAH. `pratigrahaM
+133456:0:  te: karizyanti mAyAcAraparigrahAH. samAhvayantaH kOnteya
+133457:1:  te: rAjAnaH pApabudDayaH. parasparabaDodyuktA, mUrKAH paRqi
+133458:0:  te: tamAninaH. Bavizyanti yugasyAnte kzatriyA lokaka
+133459:0:  te: RwakAH. arakzitAro lubDASca mAnAhaNkAradarpitAH
+133460:0:  te: kevalaM daRqarucayo Bavizyanti yugakzaye. AkramyA
+133461:2:  te: kramya sADUnAM dArAMScApi DAnani ca. Bokzyante
+133462:0:  te: niranukroSA rudatAmapi BArata!. na kanyAM yAcate
+133463:0:  te: kaScinnApi kanyA pradIyate. svayaMgrAhA Bavizyanti
+133464:0:  te: yugAnte samupasTite. rAjAnaScApyasantuzwAH. parArTAn
+133465:1:  te: mUQacetasaH. sarvopayErharizyanti yugAnte paryyupasTite
+133466:1:  te: mlecCIBUta jagatsarvvaM Bavizyati na saMSayaH. hastA
+133467:1:  te: hasti parimuzedyugAnte samupasTite. satyaM saMkzepyate
+133468:1:  te: loke narEH paRqitamAniBiH. svavirA bAlamatayo
+133469:1:  te: bAlAH sTavirabudvayaH. BIrustaTA SUramAnI SUrA
+133470:0:  te: BIruvivAdinaH. na viSvasanti cAnyo'nya yugAnte
+133471:0:  te: paryyupasTite. ekahAryyaM yugaM sarvaM loBamohavyava
+133472:0:  te: sTitam. aDarmmo vardDate tatra na tu DarmaH prava
+133473:1:  te: rttate. brAhmaRAH kzatriyA vESyA na Sizyante janA
+133474:0:  te: Dipa!. ekavarRastadA loko Bavizyati yugakzaye. na
+133475:2:  te: kzaMsyati pitA putraM, putraSca pitaraM taTA. BAryyASca
+133476:0:  te: patiSuSrUzAM na karizyanti saMkzaye. ye yavAnnA jana
+133477:0:  te: padA goDUmAnnAstaTEva ca. tAn deSAn saMSrayi
+133478:0:  te: zyanti yugAnte paryyupasTite. svErAcArASca puruzA
+133479:0:  te: yozitaSca viSAmpate!. anyo'nyaM na sahizyanti
+133480:0:  te: yugAnte paryyupasTite. mlecCIBUtaM jagatsarvaM Bavi
+133481:1:  te: zyati yuDizWiraH!. na SrAdDEstarpayizyanti dEvatAnIha
+133482:0:  te: mAnavAH. na kaScit kasya cicCrotA na kaScit
+133483:1:  te: kasyacidruruH. tamograstastadA loko Bavizyati janA
+133484:0:  te: Dipa!. paramAyuSca BavitA tadA varzARi zoqaSa
+133485:0:  te: tataH prARAn vimokzyanti yugAnte samupasTite
+133486:0:  te: paYcame vA'Ta zazWe vA varze kanyA prasUyate. sapta
+133487:0:  te: varzA'zwavarzASca prajAsyanti narAstadA. patyO strI tu
+133488:0:  te: tadA rAjan! puruzo vA striyaM prati. yugAnte
+133489:0:  te: rAjaSArdUla! na tozamupayAsyati.  alpadravyA vfTAliNgA
+133490:0:  te: hiMsA ca praBavizyati. na kaScit kasyaciddAtA Bavi
+133491:0:  te: zyati yugakzaye. awwaSUlA janapadAH SivaSUlAScatu
+133492:0:  te: zpaTAH. keSaSUlAH striyaScApi Bavizyanti yugakzaye
+133493:0:  te: mlecCAcArAH sarvvaBakzA dAruRAH sarvakarmmasu. BAvinaH
+133494:0:  te: paScime kAle manuzyA nAtra saMSayaH. krayavikrayakAle
+133495:0:  te: ca sarvvaH sarvasya vaYcanam. yugAnte BarataSrezWa! vitta
+133496:0:  te: loBAt karizyati. jYAnAni cApyavijYAya karizyanti
+133497:0:  te: kriyAntaTA. AtmacCandena varttante yugAnte samupa
+133498:1:  te: sTite. svaBAvAt krUrakarmARaScAnyo'nyamaBiSaMsinaH
+133499:0:  te: BavitAro janAH sarvve saMprApte tu yugakzaye. ArA
+133500:0:  te: mAMScEva vfkzAMSca nASayizyanti nirvyaTAH. BavitA

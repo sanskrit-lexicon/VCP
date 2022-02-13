@@ -1,0 +1,500 @@
+361001:0: vcp: <>vanavyApAravattayA kAraRaSabdavAcyatvaM vihAyAlOkika-
+361002:1: vcp: <>viBAvaSabdavAcyatvaM Bajante . teByaSca surate dantaGAtA-
+361003:0: vcp: <>diBya iva suKameva jAyate . ataSca lOkikaSokaharzA-
+361004:0: vcp: <>dikAraReByo lOkikaSokaharzAdayo jAyante iti
+361005:0: vcp: <>loka eva pratiniyamaH . kAvye punaH sarveByo'pi
+361006:1: vcp: <>vimAvAdiByaH suKameva jAyate iti niyamAnna kaScid-
+361007:0: vcp: <>dozaH . kaTaM tarhi hariScandrAdicaritasya kAvyanAwya-
+361008:2: vcp: <>yerapi darSanaSruvaRAByAmaSrupAtAdayo jAyanta ityucyate .
+361009:0: vcp: <>“aSrupAtAdayastadvaddrutatvAccetaso matAH” . tarhi kaTaM
+361010:0: vcp: <>kAvyataH sarvezAmIdfSI rasABivyaktirna jAyata ityAha
+361011:0: vcp: <>“na jAyate tadAsvAdo vinA ratyAdivAsanAm” .
+361012:0: vcp: <>vAsanA cedAnIntanI prAktanI ca rasAsvAdahetuH . tatra
+361013:0: vcp: <>yadi AdyA na syAcCrotriyajaranmImAMsakAdInAmapi sA
+361014:0: vcp: <>syAt . yadi dvitIyA na syAd yadrAgiRAmapi kezA-
+361015:1: vcp: <>YcidrasodboDo na dfSyate tanna syAt . uktaYca Darmadattena
+361016:0: vcp: <>“savAsanAnAM saByAnAM rasasyAsvAdanaM Bavet . nirvA-
+361017:0: vcp: <>sanAstu raNgAntaHkAzWakuqyASmasanniBAH” iti . nanu kaTaM
+361018:0: vcp: <>rAmAdiratyAdyudboDakAraREH sItAdiBiH sAmAjika-
+361019:0: vcp: <>ratyAdyudboDa ityucyate “vyApAro'sti viBAvAdernAmnA
+361020:0: vcp: <>sADAraRIkftiH . tatpraBAvena yasyAsan pAToDiplava-
+361021:2: vcp: <>nAdayaH . samAtA tadaBedena svAtmAnaM pratipadyate” . “nanu
+361022:1: vcp: <>kaTaM manuzyamAtrasya samudralaNganAdAvutsAhodboDa ityu-
+361023:5: vcp: <>cyate “satmAhAdisamudboDaH sADAraRyAmimAgataH . [Page4796-a+ 38]
+361024:1: vcp: <>nFRAmapi samudrAdilaNGanAdO na duzyati” . ratyAdayo'pi
+361025:0: vcp: <>sADAraRyena pratIyanta ityAha sADAraRyena ratyA-
+361026:0: vcp: <>dirapi tadvat pratIyate” . ratyAderapi hyAtmagatatvena
+361027:1: vcp: <>pratItO saByAnAM vrIqAtaNkAdirBavet paragatatvena tvarasya-
+361028:3: vcp: <>tApAtaH viBAvAdayo'pi praTamataH sADAraRyena pratIyante
+361029:0: vcp: <>ityAha “parasya na parasyeti mameti na mameti ca .
+361030:0: vcp: <>tadAsvAde viBAvAdeH paricCedo na vidyate” . nanu
+361031:0: vcp: <>taTApi kaTamevamalOkikatvametezAM viBAvAdInAmityucyate
+361032:0: vcp: <>“viBAvanAdivyApAramalOkikamupeyuzAm . alOkikatva-
+361033:1: vcp: <>metezAM BUzaRaM na tu dUzaRam” . AdiSabdAdanuBAvana-
+361034:2: vcp: <>saYcAraRe . tatra vimAvanaM ratyAderviSezeRAsvAdANkuraRa-
+361035:0: vcp: <>yogyatAnayanam . anuBAvanamevamBUtasya ratyAdeH samana-
+361036:0: vcp: <>ntarameva rasAdirUpatayA BAvanam . saYcAraRaM taTABUtasyE-
+361037:2: vcp: <>tasya samyakcAraRam . viBAvAdInAM yaTAsaNkyaM kAraRa
+361038:1: vcp: <>kAryyasahakAritve kaTaM trayARAmapi rasIdboDe kAraRatva-
+361039:1: vcp: <>mityucyate “kAraRaM kAryyasaYcArirUpA api hi lokataH .
+361040:2: vcp: <>rasodboDe viBAvAdyAH kAraRAnyeva te matAH” . nanu
+361041:0: vcp: <>tarhi kaTaM rasAsvAde tezAmekaH pratiBAsa ityucyate
+361042:0: vcp: <>“pratIyamAnaH praTamaM pratyekaM heturucyate . tataH saMvalitaH
+361043:3: vcp: <>sarvo viBAvAdiH sacetasAm . prapAnakarasanyAyAccarvya-
+361044:0: vcp: <>mARoraso Bavet” . yaTA KaRqamaricAdInAM sammelanAdapUrva
+361045:1: vcp: <>iva kaScidAsvAdaH prapAnakarase saMjAyate viBAvAdisamme-
+361046:0: vcp: <>lanAdihApi taTetyarTaH . nanu yadi viBAvAnuBAvavyaBi-
+361047:0: vcp: <>cAriBirmilitEreva rasastat kaTaM ekasya dvayorvA sadBAve'pi
+361048:0: vcp: <>sa syAdityucyate “sadBAvaScedviBAvAderdvayorakasya vA
+361049:0: vcp: <>Bavet . JawityanyasamAkzepe tadA dozo na vidyate” .
+361050:1: vcp: <>anyasamAkzepaSca prakaraRAdivaSAt . yaTA “dorGAkzaM
+361051:3: vcp: <>SaradindukAnti vadanaM bAhU natAvaMsayoH saNKiptaM nivi-
+361052:2: vcp: <>qonnatastatamuraH pArSve pramfzwe iva . maDyaH pARimino
+361053:1: vcp: <>nitambi jaGanaM pAdAvudagrANgulI Cando narttayituryaTEva
+361054:2: vcp: <>manasaH sfzwaM taTAsyA vapuH” . “atra mAlabikAmaBi-
+361055:0: vcp: <>lazyato'gnimitrasya mAlavikArUpaviBAvamAtravarRane saYcA-
+361056:1: vcp: <>riRAmOtsukyAdInAmanuBAvAnAYca nayanavisPAra dInA-
+361057:0: vcp: <>mOcityAdevAkzepaH . evamanyAkzepe'pyUhyam . “anukAryyagato
+361058:0: vcp: <>rasaH” iti vadataH pratyAha “pArimityAllOkikatvAt
+361059:0: vcp: <>sAntarAyatayA taTA . anukAryyasya ratyAderudboDo na
+361060:2: vcp: <>raso Bavet” . sItAdidarSanAdijo rAmAdiratyAdyud-
+361061:2: vcp: <>boDo hi parimito lOkiko, nAwyakAvyadarSanAdeH [Page4796-b+ 38]
+361062:0: vcp: <>sAntarAyaSca . tasmAt kaTaM rasarUpatAmiyAt . rasasyE-
+361063:0: vcp: <>tadDarmatritayavilakzaRaDarmakatvAt . anukartfgatatvaYcAsya ni
+361064:2: vcp: <>rasyati “SikzAByAsAdimAtreRa rAGavAdeH svarUpatam .
+361065:0: vcp: <>darSayan narttako nEva rasasyAsvAdako Bavet” . kiYca
+361066:1: vcp: <>kAvyArTABAvane nAyamapi saByapadAspadam . yadi puna-
+361067:2: vcp: <>rnawo'pi kAvyArTaBAvanayA rAmAdirUpatAmAtmano daSayet
+361068:0: vcp: <>tadA so'pi saByamaDya eva gaRyate” .
+361069:0: vcp: <>dravyagatamaDurAdirasakAraRAdikaM suSrute uktaM yaTA
+361070:0: vcp: <>“aTAto rasaviSezavijYAnIyamaDyAyaM vyAKyAsyAmaH .
+361071:1: vcp: <>AkASapavanadahanatoyaBUmizu yaTAsaNKyamekotara-
+361072:0: vcp: <>parivfdDAH SabdasparSarUparasaganDAH . tasmAdApyo rasaH
+361073:2: vcp: <>parasparasasargAt parasparAnugrahAt parasparAnupraveSAcca
+361074:1: vcp: <>sarvezu sarvezAM sAnniDyamastTutkarzApakakarzAttu grahaRam .
+361075:0: vcp: <>sa KalvApyorasaH SezaBUtasaMsargAdviBaktaH zoQA viBa-
+361076:1: vcp: <>jyate . tadyaTA maDuro'mlA lavaRaH kawukastiktaH
+361077:0: vcp: <>kazAya iti . te ca BUyaHparasparasaMsargAt trizazwiDA
+361078:0: vcp: <>Bidyante . tatra BUmyambuguRabAhulyAnmaDuraH 1 . BUmyagni-
+361079:1: vcp: <>guRabAhulyAdamlaH 2 . toyAgniguRabAhulyAllavaRaH 3 vAyva-
+361080:0: vcp: <>gniguRabAhulyAt kawukaH 4 . vAyvAkASaguRabAhulyA-
+361081:0: vcp: <>ttiktaH 5 . pfTivyanilaguRabAhulyAt kazAyaH 6 iti . tatra
+361082:1: vcp: <>maDurAmlalavaRA vAtaGnAH . maDuratiktakazAyAH pittaGnAH .
+361083:1: vcp: <>kawutiktakazAyAH SlezmaGnAH tatra vAyurAtmanEvAtmA pitta-
+361084:3: vcp: <>mAgneyaM SlezmA sOmya iti . ta eva rasAH svayoni-
+361085:1: vcp: <>vardDanA anyayonipraSamanASca” .
+361086:0: vcp: <HI>{@rasakarpUra@}¦ na0 rasena karpUramiva . (rasakapura) karpUrarase
+361087:1: vcp: <>tatpAkAdiguRA BAvapra0 uktAH karpUrarasaSabde 1743 pf0
+361088:0: vcp: <>dfSyAH .
+361089:0: vcp: <HI>{@rasakesara@}¦ na0 rasena kesaramiva nAgakesarasuganDitvAt . karpUre hArA0 .
+361090:1: vcp: <HI>{@rasaganDa@}¦ puMna0 rase ganDo'sya . 1 vole ganDarase trikA0 . kap
+361091:1: vcp: <>tatrArTe Sabdaca0 2 ganDake ca rAjani0 .
+361092:1: vcp: <HI>{@rasagarBa@}¦ na0 raso garBe yasya . pittalaDAtudravaje 1 rasAYjane
+361093:1: vcp: <>amaraH . 2 hiNgule ca rAjani0 .
+361094:0: vcp: <HI>{@rasaGna@}¦ pu0 rasaM pAradaM hanti hana--Wak . waNkaRe (sohAgA) rAjani0 .
+361095:0: vcp: <HI>{@rasaja@}¦ na0 rasAt BuktAnnasArAt praTamaDAtorjAyate jana--qa .
+361096:2: vcp: <>1 ruDire Sabdaca0 asfkkaraSabde dfSyam . rasAt ikzu-
+361097:2: vcp: <>praBfteH dravAt jAyate jana--qa . 2 guqe pu0 rAjani0 .
+361098:2: vcp: <>3 madyakIwe ca pu0 hemaca0 . 2 rasaBavAdayo'pyatra .
+361099:0: vcp: <HI>{@rasajYA@}¦ strI rasaM jAnAti anayA jYA--karaRe GaYarTe ka . [Page4797-a+ 38]
+361100:2: vcp: <>1 jihvAyAm rasajYAnasADane jihvAsvAnasTendriye amaraH
+361101:0: vcp: <>jYA--ka . rasajYAtari tri0 .
+361102:2: vcp: <HI>{@rasajyezWa@}¦ pu0 rasezu jyezWaH SrezWaH . 1 maDurarase hemaca0
+361103:1: vcp: <>2 SfNgArarase ca .
+361104:0: vcp: <HI>{@rasatejas@}¦ na0 rasasya BuktAnnasArasya tejaH sAraH . ruDire hemaca0 .
+361105:1: vcp: <HI>{@rasadAlikA@}¦ strI rasArTaM dalyate dala--karmaRi GaY gOrA0
+361106:0: vcp: <>NIz svArTe ka hrasvaH . puRqrekzO (puqi AKa)
+361107:0: vcp: <>rAjani0 .
+361108:0: vcp: <HI>{@rasaDAtu@}¦ pu0 rasAKyo dravarUpo vA DAtuH . pArade rAjani0
+361109:0: vcp: <HI>{@rasaDenu@}¦ strI dAnArTaM kalpitAyAm ikzurasanirmitAyAM DenO
+361110:8: vcp: <>DenuSabde 3909 pf0 dfSyam .
+361111:4: vcp: <HI>{@rasana@}¦ na0 rasa--lyuw . 1 KAde 2 DvanO ca karaRe lyuw . jihvAyAM
+361112:1: vcp: <>ca medi0 “pittena dUne rasane sitapi” nEzaDam .
+361113:1: vcp: <HI>{@rasanA@}¦ strI rasyate'nayA rasa--karaRe lyuw aMjA0 wAp .
+361114:3: vcp: <>1 jihvAyAm amaraH . 2 rAsnAyAM medi0 . 3 kAYcyAM
+361115:2: vcp: <>hemaca0 . 3 rajjO ca .
+361116:0: vcp: <HI>{@rasanetrikA@}¦ strI raso netramiva astyasyAH Wan . manaHSilAyAm hemaca0 .
+361117:2: vcp: <HI>{@rasapAkaja@}¦ pu0 rasapAkena jAyate jana--qa . 1 guqe rAjani0
+361118:1: vcp: <>2 ruDiraDAtO ca asfkkaraSabde dfSyam .
+361119:1: vcp: <HI>{@rasaPala@}¦ pu0 raso jalaM Pale yasyAH . nArikesavfkze Sabdara0 .
+361120:0: vcp: <HI>{@rasamARikya@}¦ na0 rasena pAradena mARikyamiva tat pAkaja-
+361121:0: vcp: <>tvAt . svanAmaKyAte padArTe .
+361122:0: vcp: <HI>{@rasarAja@}¦ pu0 rasezu raso vA rAjeva SrezWatvAt rasaH drava iva
+361123:2: vcp: <>rAjate vA . 1 pArade rasanATAdayo'pyatra . 2 rasAYjane ca
+361124:0: vcp: <>rAjani0 .
+361125:1: vcp: <HI>{@rasavatI@}¦ strI rasa AsvAdyadravyamannAdi astyasyAm matupa masya vaH NIp . pAkasTAne amaraH .
+361126:3: vcp: <HI>{@rasaSoDana@}¦ na0 rasaM pAradaM dravIBUtaM dravyaM svarRAdi vA SADa-
+361127:3: vcp: <>kati SuDa--Ric--lyu . 1 waNkaRe (sohAgA) hemaca0
+361128:2: vcp: <>6 ta0 . 2 pAradaSoDane ca .
+361129:0: vcp: <HI>{@rasasTAna@}¦ na0 rasasya pAradasya sTAnam . hiNgule Sabdaca0 .
+361130:0: vcp: <HI>{@rasasindUra@}¦ na0 rasajAtaM sindUram . pAradajAte sindUraBede
+361131:0: vcp: <>tatpAkaviDiH BAvapra0 ukto yaTA
+361132:1: vcp: <>“SudDasUtasya gfhRIyAd BizagBAgacatuzwayam . SudDa-
+361133:0: vcp: <>ganDasya BAgEkaM tAvat kftrimaganDakam . aTa vA pAradA-
+361134:3: vcp: <>syArdvaM SudDaganDakameva hi . tayoH kajjalikAM kurRAddina-
+361135:1: vcp: <>mekaM vimadayet . mfttikAM vAsasA sArdDaM kuwwayedati0
+361136:0: vcp: <>yatnataH . taTA vAratrayaM samyak kAcakUpIM pralepayet .
+361137:3: vcp: <>nfttinAM SopayitvA tu kUpyAM kajjalikAM kzipet . [Page4797-b+ 38]
+361138:0: vcp: <>tAM kUpIM vAlukAyantre sTApayitvA rasaM pacet . agniM
+361139:3: vcp: <>nirantaraM dadyAd yAvaddinacatuzwayam . gfhvIyAdUrDva-
+361140:1: vcp: <>saMlagnaM sindUrasadfSaM rasam” .
+361141:0: vcp: <HI>{@rasA@}¦ strI pAkajaH raso mADuryyAdirUpo'styasyAH ac .
+361142:0: vcp: <>pfTivyAm amaraH .
+361143:0: vcp: <HI>{@rasAgraja@}¦ na0 rasasya pittalaDAtudravasyAgrAt jAyate jana--qa . rasAYjane rAjani0 .
+361144:2: vcp: <HI>{@rasAYjana@}¦ na0 rasajAtaM pittalaDAtujamaYjanam . KanAmaKyAte
+361145:0: vcp: <>“rItyAntu DmAyamAnAyAM tatkiwwantu rasAYjanam . tadaBAve
+361146:3: vcp: <>tu karttavyaM darvIkvATasamudBavam” ityukte 1 padArTe rAjani0
+361147:1: vcp: <>tadviDiSca BAvapra0 ukto yaTA
+361148:0: vcp: <>“dArvIkvATasamaM kzIraM pAdaM paktvA yaTA Ganam . tadA
+361149:1: vcp: <>rasAYjanAKyaM tannetrayoH paramaM hitam . rasAYjanaM kawu
+361150:0: vcp: <>SlezmavizanetravikAranut . uzRaM rasAyanaM tiktaM CedanaM
+361151:0: vcp: <>vraRadozahft” .
+361152:2: vcp: <HI>{@rasAQya@}¦ pu0 rasena maDurarasenAdyaH . 1 AmrAtake rAjani0 .
+361153:1: vcp: <>2 rasavati tri0 .
+361154:0: vcp: <HI>{@rasAtala@}¦ na0 rasAyAstalam . pAtAlaBede saptame BUmeraDoBAge amaraH .
+361155:0: vcp: <HI>{@rasADika@}¦ pu0 rasAya dravAya svarRAdidrAvaRAya aDikaH
+361156:2: vcp: <>AdIyamAnatvAt . 1 waNkaRe rasenADikA . 2 kAko-
+361157:2: vcp: <>qumbarikAyAM strI rAjani0 . 3 rasenADike tri0 .
+361158:0: vcp: <HI>{@rasAntara@}¦ na0 anyo rasaH mayUra0 ni0 . prakftarasAdanyasmin rase
+361159:0: vcp: <HI>{@rasABAsa@}¦ pu0 rasa iva ABAsate A + BAsa--ac . “anO-
+361160:0: vcp: <>cityapravfttatve ABAso rasaBAvayoH” sA0 da0 ukte
+361161:0: vcp: <>paSvAdiparanAyakAdigataSfNgArAdO rase .
+361162:1: vcp: <>“anOcityaYcAbra rasAnAM BaratAdipraRItalakzaRAnAM sAma-
+361163:4: vcp: <>grIrahitatve satyekadeSayogityopalakzaRaparaM boDyaM tanu
+361164:2: vcp: <>bAlavyutpattaye ekadeSato darSyate . “upanAyakasaMKyAyAM
+361165:2: vcp: <>munigurupatrIgatAyAYca . bahunAyakavizayAyAM rato
+361166:1: vcp: <>taTA'nuBayanizWAyAm . pratinAyakanizWatve tadvadaDama-
+361167:0: vcp: <>pAtratiryyagAdigate . SfNgAre'nOcityaM rOdre gurvAdigata-
+361168:0: vcp: <>kope SAnte ca hInanizWe gurvAdyAlambane hAsye .
+361169:0: vcp: <>brahmabaDAdyutsAhe'DamapAtragate taTA vIre . uttamapAtra-
+361170:0: vcp: <>gatatve BayAnake jYeyamevamanyatra” .
+361171:3: vcp: <HI>{@rasAmla@}¦ na0 rasenAmlam . 1 vfkzAmle rAjani0 . 2 cukre ca BAvapra0 (cukapAmaNga)
+361172:3: vcp: <HI>{@rasAyana@}¦ na0 rasasyAyanaBiva . 1 takre hemaca0 2 kawyAm
+361173:4: vcp: <>rAjani0 3 vizaBede vEdyakaprasidDe 4 OzaDamede ca 5 garuqe
+361174:4: vcp: <>6 viqaNge ca pu0 medi0 . 6 ta0 . 7 rasasTAne ca .
+361175:2: vcp: <>OzaDaBedalakzaRadi BAvapra0 uktaM yaTA [Page4798-a+ 38]
+361176:2: vcp: <>“yajjarAvyADiviDvaMsi vayasa'stamBakantaTA . cAkzuzyaM
+361177:0: vcp: <>vfMhaRaM vfzyaM BezajaM tadrasAyanam” . rasAyanasya Pala-
+361178:1: vcp: <>mAha “dIrGamAyuH smftIrmeDAmAromyaM taruRaM vayaH .
+361179:0: vcp: <>dehendriyabalaM kAntiM naro vindedrasAyanAt” . tad
+361180:0: vcp: <>viDimAha “pUrve vayasi maDye vA manuzyasya rasAya-
+361181:2: vcp: <>yanam . prayuYjIta Bizak prAjYaH snigDaSudDatanoH sadA .
+361182:1: vcp: <>nAviSudDaSarIrasasya ryukto rasAyano viDiH .
+361183:0: vcp: <>na BAti vAsasi Slizwe raNguyoga ivAhitaH” .
+361184:1: vcp: <P>“SItodakaM payaH kzOdraM GftamekEkaSo dviSaH .
+361185:0: vcp: <>triSaH samastamaTa vA prAk pItaM sTApayedvayaH . maRqUka-
+361186:0: vcp: <>parRyAH svarasaH praBAte prayojya yazwImaDukasya cUrRam .
+361187:0: vcp: <>raso guqUcyAstu samUlapuzpaH kalkaH prayojyaH Kalu
+361188:3: vcp: <>SaNKapuzpyAH . AyuHpradAnyAmayanASanAni balAgnivarRa-
+361189:2: vcp: <>smaravardDanAni . meDyAni cEtAni rasAyanAni meDyA
+361190:0: vcp: <>viSezeRa ca SaNKapuzpI” . maDvUkaparRI brAhmI . (varamI)
+361191:0: vcp: <>iti loke, tadalABe maYjizWApi grAhyA tasyA api
+361192:0: vcp: <>rasAyanatvAt . “mAkzikeRa tugAkzIryyA pippalyA
+361193:0: vcp: <>lavaRena ca . triPalA sitayA vApi yuktA sidDa”
+361194:3: vcp: <>rasAyanam . sinDUtTaM SarkarA SuRWI kaRAsaDuguqEH
+361195:1: vcp: <>kramAt . varzAdizvaBayA prASyA rasAyanaguREziRA . puna-
+361196:0: vcp: <>rnavasyArdDapalaM navasya pizwaM pibed yaH payasArdDamAsam .
+361197:0: vcp: <>mAsatrayaM tattriguRaM samAM vA jIrRo'pi BUyaH sa punarnavaH
+361198:1: vcp: <>syAt . ye mAsamekaM svarasaM pivanti dine dine BfNga-
+361199:0: vcp: <>rajaH samutTam . kzIrASinaste valavIryyayuktAH sasASataM
+361200:1: vcp: <>jIvanamApnuvanti . SatAvarI muRqitikA guqUcI saha-
+361201:0: vcp: <>stikarRA saha tAlamUlI . etAni kftvA samaBAgayuktA-
+361202:0: vcp: <>nyAyyena kiM vA maDunA'valihyAt . jarArujAmftyu-
+361203:2: vcp: <>niyuktadehI Bavennaro vIryyavalAdiyuktaH . viBAti deva-
+361204:1: vcp: <>pratimaH sa nityaM praBAmayo BUrivivfdDabudDiH . pItASva-
+361205:0: vcp: <>ganDA payasArdDamAsaM Gftena tElena suKAmbunA vA .
+361206:0: vcp: <>vIryyasya puzwiM vapuzo viDatte vAlasya Sasyasya yaTA-
+361207:0: vcp: <>mbuvfzwiH . ayaHpalaM gugguluratra yojyaH palatrayaM
+361208:2: vcp: <>vyozapalAni paYca . palAni cAzwO triPalArajaSca
+361209:1: vcp: <>karzaM lihana yAtyamaratvameva . na kevalaM dIrGamihA
+361210:1: vcp: <>yuraSnute rasAyanaM yoviviDaM vizevate . gatiM sa devarzi
+361211:0: vcp: <>nizevitAM SuBAM prapadyate brahma taTEva cAkzayam” .
+361212:0: vcp: <HI>{@rasAyanaPalA@}¦ strI rasAyanamOzaDaviSeza iva PalaM vyADi-
+361213:0: vcp: <>GAtakatvAt yasyAH . haritakyAm trikA0 . [Page4798-b+ 38]
+361214:0: vcp: <HI>{@rasAyanaSrezWa@}¦ pu0 rasAyanezu OzaDaBedezu SrezWaH . pArade
+361215:2: vcp: <>rAjAna0 .
+361216:1: vcp: <HI>{@rasAyanI@}¦ strI rasAyanaM rasasTAnamastyasyA aca gO0 NIz .
+361217:4: vcp: <>1 guqUcyAm 2 kAkamAcyAM 3 mahAkaraYje 4 gorakzadugDA-
+361218:1: vcp: <>yAm 5 mAMsacCadAyAYca rAjani0 .
+361219:2: vcp: <HI>{@rasAla@}¦ na0 rasamAlAti A + lA--ka 6 ta0 . 1 sihlake
+361220:3: vcp: <>2 ganDarase medi0 . 3 SiKariRyAma (peyaBede) tatpAka-
+361221:8: vcp: <>viDiH kftAnnaSabde 2184 pf0 BAvapra0 ukto dfSyaH .
+361222:5: vcp: <>4 rasanAyAM 5 dUrvAyAM 6 vidAryyAM 7 drAkzAyAYca strI
+361223:1: vcp: <>medi0 . 8 Amre “rasAlaH sAlaH samadfSyatA'munA”
+361224:5: vcp: <>nEzaDam . 9 ikzO amaraH . 10 panase Sabdara0 . 11 goDUme
+361225:2: vcp: <>12 puRqrakekzO ca pu0 rAjani0 .
+361226:1: vcp: <HI>{@rasAlihA@}¦ strI rasAM BUmiM lewi spfSatiMliha--ka (cAku-
+361227:0: vcp: <>liyA) kzupaBede Sabdaca0 .
+361228:1: vcp: <HI>{@rasAlI@}¦ strI rasamAlAti A + lA--ka gOrA0 NIz . (puqi AKa) ikzaBede rAjani0
+361229:2: vcp: <HI>{@rasASvAsA@}¦ strI rasAM BUmimASvAsayati dalEH A + Svasa--Rica
+361230:3: vcp: <>aR . palASIlatAyAm rAjani0 .
+361231:0: vcp: <HI>{@rasAsvAdin@}¦ pu0 rasaM puzparasamAsvadate A + svada--Rini
+361232:2: vcp: <>1 Bramare SabdamA0 . 2 maDuraSfNgArAdirasAsvAdake tri
+361233:0: vcp: <>striyAM NIp .
+361234:1: vcp: <HI>{@rasika@}¦ puMstrI0 rasaM vetti anuBavati Wan . 1 sArasapakziRi
+361235:3: vcp: <>rAjani0 2 aSve 3 gaje sArasvataH . striyAM jAtitvA
+361236:2: vcp: <>NIz . 4 rasajYe tri0 . raso'styasya Wan . 5 rasavati ca tri
+361237:5: vcp: <>medi0 . 6 rasAlAyAm 7 ikzurase ca strI medi0 8 kAYcya
+361238:1: vcp: <>9 rasanAyAM strI viSvaH .
+361239:2: vcp: <HI>{@rasita@}¦ na0 cu0 rasa--BAve kta . 1 meGAdiSabde 2 vihagAdiSabde
+361240:2: vcp: <>ca amaraH . karttari kta . 3 Sabdavati karmaRi--kta 4 A-
+361241:0: vcp: <>svAdite ca tri0 .
+361242:0: vcp: <HI>{@rasuna@}¦ pu0 rasa--unan . laSune Sabdaca0 . onan rasona tatrEva svArTe ka . tatrArTe .
+361243:0: vcp: <HI>{@rasendra@}¦ pu0 rasa indra iva . pArade rAjani0 .
+361244:0: vcp: <HI>{@raseSvara@}¦ pu0 rasaH pArada ISvara iva taddeharasajAtatvAt .
+361245:1: vcp: <>1 ISvaratulye rase . tattvajYAnArTaM dehasTEryyasampAdanadvArA
+361246:1: vcp: <>muktihetutvamasya mAheSvaraBedAH pratipedire tanmataYca sarva-
+361247:0: vcp: <>darSanasaMgrahe pradarSitaM yaTA
+361248:1: vcp: <>“apare mAheSvarAH parameSvaratAdAtmyabAdino'pi piRqa-
+361249:2: vcp: <>sTEryye sarvAmimatA jIvanmaktiH setsyatItyAsTAya piRqa-
+361250:2: vcp: <>sTEryyopAya pAradAdipadavedanIyaM rasameva saNgirante rasasya
+361251:0: vcp: <>pAradatvaM saMsAraparapAraprApaRahetutvena taduktam [Page4799-a+ 38]
+361252:9: vcp: <>itaHparaH granTaH pAradaSabde 4313 pfzWe pradarSitaH .
+361253:1: vcp: <>“prakArAntareRApi jIvanmuktO neyaM vAcoyukti-
+361254:0: vcp: <>ryuktimatIti cenna zawsvapi darSanezu dehapAtAnantaraM
+361255:0: vcp: <>mukteruktatayA tatra viSvAsAnupapattyA nirvicikitsa-
+361256:1: vcp: <>pravftteranupapattEH . tadapyuktaM tatrEva “zaqdarSane'pi
+361257:3: vcp: <>muktista dIrSatA piRqapAtane . karAmalakavatsApi pratyakzA
+361258:3: vcp: <>nopalaByate . tasmAttaM rakzayetpiRqaM rasEScEva rasA-
+361259:1: vcp: <>yanEriti” . govindaBagavat pAdAcaryyErapi “iti Dana-
+361260:1: vcp: <>SarIraBogAnmatvA'nityAn sadEva yatanIyam . muktO sA
+361261:0: vcp: <>ca jYAnAt taccAByAsAt sa ca sTire dehe” ityuktam . nanu
+361262:1: vcp: <>vinaSvaratayA vfSyamAnasya dehasya kaTaM nityatvamavasIyate
+361263:0: vcp: <>iti cenmEvaM maMsTAH, zAwkOSikasya SarIrasyAnityatve'pi
+361264:3: vcp: <>rasABrakapadABilapyaharagOrIsfzwijAtasya nityatvopapatteH
+361265:1: vcp: <>taTAca rasahfdaye “ye cAtyaktaSarIrA haragOrIsUzwi-
+361266:0: vcp: <>jAntaraM prAptAH . vandyAste rasasidDA mantragaRaH kiNkaro
+361267:1: vcp: <>yezAmiti” . tasmAjjIvanmuktiM samIhamAnena yoginA
+361268:0: vcp: <>praTamaM divyatanurviDeyA . haragOrIsfzwisaMyogajanitatvaYca
+361269:0: vcp: <>rasasya harajatvenABrakasya gorIsamBavatvena tattadAtma-
+361270:0: vcp: <>katvamuktam “aBrakastava vIjantu mama vIjantu pAradaH .
+361271:0: vcp: <>anayormelanaM devi! mftyudAridryanASanamiti” . atyalpa-
+361272:0: vcp: <>midamucyate devadEtyamunimAnavAdizu bahavo rasasAmarTyAddivyaM
+361273:0: vcp: <>dehamASritya jIvanmuktimASritAH SrUyante raseSvarasi-
+361274:0: vcp: <>dDAnte “devAH kecismaheSAdyA dEtyAH kAvyapuraHsarAH .
+361275:0: vcp: <>munayo bAlaKilyAdyA nfpAH someSvarAdayaH . govinda-
+361276:0: vcp: <>BagavatpAdAcAryyo govindanAmakaH . carvawiH kapilo
+361277:0: vcp: <>vyAqiH kApAliH kandalAyanaH . ete'nye bahavaH sidDA
+361278:0: vcp: <>jIvanmuktAScaranti hi . tanuM rasamayImApya tadAtmaka
+361279:0: vcp: <>kaTAcaRAH” iti . ayamevAsyArTaH parameSvareRa parameSvarIM
+361280:1: vcp: <>prati prapaYcitaH' .
+361281:7: vcp: <>itaHparo granTaH pAradaSabde 4313 pf0 darSitaH .
+361282:0: vcp: <>tatprapaYcastu govindaBagavatpAdAcAryyasarvajYarAmeSvaraBawwA-
+361283:1: vcp: <>rakapraBftimiH prAcInErAcAryyErnirUpita iti granTa-
+361284:0: vcp: <>BUyastvaBayAdudAsyate . na ca rasaSAstraM DAtuvAdArTa-
+361285:2: vcp: <>meveti mantavyaM dehabanDadvArA muktereva paramapayojanatvAt
+361286:0: vcp: <>taduktaM rasArRave “lohavanDastvayA deva! yaddattaM paramI-
+361287:0: vcp: <>SitaH! . taM dehabanDamAcakzva yena syAt KecarI gatiH .
+361288:0: vcp: <>yaTA lohe taTA dehe karttavyaH sUtakaH satA . samAnaM
+361289:2: vcp: <>kurute devi! pratyayaM dehalohayoH . pUrvaM lohe parI- [Page4799-b+ 38]
+361290:0: vcp: <>kzeta paScAddehe prayojayet” iti . nanu saccidAnandAtmaka-
+361291:0: vcp: <>paratattvasPuraRAdeva muktisidDO kimanena divyadehasampA-
+361292:0: vcp: <>danaprayAseneti cettadetadavArttaM vArttaSarIrAlABe tadvA-
+361293:1: vcp: <>rttAyA ayogAt . taduktaM rasahfdaye “galitAnalpavi-
+361294:0: vcp: <>kalpaH sarvADvavivarjitaScidAnandaH . sPurito'pyasPurita-
+361295:0: vcp: <>tanoH karoti kiM jantuvargasyeti . yaM jarayA jarjaritaM
+361296:1: vcp: <>kAsaSvAsAdiduHKaviSadaYca . yogyaM taM na samADO
+361297:1: vcp: <>pratihatabudDIndriyaprasaram . bAlaH zoqaSavarzo vizaya-
+361298:3: vcp: <>rasAKAdalampawaH parataH . yAtaviveko vfdDo martyaH
+361299:0: vcp: <>kaTamApnuyAnmuktimiti” . nanu jIvatvaM nAma saMsAritvaM
+361300:0: vcp: <>tadviparItatvaM muktatvaM taTAca parasparavirudDayoH kaTa-
+361301:0: vcp: <>mekAyatanatvamupapannaM syAditi cettadanupapannaM vikalpAnupa-
+361302:0: vcp: <>patteH muktistAvat sarvatIrTakarasammatA sA kiM jYeyapade
+361303:0: vcp: <>niviSate na vA carame SaSavizARakalpA syAt praTame na
+361304:0: vcp: <>jIvanaM varjanIyamajIvato jYAtftvAnupapatteH . taduktaM
+361305:2: vcp: <>raseSvarasidDAnte “rasANkameyamArgokte jIvamokzo'styaDo-
+361306:0: vcp: <>manAH . pramARAntaravAdezu yuktiBedAvalambizu . jYAna-
+361307:0: vcp: <>jYeyamidaM vidDi sarvatantrezu sammatam . nAjIvan jYA-
+361308:0: vcp: <>syati jYeyaM yadato'styeva jIvanam” iti . na cedamadfzwa-
+361309:1: vcp: <>caramiti mantavyaM vizRutvAmimatAnusAriBiH nfpaYcAsya-
+361310:0: vcp: <>SarIrasya nityatvopapAdanAt . taduktam sAkArasidDO
+361311:0: vcp: <>“saccinnityanijAcintyapUrRAnandEkavigraham . nfpaYcAsya-
+361312:0: vcp: <>mahaM vande SrIvizRusvAmisammatam” iti . nanvetat
+361313:0: vcp: <>sAvayavaM rUpavadavaBAsamAnaM nfkaRWIravANgaM saditi na
+361314:0: vcp: <>saNgacCata ityAdinAkzepapuraHsaraM sanakAdipratyakzeRa “sahasra-
+361315:0: vcp: <>SIrzA puruzaH” ityAdiSrutyA “tamadButaM bAlakamambujekzaRaM
+361316:0: vcp: <>caturBujaM SaNKagadAdyadAyuDam” ityAdipurARalakzaRena pra-
+361317:0: vcp: <>mARatrayeRa sidDaM nfpaYcAnanANgaM kaTamasat syAditi .
+361318:0: vcp: <>sadAdIni viSezaRAni garBaSrIkAntamiSrEH vizRusvAmi-
+361319:0: vcp: <>caraRapariRatAntaHkaraREH pratipAditAni . tasmAdasma-
+361320:0: vcp: <>dizwadehanityatvamatyantAdfzwaM na BavatIti puruzArTakAmukEH
+361321:0: vcp: <>puruzErezwavyam . ata evoktam “AyatanaM vidyAnAM-
+361322:0: vcp: <>mUlaM DarmArTakAmamokzARAm . SreyaH paraM kimanya-
+361323:0: vcp: <>cCarIramajarAmaraM vihAyEkamiti” . ajarAmarIkaraRa-
+361324:0: vcp: <>samarTaSca rasendra eva tadAha “eko'sO rasarAjaH SarIra-
+361325:0: vcp: <>majarAmaraM kurute” iti . kiM varRyate rasasya mAhAtmyaM
+361326:0: vcp: <>yasya darSanasparSanAdinApi mahat PalaM Bavati . taduktaM rasA-
+361327:0: vcp: <>rRave “darSanAt sparSanAttasya BakzaRAt smaraRAdapi . pUjanA- [Page4800-a+ 38]
+361328:0: vcp: <>drasadAnAcca dfSyate zaqviDaM Palam . kedArAdIni li-
+361329:0: vcp: <>NgAni pfTivyAM yAni kAnicit . tAni dfzwvA tu yat-
+361330:0: vcp: <>puRyaM tat puRyaM rasadarSanAdityAdinA” . anyatrApi
+361331:0: vcp: <>“kASyAdisarvaliNgeByo rasaliNgArcanaM Sivam . prApyate
+361332:1: vcp: <>yena talliNgaM BogArogyAmftAjaram” iti . rasani0
+361333:1: vcp: <>ndAyAH pratyavAyo'pi darSitaH “pramAdAdrasanindAyAH
+361334:0: vcp: <>SrutAvenaM smaret suDIH . drAk tyajennindakaM nityaM ni-
+361335:0: vcp: <>ndayA pUritASuBam” iti . tasmAdasmaduktayA rItyA
+361336:0: vcp: <>divyaM dehaM sampAdya yogAByAsavaSAt paratattve dfzwe
+361337:0: vcp: <>puruzArTaprAptirBavati . tadA “BrUyugamaDyagataM yat SiKi-
+361338:0: vcp: <>vidyutsUryyavajjagadBAsi . kezAYcit puRyadfSAmunmIlati
+361339:0: vcp: <>cinmayaM jyotiH . paramAnandEkarasaM paramaM jyotiH-
+361340:0: vcp: <>svaBAvamavikalpam . vigalitasakalakleSaM jYeyaM SAntaM
+361341:0: vcp: <>svasaMvedyam . tasminnADAya manaH sPuradaKilaM cinmayaM
+361342:1: vcp: <>jagat paSyan . utsannakarmabanDo brahmatvamihEva cApno-
+361343:0: vcp: <>tIti” . SrutiSca “raso vE saH rasaM hyevAyaM labDvAnandI
+361344:0: vcp: <>BavatIti” . taditTaM Bave nAnyoduHKaBarataraRopAyo rasa
+361345:0: vcp: <>eveti sidDam . taTAca rasasya parabrahmaRA sAmyamiti
+361346:0: vcp: <>pratipAdakaH SlokaH “yaH syAt prAvaraRAvimocanaDiyAM
+361347:0: vcp: <>sADyaH prakftyA punaH sampanno sahate na dIvyati paraM
+361348:0: vcp: <>vESvAnare jAgrati . jAto yadyaparaM na vedayati ca sva-
+361349:0: vcp: <>smAt svayaM dyotate yo brahmEva sa dEnyasaMsftiBayAt
+361350:0: vcp: <>pAyAdasO pAradaH” iti .
+361351:0: vcp: <HI>{@rasottama@}¦ pu0 rasa uttamo yasya . mudge rAjani0 .
+361352:2: vcp: <HI>{@rasodBava@}¦ na0 rasaH pArada udBavatyasmAt ud + BU--ac udBavo
+361353:2: vcp: <>yasya . 1 hiNgule rAjani0 . 5 ta0 . 2 rasajAte tri0 .
+361354:0: vcp: <HI>{@rasopala@}¦ na0 rasaH pArada iva upalIyate SuBratvAt upa +
+361355:0: vcp: <>lI--qa . mOktike trikA0 .
+361356:0: vcp: <HI>{@rasna@}¦ na0 rasa na . dravye ujjvalada0 .
+361357:2: vcp: <HI>{@rasya@}¦ na0 rasAdBuktAnnapariRAmAdAgataH yat . 1 ruDire Sabdaca0
+361358:2: vcp: <>rasvate AsvAdyate rasa--yat . 2 AsvAdye tri0 . rasyAH,
+361359:2: vcp: <>“snigDAH sTirA hfdyAH” gItA . 3 pAWAyAM 4 rAsnA-
+361360:0: vcp: <>yAYca strI rAjani0 .
+361361:0: vcp: <HI>{@raha@}¦ gatO BvA0 para0 saka0 sew idit . raMhati araMhIt
+361362:3: vcp: <>“tadantarapratipattO raMhati saMparizvaktaH” SArIrakasUtram
+361363:0: vcp: <HI>{@raha@}¦ tyAge BvA0 pa0 saka0 sew . rahati arahIt .
+361364:0: vcp: <HI>{@raha@}¦ tyAge ada0 cu0 uBa0 saka0 sew . rahayati te ararahat--ta
+361365:4: vcp: <HI>{@rahasa@}¦ na0 raha--asun . 1 nirjane amaraH . 2 gopye 3 yATArTye [Page4800-b+ 38]
+361366:2: vcp: <>4 ramaRe ca medi0 . 5 nirjane avya0 amaraH . ramante'smin
+361367:1: vcp: <>rama--asun masya raH . 6 viSvAsayogyadeSe ujjvalada0 .
+361368:1: vcp: <HI>{@rahasya@}¦ tri0 rahasi BavaH yat . 1 gopye “rahasyamasyAH sa
+361369:3: vcp: <>mahaditi” nEzaDam . 2 nirjanaBave ca 3 pAWAyAM 4 rA-
+361370:1: vcp: <>snAyAYca strI rAjani0 wAp 5 nadIBede strI medi0 .
+361371:0: vcp: <HI>{@rahita@}¦ tri0 raha--tyAge karmaRi kta . varjite .
+361372:0: vcp: <HI>{@rA@}¦ dAne grahaRe ca adA0 para0 saka0 aniw . rAti arAsIt .
+361373:3: vcp: <HI>{@rA@}¦ strI rA--sampa0 BAve kvip . 1 viBrame 2 dAne ekAkzara-
+361374:1: vcp: <>kozaH . karmaRi kvip . 3 kAYcane Sabdara0 .
+361375:2: vcp: <HI>{@rAkA@}¦ strI rA--ka tasya nettvam . 1 pratipadyuktAyAM pUrRa-
+361376:2: vcp: <>mAsyAM sampUrRendutiTO 2 nadIBede 3 navajAtarajaskAyAM
+361377:3: vcp: <>mAryyAM 4 kacCuroge ca medi0 . 5 ANkirasaH kanyABede
+361378:7: vcp: <>kuhUSabde 2162 pf0 dfSyam .
+361379:0: vcp: <HI>{@rAkzasa@}¦ pu0 rakza eva svArTe aR . “kvacit svArTikA api
+361380:0: vcp: <>pratyayAH prakftito liNgavacanAnyativarttante” iti BAzyokteH
+361381:1: vcp: <>puMstvam . svanAmaKyAte nikazAtmaje 1 jAtiBede amaraH
+361382:1: vcp: <>jAtO NIz . 2 rAkzasajAtistriyAm strI . rakzasa idam
+361383:1: vcp: <>aR . 3 rAkzasasambanDini tri0 striyAM NIp . “rAkzasI
+361384:3: vcp: <>rAtriranyatra” ti0 ta0 . 4 daMzwrAyAM hemaca0 5 caRqikAyAM
+361385:1: vcp: <>6 cOranAmaganDadravye ca strI medi0 NIp .
+361386:0: vcp: <HI>{@rAkzasendra@}¦ pu0 rAkzasa indra iva SrezWatvAt . viSvaSravasaH jyezWa
+361387:0: vcp: <>putre nikazAtmaje rAvaRe trikA0 .
+361388:0: vcp: <HI>{@rAkzA@}¦ strI lakzyate'nayA rakza--karmaRi--GaY pfzo0 vfdDiH
+361389:0: vcp: <>lasya raSca . lAkzAyAm amaraH .
+361390:1: vcp: <HI>{@rAKa@}¦ SozaRe BUzaRe nivAraRe ca saka0 sAmarTye aka0 BvA0
+361391:2: vcp: <>para0 sew . rAKati arAKIt . fdit caNi na
+361392:0: vcp: <>hrasvaH .
+361393:3: vcp: <HI>{@rAga@}¦ pu0 ranja--BAve GaY ni0 nalopakutve . 1 raYjane
+361394:6: vcp: <>2 SuklAdivarRe 3 prItO 4 anurAme 5 nfpe 6 mAlavAdinA-
+361395:3: vcp: <>maBiH prasidDe nizAdAdisvarayonike KaraBede medi0
+361396:3: vcp: <>7 candre 8 sUryye ca Sabdara0 . karaRe GaY . 9 lohitavarRe
+361397:3: vcp: <>10 tadviSizwalAkzAdO ca “tena raktaM rAgAt” pA0
+361398:0: vcp: <>anurAgalakzaRam ujjvalamaRinoktaM yaTA “suKamapyaDikaM
+361399:0: vcp: <>citte suKatvenEva rajyate . yatastu praRayotkarzAt sa rAga
+361400:1: vcp: <>iti kamyate” . svaraBedaniruktiryaTA “yEstu cetAMsi
+361401:0: vcp: <>rajyante jagattritayavarttinAm . te rAgA iti kaTyante
+361402:0: vcp: <>muniBirBaratAdiBiH” tezAM BedAH saMgItadA0 matasaBede
+361403:1: vcp: <>nAnA tatra prasidDA zaqa BedA yaTA [Page4801-a+ 38]
+361404:1: vcp: <P>“AdO mAlavarAgendrastato mallArasaMjYitaH . SrIrogaSca
+361405:0: vcp: <>tataH paScAt vasantastadantaram . hindolaScATa karRAwa
+361406:2: vcp: <>ete rAgAH zaqe ca tu” saNgItadA0 . Baratamate tu
+361407:0: vcp: <>“BEravaH kOSikaScEva hindolo dIpakastaTA . SrIrAgo
+361408:0: vcp: <>meGarAgaSca rAgAH zaqiti kIrttitAH” .
+361409:4: vcp: <HI>{@rAgacUrRa@}¦ pu0 rAgasya rateScUrRa iva . 1 kAme . rAgAya cUrRyate-
+361410:3: vcp: <>'sO cUrRa--GaY . 2 Kadire ca medi0 . 3 lAkzAyAM rAjani0
+361411:1: vcp: <>4 rAgayuktacUrRe pu0 (PAga) Sabdaca0 .
+361412:0: vcp: <HI>{@rAgadAli@}¦ pu0 dalyate'sO dala--Ric--in pfzo0 vfdDiH
+361413:0: vcp: <>rAgeRa raktatayA yukto dAlirvA . masUre rAjani0 .
+361414:2: vcp: <HI>{@rAgapuzpa@}¦ pu0 rAgayuktaM raktavarRaM puzpamasya . 1 banDUke 2 raktA-
+361415:1: vcp: <>mlAne ca 3 javAyAM strI rAjani0 NIp .
+361416:1: vcp: <HI>{@rAgaprasava@}¦ pu0 rAgayukto raktavarRaH prasavo'sya . 1 banDUke
+361417:1: vcp: <>2 raktAmlAne ca rAjani0 .
+361418:0: vcp: <HI>{@rAgayuj@}¦ pu0 rAgeRa raktavarRena yujyate yuja--karmaRi kvip .
+361419:2: vcp: <>1 mARikye rAjani0 2 raktavarRayukte tri0 .
+361420:1: vcp: <HI>{@rAgasUtra@}¦ na0 rAgayuktaM sUtram . pawwasUtre 2 tulAsUtre ca
+361421:0: vcp: <>medi0 .
+361422:0: vcp: <HI>{@rAgANgI@}¦ strI rAgayuktamaNgaM yasyAH NIp . maYjizWAyAm rAjani0 3 ta0 . rAgAdyApyatra strI .
+361423:3: vcp: <HI>{@rAgiRI@}¦ strI rAgo'styasyA ini . 1 gItyaNge svaraBede
+361424:2: vcp: <>rAgapatnyAM saNgItadA0 . 2 vidagDanAryyAM jawA0 .
+361425:3: vcp: <>3 menakAkanyAyAM rAgavati 4 anurakte 5 kAmuke tri0 viSvaH
+361426:4: vcp: <>ranja--DiRun . 6 ratiyukte ca tri0 . 6 tfRaDAnyaBede
+361427:0: vcp: <>medi0 . ekEkarAge zaw rAgiRya iti zawsu rAgezu
+361428:1: vcp: <>rAgiRIBedASca zawtriMSat yaTA
+361429:3: vcp: <>“zawtriMSadrAgiRIBedAH kramaSaH kaTitA mayA . DAmasI 1
+361430:2: vcp: <>mAlasI 2 cEva rAmakIrI 3 ca simbuqA 4 . ASAvarI 5
+361431:2: vcp: <>BEravI 6 ca mAlavasya (1) priyA imAH . velAvalI 1
+361432:0: vcp: <>puravI 2 ca kAnaqA 3 mADavI 4 taTA . koqA 5 kedA-
+361433:3: vcp: <>rikA 6 cApi mallAra (2) dayitA imAH . gAnDArI 1
+361434:2: vcp: <>suBagA 2 cEva gOrI 3 kOmArikA 4 taTA . veloyArI 5
+361435:1: vcp: <>ca vErAgI 6 SrIrAgasya (3) priyA imAH . tuqI 1 ca
+361436:1: vcp: <>paYcamI 2 cEva lalitA 3 pawamaYjarI 4 . gurjarI 5 ca vi-
+361437:1: vcp: <>BAzA 6 ca vasantasya (4) priyA imAH . mAyUrI 1 dI-
+361438:1: vcp: <>pikA 2 cEva deSakArI 3 ca pAhiqI 4 . varAqI 5
+361439:1: vcp: <>morahAwI 6 ca hillolasya (5) priyA imAH . nAwikA
+361440:0: vcp: <>cATa BUpAlI 2 rAmakelI 3 gaqA 4 taTA . kA-
+361441:2: vcp: <>modA 5 cATa kalyARI 6 karRAWasya (6) priyA imAH” . [Page4801-b+ 38]
+361442:0: vcp: <>saNgItadA0 . tadgAnakAlaBedAH tatputrAdayaSca tatrEva dfSyAH .
+361443:0: vcp: <HI>{@rAGa@}¦ SaktO BvA0 A0 aka0 sew . rAGate arAGizwa .
+361444:0: vcp: <>fdit caNi na hrasvaH .
+361445:3: vcp: <HI>{@rAGava@}¦ pu0 ravorgotrApatyam aR . 1 raGorvaMSye 2 tat praDAne
+361446:2: vcp: <>SrIrAme ca 3 mahAmatsyaBede 4 samudre ca medi0 .
+361447:1: vcp: <HI>{@rANkava@}¦ na0 raNkorayaM vikAro vA tallomajAtatvAt aR .
+361448:0: vcp: <>mfgaviSezalomajAte vastraBede amaraH .
+361449:1: vcp: <HI>{@rAja@}¦ dIptO BvA0 uBa0 aka0 sew . rAjati te--arAjIt
+361450:1: vcp: <>arAjizwa PaRAdi0 rejatuH rarAjatuH . fdit caNi
+361451:0: vcp: <>na hrasvaH .
+361452:1: vcp: <HI>{@rAjaka@}¦ na0 rAjYAM samUhaH kan . 1 nfpasamudAye amaraH .
+361453:2: vcp: <>rAjEva ka . 2 nfpe pu0 . rAja--Rvul . 3 dIptimati
+361454:0: vcp: <>tri0 .
+361455:0: vcp: <HI>{@rAjakadamba@}¦ pu0 kadambAnAM rAjA rAjada0 parani0 . kadambaBede jawA0 .
+361456:1: vcp: <HI>{@rAjakalpa@}¦ pu0 IzadasamApto rAjA rAjan + kalpap . rAja-
+361457:0: vcp: <>tulye .
+361458:2: vcp: <HI>{@rAjakarkawI@}¦ strI rAjate rAja--ac karmma0 . cInAkarkawyAm rAjani0 .
+361459:1: vcp: <HI>{@rAjakaSeru@}¦ pu0 kaSerURAm rAjA rAjada0 . BadramustAyAm
+361460:0: vcp: <>rAjani0 .
+361461:0: vcp: <HI>{@rAjakIya@}¦ tri0 rAjYa idam Ca kuk ca . rAjasambanDikAryyAdO .
+361462:0: vcp: <HI>{@rAjakumAra@}¦ pu0 rAjYaH kumAraH . aprAptavayaske yuvarAja
+361463:0: vcp: <>kAryyAnArUQe rAjaputre .
+361464:2: vcp: <HI>{@rAjakuzmARqa@}¦ pu0 rAjYaH kuzmARqa iva priyatvAt . vArttAkyAm jawA0
+361465:1: vcp: <HI>{@rAjakozAtakI@}¦ strI rAjapriyA kozAtakI . (GiyAJiNgA)
+361466:0: vcp: <>latABede madanavinodaH .
+361467:1: vcp: <HI>{@rAjakzavaka@}¦ pu0 kzavatyanena kzu ap rAjate rAja--ac karma0
+361468:1: vcp: <>svArTe ka . rAjasarzape (rAisarzA) rAjani0 .
+361469:0: vcp: <HI>{@rAjaKarjUrI@}¦ strI rAjapriyA KarjUrI . KarjUrIBede (piRqa-
+361470:0: vcp: <>Kejura) rAjani0 .
+361471:2: vcp: <HI>{@rAjagiri@}¦ pu0 rAjASramo giriH . 1 magaDasTe parvataBede 2 SAkaBede rAjani0 .
+361472:2: vcp: <HI>{@rAjaGa@}¦ tri0 rAjAnaM hanti hana--ka ni0 . 1 rAjahantari,
+361473:2: vcp: <>2 tIkzRe ca jawA0 “rarAja nIrajanayA sa rAjaGaH” nEza0
+361474:2: vcp: <HI>{@rAjajambU@}¦ strI rAjYaH jambUriva . 1 piRqaKarjUre medi0
+361475:2: vcp: <>rAjate ac karma0 . 2 mahAjambvAm rAjani0 .
+361476:0: vcp: <HI>{@rAjaja(ya)kzman@}¦ pu0 rAjYaH candrasya kzayakArako ja(ya)kzmA .
+361477:0: vcp: <>rogaBede yakzmanSabde dfSyam “rAja(ya)kzmeva rogARAm”
+361478:0: vcp: <>mAGaH .
+361479:4: vcp: <HI>{@rAjataru@}¦ pu0 tarUrRA rAjA rAjada0 parani0 . 1 karRikAravfkze 2 AragvaDe ca rAjani0 . [Page4802-a+ 38]
+361480:2: vcp: <HI>{@rAjatAla@}¦ pu0 rAjYastAla iva priyaH . 1 guvAkavfkze Sabdara0 .
+361481:0: vcp: <>strItvamapi tatra NIp . “rAjatAlIvanaDvaniH” raGuH .
+361482:3: vcp: <HI>{@rAjadanta@}¦ pu0 dantAtAM rAjA parani0 . UrdDvapaNktisTe
+361483:0: vcp: <>maDyavarttidantadvaye hemaca0 .
+361484:0: vcp: <HI>{@rAjadeSIya@}¦ pu0 IzadasApto rAjA rAjan + deSIyar . rAjatulye rAjakalpe .
+361485:0: vcp: <HI>{@rAjaDustUraka@}¦ pu0 DustUrARAM rAjA rAja0 para0 svArTe ka .
+361486:1: vcp: <>vfhadDastUre rAjaDastUrako'pyatra pu0 rAjani0 .
+361487:2: vcp: <HI>{@rAjaDarmma@}¦ pu0 rAjYo DarmmaH . rAjYAmavaSyakarttavye prajApA-
+361488:0: vcp: <>lanAdO karmaRi . tamaDikftya kfto granTaH aR . BArata-
+361489:1: vcp: <>SAntiparvAntargate vyAsapraRIte granTaBede . rAjaDarmASca tatra
+361490:0: vcp: <>mAnave 7 a0 ca uktA dfSyAH .
+361491:0: vcp: <HI>{@rAjaDAnI@}¦ strI rAjA DIyate'syAM DA--ADAre lyuw NIp .
+361492:0: vcp: <>rAjAvAse mahAnagaryyAm Sabdara0 .
+361493:2: vcp: <HI>{@rAjaDAnya@}¦ na0 DAnyezu rAjA rAja0 para0 . (SyAmA) SyAmAkaDAnye rAjani0 .
+361494:1: vcp: <HI>{@rAjan@}¦ pu0 rAja--kanin raYjayati ranja--kanin ni0 vA .
+361495:3: vcp: <>1 nfpe, “rAjA prakftiraYjanAt” raGuH . 2 candre, 3 praBO,
+361496:3: vcp: <>4 kzatriye, 5 yakze 6 indre, ca medi0 . uttarasTapadaH pUrva-
+361497:2: vcp: <>padasTaSca samamivyAhftapadArTaSrezWavAcakaH . yaTA rAjamAzaH
+361498:1: vcp: <>munirAja ityAdi . 7 pfTunfpe ca . “pitrA na raYji-
+361499:0: vcp: <>tAstasya prajAstenAnuraYjitAH . anurAgAttatastasya nAma
+361500:0: vcp: <>rAjetyaBAzata” vizRupu0 .

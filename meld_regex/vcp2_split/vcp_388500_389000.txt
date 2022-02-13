@@ -1,0 +1,500 @@
+388501:3: vcp: <HI>{@SlezmaRa@}¦ pu0 SlezmA'styasya na . kaPaviSizwe amaraH .
+388502:3: vcp: <HI>{@Slezman@}¦ pu0 Sliza--manin . kaPa amaraH . SlezmasvarUpAdikaM
+388503:8: vcp: <>mAvaprakASAdyuktaM kaPaSabde 1676 pf0 dfSyam .
+388504:2: vcp: <>tatprakftikalakzaRam “gamBorabudDiH sTUlANga snigDakeSo
+388505:1: vcp: <>mahAbalaH . supno jalASayAlokI Slezmaprakftiko naraH” .
+388506:2: vcp: <>tatkarmARi yayA “snoho banDaH sTiratvaYca gOravaM dfzyatA
+388507:0: vcp: <>balam . kzamADftiraloBaSca kaPakarmAvikArajam” . Slezma-
+388508:7: vcp: <>karadravyARi kaPakaraSabde 1677 pf0 dfSyAni . anyAni
+388509:1: vcp: <>yaTA “mojanAnantaraM snAnaM jalapAnaM vinA tfzA . tila-
+388510:2: vcp: <>tElaM svigDatElaM snigDamAmalakIdravam . paryyuzitAnnaM
+388511:0: vcp: <>takraYca pakvaramBAPalaM daDi . mAzAmbuSarkarAtoyaM su-
+388512:1: vcp: <>snigDasTalasevanam . nArikelodakaM rUkzasnAnaM paryyuzitaM
+388513:4: vcp: <>jalam . tarumuYjApakvaPalaM supakvakarkawIsmalam . svAta-
+388514:2: vcp: <>snAnaYca varzAsu mUlakaM SlezmavAraRam tajjala brahmaranDre
+388515:1: vcp: <>ca mahAvIryyavinASanam” . SlezmanASakadravyARi kaPaGnI-
+388516:8: vcp: <>Sabde 1677 pu0 dfSyAni . anyAni ca yamA “vahnisvedaM [Page5158-a+ 38]
+388517:1: vcp: <>BfzwaBaNgaM pakvatElaM viSozakam . BramaRaM SuzkamakzyaYca
+388518:5: vcp: <>SazkapakvaharItakI . piRqArakamapakvaYca ramBaHPalamapaka
+388519:3: vcp: <>kam . veSavArasinDuvAramanAhAramapAmakam . saGftaM roca-
+388520:0: vcp: <>nAcUrRaM saGftaM SuzkaSarkaram . marIcaM pippalIM SuzkamA-
+388521:0: vcp: <>rdrakaM jIrakaM maDu . dravyARyetAni ganDarvi! sadyaH Slezma
+388522:0: vcp: <>harARi ca” brahmavE0 brahma0 16 a0 .
+388523:3: vcp: <HI>{@Slezmala@}¦ tri0 Slezma + astyarTe lac . 1 kaPayukte (bahuyAra) 2 vfkze pu0 Sabdaca0 .
+388524:3: vcp: <HI>{@Slezmaha@}¦ pu0 SlezmARaM hanti hana--qa . 1 kawPalavfkze Sabdaca0
+388525:8: vcp: <>2 SlezmanASake tri0 . kaPaGnISabde 1677 pf0 dfSyam .
+388526:3: vcp: <HI>{@SlezmAta@}¦ pu0 SlezmaRA atati ata--ac . SlezmAtakavfkze Sabdara0
+388527:1: vcp: <HI>{@SlezmAtaka@}¦ pu0 SlezmaRA svasevanajanitakaPena atati ata--Rvul
+388528:1: vcp: <>(vahuyAra) bahuvAravfkze amaraH “bahuvArastu SItaH
+388529:1: vcp: <>syAdudAlo bahuvArakaH . SeluH SlezmAtakaScApi picCilo
+388530:1: vcp: <>BUtavfkzakaH . bahuvAro vizasPowavraRavIsarpakuzWanut .
+388531:0: vcp: <>maDurastuvarastiktaH keSyaSca kaPapittahft . PalamAmantu
+388532:2: vcp: <>vizwamBi rUkzaM pittakaPAsrajit . tat pakvaM maDuraM snigDaM
+388533:0: vcp: <>SlezmalaM SItalaM guru” BAvapra0 .
+388534:2: vcp: <HI>{@SlezmAntaka@}¦ pu0 SlezmaRA stasevanajakaPena antaka iva nASakatvAt
+388535:1: vcp: <>(vahuyAra) vfkzaBede rAjani0 .
+388536:2: vcp: <HI>{@Sloka@}¦ vardDane saMGAte ca BvA0 A0 ma0 sew fdit caNi na hrasvaH . Slokate aSlokizwa .
+388537:3: vcp: <HI>{@Sloka@}¦ pu0 Sloka--ac . catuHpadAtmake kavikfte 1 vAkyaBede 2 ya-
+388538:0: vcp: <>Sasi ca amaraH “ka uttamaSlokaguRAnuvAdAt” BAga0 1 . 1
+388539:0: vcp: <HI>{@SloRa@}¦ saMGAte BvA0 para0 saka0 sew fdit caNi na hrasvaH .
+388540:0: vcp: <>SloRati aSloRIt .
+388541:0: vcp: <HI>{@SvaHSreyasa@}¦ na0 SvaH paradine BAvikAle Sreyo yasmAt ac
+388542:4: vcp: <>samA0 . 1 maNgale amaraH 2 suKe 3 paramAtmani ca medi0 .
+388543:1: vcp: <>4 kalyARayukte tri0 .
+388544:2: vcp: <HI>{@Svaka@}¦ sarpaRe BvA0 A0 saka0 sew idit SvaNkare aSvaNkizwa .
+388545:0: vcp: <HI>{@Svaca@}¦ gatO BvA0 A0 saka0 sew . Svacate aSvacizwa ididapyayam
+388546:1: vcp: <HI>{@SvaWa@}¦ gatO saMskAre ca cu0 uBa0 saka0 sew . SvaWayati--te aSi-
+388547:0: vcp: <>SvaWat ta . ididapyayam SvaRwayati .
+388548:0: vcp: <HI>{@SvaWa@}¦ durvacane ada0 cu0 uBa0 saka0 sew . SvaWayati te aSaSvaWat ta .
+388549:3: vcp: <HI>{@SvadaMzwraka@}¦ pu0 Suno daMzwreva kaRwako'sya kap . gokzure kzupa
+388550:2: vcp: <>rAjAna0 .
+388551:0: vcp: <HI>{@SvadaMzwrA@}¦ strI Suno daMzwrevf kaRwakAvftatvAt . gokzure kzupe amaraH .
+388552:1: vcp: <HI>{@SvaDUrtta@}¦ puMstrI niSUno vaYcanArTaM DUrttaH . SfgAle Sabdaca0
+388553:0: vcp: <>striyAM NIz .
+388554:2: vcp: <HI>{@Svan@}¦ pu0 Svi--kanin ni0 . kukkure tajjAtistriyAM NIp nI . [Page5158-b+ 38]
+388555:0: vcp: <HI>{@SvaniSa@}¦ na0 strI SunAM kukkurARAM niSA vA hrasvaH . kukku-
+388556:0: vcp: <>ramAdakarAtrO .
+388557:1: vcp: <HI>{@Svapaca@}¦ puMstrI0 SvAnaM pacati BojanAya paca--ac .
+388558:0: vcp: <>SvapAke jAtiBede . sa ca antyAvasAyisajYaH “caRqAlaH
+388559:1: vcp: <>SrapacaH kzattA sUtI vEdehakastaTA . mAgaDAyogavO cEva
+388560:1: vcp: <>saptOte'ntyAvasAyinaH . antyAvasAyinAmannamaSnIyAd yastu
+388561:3: vcp: <>kAmataH . sa tu cAndrAyaRaM kuryyAt tapraGfcCamaTApi vA”
+388562:0: vcp: <>prA0 ta0 aNgirAH .
+388563:2: vcp: <HI>{@SvapAka@}¦ pu0 SvAnaM pacati karttari saMjYAyAM GaY . jAtiBeda
+388564:0: vcp: <>“kzatturjAtastaTogrAyAM SvapAka iti kIrttyate” manuH .
+388565:9: vcp: <>tadDarmaSca caRqAlaSabde 2849 pf0 ukto dfSyaH .
+388566:2: vcp: <HI>{@SvaPala@}¦ pu0 SunaH priyaM Palamasya . vIjapUravfkze ratnamA0 .
+388567:2: vcp: <HI>{@SvaPalka@}¦ pu0 . vfzRivaMSye akrUrapitari kzatriyaBede vizRupu0 .
+388568:3: vcp: <HI>{@SvaBIru@}¦ pu0 SvaByI BIruH . SfgAle SabdamA0 .
+388569:2: vcp: <HI>{@SvaBra@}¦ gatO CidrakaraRe saka0 dIHsTye aka0 cu0 uBa0 sew .
+388570:0: vcp: <>SvaBrayati te aSaSvaBrat ta .
+388571:0: vcp: <HI>{@SvaBra@}¦ na0 SvaBra--ac . Cidre amaraH .
+388572:2: vcp: <HI>{@SvayaTu@}¦ pu0 Svi--vfdDO aTuc . SoTe amara .
+388573:0: vcp: <HI>{@SvayIcI@}¦ strI Svi--Ici NIp . pIqAyAm si0 kO0 .
+388574:0: vcp: <HI>{@Svala@}¦ vege BvA0 para0 aka0 sew . Svalati aSvAlIt .
+388575:1: vcp: <HI>{@Svalka@}¦ BAzaRe cu0 u0 sa0 sew . Svalkayati te aSaSvalkat ta .
+388576:0: vcp: <HI>{@Svalla@}¦ vege BvA0 para0 aka0 sew . Svallati aSvallIt .
+388577:1: vcp: <HI>{@Svavftti@}¦ strI Suna iva parADInA vfttiH . dAsye “sEvA Svavf-
+388578:2: vcp: <>“ttarAKyAtA tasyAttAM parivarjayet” manuH . “dInadfzwi-
+388579:2: vcp: <>sandarSanasvAmitarjananIcakriyAdiDarmayogAt SvatulyAsiti”
+388580:0: vcp: <>kullU0 “na SvavfttyA kadAcana” manuH .
+388581:2: vcp: <HI>{@SvavyAGra@}¦ pu0 Suno vyAGraH . kukkuraGAtake vyADraBede (cite) jawA0 .
+388582:2: vcp: <HI>{@SvaSura@}¦ pu0 Su ASu aSnute ASu + aSa--urac pfzo0 .
+388583:3: vcp: <>1 patyuH pitari 2 BAryyAyAH pitari ca amaraH .
+388584:4: vcp: <HI>{@SvaSuryya@}¦ pu0 SvaSurasyApatyam yat . 1 devare 2 SyAle ca amaraH .
+388585:1: vcp: <HI>{@SvaSrU@}¦ strI SvaSurasTa patnI UN ukArAkAralopaSca . SvaSura-
+388586:2: vcp: <>BAryyAyAm amaraH . SvaSrUsnu zayoraviSvAsakAraRaM varA-
+388587:2: vcp: <>hapu0 uktaM yaTA “evamuktvA sa cotTAya SaptA nArI
+388588:0: vcp: <>tadA Dare! . yA snuzABiH samaM SaptA viSvAso Bavatu
+388589:1: vcp: <>kvacit . sA ca snuzA kadAcit syAt yA SvaSrUM jI-
+388590:2: vcp: <>vatImizet” .
+388591:0: vcp: <HI>{@Svas@}¦ avya0 AgAmi ahaH pfzo0 ni0 . AgAmini divase amaraH .
+388592:2: vcp: <HI>{@Svasa@}¦ jIvane adA0 jakzA0 Dara0 saka0 sew . SvaDiti aSva- [Page5159-a+ 38]
+388593:1: vcp: <>sIt . “na viSvasedaviSvaste ityAdO” tu gaRavyatyAsAt
+388594:0: vcp: <>BvAditvam nizWA vew . SvasitaH SvastaH .
+388595:4: vcp: <HI>{@Svasa@}¦ svapre adA0 pa0 aka0 vEdiko'yas . Svasti aSvasIt .
+388596:4: vcp: <HI>{@Svasana@}¦ pu0 Svasityanena Svasa--lyuw . 1 vAyO 2 madanavfkze ca
+388597:2: vcp: <>amaraH . BAve lyuw . 3 niSvAme na0 medi0 .
+388598:0: vcp: <HI>{@SvasanASana@}¦ puM strI0 SvasanovAyuraSanamasya . sarpe hArA0 . striyAM NIz
+388599:1: vcp: <HI>{@SvasaneSvara@}¦ pu0 Svasano vAyurISvaro'sya . arjunavfkze Sabdaca0 .
+388600:0: vcp: <HI>{@Svasanotsuka@}¦ puMstrI0 7 ta0 . sarpe Sabdara0 striyAM NIz .
+388601:0: vcp: <HI>{@Svasita@}¦ na0 Svasa--kta . niSvAse muKanAsikAByAM bahirgamana-
+388602:0: vcp: <>rUpe hfdayasTaprARavAyuvyApAre .
+388603:2: vcp: <HI>{@Svasuna@}¦ pu0 Svasa--unan . (kukuraSoNgA) vfkze SabdamA0 .
+388604:2: vcp: <HI>{@Svastana@}¦ tri0 SvoBavaH Svas--Wyul tuw ca . BAvidinasyAyi
+388605:0: vcp: <>vastuni striyAM NIz .
+388606:1: vcp: <HI>{@Svastya@}¦ tri0 SvoBavaH Svas + tyap . BAvidinasTAyivastuni .
+388607:1: vcp: <HI>{@SvAgaRika@}¦ pu0 SvagaRena carati WaY . kukkurAdinA
+388608:0: vcp: <>mfgayAkarttari vyADe si0 kO0 .
+388609:1: vcp: <HI>{@SvAdanta@}¦ tri0 Suna iva danto'sya ni0 dIrGa . kukuratulyadaSana yute .
+388610:1: vcp: <HI>{@SvAna@}¦ puMstrI0 Sveva aR na wilopaH . kukure SabdamA0 .
+388611:0: vcp: <>tajjAtistriyAM NIz .
+388612:0: vcp: <HI>{@SvAnacillikA@}¦ strI SvAna iva cillikA . SunakacillyAM rAjani0 .
+388613:4: vcp: <HI>{@SvApada@}¦ pu0 Suna ivApadasmAt acasamA0 . 1 hiMsapaSO hemaca0
+388614:1: vcp: <>2 vyAGre ca Sabdara0 .
+388615:2: vcp: <HI>{@SvAviD@}¦ pu0 SunA AviDyate A--vyaD kvip 6 ta0 . Salyake
+388616:1: vcp: <>(SajAru) amaraH . ka . SvAviDo'pyatra pu0 .
+388617:5: vcp: <HI>{@SvAsa@}¦ pu0 Svasa--GaY . 1 vAyuGyApAre 2 rogaBede 3 Sikzokte
+388618:0: vcp: <>varRoccaraRArTe bAhyaprayatnaBede ca .
+388619:2: vcp: <>SvAsaroyasya nidAnAdi BAvapra0 uktaM yaTA
+388620:0: vcp: <>“SvAsanidAnamAha yEreva kAraRErhikkA dehinAM samprava-
+388621:0: vcp: <>rttate . tErevabahuBiH SvAso vyADirGoraH prajAyate” . SvA-
+388622:3: vcp: <>sasya BedAnAha “mahordDvaCinnatamakakzudraBedEstu paYcaDA .
+388623:0: vcp: <>Bidyate sa mahAvyADiH SvAsa eko viSezataH” . tasya pUrva
+388624:3: vcp: <>rUpamAha “prAgrUpaM tasya hftpIqA SUlamADmAnameva ca .
+388625:5: vcp: <>AnAho vaktravErasyaM SaNkanistoda eva ca” . samprAptimAha
+388626:1: vcp: <>“yadA srotAMsi saMruDya mArutaH kaPapUrvakEH . vizvak
+388627:3: vcp: <>brajati saMrudDastadA SvAsaM karoti sAH” . vizvak brajati
+388628:1: vcp: <>sarvato vimArnAn yAti saMrudDaH kaPAnAdinA rudDamArgaH .
+388629:2: vcp: <>mahASvAsasya lakzaRamAha “UrdDvAyazAnavAtoyaH Sabdavat
+388630:0: vcp: <>duHKito naraH . uccEH Svasiti sannadDo mattarzaBa ivA- [Page5159-b+ 38]
+388631:1: vcp: <>niSam . pranazwajYAnavijYAnastaTA biBrAntalocanaH .
+388632:5: vcp: <>vivftAkzyAnano bavumUtravarcI viSIRavAk . dInasya SvAsa-
+388633:3: vcp: <>taYcAsya dUrAdvijYAyate BfSam . ahASvAsopasfzwastu
+388634:1: vcp: <>kziprameva vipadyate 1 . UrdDvAyamAnavAtaH UrdDvaM nIyamAne
+388635:1: vcp: <>vAto yasya saH Sabdavat saSabdaM yaTA sTAt . kIdfk
+388636:1: vcp: <>sa SabdastadboDayitumAha mattarzaBa iva . uccEH SvIsa-
+388637:0: vcp: <>tItTanvayaH . sannadDaH AnadDaH AnAhayukta iti yAvat .
+388638:0: vcp: <>jYAnaM tattadarTaviniScayaH . viSIrRavAk sKalitavacanaH .
+388639:2: vcp: <>dInaH mlAnaH . mArakaScAyaM mahASvAsaH . UrdDvaSvAsa-
+388640:0: vcp: <>mAha “UrdDaM Svasiti yo'tyarTaM na ca pratyAharatyaDaH .
+388641:2: vcp: <>SlezmAvftamuKasrotaHkrudDaganDabahArditaH . UrdDvadfzwirvipa-
+388642:0: vcp: <>SyaMstu biBrAntAkza itastataH . pramuhyan vedanArttaSca
+388643:5: vcp: <>SuzkAmyo ratipIqitaH . UrdDvaSvAsa prakupite hyaDaHSvAmo
+388644:4: vcp: <>nirudDyate . muhyatastAmyataScordDaSvAsastasya nihantyasUn” 2 .
+388645:0: vcp: <>sarvezu SvAsezu UrdDvaSvAso'tra atyarTamiti viSezaH . na ca
+388646:0: vcp: <>pratyAharatyaDaH na SvAsamaDaH karoti SlezmAvftetyAdiSlezma-
+388647:1: vcp: <>RAvftaM yanmuKaM srotAMsi ca teH krudDo yo ganDavahaste
+388648:1: vcp: <>nArditaH . vipaSyan itastato vikftaM yaTA syAdevaM paSyan
+388649:1: vcp: <>aDaHSvAso nirudDyata SvAso nADaH pravarttata” ityarTaH .
+388650:3: vcp: <>muhyato mohaM prApnuvatastApyato glAniM prApnuvataYca
+388651:3: vcp: <>UrdDvaSvAsaH asUn prARAn hanti . CinnaSvAsasyArizwaM
+388652:1: vcp: <>lakzaRaYcAha “yastu Svasiti vicCinna sarvaprARena
+388653:0: vcp: <>pIqitaH . na vA Svasiti duHKArtto marmacCedarujArditaH .
+388654:3: vcp: <>AnAhasyedamUrcCArtto dahyamAnena vastinA . viplutAkzaH
+388655:0: vcp: <>parikzIRaH Svasan raktEkalocanaH . vicetAH pariSuzkAsyo
+388656:0: vcp: <>vivarRaH pralapannaraH . CinnaSvAsena vicCinnaH sa SIGra
+388657:2: vcp: <>vijahAtyasUn” 2 . vicCinnaM savicCedaM sarvaprARena sarva-
+388658:4: vcp: <>valena marmacCedarujArditaH hfdayaSiraSCedavedanayEva
+388659:0: vcp: <>pIqitaH . dahyamAnena vastinA upalakzitaH . viplutAkzaH
+388660:0: vcp: <>aSrupUrRanetraH . vicetAH udvignacittaH CinnaSvAsena vi-
+388661:2: vcp: <>cCinnaH yastu Svasiti vicCinnamityAdilakzaRayukto yaH sa
+388662:0: vcp: <>naraH CinnaSvAsena vicCinna pIqito bodDavyaH . mAraka-
+388663:1: vcp: <>ScAyaM CinnaSvAsaH . tamakaSvAsamAha “pratilomo yadA
+388664:0: vcp: <>vAyuH srotAMsi pratipadyate . grIvAM SiraSca saMgfhya
+388665:5: vcp: <>SlezmARaM samudIryya ca . karoyi pAnasaM tena kaRWe
+388666:3: vcp: <>GurTarakaM taTA . atIva tIvravegaYca SvAsaM prARaprapIqakam .
+388667:1: vcp: <>pratAmyati sa vegena trasyate sanniruDyate . pramohaM kAsa-
+388668:1: vcp: <>mAnaSca sa gacCati muhurmuhuH . SlezmaRA mucyamAnena [Page5160-a+ 38]
+388669:0: vcp: <>BfSaM Bavati duHKitaH . tasyEva ca vimokzAnte muhUrttaM
+388670:0: vcp: <>laBate suKam . taTAsyodDvaMsate kaRWaH kfcCrAcCaknoti
+388671:1: vcp: <>BAzitum . na cApi nidrAM laBata SayAnaH SvAsapI-
+388672:0: vcp: <>qitaH . pArSve tasyAvagfhRAti SayAnasya samIraRaH .
+388673:0: vcp: <>AsIno laBate sOKyamuzRaYcEvABinandati . ucCri
+388674:2: vcp: <>tAkzo lalAwena svidyatA BfSamArttimAn . viSuzkAsyo
+388675:0: vcp: <>muhuH SvAso muhuScEvAvaDamyate . meGAmbu SItaprAgvAtEH
+388676:0: vcp: <>SlezmalESca vivardDate . sa yApyastamakaH SvAsaH sADyo vA
+388677:1: vcp: <>syAnnavotTitaH” 4 . saMgfhya vyaTayA samudIryya vardDayitvA .
+388678:2: vcp: <>pInasaM nAsAsrAvaM tena SlezmaRA GarDuraM GurGuraSabdaM prARa-
+388679:0: vcp: <>prapIqakam . pratAmyati tamasi praviSatIva vegena SvAsa-
+388680:1: vcp: <>vegena sanniruDyate niScezwo BavatIti cakraH . sanni
+388681:1: vcp: <>ruDyate SvAsa iti jEjjawaH . . SlezmaRA mucyaBAnena
+388682:2: vcp: <>suKaM sustamiva udDvaMsate vyaTito Bavati . SayAnaH Saya-
+388683:0: vcp: <>nanihitANgo'vagfhRAti pIqayati uzRaScEvABinandati
+388684:2: vcp: <>ityanena tamakI vAtakaPArabDa iti bodDavyaH . ucCri-
+388685:2: vcp: <>tAkzaH SUnAkzaH . lalAwena svidyatA upalakzitaH ava
+388686:2: vcp: <>Damyate gajArUQasyeva savagAtraYcAlyate . tamakasyEva
+388687:0: vcp: <>pittAnubanDajanitajvarAdiyogena pratamakasaMjYAmAha “jva
+388688:5: vcp: <>ramUrcCAparItaYca vidyAt pratamakaM mizak” . tasyEvApara-
+388689:1: vcp: <>lakzaRamAha “udAvarttarajo jIrRakalinnakAyaniroDajaH .
+388690:0: vcp: <>tamasA vardDate'tyarTaM SItalESca praSAmyati . majjatastama
+388691:2: vcp: <>sIvAsya vidyAt pratamakantu tam” . udAbartto rogaviSezaH
+388692:0: vcp: <>rajo DUliH atrAjIrRamAmAdiklinnaM vidagDaM kAya-
+388693:0: vcp: <>niroDA aNgavegAnAM niroDaH tasmAdutpannaH . kzudraSvA-
+388694:0: vcp: <>samAha “rUkzAyAsodBavaH kozWe kzudrovAta udIrayan .
+388695:1: vcp: <>kzudraSvAso na so'tyarTaduHKenANgapravADakaH . hinasti na
+388696:1: vcp: <>ca gAtrARi na ca duHKaM yaTetare . na ca BojanapAnAnAM
+388697:0: vcp: <>niruRadDyucitAM gatim . nendriyARAM vyaTAYcApi kA-
+388698:2: vcp: <>YcidutpAdayedrujam . sa sADya ukto valinaH sarve cAvyakta-
+388699:0: vcp: <>lakzaRAH” 5 . kzudraH alpanidAnaliNgaH udIrayan UrdDvaM
+388700:0: vcp: <>gacCan duHKaH duHKapradaH . sarve mahASvAsAdayo'pi .
+388701:1: vcp: <>avyaktakakzaRAH santaH sADyAH . SvAsAnAM sADyatvAdi-
+388702:1: vcp: <>kamAha “kzudreH sADyatamastezAM tamakaH kfcCra ucyate .
+388703:1: vcp: <>traya SvAsA na siDyanti tamako durbalasya ca . kAma
+388704:1: vcp: <>prARaharA rogA bahavo na tu te taTA . yaTA SvAsaSca
+388705:1: vcp: <>hikkA ca harataH prARamASu vE” . vahavo jvarAdayaH
+388706:2: vcp: <>“taTA yaTA SvAsahikve harato jIvamASute” . [Page5160-b+ 38]
+388707:0: vcp: <>tezAM nidAnakarmavipAkAstu BfguBAra0 uktA yaTA
+388708:0: vcp: <>“SvAsarogo mahAnugro dehidehABiGAtakaH . karmaRA yena
+388709:1: vcp: <>Bavati tanme nigadataH SfRu . mahordDvacCinnatamakakzudrA-
+388710:0: vcp: <>Bedo'sya paYcaDA . SvAsaH saMjAyate nFRAM pfTak karmAnu-
+388711:0: vcp: <>sArataH . yastu yajYaM samAsAdya paSuSvAsaM niruDya ca .
+388712:0: vcp: <>hanti svAdanti vAtaYca mahASvAsena gfhyate1 . pOrARika
+388713:0: vcp: <>kaTA maDye yastu vAcAnyaTA vadet . sa UrdDvaSvAsa-
+388714:0: vcp: <>mAsAdya dunotyaharaharniSam 2 . nizidDadAnagrahaRA-
+388715:0: vcp: <>cCinnaSvAsena gfhyate3 . martyaH SAstrArTanirRItavAkya
+388716:1: vcp: <>yo dUzayatyapi . pIqyate tamakaSvAsEH 4 kzudrEH pAkasya
+388717:0: vcp: <>viGnataH 5 . paratra karmato dehI narakezu vipacyate .
+388718:3: vcp: <>narakAnte punarvyAGrayoniM SfkaravAyasIm . pfTak karma-
+388719:0: vcp: <>vaSAd yonO gatvA saMprApya tapyate . mAnuzatvamanuprApya
+388720:0: vcp: <>pUrvoktenopagfhyate” .
+388721:1: vcp: <HI>{@SvAsakAsa@}¦ pu0 SvAsayuktaH kAsaH . SvAsayukte kAsaroge
+388722:1: vcp: <>“piSuno narakasyAnte jAyate SvAsakAsavAn . GftaM tenu
+388723:0: vcp: <>pradAtavyaM sahasrapalasammitam” SAtA0 karma0 .
+388724:2: vcp: <HI>{@SvAsakuWAra@}¦ pu0 SvAse kuWAra iva . SvAsarogozaDaBede
+388725:1: vcp: <>“raso ganDo vizaYcApi waNkaRaYca manaH SilA . etAni
+388726:0: vcp: <>karzamAtrARi maricaYcAzwakarzakam . kawutrayaM karzayugmaM
+388727:0: vcp: <>pfTagatra viniHkzipet . rasaH SvAsakuWAro'yaM sarvaSvAsa
+388728:0: vcp: <>nivArakaH” BAvapra0 .
+388729:1: vcp: <HI>{@SvAsaDAraRa@}¦ na0 SvAsaH prARavAyuH Driyate'nena . prARaDAraRavyApAre prARAyAma
+388730:0: vcp: <HI>{@SvAsaheti@}¦ strI SvAsasya hetiriva . nidrAyAM hemaca0 .
+388731:1: vcp: <HI>{@SvAsAri@}¦ pu0 SvAsasya rogaBedasyAriH nASakatvAt . puzkara-
+388732:0: vcp: <>mUle rAjani0 .
+388733:2: vcp: <HI>{@SvAsin@}¦ pu0 SvAsayati Svasa--Rica Rini . vAyO Sabdaca0 .
+388734:1: vcp: <HI>{@Svi@}¦ gatO saka0 vfdDO aka0 BvA0 para0 yajA0 sew . Svayati aSi-
+388735:2: vcp: <>Svat--aSvat--aSvayAt . wvit SvayaTuH odit nizWA tasya
+388736:0: vcp: <>naH SUnaH .
+388737:2: vcp: <HI>{@Svita@}¦ SuklatApAdane BvA0 A0 xdit luNi uBa0 saka0 sew . Svetate aSvitat aSvetizwa .
+388738:0: vcp: <HI>{@Svitra@}¦ na0 Svita--rak . SvetakuzWaBede (Davala) amaraH .
+388739:0: vcp: <>tannidAnAdi BAvapra0 uktaM yaTA
+388740:5: vcp: <>“kuzWEkamamBanaM ScitraM kilAsa cAruRaM Bavet . nirdizwa-
+388741:2: vcp: <>maparisAMvi triDAtUdBavasaMSrayam” . kuzWEkasamBavaM kuzWena
+388742:1: vcp: <>saha samBavo nidAnaM yasya tat . aTa Svitrasya BadamAha
+388743:0: vcp: <>kilAsaYcAruRaM Bavet Svitrameva raktamAMsASrayAtkilAsa-
+388744:1: vcp: <>maruRaYca BavedityarTaH . nanu kuzWAt Svitrasya ko Beda [Page5161-a+ 38]
+388745:0: vcp: <>ityata Aha nirdizwamaparisrAvIti SvitramaparisrAvi Ba-
+388746:0: vcp: <>vati kuzWantu srAvi aTa ca triDAtUdBavasaMSrayamiti
+388747:4: vcp: <>Svitrama trayoDAtavo raktavAMsamedAMsi saSrayo'DizWAnaM
+388748:1: vcp: <>yasya tat . kuzWantu sAnnipAtikaM marvaDAtugataM BavatIti
+388749:2: vcp: <>BadaH . dozaBedeva lakzaRaBedAnyAha “vAtAdrUkzAruRaM
+388750:1: vcp: <>pittAt tAmraM kamalapatrava! . sadAhaM romaviDvaMsi
+388751:1: vcp: <>kaPAt SvetaM GanaM guru sakaRqUkaM kramAdraktamAMsamedaHsu
+388752:2: vcp: <>cAdiSet . varRenevedfguBaya kuzWaM taccottarottaram” . aru-
+388753:1: vcp: <>RamIzalnohitam . kamalapattravadityanena maDye Svetamante
+388754:3: vcp: <>lAhita boDayati . GanaM puzwam . kramAdraktamAMsamedaHsu
+388755:1: vcp: <>AdiSet . taTA ca carakaH “aruRaM raktage vAte tAmraM
+388756:0: vcp: <>pitte palaNgate . SvetaM SlezmaRi medaHsTe SvitraM kuzWaM paraM-
+388757:0: vcp: <>param” iti . uBayaM dviviDamapi SvitraM varRena Idfgeva .
+388758:0: vcp: <>aruRaM tAmraM SvetaYca dozaBedAt . dviviDaM dozajaM vraRajaM
+388759:0: vcp: <>ca . taTA ca BojaH “SvitraM tu dviviDaM vidyAddozajaM
+388760:0: vcp: <>vraRajaM taTA” iti . SvitraM sADyamasADyaYcAha “aSukla-
+388761:3: vcp: <>romAbahalamasfgyuktamaTo nabam . anagnidagDajaM sADyaM
+388762:2: vcp: <>SvitraM varjyamato'nyaTA” . abrahalaM tanu . anyacca
+388763:2: vcp: <>“guhyapARitalAzWezu jAtamapyacirantanam . varjjanIyaM
+388764:1: vcp: <>viSezeRa kilAsaM sidDimicCatA” . guhyaM mehanam BagaYca
+388765:0: vcp: <>talamatra padatalaM suSrutenAnte jAtamiti sAmAnyato
+388766:0: vcp: <>nirdizwatvAt . apyacirantanam navamapi” .
+388767:1: vcp: <HI>{@SvitraGnI@}¦ strI SvitraM hanti hana--wak NIp . pItaparRyAm
+388768:0: vcp: <>(viCutI) Sabdaca0 .
+388769:3: vcp: <HI>{@Svitrin@}¦ tri0 Svitramastyasya ini . SvetakuzWayukte “SvitrI
+388770:2: vcp: <>vastra SvA rasaM ca cIrI lavaRahArakaH” yAjYa0 .
+388771:0: vcp: <HI>{@Svida@}¦ SuklatApAdane BvA0 Atma0 saka0 sew idit . Svindati
+388772:0: vcp: <>aSvindIt .
+388773:5: vcp: <HI>{@Sveta@}¦ pu0 Svita--aca GaY vA . 1 dvIpaBede 2 parvataBede 3 kapa-
+388774:5: vcp: <>rdake hemaca0 . 4 Sukragrahe 5 puBrABre Sabdaca0 . 6 SaNKe
+388775:4: vcp: <>rAjani0 . 7 jIvake jawA0 . 8 SuklavarRe 9 tadvati tri0
+388776:3: vcp: <>amaraH striyAM NIp tasya naSca SvenI . 10 kaliyugIya-
+388777:1: vcp: <>SivAvatAraviSeze yaTA “vedaDyAsAvatArARi dvApare
+388778:0: vcp: <>kaTitAni tu . mahAdevAvatArARi kalO SfRuta suvrata! .
+388779:1: vcp: <>AdO kaliyuge Sveto devadevo mahAdyutiH . nAmrA hi-
+388780:7: vcp: <>tAya viprARAmaBUdvEpaKate'nmare . himavacCisvare ramye
+388781:1: vcp: <>Cagale parvatottame . tasya SizyAH SiKAyuktA buBUvaramita-
+388782:0: vcp: <>praBAH . SvetaH SvataSiKaScEva SvetAsyaH SvetalohitaH . [Page5161-b+ 38]
+388783:0: vcp: <>catvAraste mahAtmAno brAhmaRA vedapAragAH . suBAvo
+388784:2: vcp: <>damanaScATa suhotraH kaNkaRastaTA . lokAkziraTa yogAndro
+388785:2: vcp: <>jEgIzavyastu saptame . azwame daDibAhuH syAnnavame vfzaBa
+388786:0: vcp: <>praBuH . Bfgustu daSame proktastasmAdugraH paraH smftaH .
+388787:2: vcp: <>dvAdaSe'triH samAKyAto vAlI cATa trayodaSe . caturdaSe
+388788:3: vcp: <>gOtamastu vedaSIrzA tataH param . gAkaRaScAmavattasmAt
+388789:1: vcp: <>guhAvAsaH SiKaRqyaTa . jawAmAlyawwahAsaSca dAruko
+388790:2: vcp: <>lANgalI kramAt . SvotastaTA paraH SUlI tiRqo muRqI
+388791:3: vcp: <>ca vE kramAt . sahizRuH somaSarmA ca nazkulISo'ntime
+388792:1: vcp: <>praBuH . vEvasvate'ntare SamBoravatArAstriSUlanaH . azwA-
+388793:5: vcp: <>viMSatirAKyAtAhyante kaliyage praBoH” kOrma 50 a0 .
+388794:0: vcp: <>Svetaparvatasya parimARAdi yaTA “uttarottareRelAvftaM
+388795:2: vcp: <>nIlaH SvetaH SfNavAn iti trayo ramyakahiraRamaya
+388796:0: vcp: <>kurURAM maryyAdAgirayaH prAgAyatAH uBayataH kzArodA-
+388797:3: vcp: <>vaDayo dvisahasnayojanapfTava ekEkaSaH pUrvasyAt pUrva-
+388798:8: vcp: <>syAduttarodaSAMSADikAMSena dErGya eva hrasanti” BAga0
+388799:6: vcp: <>. 5 . 16 . 11 rAjaBede vahnipu0 . saMjYAyAM kan . rUpye
+388800:1: vcp: <>na0 rAjani0 . kapardake pu0 .
+388801:2: vcp: <HI>{@SvetakaRwakArI@}¦ strI karma0 . SuBravarRakaRwakArikAyAm rAjani0 .
+388802:1: vcp: <HI>{@SvetakandA@}¦ strI SvetaH kandA'syAH . ativizAyAM rAjani0 .
+388803:1: vcp: <HI>{@SvetakiRihI@}¦ strI karma0 . girikarRikAyAM kzupaBede rAjani0
+388804:4: vcp: <HI>{@SvetakuYjara@}¦ pu0 karma0 . 1 ErAvatagaje Sabdara0 . 2 Svetagaja-
+388805:0: vcp: <>mAtre ca SvetagajAdayo'pyatra .
+388806:2: vcp: <HI>{@SvetakuSa@}¦ pu0 karma0 . SuklavarReM kuSaBede rAjani0 .
+388807:5: vcp: <HI>{@Svetaketu@}¦ pu0 karma0 1 vAruRe ketugrahaBede 2 CAndogyavasidDe
+388808:2: vcp: <>vAruRO fziBede 3 budDe trikA0 .
+388809:1: vcp: <>“ketabo hyatra dfSyante vAruRAstraya eva te . Urmi-
+388810:7: vcp: <>ketuH Svetaketusa makatustftIyakaH . SvataketurayadA dfSyaH
+388811:2: vcp: <>SvetAsTiM karuta mahIm . tadA mAnuzamAMsAni Bakzaya-
+388812:5: vcp: <>ntIha mAnuzAH kzudBayArttaM jamat kftsnaM cakravadra-
+388813:1: vcp: <>Bramate tadA” . api ca “SvetaH SastrAkulaM kuryyAt
+388814:3: vcp: <>lohitastvagnija Bayam . kzudBaya pItakaH kuryyAt kfzRo
+388815:0: vcp: <>rogamaTolvaRam” . anyacca “avantI puzkarAraRyaM yAva-
+388816:1: vcp: <>dDanyAttaTAparAn . deSAn kvacit kvaccidrogadurBikzEH
+388817:2: vcp: <>paripIqitAn . SvetAKyastu jawAkArI SyaHmo vyoma
+388818:2: vcp: <>triBAgagaH . nivarttate'pasavye na triBAgI kurute prajAH”
+388819:0: vcp: <>iti samayAmftaDftavAkyam .
+388820:6: vcp: <HI>{@SvetakeSa@}¦ pu0 SvetaH keSa iva yasya . 1 raktaSigrO jawAka . [Page5162-a+ 38]
+388821:3: vcp: <>2 SuklavarRakeSayute vfdDe tri0 . karma0 . 3 Sukle keSe pu0 .
+388822:2: vcp: <HI>{@Svetakola@}¦ puMstrI0 6 ba0 . SaParaBatsye trikA0 striyAM NIz
+388823:3: vcp: <HI>{@SvetaKadira@}¦ pu0 karma0 . Sukle svadiraBede .
+388824:3: vcp: <HI>{@Svetagaja@}¦ pu0 karma0 . 1 ErAvate gaje hemaca0 2 SuBragaje ca .
+388825:3: vcp: <HI>{@Svetagarut@}¦ pu0 Svetogarudasya . 1 hase amaraH 3 SuBrapakzayukte
+388826:0: vcp: <>tri0 pfzo0 adanto'pyatra .
+388827:6: vcp: <HI>{@SvetaguYjA@}¦ strI karma0 . SuBraguYjAyAM rAjani0 . guYjASabde 259 pf0 dfSyam .
+388828:0: vcp: <HI>{@SvetacillI@}¦ strI karma0 . SAkaBede (SAdAcirui) rAjani0 .
+388829:2: vcp: <HI>{@SvetacCada@}¦ puMstrI0 SvetaH CadaH pakzo'sya . 1 haMse halA0 .
+388830:2: vcp: <>striyAM NIz . 2 SuBrapakzayukte tri0 .
+388831:1: vcp: <HI>{@SvetajIraka@}¦ pu0 karma0 . SuklajIrake rAjani0 .
+388832:2: vcp: <HI>{@SvetawaNkaRa@}¦ na0 karma0 . 1 SuBrawaNkaRe 2 mAlatInadItIrasamBave
+388833:0: vcp: <>kzAraBede rAjani0 .
+388834:0: vcp: <HI>{@SvetadUrvA@}¦ strI karma0 . SuBradUrvAyAM rAjani0 .
+388835:1: vcp: <HI>{@SvetadvIpa@}¦ pu0 karma0 . vEkuRWAKyavizRuDAmni kzIroDerutta-
+388836:1: vcp: <>rasTe dvopaBede ca “kzIrodaDeruttarataH SvetodvIpo mahA-
+388837:1: vcp: <>praBaH . ekAntinaste puruzAH SvetadvIpanivAsinaH” BA0
+388838:0: vcp: <>SA0 338 a0 .
+388839:3: vcp: <HI>{@SvetaDAtu@}¦ pu0 karma0 . 1 KawikAyAM 2 SuBravarRaDAtudravye ca .
+388840:4: vcp: <HI>{@SvetaDAman@}¦ pu0 SvetaM DAma yasya . 1 candre 2 karpUre 3 samudra-
+388841:1: vcp: <>Pene ca medi0 . SvetakarAdayo'pi . 4 karpUre ca .
+388842:3: vcp: <HI>{@SvetanIla@}¦ pu0 “varRovarRena” pA0 sa0 . 1 SvetakfzRavarRe 2 tadvati
+388843:2: vcp: <>tri0 . 3 meDe Sabdara0 .
+388844:6: vcp: <HI>{@Svetapattra@}¦ puMstrI0 SvetaM pattraM pakzo'sya . 1 haMse striyAM NIz 2 SuBrapakzadalaByAM yukte tri0 .
+388845:1: vcp: <HI>{@SvetapatraraTa@}¦ pu0 Svetapatro haMso raTa iva vAhanaM yasya . catu
+388846:0: vcp: <>rmuKe brahmaRi Sabdaca0 .
+388847:0: vcp: <HI>{@Svetapadma@}¦ na0 karma0 . sitakamale rAjani0 .
+388848:0: vcp: <HI>{@SvetaparRA@}¦ strI SvetaM parRaM yasyAH . vAriparRyAM (pAnA) rAjani0 .
+388849:2: vcp: <HI>{@SvetaparRAsa@}¦ pu0 karma0 . SuBratulasyAM ratnamAlA .
+388850:0: vcp: <HI>{@SvetapAwalA@}¦ strI karma0 SuBrapAwalAvfkze (SAdApArula) jawA0
+388851:0: vcp: <HI>{@SvetapiNgala@}¦ puMstrI0 dehena SvetaH jawayA piNgalaH “varRova-
+388852:2: vcp: <>rRana” pA0 sa0 . 1 siMhe trikA0 striyAM NIz . 2 SvetapiNga-
+388853:1: vcp: <>lavarRe pu 3 tadyute tri0 .
+388854:1: vcp: <HI>{@SvetapiRqItaka@}¦ pu0 karma0 . mahApiRqItakavfkze rAjani0 .
+388855:5: vcp: <HI>{@Svetapuzpa@}¦ pu0 Svete puzpamasya . 1 sinduvAravfkze jawA0 2 SuBra-
+388856:3: vcp: <>varRapuzpayukte tri0 karma0 . 3 SuBre puzpe na0 . 4 nAgadantyAM
+388857:7: vcp: <>5mfgevAMrO strI rAjani0 . 6 zomAtakyAM strI ratnamA0 .
+388858:4: vcp: <>sajYAyA kan . 7 SuBrakaravIre pu0 rAjani0 . [Page5162-b+ 38]
+388859:1: vcp: <HI>{@SvetapuzpikA@}¦ strI SvetaM puzpamasyAH kap ata ittvam . 1 ma-
+388860:1: vcp: <>hASaRavfkze 2 puttradAtryAM ca rAjani0 .
+388861:2: vcp: <HI>{@SvetaprasUnaka@}¦ pu0 SvetaM prasUnaM yasya kaz . SAkatarO rAjani0
+388862:0: vcp: <HI>{@SvetaBaRqA@}¦ strI karma0 . SvetAparAjitAyAM ratnamA0 .
+388863:1: vcp: <HI>{@SvetamandAra@}¦ pu0 karma0 . SuBramandAre rAjani0 .
+388864:4: vcp: <HI>{@Svetamarica@}¦ kama0 . 1 SoBAYjanavIje amaraH 2 SuBramarice ca
+388865:2: vcp: <HI>{@Svetarakta@}¦ pu0 Sveto raktaH “varRo varReneti” pA0 sa0 . 1 pAwa-
+388866:2: vcp: <>lavarRe 2 tadvati tri0 amaraH .
+388867:0: vcp: <HI>{@SvetaraYjana@}¦ na0 SvetaM sitABra0 rajyate'nena ranja--lyuw . sIsake
+388868:3: vcp: <HI>{@SvetaraTa@}¦ pu0 Sveto raTo yasya . 1 Sukragrahe Sabdaca0 karma0 .
+388869:1: vcp: <>2 SuBre raTe .
+388870:0: vcp: <HI>{@SvetarAjI@}¦ strI Svetena varRana rAjate rAja--ac gOrA0 NIz . caceRqAyAM rAjani0 .
+388871:3: vcp: <HI>{@Svetarocis@}¦ pu0 SvetaM rocirasya . 1 candre 2 karpUre ca halA0
+388872:4: vcp: <HI>{@Svetarohita@}¦ pu0 “varRovarRena” pA0 sa0 . 1 pAwalavarRe 2 tadvati
+388873:1: vcp: <>tri0 puzpeRa SvetaHPalena lohitaH . 3 Suklarohite vfkza
+388874:0: vcp: <>Bede rAjani0 .
+388875:1: vcp: <HI>{@SvetaloDra@}¦ pu0 karma0 . pawwikAloDre rAjani0 .
+388876:0: vcp: <HI>{@SvetavacA@}¦ strI SvetA vaceva . ativizAyAM (Ataica) rA-
+388877:0: vcp: <>jani0 “pArasIkavacA SuklA proktA hEmavatIti sA .
+388878:0: vcp: <>hEmavatyuditA tadvacCUlaM hanti viSezataH” BAvapra0 .
+388879:3: vcp: <HI>{@Svetavalkala@}¦ pu0 SvetaM valkalamasya . 1 udumbaravfkze jawA0 .
+388880:2: vcp: <>2 SaBratvagyute tri0 .
+388881:3: vcp: <HI>{@SvetavAjin@}¦ pu0 Sveto vAjI yasya . 1 candre hemaca0 2 a-
+388882:3: vcp: <>rjune jawA0 . SvetASvAdavo'pyatra . 3 karpUre ca .
+388883:4: vcp: <HI>{@SvetavAsas@}¦ pu0 SvetaM vAso'sya . 1 santyAsiBede 2 Sukla-
+388884:0: vcp: <>vastrayukte tri0 .
+388885:2: vcp: <HI>{@SvetavAh@}¦ pu0 Svetena SvetASvena uhyate vaha--Rvi . 1 indre
+388886:4: vcp: <>2 arjune 3 candre ca . 4 karpUre . Batve UWa SvetOhaH .
+388887:2: vcp: <>hali qasaNa SvetavAH SvetoBisityAdi .
+388888:4: vcp: <HI>{@SvetavAhana@}¦ pu0 SvetaM vAhanaM yasya . 1 candre 2 indre 3 a-
+388889:1: vcp: <>rjune ca medi0 . 4 karpUre ca .
+388890:0: vcp: <HI>{@SvetavuhnA@}¦ strI karma0 . vanatiktAyAM ratnamAlA .
+388891:2: vcp: <HI>{@Svetavfkza@}¦ pu0 karma0 . 1 varuRavfkze rAjani0 2 SuBravfkze ca .
+388892:2: vcp: <HI>{@SvetavfhatI@}¦ strI karma0 . SuBravarRakzudravfhatyAM rAjani0 .
+388893:1: vcp: <HI>{@SvetaSiMSapA@}¦ strI karma0 . SuBraSiSapAyAM rAjani0 .
+388894:1: vcp: <HI>{@SvetaSigru@}¦ pu0 karma0 . sitaSoBAYjane rAjani0 .
+388895:3: vcp: <HI>{@SvetaSuNga@}¦ pu0 SvetA SuNgA'sya . 1 yave rAjani0 . 2 SuBra-
+388896:0: vcp: <>varRaSuNgAyukte tri0 . [Page5163-a+ 36]
+388897:1: vcp: <HI>{@SvetaSUraRa@}¦ pu0 karma0 . vanaSUraRe rAjani0 .
+388898:5: vcp: <HI>{@Svetasarpa@}¦ pu0 SvetaH san sarpati sfpa--ac . 1 varuRavfkze jawA0
+388899:1: vcp: <>karma0 . 2 SuBraBujage puMstrI0 . striyAM NIz .
+388900:1: vcp: <HI>{@Svetasarzapa@}¦ pu0 karma0 . gOrasarzape .
+388901:5: vcp: <HI>{@SvetasAra@}¦ pu0 SvetaH sAro'sya . SuBraKadire UwA0 .
+388902:1: vcp: <HI>{@SvetasurasA@}¦ strI karma0 . SuBraSePAlikAyAm amaraH .
+388903:0: vcp: <HI>{@SvetaspandA@}¦ strI SvetA satI spandate spanda--ac . sitApa-
+388904:0: vcp: <>rAjitAyAM rAjani0 .
+388905:4: vcp: <HI>{@Svetahaya@}¦ pu0 SvetohayaH . 1 uccEHSravasi haye trikA0 2 si-
+388906:4: vcp: <>tabarRayukte 3 haye ca . 6 ba0 . 4 arjune hemaca0 . 5 indra ca
+388907:2: vcp: <HI>{@SvetA@}¦ strI Svita--ac . 1 varAwikAyAM 2 kAzWapAwalAyAM
+388908:4: vcp: <>3 SaNKinyAM medi0 . 4 ativizAyAM ratnamA0 . 5 sitApurA-
+388909:6: vcp: <>jitAyAM 6 SuBrakaRwakAryyAM 7 pAzARaBAdanyA 8 SuBra-
+388910:6: vcp: <>dUrvAyAM 9 vaMSarocanAyAM 10 SarkarAyAM 11 SilAvalakalAyAM
+388911:3: vcp: <>12 SvetavfhatyAM ca rAjani0 .
+388912:3: vcp: <HI>{@SvetArka@}¦ pu0 karma0 . SuBravarRapuzpake arkavfkze rAjani0 .
+388913:2: vcp: <HI>{@SvetAvara@}¦ pu0 SvetaM SvetavaRamAvfRoti A + vf--ac . sitA-
+388914:0: vcp: <>varaSAke rAjani0 .
+388915:1: vcp: <HI>{@SvetASvatara@}¦ pu0 vedaSAKABede .
+388916:1: vcp: <HI>{@Svetekzu@}¦ pu0 karma0 . Sukle ikzO rAjani0 .
+388917:1: vcp: <HI>{@Svetodara@}¦ pu0 SvetamudaraM yasya . kubere trikA0 .
+388918:0: vcp: <HI>{@SvetOhI@}¦ strI SvetOhaH patnI NIz . indrARyAM SacyAm .
+388919:1: vcp: <HI>{@Svetya@}¦ na0 Svetasya BAvaH zyaY . SuBravarRe .
+388920:1: vcp: <HI>{@SvovasIyasa@}¦ na0 atiSayena vasuH praSastaHSvo vasIyaH ni0 ac
+388921:5: vcp: <>saBA0 . 1 paradine BAviMkAla praSaste maNgale 2 tadvati tri0
+388922:?: vcp: <>iti SrItArAnATatarkavAcaspatiBawwAcAryya-
+388923:?: vcp: <>saNkalite vAcaspatyABiDAne SakArAdi
+388924:?: vcp: <>SabdArTasaNkalanam .
+388925:?: vcp: <>aSudDaSoDanam .
+388926:?: vcp: <>6000 pfzWAvaDi 6034 pfzWaparyyantapatrANke 900 navaSa-
+388927:?: vcp: <>tANADikatayAH pramAdAt mudritAH tatra tatra pfzWezu navaBiH
+388928:?: vcp: <>SatErUnitA aNkasaMstyA boDyAH .
+388929:?: vcp: <H>za
+388930:9: vcp: <HI>{@zakAraH@}¦ mUrdDanyaH UzmavarRaBedaH . askoccAraRasTAnaM mUrdDA
+388931:9: vcp: <>asyoccAraRe AByantaraprayatra vivftaTardDaspfzwatA “yema-
+388932:9: vcp: <>spfzwAH SalastaDA” SikzAkteH . bAhyapravatyAYca vivArASvAsA- [Page5163-b+ 38]
+388933:9: vcp: <>DozA mahAprARaSca . UzmarUpavAyapraDAnatvAdasya Udmava-
+388934:9: vcp: <>rRatA . asya DyeyasvarUpaM yaTA “zakAraM SfRu cArvaNgi
+388935:9: vcp: <>azwakoRamayaM sadA . raktacandrapratIkASaM svayaMparamakuRqalI .
+388936:9: vcp: <>caturvargamayaM varRaM suDAnirmitavigraham . paYcadevazayaM
+388937:9: vcp: <>varRaM paYcaprARamayaM sadA . rastaHsattvatamoyuktaM triSakti-
+388938:9: vcp: <>sahitaM sadA . tribindusAhataM varRamAtmAditattvasaMyutam .
+388939:9: vcp: <>sarvadevamayaM varRaM hfdi BAvaya pArvati!” kAmaDenutantram .
+388940:9: vcp: <>etADazWAnadevatADyAnaM yaTA “caturBujAM cakorAkzIM
+388941:9: vcp: <>cArucandanacarcitAm . SuklavarRAM trinayanAM varadAYca
+388942:9: vcp: <>SucismitAm . ratnAlaNkAramUzAQyAM SvetamAlyopaSo-
+388943:9: vcp: <>BitAm . devavfndEraBibandyAM sevitAM mokzakANkziBiH .
+388944:9: vcp: <>eva DyAtvA zakArantu tanmantraM daSaDA japet varRodDA-
+388945:9: vcp: <>ratantram . asya vAcakaSabdA yaTA “zaH Sveto vAsudevaSca
+388946:9: vcp: <>pitA prajYA vinAyakaH . paramezWo vAmabAhuH SrezWo
+388947:9: vcp: <>garBavimocanaH . lambodaro yamo'jeSaH kAmaDuk kAma-
+388948:9: vcp: <>cUmakaH . suSrIrUzmA vfzo lajjA marudBakzyaH priyaH
+388949:9: vcp: <>SivaH . sUryyAtmA jaWaraH kozo mAtA rakzovidAriRI .
+388950:9: vcp: <>kalakaRWo maDyaBinnA yudDAtmA malapUH SivAH” varRABi-
+388951:9: vcp: <>DAnam “makAraH Sveta AKyAto mUrdDanyo vfzasaMjYaruH .
+388952:9: vcp: <>pittaM SaktiSca mAyA ca mahAyAniH svabindumat” BantrA-
+388953:9: vcp: <>nizanam . mAtfkAnyAse'sya jaWare nyAsyatA . kAvyAdO
+388954:9: vcp: <>prayoge'Ra Palam svedaH “SaH muKaM zastu svewam” vf0 ra0 wI0
+388955:9: vcp: <P>atra zAdiSabdezu zAditayA ye DAtavaH paWitAstezAM
+388956:9: vcp: <>prayogakAle dantyasAditvaM sati ca nimittaM punaH zatvam
+388957:9: vcp: <>yaTA ziDa seDati niDeDati “pawwavargastavargasvaH” ityukteH
+388958:9: vcp: <>yasya prayogakAle satve tannimittawavargala tavargAvirBavaH yaTA
+388959:9: vcp: <>zwu stu stOti . zWAsTA vasTO zRA snA snAti . nimitte
+388960:9: vcp: <>sati zatve ca wutve ca pratizwOti pratizWA nizWA nizRAti .
+388961:9: vcp: <>tatra zwyEzvakkazWivAntu na sAdeSastena zwyAyati zvakkati zWIva-
+388962:9: vcp: <>tItyevetetti BedaH . zWivaparyudAse zWIvaDAtorapi paryudAsaH .
+388963:5: vcp: <HI>{@za@}¦ pu0 zo--ka pfzo0 zatvam . 1 keSe medi0 2 garBavimocane mAnaye
+388964:3: vcp: <>ca 3 sarve 4 SrezWe ekAkzarakozaH . 5 vijYe ca tri0 medi0 .
+388965:0: vcp: <HI>{@zakAra@}¦ pu0 za + svarUpe kAra . zasvarUpavarRe kAmaDenutantre udA0
+388966:2: vcp: <HI>{@zaga@}¦ saMvaraRe BvA0 para0 saka0 sew edita sici na vfdDiH .
+388967:0: vcp: <>sagati asagIt mit GawAdi sagayati . asOzagat ta .
+388968:1: vcp: <HI>{@zaGa@}¦ hiMsAyAM svA0 para0 saka0 sew edit sici na vfdDiH .
+388969:4: vcp: <>kavoti kasaGIt asIzaGat ta .
+388970:3: vcp: <HI>{@zaca@}¦ secane BvA0 Atma0 saka0 sew . paYcate asacizwa asIH zacat ta . [Page5164-a+ 38]
+388971:1: vcp: <HI>{@zaca@}¦ sambanDe BvA0 para0 saka0 sew . sacati . asacot--asAcIt
+388972:2: vcp: <HI>{@zawa@}¦ viBAjane BvA0 pA saka0 sew . sawati asawIt asAwIt
+388973:1: vcp: <HI>{@zawkarmman@}¦ na0 zawprakAraM karma0 . 1 tantroktezu SAntivaSI-
+388974:0: vcp: <>karaRastamBanavidvezoccAwanamAraRarUpezu zawsu prayogaBedezu
+388975:0: vcp: <>tAni ca karmARi tantrasArAdyuktAni uccAwanaSabde
+388976:7: vcp: <>1062 pf0 dfSyAni . tatratyaBUtamaRqalAni ca BUtamaRqa-
+388977:9: vcp: <>laSabde 4685 . 86 pf0 dfSyAni . 2 yajanayAjanA-
+388978:1: vcp: <>DyayanADyApanadAnapratigraharUgezu zawsu viprakarmasu ca .
+388979:1: vcp: <>zawkarmARi yasya . 3 yAgAdiyukte vipre pu0 . haWayo
+388980:3: vcp: <>gANge 4zawkriyABede yaToktaM zeraRqasaM0 1 a0 .
+388981:0: vcp: <>“DOtirvastistaTA netirnOlikI trAwakastaTA . kapAla-
+388982:1: vcp: <>BAtiScEtAti zaw karmARi samAcaret . antarDO
+388983:2: vcp: <>tirdantaDOtirhfdDItirmalaSoDanam . DOtyaScaturviDAH prAktA
+388984:2: vcp: <>GawaM (veha) kurvanti nirmalam . vAtasAraM vArisAraM
+388985:4: vcp: <>vahnisAra bahizkf ma . Gawasya nirmalArTAya antarDOti-
+388986:4: vcp: <>ruturviDA” . “kAkacaYcuvadAsvena pibedvAyuM SanEH
+388987:2: vcp: <>SanEH . cAlayedudaraM paScAdvartmanA recayet SanEH . vAta-
+388988:0: vcp: <>sAraM paraM gopyaM dehanirmalakArakam . sarvarogakzayakaraM
+388989:0: vcp: <>dehAnalavivardDakam . AkaRWaM pUrayedvAri vaktreRa ca
+388990:3: vcp: <>pivet SanEH . cAlayedudareSEva codarAdrevayedaDaH . vAri-
+388991:3: vcp: <>mAraM paraM DotaM dehanirBalakArakam . sADayed yaH praya-
+388992:1: vcp: <>tnena devadehaM prapadyate . nABigranyiM merupfzWaM SatavAraYca
+388993:6: vcp: <>kArayeva . udarAmayajaM tyaktvAM jaWarAgniM vivardDayet .
+388994:4: vcp: <>zahnisAramidaM DOtaM yoginAM yogAsadDidam . kAkIM
+388995:2: vcp: <>mudrAM sADavitvA pUrayetudaraM marut . DArayedardDayAmastu
+388996:2: vcp: <>cAlavedaDavartmanA . idaM DOtaM paraM gopyaM na prakASya
+388997:1: vcp: <>kadAcana . nABimagnajale syitvA SaktinAqIM visarjayet .
+388998:2: vcp: <>karAByAM kzAlayennAqIM yAvanmalavisarjavam . tAvat pa-
+388999:0: vcp: <>kzAlya nAqIYca udare veSayet punaH . idaM prakzAlanaM gopyaM
+389000:1: vcp: <>devAnAmagi durlaBam . kevalaM DOtimAtreRa devadeho

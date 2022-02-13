@@ -1,0 +1,500 @@
+265501:0: vcp: <>ttasya me vizRurataH SAntiM prayacCatu” .
+265502:0: vcp: <HI>SvetASvasya “yasmAdvizRusvarUpeRa yasmAdamftasamBavaH . candrArka-
+265503:1: vcp: <>vAhanaM nityamataH SAntiM prayacCa me” .
+265504:0: vcp: <HI>DenoH “yasmAttvaM pfTivI sarvA DenuH keSavasanniBA . sarva-
+265505:0: vcp: <>pApaharA nityamataH SAntiM prayacCa me” .
+265506:0: vcp: <HI>lohasya “yasmAdAyasakarmARi tvadaDInAni sarvadA . lANga-
+265507:0: vcp: <>lAdyAyuDAdIni tataH SAntiM prayacCa me” .
+265508:2: vcp: <HI>CAgasya “yasmAttvaM CAga! yajYAnAmaNgatvena vyavasTitaH .
+265509:0: vcp: <>yAnaM viBAvasornityamataH SAntiM prayacCa me” .
+265510:0: vcp: <HI>Svetavastrasya “SaraRyaM sarvalokAnAM lajjAyA rakzaRaM param .
+265511:0: vcp: <>suveSaDAri tvaM yasmAdvAsaH! SAntiM prayacCa me” .
+265512:0: vcp: <HI>raktavastrayugasya “raktavastrayugaM yasmAdAdityasya priyaM sadA .
+265513:0: vcp: <>pradAnAdasya me sUryo hyataH SAntiM prayacCatu” .
+265514:1: vcp: <HI>kfzRavastrasya “DarmarAjena viDftaM kfzRavastraM suSIBanam .
+265515:0: vcp: <>sarvakleSavinASAya kfzRavastraM dadAmyaham” .
+265516:1: vcp: <HI>annasya “annameva yato lakzmIrannameva janArdanaH . annaM vrahmA-
+265517:0: vcp: <>KilatrARamastu me janmajasmani” .
+265518:0: vcp: <HI>sopadaMSadaDyannasya “candramaRqalamaDyasTaM candrAmbujasamapraBam .
+265519:0: vcp: <>daDyannaM tasya dAnena prIyatAM vAmanI mama . daDyannaM
+265520:1: vcp: <>sopadaMSaYca vrahmavizRuSivAtmakam . prIyatAM DarmarAjo
+265521:0: vcp: <>hi taddAnAnmama sarvadA” .
+265522:1: vcp: <HI>sapAnIyadaDyannasya “pAnOyasahitaYcEtat sadaDyodanapAtrakam .
+265523:3: vcp: <>samarcitaM tat saPalaM sadakziRaM gfhARa daDyodanapAtrakaM
+265524:0: vcp: <>mama” .
+265525:0: vcp: <HI>kfsarAnnasya “sarvAtmA sarvalokeSaH sarvavyApI sanAtanaH .
+265526:0: vcp: <>nArAyaRaH prasannaH syAt kfsarAnnapradAnataH” .
+265527:0: vcp: <HI>pAyasAnnasTa “pAyasaM paramAnnaYca sarvadAnottamottamam .
+265528:0: vcp: <>sarvadEvatayogyaYca SreyaHpuzwiM prayacCatu” .
+265529:1: vcp: <HI>apapAnnasya “AdityatejasA BaktaM jAtiSrEzWyakaraM param .
+265530:0: vcp: <>tadannaM mama vipra! tvaM pratIcCApUpamuttamam” .
+265531:1: vcp: <HI>saktUnAm “prAjApatyA yataH proktAH saktavo yajYakarmaRi .
+265532:0: vcp: <>tasmAt saktUn prayacCAmi prIyatAM me prajApatiH” .
+265533:0: vcp: <HI>rajatasya “asurezu samudBUtaM rajataM pitfvallaBam . tasmAdasya
+265534:0: vcp: <>pradAnena rudraH samprIyatAM mama” .
+265535:0: vcp: <HI>tAmrapAtrasya “parApavAdapESUnyAdaBakzyasya ca BakzaRAt . [Page3538-b+ 38]
+265536:1: vcp: <>tatpajAtaYca yat pApaM tAmrapAtraM praSAmyatu” .
+265537:2: vcp: <HI>kAMsyapAtrasya “yAni pApAni kAmyAni kAmItTAni
+265538:0: vcp: <>kftAni ca . kAMsyapAtrapradAnena tAni naSyantu me sadA” .
+265539:0: vcp: <HI>svarRagarBatilapAtrasya “devadeva! jagannATa! vAYCitArTaPala-
+265540:0: vcp: <>prada! . tilapAtraM pradAsyAmi tavANge saMsTiteraham” .
+265541:1: vcp: <HI>darpaRasya “darSanena tvamAdarSa! nfRAM maNgaladAyakaH . SOryya-
+265542:2: vcp: <>sOBAgyasatkIrttinirmalajYAnado Bava” .
+265543:0: vcp: <HI>muktAnAm “tAmraparRyarRavotpannA varRAdyAkalpavarRitAH . muktAH
+265544:1: vcp: <>SuktyadBavAH santu BuktimuktipradA mama” .
+265545:0: vcp: <HI>suvarRapadmasya “tvadudBavo jagatsrazwurveDaso hemapaNkajaH . padmA-
+265546:0: vcp: <>vAsaharernABijAto mAM pAhi sarvadA” .
+265547:0: vcp: <HI>siMhasya “kAntAravanadurgezu cOravyAlAkule paTi . hiMsakAstu
+265548:0: vcp: <>na hiMsantu siMhadAnapraBAvataH” .
+265549:0: vcp: <HI>aNgulIyakasya “hiraRyagarBasamBUtaM sOvarRamaNgulIyakam .
+265550:0: vcp: <>DarmapradaM prayacCAmi prIyatAM kamalApatiH” .
+265551:1: vcp: <HI>valayasya “kAYcanaM hastavalayaM rUpakAntisuKapradam . viBUzaRaM
+265552:1: vcp: <>pradAsyAmi viBUzayatu mAM sadA” .
+265553:0: vcp: <HI>kuRqaladvayasya “kzIrodamaTane pUrvamudBUtaM kuRqaladvayam . SriyA
+265554:0: vcp: <>saha yadudBUtaM dade SrIH prIyatAM mama” .
+265555:0: vcp: <HI>tulasyAH “maRikAYcanapuzpARi maRimuktAmayAni ca . tula-
+265556:0: vcp: <>sIpatradAnasya kalAM nArhanti zoqaSIm . tulasIpatra-
+265557:3: vcp: <>dAnAdvA vrahmaRaH kAyasamBavam . pApapraSamanaM yAtu
+265558:0: vcp: <>sarve santu manoraTAH” .
+265559:1: vcp: <HI>dugDasya “alakzmIharaRaM nityaM nityaM sOBAmyavardDanam .
+265560:1: vcp: <>kzIraM maNgalamAyuzyaM tataH SAntiM prayacCa me” .
+265561:0: vcp: <HI>navanItasya “kAmaDenoH samudBUtaM vizRostuzwikaraM param . nava-
+265562:1: vcp: <>nItaM pradAsyAmi balaM puzwiYca dehi me” .
+265563:0: vcp: <HI>Ajyasya “kAmaDenusamudBUtaM devAnAmuttamaM haviH . Ayurvi-
+265564:0: vcp: <>vardDanaM dAturAjyaM pAtu sadEva mAm” .
+265565:0: vcp: <HI>tElasya “tElaM puzwikaraM nityamAyuzyaM pApanASanam . amA-
+265566:0: vcp: <>NgalyaharaM puRyamataH SAntiM prayacCa me” .
+265567:0: vcp: <HI>pAdukAyAH “kaRwakocCizwapAzARavfScikAdinivAraRam . pAdukAM
+265568:2: vcp: <>sampradAsyABi vipra! pratyA pragfhyatAm” .
+265569:2: vcp: <HI>cAmarasya “SaSANkakarasaNkASa! himaqiRqIrapARqura .
+265570:0: vcp: <>protsArayASu duritaM cAmarAmaravallaBa!” .
+265571:1: vcp: <HI>candanaKaRqasya “candanAvAsamandArasaKe . bfndArakArccita! .
+265572:0: vcp: <>candana! tvatprasAdAnme sAndrAnandaprado Bava” .
+265573:0: vcp: <HI>candanAdyanulepanasya “SrIKaRqakARqakarpUrakastUrIkuNkumA- [Page3539-a+ 38]
+265574:0: vcp: <>nvitam . vilepanaM prayacCAmi sOKyamastu sadA mama” .
+265575:2: vcp: <HI>kastUryyAH “samasteByo'pi vastuByaH saMstutAsiM surAsurEH .
+265576:0: vcp: <>vinyastA'Ngezu kastUrI suKadA'stu sadA mama” .
+265577:2: vcp: <HI>karpUrasya “kandarpadarpado yasmAt kaMrpUraM! GrARatarpaRa! . Srama-
+265578:0: vcp: <>mAtraBavastApastvaddAnAdapasarpatu” .
+265579:0: vcp: <HI>gopIcandanasya “yadaBUdaNgasaMlagnaM kuNkumAdivilepanam . jala-
+265580:0: vcp: <>krIqAsu gopInAM dvAravatyAM jalArpitam . gopIcanda-
+265581:2: vcp: <>namityuktaM munIndrEH kilvizApaham . tasmadasya pradAnena
+265582:0: vcp: <>vizRurdiSatu vAYCitam” .
+265583:0: vcp: <HI>SivapratimAyAH “tvayA surARAmamftaM piDAya hAlAhalaM
+265584:0: vcp: <>saMvftameva yasmAt . taTA'surARAM, tripuraYca dagDa
+265585:0: vcp: <>mekezuRA lokahitArTamISa! . tava pradAnAdahamapyadozI
+265586:0: vcp: <>dozErvimuktastu guRAn prapadye . taTA kuru tvaM SaraRaM
+265587:1: vcp: <>prapadye mayi pramo! devavara! prasIda” .
+265588:0: vcp: <HI>umAmaheSvarayoH “prasIdatu BavonityaM kfttivAsA maheSvaraH .
+265589:0: vcp: <>pArvatyA sahitodevojagadutpattikArakaH” .
+265590:0: vcp: <HI>SivaliNgasya “SivaSaktyAtmakaM yasmAt jagadetaccarAcaram .
+265591:0: vcp: <>tasmAdanena sarvaM me karotu BagavAn Sivam . kElAsavAsI
+265592:1: vcp: <>gOrISo BagavAn BaganetraBit . carAcarAtmakoliNgarUpI
+265593:0: vcp: <>diSatu vAYCitam” .
+265594:0: vcp: <HI>marakataliNgasya “idaM mArakataM liNgaM rOpyapIWasamanvitam .
+265595:0: vcp: <>DAnyErdvAdaSaBiryuktamekAdaSaPalAnvitam . sampradadyAM vi-
+265596:0: vcp: <>DAnena yaToktaM Palamastu me” .
+265597:0: vcp: <HI>kASmIraliNgasya “kASmIraliNgapakze tu idaM kASmIrajaM vadet” .
+265598:1: vcp: <HI>sasasyaBUmeH “sarvaBUtASrayA BUmirvarAheRa samudDftA . ana-
+265599:0: vcp: <>ntasasyaPaladA ataH SAntiM prayacCa me” .
+265600:0: vcp: <HI>UrRAyAH “UrRA mezasamutpannA SItavAtaBayApahA . yasmAttu-
+265601:0: vcp: <>zArahArI syAdataH SAntiM prayacCa me” .
+265602:1: vcp: <HI>UrRApadasya “OrRapadamanuDyeyaM svarRavojaM tava praBo! . dattaM
+265603:1: vcp: <>gfhARa deveSa! pApaM saMhara satvaram” .
+265604:1: vcp: <HI>DAnyasya “DanyaM karozi dAtAramiha loke paratra ca .
+265605:1: vcp: <>tasmAt pradIyate DAnyamataH SAntiM prayacCa me” .
+265606:0: vcp: <HI>goDUmAnAm “yasmAdannamayojambUdvIpo goDUmasamBavaH . gAnDarva-
+265607:0: vcp: <>sOKyaDanadaH ataH SAntiM prayacCa me” .
+265608:2: vcp: <HI>mudgAnAm “mudgavIjAni bE yasmAt priyARi paramezWinaH .
+265609:1: vcp: <>tasmAdezA pradAnena prItiH sidDyatu me sadA” .
+265610:0: vcp: <HI>caRakasya “purA govardDanodDArasamaye hariBakzitAH . caRakAH
+265611:0: vcp: <>sarvapApaGnA ataH SAntiM dadatvamI” . [Page3539-b+ 38]
+265612:1: vcp: <HI>lavaRasya “rasAnAmagrajaM SrezWaM lavaRaM ba navardDanam . brahmaRA
+265613:0: vcp: <>nirmitaM sAkzAdataH SAntiM prayacCatu” .
+265614:0: vcp: <HI>yavAnAm “DAnyarAjASca mANgalyA dvijaprItikarA yavAH .
+265615:0: vcp: <>tasmAdezAM pradAnena mamAstvaBimataM Palam” .
+265616:0: vcp: <HI>tilAnAm “tilAH pApaharA nityaM vizRordehasamudBavAH .
+265617:1: vcp: <>tiladAnena sarvaM me pApaM nASaya keSava!” .
+265618:0: vcp: <HI>SarkarAyAH “amftasya kalotpannAH ikzuDArAjaSarkarA . sUryya-
+265619:0: vcp: <>prItikarA nityamataH SAntiM prayacCa me” .
+265620:0: vcp: <HI>KaRqasya “manoBavaDanurmaDyAdudBUtaH SarkarAjaniH . tasmAdasya
+265621:2: vcp: <>pradAnena Bama santu manIraTAH” .
+265622:0: vcp: <HI>guqasya “praRavaH sarvamantrARAM nArIRAM pArvatI yaTA . taTA
+265623:0: vcp: <>rasAnAM pravaraH sadEvekzurasomataH . mama tasmAt parAM
+265624:0: vcp: <>lakzmIM dadasva guqa! sarvadA” .
+265625:0: vcp: <HI>maDunaH “yasmAtpitFRAM SrAdDe tvaM pItaM maDvamftodBavam .
+265626:0: vcp: <>tasmAttava pradAnena rakza mAM duHKasAgarAt” .
+265627:0: vcp: <HI>udakumBasya “vAripUrRaGawopetaM devatrayamayaM yataH . prIyatAM-
+265628:0: vcp: <>DarmarAjo'stu dAnenAnena puRyadaH” .
+265629:1: vcp: <HI>upAnahoH “upAnahO pradAsyAmi kaRwakAdinivAraRe .
+265630:0: vcp: <>sarvasTAnezu suKade ataH SAntiM prayacCatam” .
+265631:1: vcp: <HI>vyajaMnasya “DuvitrA sarvajantUnAM SEtyAnandakarI SuBA . pi-
+265632:0: vcp: <>tFRAM tfptidA nityamataH SAntiM prayacCa me” .
+265633:0: vcp: <HI>SAlagrAmasya “mahAkozanivAsena cakrAdyErupaSoBitam . asya
+265634:0: vcp: <>deva! pradAnAttu mama santu manoraTAH” .
+265635:0: vcp: <HI>SivanABasya “mahAkozanivAsI te mahAdevo maheSvaraH .
+265636:0: vcp: <>prIyatAM tava dAnena ataH SAntiM prayacCa me” .
+265637:0: vcp: <HI>vEtaraRyAH “yamadvAre mahAGore yA sA vEtaraRI nadI .
+265638:0: vcp: <>tAntartukAmoyacCAmi uttAraya suKena mAm” .
+265639:1: vcp: <HI>DenoH “yasmAttvaM pfTivI sarvA DenurvEzRavasanniBA . sarvapApaharA
+265640:0: vcp: <>nityamataH SAntiM prayacCa me” .
+265641:0: vcp: <HI>utkrAntiDenoH “mftyukrAntO pravfttasya suKakAntivivfdDaye .
+265642:0: vcp: <>tuByaM sampradade nAmnA gAM samutkrAntisaMjYitAm” .
+265643:0: vcp: <HI>mezyAH “vANmanaHkAyajanitaM yatkiYcinmama duzkftam . tat
+265644:3: vcp: <>sarvaM vilayaM yAtu tvaddAnenopasebinAm” .
+265645:0: vcp: <HI>SUlasya “Bagavan! SUlahasteSa! dakzADvaravinASana! . tavA-
+265646:1: vcp: <>yuDapradAnena SUlaM naSyatu me sadA” .
+265647:0: vcp: <HI>lohapAtrasya “yAni pApAnyanekAni mayA kAmakftAni ca .
+265648:0: vcp: <>lohapAtrapradAnena tAni naSyantu sarvadA” .
+265649:0: vcp: <HI>rOpyapAtrasya “agamyAgamanaM cEva paradArABimarzaRam . rOpya- [Page3540-a+ 38]
+265650:1: vcp: <>pAtrapradAnena tAni naSyantu me sadA” .
+265651:0: vcp: <HI>sahiraRyatilAnAm “tilAH svarRasamAyuktA duritakzayakA-
+265652:0: vcp: <>rakAH . vizRuprItikarA nityamataH SAntiM dadatvamI” .
+265653:0: vcp: <HI>sahiraRyatilapAtrasya “tilAH puRyAH pavitrASca sarvakAma-
+265654:1: vcp: <>karAH SuBAH . SuklAScEva taTA kfzRA vizRugAtrasa-
+265655:0: vcp: <>mudBavAH . yAni kAni ca pApAni brahmahatyAsamAni ca .
+265656:0: vcp: <>tilapAtrapradAnena tAni naSyantu me sadA” .
+265657:1: vcp: <HI>kuzmARqasya “brahmahatyAdipApaGnaM brahmaRA nirmitaM purA .
+265658:1: vcp: <>kuzmARqa! bahuvIjAtmannataH SAntiM prayacCa me”
+265659:2: vcp: <HI>Palasya “idaM PalaM mayA vipra! praBUtaM puratastava . tena me
+265660:0: vcp: <>saPalAvAptirBavejjanmanijanmani” .
+265661:1: vcp: <HI>maRqakAnAm “AdityatejasotpannAH sarvamaNgaMlakArakAH .
+265662:0: vcp: <>maRqakAH sarvapApaGnA ataH SAntiM dadatvamI” .
+265663:0: vcp: <HI>svarRapAtrasya “janmAntarasahasrezu yat kftaM duritaM mayA .
+265664:0: vcp: <>svarRapAtrapradAnena tasya SAntirihAstu me” .
+265665:0: vcp: <HI>ArogyArTAjyasya “yA yA'lakzmIryadaNgezu sarvagAtre vyavasTitA .
+265666:0: vcp: <>tat sarvaM SamayAjyaM tvaM lakzmIM puzwiM ca vardDaya” .
+265667:1: vcp: <HI>pApakzayArTajyasya “AjyaM tejaH samuddizwamAjyaM pApa-
+265668:0: vcp: <>haraM smftam . AjyaM surARAmAhAra Ajye devAH
+265669:0: vcp: <>pratizWitAH” .
+265670:1: vcp: <HI>AyuDarsyatvaM devAnAM manuzyARAM rakzasAmAyuDo hyasi . tasmAt
+265671:0: vcp: <>sarvaprayatnena SAntirBavatu sarvadA” .
+265672:0: vcp: <HI>BakzyARAm “keSavaprItidA BakzyAH SamBubrahmArkatuzwidAH .
+265673:1: vcp: <>pfTigviDApUpakAdyAH yacCantu balamOrasam” .
+265674:0: vcp: <HI>kAzWAnAm “somodBavAni dArURi jAtavedaHpriyARi ca .
+265675:0: vcp: <>tasmAdezAM pradAnena SriyaM dehi viBAvaso!” .
+265676:1: vcp: <HI>kalatTasya “agnivarRodBavo nAma balakIrttipravardDanaH . ku-
+265677:0: vcp: <>latTaH sarvapApaGnaH ataH SAntiM prayacCa me” .
+265678:1: vcp: <HI>kfzwakzetrasya “sadA rohanti vIjAni kAle kfzwe mahItale .
+265679:0: vcp: <>tava pradAnAtsaPalA mama santu manoraTAH” .
+265680:2: vcp: <HI>saMkrAntiSUlasya “sarvagraharkzatAreSa! sarveSa! tvaM hi BA-
+265681:2: vcp: <>skara! . saMkrAntiSUladIzaM me nivAraya divAkara!” .
+265682:4: vcp: <HI>pustakasya “sarvavidyASraya jYAnakaraRaM lalitAkzaram .
+265683:2: vcp: <>pustaka samprayacCAmi priyA Bavatu BAratI” .
+265684:2: vcp: <HI>taRqulAnAma “annena jAyate viSvaprARinAM prARarakzaRam .
+265685:1: vcp: <>taRqulA vESvadEvatyAH pAkenAnna Bavanti ye . pAvanAH
+265686:1: vcp: <>marvayajYezu praSastA homakarmmaRi . tasmAttaRquladAnena
+265687:1: vcp: <>proyantAM viSvadevatAH” . [Page3540-b+ 38]
+265688:0: vcp: <HI>puzpARAm “ASrayanti mano yasmAt tasmAt sumanasaH
+265689:0: vcp: <>smftAH . dattA dadatu me nityamatyAhlAdayutAM Sriyam” .
+265690:0: vcp: <HI>jIrakasya “jIrako jAyate yasmAnmaNgalaM SuBakarmmasu . ta-
+265691:0: vcp: <>smAjjIrakadAnena prIyatAM girijA mama” .
+265692:1: vcp: <HI>tAmbUlasya “tAmbUlaM SrIkaraM BadraM vrahmavizRuSivAtmakam .
+265693:1: vcp: <>asya pradAnAt brahmAdyAH SivaM dadatu puzkalam” .
+265694:1: vcp: <HI>tAmbUlakaraNgasya “pUritaM pUgapUreRa nAgaballIdalAnvitam . pUrRena
+265695:4: vcp: <>pUrRapAtreRa karpUrapUrakeRa ca . sapUgaKaRqanaM divyaM
+265696:0: vcp: <>ganDarvApsarasAM priyam . karaNga! tvaM guRADArantvat
+265697:0: vcp: <>pradAnAt kuruzva mAm” .
+265698:1: vcp: <HI>haridrAyAH “lakzmIpriyA yA lakzmIdA lakzmIvadvasanapriyA .
+265699:0: vcp: <>sOBAgyakfdvarastrIRAM haridrA SrIpradA'stu me” .
+265700:0: vcp: <HI>sOBAgyavastrayugmasya “kaYcukIvastrayugmESca taTAkarRAvataMsakEH .
+265701:1: vcp: <>kaRWasUtrESca BUpABiH prIyatAM niminandinI” (sItA) .
+265702:0: vcp: <HI>SUrpasya “rAmapatni! mahABAge ! puRyamUrtte! nirAmaye! .
+265703:0: vcp: <>gfhARemAni SUrpARi mayA dattAni jAnaki!” .
+265704:2: vcp: <HI>kamaRqaloH “kamaRqalurbjalEH pUrRaH svarRagarBaH sulakzaRaH .
+265705:0: vcp: <>arpitaste mahAsena! prasannaSca sadA Bava” .
+265706:1: vcp: <HI>yajYopavItasya “vrahmasUtraM mahAdivyaM mayA yatnena nirmitam .
+265707:0: vcp: <>brAhmaM janmAstu me deva! brahmasUtrasamarpaRAt” .
+265708:1: vcp: <HI>akzamAlAyAH “azwAviMSatisaMKyAkErudrAkzEryojitA mayA .
+265709:0: vcp: <>arpitA tava haste ca gfhARa surasEnyaka!” .
+265710:0: vcp: <HI>svarRanAgasya “viDuntuda! namastuByaM siMhikAnandanAvyaya! .
+265711:2: vcp: <>dAnenAnena nAgamya rakza mAM veDajAtyayAt” .
+265712:3: vcp: <HI>ikzudaRqasya “ikzudaRqaM mahApuRyaM rasAlaM sarvakAmadam .
+265713:1: vcp: <>tuByaM dAsyAmi tenASu prIyatAM parameSvaraH” .
+265714:1: vcp: <HI>ganDadravyasya “karpUraH kadalIBUto devadevapriyaH sadA . BAmyottamo
+265715:1: vcp: <>nfpARAYca taddAnAt suKamaSnute . jawAmAMsyudBavaM
+265716:2: vcp: <>devIsaRinABisamudBavam . BaktyAhaM saMpradAsyAmi mama
+265717:0: vcp: <>santu manoraTAH” .
+265718:1: vcp: <HI>sUryyamUrtteH “dadAti BAnurBavanaM sarvopaskarasaMyutam . mano'Bi-
+265719:0: vcp: <>lazitAvAptiM karotu mama BAskaraH” .
+265720:1: vcp: <HI>gaReSapratimAyAH “yamAmananti viSveSaM viSvanATamupAsutam .
+265721:0: vcp: <>viGneSaM taM vipravara! tuByaM dAsyAmyaBIzwadam” .
+265722:1: vcp: <HI>gomAtrasya “gavAmaNgezu tizWanti BuvanAni caturdaSa . yasmAt
+265723:0: vcp: <>tasmAcCivaM me syAdiha loke paratra ca” .
+265724:1: vcp: <HI>SayyAyAH “yasmAdaSUnya SayanaM keSavasya Sivasya ca . SayyA
+265725:0: vcp: <>mamApyaSUnyAstu tasmAjjanmanijanmani” . [Page3541-a+ 38]
+265726:0: vcp: <HI>ratnasya “yaTA ratnezu sarvezu sarve devA vyavasTitAH . taTA
+265727:0: vcp: <>SAntiM prayacCantu ratnadAnena me surAH” .
+265728:0: vcp: <HI>BUmeH “yaTA BUmipradAnasya kalAM nArhanti zoqaSIm .
+265729:0: vcp: <>dAnAnyanyAni me SAntirBUmidAnAdBavatviha” .
+265730:0: vcp: <HI>dAsyAH “iyaM dAsI mayA tuByaM SrIvatsa! pratipAditA .
+265731:0: vcp: <>tava karmmakarI BogyA yaTezwaM Badramastu me” .
+265732:2: vcp: <HI>raTasya “raTAya raTanAGAya namaste viSvakarmmaRe . viSvaBUtAya
+265733:0: vcp: <>nATAya aruRAya namonamaH” .
+265734:2: vcp: <HI>Catrasya “ihAmutroBayatrARaM kuru keSava! me praBo! . Catrantvat-
+265735:0: vcp: <>prItaye dattaM brAhmaRAya mayA SuBam” .
+265736:1: vcp: <HI>SivikAyAH “devadeva! jagannATa! viSvAtman! dattayAnayA .
+265737:2: vcp: <>praBo! SivikayA deva! grIto Bava janArdana! .
+265738:1: vcp: <HI>gfhasya “idaM gfhaM gfhARa tvaM sarvopaskarasaMyutam . tava
+265739:2: vcp: <>vipra! prasAdena mamAstvamimataM Palam” .
+265740:0: vcp: <HI>ASrayasya “samASrayaM prayacCAmi prItyarTaM te jaganniDe!” .
+265741:0: vcp: <>tava vipra! prasAdena mamAstvaBimataM Palam” .
+265742:0: vcp: <HI>kanyAyAH “gOrIkanyAmimAM vipra! yaTASakti viBUzitAm .
+265743:0: vcp: <>gotrAya SarmaRe tuByaM vipra! tvaM tAM samASraya” .
+265744:0: vcp: <HI>mahizyAH “candrAdilokapAlAnAM yA rAjamahizI SumA .
+265745:0: vcp: <>mahizIdAnamAhAtmyAdastu me sarvakAmadam . DarmmarAjasya
+265746:0: vcp: <>sAhAyye yasyAH putraH pratizWitaH . mahizAsurasya
+265747:0: vcp: <>jananI sA'stu me sarvakAmadA” .
+265748:0: vcp: <HI>mftyumahizyAH “mahizIM vatsasaMyuktAM suSIlAYca payasvinIm .
+265749:1: vcp: <>ratnavastreRa puzpeRa dattvA mftyuYjayennaraH” .
+265750:2: vcp: <HI>mezasya “romatvaNBAMsamajjAdyEH sarvopakaraREH SuBaH . jagataH,
+265751:0: vcp: <>sampradatto'si tvAmataH prArTaye Sivam”
+265752:1: vcp: <HI>ajAyAH “devAnAM yomuKaM havyavAhanaH sarvapUjitaH . tasya
+265753:0: vcp: <>tvaM vAhanaM pUjyaM devEH sendrErmaharziBiH . agnimAndyaM
+265754:2: vcp: <>pUrbakarmavipAkotTantu yanmama . tatsarvaM nASaya kzipraM jaWa-
+265755:0: vcp: <>rAgniM vivardDaya . tvaM pUrvaM brahmaRA sfzwA pavitrA BavatI
+265756:0: vcp: <>parA . tvatprasUtyutTitA yajYAH tasmAcCAntikarI Bava” .
+265757:1: vcp: <>tulApuruzAdInAM deyadravyARAM mantrAMstu tattacCabde dfSyAH .
+265758:0: vcp: <>anyadravyadAnamantrA api kecit kvaciduktA anusanDeyAH .
+265759:2: vcp: <HI>{@dAnaka@}¦ na0 kutsitaM dAnam “dAna kutsite” pA0 ga0 sU0 yAvA0
+265760:0: vcp: <>kan . kutsite dAne .
+265761:0: vcp: <HI>{@dAnakAma@}¦ tri0 dAnaM kAmayate kama--svArTe RiN aR .
+265762:0: vcp: <>dAnaSIle “gOtamastomena yadIcCeddAnakAmA me prajA
+265763:1: vcp: <>syAditi” ASva0 SrO0 9 . 3 . 14 . [Page3541-b+ 38]
+265764:0: vcp: <HI>{@dAnacyuta@}¦ puMstrI gotrapravararziBede kArttakO0 bABravaSabdenAsya
+265765:0: vcp: <>dvandve pUrvapade prakftisvaraH vABravadAnacyutAH .
+265766:0: vcp: <HI>{@dAnaDarmma@}¦ pu0 dAnarUpo DarmaH . dAnAtmake Darme sa ca BArate
+265767:2: vcp: <>AnuSAsanaparvaRi 57 aDyAyAvaDizu 69 aDyAyAntezu
+265768:1: vcp: <>vistareRoktaH . anyaSca “aTAtaH saMpravakzyAmi dAnaDarma-
+265769:0: vcp: <>manuttamam . arTAnAmucite pAtre SradDayA prati-
+265770:0: vcp: <>pAdanam . dAnantu kaTitaM tajjYErBuktimuktiPalapradam .
+265771:0: vcp: <>nyAyenopArjayedvittaM dAnaBogaPalaYca tat . aDyApanaM yAja-
+265772:0: vcp: <>naYca vfttirvipre pratigrahaH . rakzaRaM vijayaScEva kzatravftti-
+265773:1: vcp: <>rudAhftA . kusIdaM kfzibARijyaM vESyavfttiH svaBAvajA .
+265774:1: vcp: <>yaddIyate ca pAtreByastaddAnaM parikIrttitam . nityaM 1
+265775:0: vcp: <>nEmittikaM2 kAmyaM 3 vimalaM 4 dAnamIritam . ahanyahani
+265776:0: vcp: <>yat kiYciddIyate'nupakAriRe . anuddiSya PalaM tat syAt
+265777:0: vcp: <>brAhmaRAya tu nityakam1 . yattu pApopaSAntyE ca dIyate
+265778:0: vcp: <>viduzAM kare . nEmittikaM2 taduddizwaM dAnaM sadBiranuzWi-
+265779:3: vcp: <>tam . azatyavijayEScaryyasvargArTaM yat pradIyate . dAnaM
+265780:1: vcp: <>tat kAmya (3) mAKyAtamfziBirDarmacintakEH . ISvaraprIRa-
+265781:0: vcp: <>nArTAya brahmavitsu pradIyate . cetasA satvayuktena dAnaM
+265782:0: vcp: <>tat vimalaM 4 smftam “ityupakramya gAruqe 51 a0 uktaH .
+265783:0: vcp: <>“dAnaDarmAt paroDarmo BUtAnAM neha vidyate” tatrEvADyAye
+265784:1: vcp: <HI>{@dAnapati@}¦ pu0 6 ta0 . 1 akrUre yAdavaBede . “gacCatvayaM
+265785:0: vcp: <>dAnapatiH kzipramAnayituM vrajAt . nandagopaYca go-
+265786:2: vcp: <>pAMSca karadAn mama SAsanAt” harivaM0 79 a0 .
+265787:2: vcp: <>“SaMsadBiH syandanenASu prApto dAnapatirvrajam” 82
+265788:1: vcp: <>a0 . 2 bahuprade, tri0 “yajvA dAnapatirDImAn yaTA nA-
+265789:2: vcp: <>nyo'sti kaScana” BA0 A0 223 a0 . 3 asuraBede pu0 .
+265790:4: vcp: <>“raRotkawo dAnapatiH SElaDvaMsI kulAkulaH” harivaM0 240
+265791:0: vcp: <>a0 asuroktO .
+265792:0: vcp: <HI>{@dAnapAtra@}¦ na0 6 ta0 . dAnayogye brAhmaRaBede dAnaSabde dfSyam
+265793:0: vcp: <HI>{@dAnaPala@}¦ na0 6 ta0 . dAnajanye PalaBede tatra dAnaBede kati-
+265794:0: vcp: <>cit PalaBedA vahni0 pu0 uktA yaTA
+265795:0: vcp: <>“gatvA yaddIyate dAnaM BaktyA pAtre viDAnataH . tada-
+265796:0: vcp: <>nantaPalaM vidDi avasTAtritaye nfpa! . tamovftastu yo
+265797:0: vcp: <>dadyAt BayAt kroDAttaTEva ca . nfpa! dAnantu tat sarvaM
+265798:1: vcp: <>BuNakte garBasTa eva tu . IrzyAmanyumanAScEva damBArTaM
+265799:1: vcp: <>cArTakAraRAt . yo dadAti dvijAtiByaH sa vAlye tu
+265800:1: vcp: <>tadaSrute . vESvadevavihInaYca sanDyopAsanavarjitam .
+265801:1: vcp: <>yaddAna dIyate tasmE vfdDakAle tadaSnute . vfTAjanmAni [Page3542-a+ 38]
+265802:2: vcp: <>catvAri vfTA dAnAni zoqaSa . tAnyahaM saMpravakzyAmi
+265803:1: vcp: <>yaTAvadanupUrvaSaH . aputrasya 1 vfTAjanma DarmabAhyA narAH 2
+265804:1: vcp: <>sadA . parapAkaM sadASnanti 3 paratAparatASca 4 ye . deva
+265805:2: vcp: <>pitfvihInaM 1 yat ISvareByaH svadozataH 2 . dattvAnukIMrta-
+265806:2: vcp: <>nAccEva 3 vedAgnivratatyAgine 4 . anyAyopArjitaM dAnaM 5
+265807:2: vcp: <>vyarTaM vrahmahaRe 6 taTA . guruve'nftavakte 7 yat stenAya 8
+265808:1: vcp: <>patitAya9 ca . kftaGnAya10 ca yaddattaM sarvadA vrahmavi-
+265809:1: vcp: <>dvize 11 . yAcakAyA 12 ca sarvasya vfzalyAH pataye 13 taTA .
+265810:0: vcp: <>paricArakAya 14 BftyAya 15 sarvatra piSunAya 16 ca .
+265811:1: vcp: <>ityetAni tu rAjendra! vfTA dAnAniM zoqaSa” .
+265812:2: vcp: <HI>{@dAnava@}¦ pu0 danorapatyam aR . kaSyapapatnyAH dakzakanyABedasya
+265813:1: vcp: <>danorapatye . 1 dAnavASca BA0 A0 65 a0 uktA yaTA “catvA-
+265814:0: vcp: <>riMSaddanoH putrAH KyAtAH sarvatra BArata! . tezAM praTamato
+265815:0: vcp: <>rAjA vipracittirmahAyaSAH . SaMvaro namuciScEva pulomA
+265816:0: vcp: <>ceti viSrutaH . asilomA ca keSI ca durjayaScEva dAnavaH .
+265817:1: vcp: <>ayaHSirA aSvaSirA aSvaSaNguSca vIryavAn . taTA
+265818:2: vcp: <>gaganamUrdDA ca vegavAn ketumAMSca saH . svarBAnuraSvo'Sva-
+265819:0: vcp: <>patirvfzaparvAjakastaTA . aSvagrIvaSca sUkzmaSca tuhuRqaSca
+265820:0: vcp: <>mahAbalaH . ekapAdekavaktraSca virupAkzamahodarO .
+265821:0: vcp: <>nicandraSca niSumBaSca kupawaH kapawastaTA . SaraBaH Sala-
+265822:0: vcp: <>BaScEta sUryyacandramasO taTA . ete KyAtA danorvaMSe dA-
+265823:1: vcp: <>navAH parikIrttitAH” “dAnavAMSca vivuDA vijigyire”
+265824:2: vcp: <>mAGaH . dAnavasyedam aR . 2 dAnavasambanDini tri0
+265825:0: vcp: <>striyAM NIp . “mAyAScAsmE dadO sarvAH dAnavIH kAma-
+265826:1: vcp: <>mohitA” harivaM0 163 a0 .
+265827:0: vcp: <HI>{@dAnavaguru@}¦ pu0 6 ta0 . SukrAcAryye
+265828:0: vcp: <HI>{@dAnavajra@}¦ pu0 dEve gAnDarve ca vESyajAtike aSvaBede . “deva-
+265829:1: vcp: <>ganDarvavAhAste divyavarRA manojavAH . kzIRAkzIRA
+265830:0: vcp: <>Bavantyete na hIyante ca raMhasaH . purA kftaM mahendrasya
+265831:2: vcp: <>vajraM bfttanivarhaRam . daSaDA SataDA cEva tacCIrRaM vftra-
+265832:1: vcp: <>mUrdDani . tato BAgIkfto devErvajraBAga upAsyate .
+265833:1: vcp: <>loke yaSoDanaM kiYcit sA vE vajratanuH smftA . vaja-
+265834:1: vcp: <>pARirbrAhmaRaH syAt kzatraM vajraraTaM smftam . vESyA vE
+265835:0: vcp: <>dAnavajrASca karmavajrA yavIyasaH . kzatraM vajrasya BAgena
+265836:0: vcp: <>abaDyA vAjinaH smftAH . raTANgaM vaqavA sUte SUrA-
+265837:0: vcp: <>ScASvezu ye matAH . kAmavarRAH kAmajavAH kAmataH samu-
+265838:0: vcp: <>pasTitAH . iti ganDarvajA kAmaM pUrayizyanti te hayAH”
+265839:0: vcp: <>BA0 A0 170 a0 . [Page3542-b+ 38]
+265840:2: vcp: <HI>{@dAnavAri@}¦ pu0 6 ta0 . 1 deve 2 vizRO ca . dAnaM gajamadarUpaM
+265841:1: vcp: <>vAri . 3 gajamadajale na0 . “senAcarIBavadiBAnanadAna
+265842:0: vcp: <>vArivAsena yasya janitA'suraBI raRaSrIH” nEza0 “kawasTala
+265843:0: vcp: <>prozitadAnavAriBiH” mAGaH .
+265844:2: vcp: <HI>{@dAnavIra@}¦ pu0 1 vIrarasaBede tadASraye 2 nAyakaBede ca . “sa ca
+265845:2: vcp: <>dAnaDarmayudDErdayayA ca samanvitaScaturdDAsyAt” . sa ca vIraH
+265846:0: vcp: <>dAnavIro DarmavIro dayAvIro yudDavIraSceti caturviDaH
+265847:2: vcp: <>tatra dAnavIro yaTA paraSurAmaH . “tyAgaH saptasamudra-
+265848:0: vcp: <>mudritamahInirvyAjadAnAvaDiriti” atra paraSurAmasya
+265849:0: vcp: <>tyAge utsAhaH sTAyI BAvaH . sampradAnabrAhmaRErA-
+265850:1: vcp: <>lAmbanaviBAvEH satvADyavasAyAdiBiScoddIpanaviBAvE
+265851:0: vcp: <>rviBAvitaH sarvasvatyAgAdiBiranuBAvito harzaDftyAdiBiH
+265852:0: vcp: <>saYcAriBiH puzwiM nIto dAnavIratAM Bajate” sA0 da0 .
+265853:0: vcp: <HI>{@dAnaveya@}¦ pu0 danvAH apatyaM danu--striyAM manuzyajAtitvAt UN .
+265854:0: vcp: <>tataH “strImyo Qak” pA0 Qak . danunAmnyA dakzakanyAyA
+265855:0: vcp: <>apatye “dEteyA dAnaveyASca kimicCanti parAkramAt”
+265856:0: vcp: <>harivaM0 221 a0 “vizRunAnihatezveva dAnaveyezu te hatAH”
+265857:0: vcp: <>BA0 ka0 73 a0 .
+265858:0: vcp: <HI>{@dAnaSIla@}¦ tri0 dAnaM SIlaM satatamanuzWAnaM yasya . bahudAtari
+265859:2: vcp: <>“yat PalaM dAnaSIlaSca kzamASIlaSca yat Palam” BA0
+265860:0: vcp: <>BI0 120 a0 .
+265861:1: vcp: <HI>{@dAnaSORqa@}¦ tri0 dAne SORdaH dakzaH . bahuprade amaraH
+265862:0: vcp: <>“nirguRo'pi vimuKo na BUpaterdAnaSORqamanasaH puro-
+265863:0: vcp: <>'Bavat” mAGaH .
+265864:0: vcp: <HI>{@dAnasAgara@}¦ pu0 gOqadeSaprasidDe BUmyAsanAnAdInAM zoqa-
+265865:3: vcp: <>SAnAM padArTAnAM pratyekaM zoQaSasaMKyAnvite deyadravyaBede .
+265866:0: vcp: <>“yaH kaScit kurute devi! grahaRe dAnasAgaram . vfzot-
+265867:1: vcp: <>sargaM mahAdAnaM yat kiYcit pfTivItale” kAmaDenuta0
+265868:2: vcp: <>25 pawale . dAnAnAM sAgara iva pratipAdakatayA ADAra
+265869:1: vcp: <>iva . 2 tulApuruzAdimahAdAnAnAM viDAnajYApake smf-
+265870:0: vcp: <>tinibanDaBede .
+265871:0: vcp: <HI>{@dAnayogya@}¦ tri0 6 ta0 . dAnaSabdokte dAnasya pAtre .
+265872:1: vcp: <HI>{@dAnIya@}¦ tri0 dIyate'smE dA--bA0 sampradAne anIyar . 1 sampra-
+265873:1: vcp: <>dAne . “dAnIyaH pramavo layaH” mugDa0 . dAnamarhati yat .
+265874:1: vcp: <>2 dAnayogye dAnapAtre ca .
+265875:4: vcp: <HI>{@dAnu@}¦ tri0 dA--dAme do--KaRqane vA karttsari ni . 1 dAtari
+265876:6: vcp: <>2 vikrAnte medi0 . 3 vAyO 4 suKe ca saMkziptasA0 . uRA0 .
+265877:9: vcp: <>5 dAnave ca . “dAnuM SayAnaM sa janAsa randraH” f0 [Page3543-a+ 38]
+265878:6: vcp: <>2 . 12 . 11 . “dAnuM dAnavam” mADavaH BAve nu . 6 dAne
+265879:5: vcp: <>7 varzaRe8 na0 “yavaM na vfzwirdivyena dAnunA” f0 10 .
+265880:3: vcp: <>43 . 7 “dAnunA dAnena varzaRena vA” BA0 “AdityA dAnu-
+265881:1: vcp: <>naspato” f0 1 . 136 . 3 . “dAnunaH dAnasya” BA0 ka-
+265882:1: vcp: <>rmaRi nu . 8 deye Dane ca . “karattisromaGavA dAnucitrAH”
+265883:0: vcp: <>f0 1 . 174 . 7 “dAnuBirdeyErDanEScitrAH” BA0
+265884:1: vcp: <HI>{@dAnta@}¦ tri0 dama--karttari kta . 1 bahirindriyanigrahakarttari
+265885:0: vcp: <>“SAntodAnta uparatastitikzuH SradDAvAn samAhito BUtvA-
+265886:1: vcp: <>tmanyAtmAnamavalokayet” vedAntamAraDftA SrutiH . dama-
+265887:6: vcp: <>Ric--kta ni0 . 2 damite 3 Sikzite valIvardAdO tri0
+265888:1: vcp: <>4 damanakavfkze pu0 rAjani0 .
+265889:2: vcp: <HI>{@dAnti@}¦ strI dama--ktin . 1 tapaHkleSAdisahizRutAyAM 2 bAhyendriyanigrahe ca .
+265890:3: vcp: <HI>{@dApita@}¦ tri0 dA--Rica--karmaRi kta . 2 sADite 2 daRqite
+265891:2: vcp: <>dApitaGanake 2 prativAdyAdO ca .
+265892:2: vcp: <HI>{@dApya@}¦ tri0 dA--Ric--karmaRi yat . 1 daRqye 2 dApanIye ca .
+265893:2: vcp: <HI>{@dAma@}¦ na0 do--KaRqane bA0 karaRe man . 1 paSvAdibanDanarajjvo
+265894:2: vcp: <>“sragadABEriva citritA” BA0 BI0 57 a0 . “santAnamA-
+265895:1: vcp: <>lyadAmaM ca tEreva kusumEH kftam” harivaM0 145 a0 .
+265896:1: vcp: <>BAve man 2 sanDAne . damyate anuSizyate dama--karmaRi
+265897:0: vcp: <>GaY bA0 dIrGaH . loke viSvasaMsAre dAmodaraSabde dfSyam .
+265898:0: vcp: <HI>{@dAmakaRWa@}¦ pu0 gotrapravarttakarziBede tasya gotrApatyam iY .
+265899:0: vcp: <>dAmakaRWi tadIye yUnyapatye tataH upakA0 dvandve advandve
+265900:3: vcp: <>ca bahuzu yuvapratyayasya luk . kalasIkaRWadABakaRWAH
+265901:0: vcp: <>dAmakaRWA vA ityevam .
+265902:0: vcp: <HI>{@dAmagranTi@}¦ pu0 matsyarAjavirAwasya senApatiBede “aTa mat-
+265903:4: vcp: <>syo'bravIdrAjA SatAnIka jaGanyajam . kaNkavakkaBagopA-
+265904:0: vcp: <>lAdAmagranTiSca vIryyavAn . yuDyeyuriti me budDirva-
+265905:0: vcp: <>rttate nAtra saMSayaH” BA0 vi0 31 a0
+265906:0: vcp: <HI>{@dAmacandra@}¦ pu0 drupadanfpasya putraBede “DfzwadyumnaH SiKaRqI
+265907:4: vcp: <>ca dOrmuKirjanamejayaH . candraseno sadamenaH kIrttivarmA
+265908:0: vcp: <>Druvo DaraH . vasucandro dAmacandraH siMhacandraH sute-
+265909:3: vcp: <>janaH . drupadasya taTA putrA drupadaSca mahAstrabit” BA0
+265910:0: vcp: <>dro0 158 a0
+265911:0: vcp: <HI>{@dAman@}¦ na0 strI do--KaRqane karaRaBAvAdO manin . dohana
+265912:2: vcp: <>kAle paSvAdipAdabanDanarajjvO (CA~danadaqi) 2 mAlAyAM
+265913:3: vcp: <>3 rajvumAtre amaraH bahupragrahayukte ekasmin yatra paSabo-
+265914:1: vcp: <>baDyante (dokA) KyAte 4 padArTe ca “BAti sma dAmAprapadI-
+265915:0: vcp: <>namasya” mAGaH striyAM nAntatve'pi manantatvAt na NIp . [Page3543-b+ 38]
+265916:3: vcp: <>dAmAnO dAmAnaH kintu vA NIp . dAme dAmA ityAdi
+265917:4: vcp: <HI>{@dAmanaparvan@}¦ na0 damanasyedamaRa dAmana zarvaM yatra . damana-
+265918:2: vcp: <>BaYjanatiTO 1 cEtraSuklacaturdaSyAm 2 tanmAsIyadvAdaSyA-
+265919:1: vcp: <>dizu ca damanaSabde mUla dfSyam . “sattIrTe'rkavizugrAse
+265920:1: vcp: <>tantudAmanaparvaRoH” narasiMha pu0 tantuparvaSabde dfSyama
+265921:2: vcp: <HI>{@dAmani@}¦ pu0 damanasyApatyam iY . 1 damanasyApatye 2 AyuDa
+265922:2: vcp: <>jIvisaMDaBede ca tataH svArTe dAmanyAdi0 Ca . dAmanIya
+265923:1: vcp: <>tatrArTe bahutve tu tadrAjatvAttasya luk . dAmanaya ityeva
+265924:0: vcp: <HI>{@dAmanI@}¦ strI dAmEva prajYA0 svArTe aR aRi na nalopaH
+265925:5: vcp: <>NIp . paSubanDanarajjvO amaraH “dAmanIdABaBArsam
+265926:0: vcp: <>kecit kAyAvalambiBiH . kIlErAropyamARESca dAma-
+265927:1: vcp: <>nIpASapASitEH” harivaM 66 a0
+265928:0: vcp: <HI>{@dAmanyAdi@}¦ pu0 “dAmanyAditrigarttazazWAdeH” pA0 Capratyaya-
+265929:0: vcp: <>nimitte pA0 ga0 sUtrokte SabdagaRe sa ca gaRa-
+265930:1: vcp: <>“dAmani Olapi vEjavApi Odaki OdaNki Acyu-
+265931:0: vcp: <>tanti Acyutadanti SAkuntaki Akidanti Oqavi kAka-
+265932:5: vcp: <>dantakiM SAtruntapi sArvaseni vinduvEndavi tulaBa BOYjA-
+265933:0: vcp: <>yana kAkandi sAvitrIputra” .
+265934:1: vcp: <HI>{@dAmalipta@}¦ na0 tamoliptanagare (tamaluka) hema0
+265935:1: vcp: <HI>{@dAmalih@}¦ pu0 dAma--leQi liha--kvip . 1 dAmalehake . tamA-
+265936:1: vcp: <>tmana icCati kyac dAmalihyati tataH kvip . 2 Atmano
+265937:1: vcp: <>dAmalehakecCO “dAderDAtorGaH” pA0 upadeSe dAderiti
+265938:0: vcp: <>viSezaRAt asya upadeSe dAditvABAvAt na GaH si0 kO0 .
+265939:0: vcp: <HI>{@dAmAYjana@}¦ na0 dAmnaH aYjanam . aSvAdeH pAdabanDana-
+265940:0: vcp: <>rajjvO (piCAqi) hemaca0 dAmAYcalamapyatrArTe hArAvalI
+265941:0: vcp: <>“dAmAYcalasKalitalolapadaM turaNgAH” mAGaH .
+265942:0: vcp: <HI>{@dAminI@}¦ strI BImo BImasenenavat dAmA sudAmA nagaH sa
+265943:0: vcp: <>ekadeSatvenAstyasya “saMjYAyAM manmAByAm” pA0 ini
+265944:0: vcp: <>NIp . sOdAmanyAM vidyuti .
+265945:1: vcp: <HI>{@dAmodara@}¦ pu0 dAma vanDanasADanaM udare yasya . yaSodA-
+265946:1: vcp: <>nandane kfzRe tatkaTA “tato yaSodA saMkrudDA kfzRa
+265947:1: vcp: <>kamalalocanam . AnAyya SakawImUle BartsayantI punaH-
+265948:2: vcp: <>punaH . dAmnA cEvodare badDvA pratyabaDnAdudUKale . yadi
+265949:0: vcp: <>Saknozi gacCeti tamuktvA karma sA'karot” ityupakrame
+265950:0: vcp: <>“sa ca tenEva nAmnA tu kfzRo vE dAmabanDanAt . Goze
+265951:2: vcp: <>dAmodara iti gopiBiH parigIyate” hariva0 64 a0
+265952:1: vcp: <>“vidAro rohitomArgo heturdAmodaraH sahaH” vizRu0 sa0 .
+265953:0: vcp: <>SANkaraBAzye tu asyAnyApi vyutpattirdarSitA yaTA [Page3544-a+ 38]
+265954:0: vcp: <>“damAdisADanenodarA utkfzwA gatiryA tayA gamyata iti
+265955:1: vcp: <>dAmodaraH . “damAddABodaraM viduriti” mahABArate ya-
+265956:0: vcp: <>SodayA dAmnodare badDa iti vA “dAmAni lokanAmAni-
+265957:0: vcp: <>tAni yasyodarAntare . tena dAmodarastvezaH SrIDarastviwsa-
+265958:1: vcp: <>mASritaH” iti vyAsavacanAt vA dAmodaraH . “damo ba-
+265959:0: vcp: <>hirindriyanigrahaH tajjanyo dAmaH tasyedamityaR f-
+265960:0: vcp: <>gatAviti DAtorBAve “fdorap” pA0 api guRe raparatve
+265961:0: vcp: <>ca araH avagatiH gatyarTAnAM jYAnArTakatvAttasya viSezaRa-
+265962:0: vcp: <>muditi utkfzwa ityarTaH taTA ca dAmo damasADakaH ut
+265963:0: vcp: <>utkfzwaH araH avagatiH sAkzAtkArarUpAsyeti dAmodaraH .
+265964:1: vcp: <>utkfzwA ca gatiH DUmAdigatimapekzyArcirAdiH damAdisA-
+265965:0: vcp: <>DanA asya saguRasyeti dAmodaranAmaniruktiH . “tarvorma-
+265966:0: vcp: <>DyagataM badDa dAmnA gAQaM taTodaram . tataSca dAmodaratAM sa
+265967:0: vcp: <>yayO dAmabanDanAditi” brahmapurARam iti AnandagiriH .
+265968:2: vcp: <>2 atIte arhadBede hemaca0 . vardDamAnapurasannikfzwe 3 nadaBede
+265969:1: vcp: <>ca . 4 SAlagrAmamUrttiBede tallakzaRaM padmapurARe yaTA
+265970:1: vcp: <>“sTUlo dAmodaro jYeyaH sUkzmacakro Bavettu saH . cakre
+265971:0: vcp: <>tu maDyadeSe'sya pUjitaH suKadaH sadA” . brahmARqapurARe
+265972:0: vcp: <>“dAmodarastaTA sTUlo maDyacakraH pratizWitaH” pratizWita
+265973:0: vcp: <>ityatra prakIrtita iti kvacit pAWaH . “dUrvABaM
+265974:0: vcp: <>dvArasaNkIrRaM pItareKAyutaM SuBam” . “pItareKA taTEva
+265975:1: vcp: <>ceti” brahmapurARe pAWaH . brahmapurARe “uparyyaDaSca cakre
+265976:1: vcp: <>dve nAtidIrGaM muKe bilam . maDye ca reKA lambEkA
+265977:0: vcp: <>sa ca dAmodaraH smftaH” . anyatra “sTUlo dAmodaro
+265978:0: vcp: <>jYeyaH sUkzmaranDro Bavettu yaH . cakre tanmaDyadeSasTe
+265979:1: vcp: <>pajitaH SuBadaH sadA” . brahmavE0 prakftiKaRqe “dvicakraM
+265980:1: vcp: <>sPuwamatyantaM jYeyaM dAmodarABiDam” . matsyasUkte
+265981:1: vcp: <>“viSvaksenamatisTUlaM laGu dAmodaraM smftam”
+265982:0: vcp: <HI>{@dAmozRIza@}¦ pu0 gotravyAvarttakapravararziBede “dAmozRIzastrE-
+265983:0: vcp: <>baliSca parRAdo varajAnukaH” BA0 sa0 4 a0 . yuDizWira-
+265984:2: vcp: <>maBAsaByoktO . tasyApatyaM karvA0 Rya . dAmozRIzya
+265985:0: vcp: <>tadapatye puMstrI
+265986:1: vcp: <HI>{@dAmpatya@}¦ na0 dampatyoridaM patyantatvAt yak . 1 dampati
+265987:6: vcp: <>sambanDini agnihotrAdO 2 dampatyoranyonyaprItO ca
+265988:1: vcp: <>“brahmavarcasakAmastu yajeta brahmaRaspatim” ityupakrame “vi-
+265989:0: vcp: <>dyAkAmastu giriSaM dampatyArTamumAM satIm” BAga0 2 . 3 . 8 .
+265990:0: vcp: <HI>{@dAmBika@}¦ tri0 damBena carati DarmaM Wak . lokezu kIrttyAdi
+265991:5: vcp: <>KyApanArTaM DarmacAriRi 1 vEqAsvavratini, 2 dumBayukte [Page3544-b+ 38]
+265992:1: vcp: <>ca . “pAparogyaBiSastaSca dAmBiko rasavikrayI”
+265993:0: vcp: <>manunA rasavikrayakarmavipAkaH dAmBikatvamityuktam .
+265994:7: vcp: <>“dAmBiko duzkftaH prAjYaH SUdreRa sadfSo Bavet” BA0 va0
+265995:9: vcp: <>215 a0 . 3 vakapakziRi puMstrI0 rAjani0 .
+265996:0: vcp: <HI>{@dAya@}¦ dAne BvA0 Atma0 saka0 sew . dAyate adAyizwa adA-
+265997:1: vcp: <>yiQvam adAyiDvam . fdit Ric adadAyata--ta .
+265998:1: vcp: <HI>{@dAya@}¦ pu0 dA--dAne BAve GaY . 1 dAne “miTodAyaH kfto
+265999:0: vcp: <>yena gfhIto miTa eva vA . miTa eva pradAtavyo yaTA
+266000:0: vcp: <>dAyastaTA grahaH . asvAminA kfto yastu dAyo vikraya

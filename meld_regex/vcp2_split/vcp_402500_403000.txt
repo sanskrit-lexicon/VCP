@@ -1,0 +1,500 @@
+402501:3: vcp: <HI>{@stimBi@}¦ pu0 stima--in Buk ca . 1 samudre 2 vAyO ca uRA0 .
+402502:3: vcp: <HI>{@stIrvi@}¦ pu0 stF--kvin na verittvam . 1 AkASe 2 ruDire
+402503:8: vcp: <>3 tfRajAtO 4 aDvaryyO 5 payasi 6 SatrO sAMkzaptasA0 .
+402504:1: vcp: <HI>{@stuta@}¦ pu0 stu--karmaRi kta . stutikarmaRi amaraH .
+402505:0: vcp: <HI>{@stuti@}¦ strI stu--ktin . stave amaraH .
+402506:1: vcp: <HI>{@stutipAWaka@}¦ pu0 stutiM paWati paWa--Rvul . rAjAdervandini amaraH
+402507:2: vcp: <HI>{@stunBa@}¦ roDanE sO0 kryA0 svA0 kAryyaBAgI para0 saka0 sew
+402508:3: vcp: <>udit ktvAvew . stuBnoti stuBrAti . astumBIt . sOtra .
+402509:0: vcp: <>tvAdazopadeSa ityanye .
+402510:7: vcp: <HI>{@stutivrata@}¦ pu0 stutO vratamasya . stutipAWake jawA0 . 369 pf0 dfSyam
+402511:1: vcp: <HI>{@stutyarTavAda@}¦ pu0 3 ta0 . praSaMsayA arTavAdaBede arTavAdaSabde
+402512:2: vcp: <HI>{@stunaka@}¦ puM strI0 sva--nakak . CAge Sabda ca0 striyAM NIz .
+402513:1: vcp: <HI>{@stuBa@}¦ puM strI0 stunBa--mUla0 ka . Ca ge BarataH striyAM NIz .
+402514:0: vcp: <HI>{@stUpa@}¦ ucCrAye ada0 cu0 aka0 uBa0 sew . stUpayati te
+402515:4: vcp: <>atustUpat ta . bahvackatvAt azopadeSa eva . 5172
+402516:1: vcp: <>pfzWe zwUpa iti DAtuH zopadeSatayA pramAdAt liKitaH .
+402517:3: vcp: <HI>{@stUpa@}¦ pu0 stu--pak pfzo0 stUpa--ac vA . 1 rASokfte mftti
+402518:5: vcp: <>kAdo 2 saMGAte 3 bale 4 nizprayojane ca saMkzipta0 .
+402519:1: vcp: <HI>{@stf@}¦ vistAra svA0 u0 saka0 aniw . stfRoti stfRute
+402520:0: vcp: <>astArzIt astfta astarizwa . paryudAsAnna zopadeSaH .
+402521:0: vcp: <HI>{@stf@}¦ prItO aka0 rakzaRe saka0 svA0 pa0 aniw . stfRoti
+402522:0: vcp: <>astArzIt . paryudAsena azopadeSa eva .
+402523:0: vcp: <HI>{@stF@}¦ AcCAdane kryA0 pvA0 u0 saka0 sew . stfRAti stf-
+402524:2: vcp: <>RIte astArIt astarizwa astarIzwa astItta . ayaM
+402525:0: vcp: <>zopadeSa eva nyAyyaH .
+402526:2: vcp: <HI>{@stena@}¦ coryye ada0 cu0 uBa0 saka0 sew . stenayati--te
+402527:1: vcp: <>atistenat--ta . bahvackatvAt azopadeSaH .
+402528:2: vcp: <HI>{@stena@}¦ na0 stena--BAve ac . 1 cOryye . karttari ac .
+402529:1: vcp: <>2 cOre tri0 amaraH .
+402530:0: vcp: <HI>{@ste(zwe)pa@}¦ kzepe cu0 uBa0 saka0 sew . stepayati--te atisti-
+402531:2: vcp: <>pana--ta azopadeSatve mUlaM cintyam .
+402532:5: vcp: <HI>{@stema@}¦ pu0 stima--GaY 1 AdrIMBAve 2 snehe ca amaraH .
+402533:6: vcp: <HI>{@steya@}¦ na0 stanasya BAvaH yapta nelopaH . 1 cOryye amaraH .
+402534:0: vcp: <>“pratyakzaM vA parokzaM vA rAtrO vA yadi vA divA . yat [Page5342-b+ 38]
+402535:0: vcp: <>paradravyaharaRaM steyaM tatparikIrttitam” ityukteH para-
+402536:0: vcp: <>dravyApahAraH steyaM tacca azwAdaSavivAdAntargatavivAdapada-
+402537:4: vcp: <>BedaH tatsvarUpAdikaM vIrami0 uktaM coraSabde 2969
+402538:7: vcp: <>pfzWAdO dfSyam .
+402539:0: vcp: <HI>{@steyin@}¦ tri0 steyamastyasya ini . paradravyApahArake striyAM NIp .
+402540:3: vcp: <HI>{@stEna(nya)@}¦ na0 stenasya BAvaH aR, zyaY va . 1 cOryye para-
+402541:1: vcp: <>dravyApaharaRe . stena eva svArTe Rya . 2 core tri0 BarataH .
+402542:9: vcp: <HI>{@stEmitya@}¦ na0 strimitasya BAvaH zyavaH zyaY . 1 jAdye 2 snehe
+402543:2: vcp: <>3 ArdrIBAve ca .
+402544:3: vcp: <HI>{@stoka@}¦ puMstrI0 stuca--GaY . 1 cAtake medi0 striyAM NIz . 2 jalavindO 3 alpe tri0 amaraH .
+402545:1: vcp: <HI>{@stokaka@}¦ puMstrI0 stokAya jalavindave kAyati SabdAyate kE-
+402546:0: vcp: <>ka . cAtake amaraH striyAM NIz .
+402547:3: vcp: <HI>{@stotra@}¦ na0 stu--zwran . 1 starva--guRakarmAdiBiH praSaMsane amaraH .
+402548:1: vcp: <>dravyastotra karmastotraM viDistotraM taTEva ca . taTEvABi-
+402549:2: vcp: <>janastotraM stotrametaccarviDam” matsyapu0 123 a0
+402550:3: vcp: <>dravyAdyupADikatayA stavasya cAturviDyamuktam . 2 stutisADane
+402551:2: vcp: <>vAkye stuviSca muRinamupasarjanIkftya tannizWAnAM guRAnAM
+402552:0: vcp: <>prADAnye na kaTanarUpA fgvedaBAzye lakzitA . yaTA
+402553:2: vcp: <>yo devadattaH sa caturvedABijYa ityukte sarva janA stuti-
+402554:7: vcp: <>mavagacCanti yadyapi zwuYstutO Sanasu stutAvitye karaSO
+402555:2: vcp: <>taTApi pratigItamantrasADyaM stotrama apratigItamantra-
+402556:0: vcp: <>sADyaM Sastramiti tayorviveka iti ca tatrokte prati-
+402557:1: vcp: <>gItamantrasADye 3 stavane guRakaTane ca . SastraSabde prati-
+402558:2: vcp: <>gItamantre iti yaduktaM tatra apragItamantre ityeva
+402559:2: vcp: <>voDyam . pragItamfgjAtaM Sastramiti vf0 u0 Bazya-
+402560:4: vcp: <>wIkAyAsAnandagiriRIkte 4 pragIte fgjAte ca .
+402561:3: vcp: <HI>{@stotriya@}¦ tri0 stotrAya hite ya . stotrasADane fgAdO
+402562:0: vcp: <>“katyayamudgatA'smin yajYe stotriyAH stozyantIti tisra
+402563:0: vcp: <>iti katamAstAstisraH iti puro'nuvAkyA ca yAjyA
+402564:0: vcp: <>SasyEva ca tftIyA iti” vf0 u0 . “stotriyA nAma fk-
+402565:1: vcp: <>sAmasamudAyaH” SA0 BA0 . “stotriyA nAma gItiviSizwA
+402566:1: vcp: <>fgjAtayaH” Sata0 brA0 146 . 1 . 12 vAkyavyAKyAyAM sA-
+402567:2: vcp: <>yagabAzyam . “yaToktasya stotraM stotriyAM varcaM sAma
+402568:4: vcp: <>vA yajurvA'TarvAnyat kftvA yajeta” kAtyA0 SrO0 24, 7
+402569:3: vcp: <>20 “ekAM stotriyAmekA fcAmanyAM kuryyAt” karkaH .
+402570:6: vcp: <HI>{@stoBa@}¦ pu0 stuBa--GaY . 1 aTaMSUnye gAnAdisvaraparipUraRArTa
+402571:5: vcp: <>SabdaBede yaTA sAmavede iqA hIAi praBfvayaH . 2 helane
+402572:2: vcp: <>3 stamBane ca hemaca0 . [Page5343-a+ 38]
+402573:1: vcp: <>stoBalakzaRAdikaM gAnaSabde 2573 pf0 dfSyam . tacca
+402574:0: vcp: <>lakzaRaM varRamAtrastoBasya . vAkyastoBasya tu nava viDAH
+402575:1: vcp: <>Bavanti taduktaM “ASAstiH stutisaMKyAme praRavaH
+402576:0: vcp: <>paridevanam . prEzamanvezaRaYcEva sfzwirAsTAnameva ca”
+402577:0: vcp: <>ete tu vAkyastoBAH padastoBASca paYcadaSa gAnagranTezu
+402578:0: vcp: <>darSitAstata evAvagantavyAH .
+402579:0: vcp: <HI>{@stoma@}¦ AtmaguRAvizkaraRe ada0 cu0 uBa0 aka0 sew . sto-
+402580:0: vcp: <>mayati--te atustomat--ta . bahvackatvAt na zopadeSaH .
+402581:4: vcp: <HI>{@stoma@}¦ pu0 stoma--ac stu--man vA . 1 samUhe amaraH . 2 yajYe
+402582:6: vcp: <>hemaca0 . 3 stave 4 stutiBede 5 mastaka 6 Dane 7 Sasye
+402583:2: vcp: <>8 lOhAgradaRqe ca na0 9 vakre tri0 . “nArAvaSaMsena
+402584:2: vcp: <>stomena” yaju0 3 . 53 “ayaM stomAn papracCa f0 1 . 14 . 9
+402585:4: vcp: <HI>{@styAna@}¦ na0 styE--BAve kta tasya naH . 1 srehe 2 Ganatve 3 saM .
+402586:2: vcp: <>hatO 4 Alasye 5 pratiSabde ca viSvaH . karttari kta .
+402587:2: vcp: <>6 saMhatikArake 7 DvanikArake ca tri0 .
+402588:2: vcp: <HI>{@styena@}¦ pu0 styE--inac . 1 cOre anfte ca uRA0 .
+402589:1: vcp: <HI>{@styE@}¦ sahatO DvanO BvA0 aka0 aniw . styAyati astyAsIt
+402590:1: vcp: <>paryyudAsAnna zopadeSaH .
+402591:1: vcp: <HI>{@strI@}¦ strI stu--qraw . yoziti nAryyAm amaraH .
+402592:1: vcp: <>tadBedAdikaM ratima0 uktaM yaTA
+402593:0: vcp: <>“padminI citriRI cEva SaNKinI hastinI taTA . SaSo
+402594:3: vcp: <>BfgIvfzo'SvaSca strIpuMsorjAtilakzaRam . Bavati kamala-
+402595:3: vcp: <>netrA nAsikAkzudraranDrA aviralakucayugyA cArukeSI
+402596:0: vcp: <>kfSANgI . mfduvacanasuSIlA gItavAdyAnuraktA sakala-
+402597:5: vcp: <>tanusuveSA padmanI 1 padmaganDA . Bavati ratirasajYA nAti-
+402598:1: vcp: <>KurvA na dIrGA tilakusumasunAsA snigDanIlotpalAkzI .
+402599:1: vcp: <>GanakaWinakucAdyA sundaro badDalIlA sakalaguRasametA
+402600:0: vcp: <>citriRI 2 citravaktrA . dIrGAtidIrGanayanA varasundarI
+402601:0: vcp: <>yA kAmopaBogarasikA guRaSIlayuktA . reKAtrayeRa
+402602:2: vcp: <>ca viBUzitakaRWadeSA samBogakelarasikA kila SaNKinI 3
+402603:0: vcp: <>sA . sTUlADarA sTUlanitambaBAgA sTalANgulI sTU-
+402604:0: vcp: <>lakucA suSIlA . kAmotsukA gAQaratipriyA yA
+402605:0: vcp: <>nitambaKarvA kariRI 4 matA sA . SaSake padminI tuzwA
+402606:0: vcp: <>citriRI ramate mfge . vfzaBe SaNKinI tuzwA hastinI
+402607:0: vcp: <>ramate haye . padminI padmaganDA ca mInaganDA ca
+402608:0: vcp: <>citriRI . SaNKinI kzAraganDA ca madaganDA ca
+402609:2: vcp: <>hAstanI . bAlA ca taruRI prOQA vfdDA Bavati nA-
+402610:2: vcp: <>yiRA . guRayogena rantavyA nAro vaSyA Bavet tadA . [Page5343-b+ 38]
+402611:5: vcp: <>A zoqaSAd Baved bAlA taruRI triMSakA matA .
+402612:1: vcp: <>paYcapaYcASakA prOQA BavedvfdDA tataH param . PalamUlA-
+402613:0: vcp: <>diBirbAlA taruRI ratiyogataH . premadAnAdiBiH
+402614:0: vcp: <>prOQA vfdDA ca dfQatAqanAt . bAlA tu prARadA proktA
+402615:0: vcp: <>taruRI prARahAriRI . prOQA karoti vfdDatvaM vfdDA
+402616:2: vcp: <>maraRamAdiSet . aNgazWe caraRe ca gulPanilaye jAtu-
+402617:0: vcp: <>dvaye vastike nABO vakzasi jaNGayornigaditA kaRWe
+402618:0: vcp: <>kapole'Dare . netre karRayuge lalAwaPalake mOlO ca
+402619:1: vcp: <>vAmaBruvAmUrdDADaScalanakrameRa kaTitA cAndrI kalA
+402620:1: vcp: <>pakzayoH . sImante nayane'Gare ca galake vakzastawe
+402621:0: vcp: <>cUcuke nABO SroRitawe manoBavagfhe jaNGAtawe
+402622:1: vcp: <>gaRqake . gulaPe pAdatale tadaNgulitawe'NguzWe ca tizWa-
+402623:0: vcp: <>tyasO vfdDikzIRatayA samaM SaSikalA pakzadvayoryozitAm .
+402624:1: vcp: <>Suklapakze vasedvAme pAdANgulikanizWake . SuklapratipadAdO
+402625:1: vcp: <>ca kfzRe cADaH pralambate . puMsUH savye striyo'vAme
+402626:1: vcp: <>Sukle, kfzRe viparyyayaH . etAni kAmasTAnAni
+402627:1: vcp: <>jYeyAni nAgarEH sadA . valayuktA yadA nArI vipa-
+402628:1: vcp: <>rItaratirBavet . saYcAlya tu kalAsTAnaM rantavyA
+402629:0: vcp: <>kAminI tadA . netre kakze kapole ca hfdi pArSva-
+402630:0: vcp: <>dvaye'pi ca . grIvAyAM nABideSe ca kAmI cumbati
+402631:0: vcp: <>kAminIm . muKe jaNGe nitambe ca jaGane madanA-
+402632:2: vcp: <>laye . stanayugme sadA prItaH kAnI cumbati kAminIm .
+402633:2: vcp: <>premRA striyaM samAliNgya SItkAraM suKacumbanam .
+402634:0: vcp: <>kaRWAsaktaM punaH kftvA gAQAliNganamAcaret . viDftya
+402635:0: vcp: <>hastO jaGanopavizwaH SItkftya vaktre ca mudA pracumbya .
+402636:1: vcp: <>Bage ca liNgaM stanamardanaYca dattvApi kftvA praramecca
+402637:0: vcp: <>kAmI . ketakyagranaKaM kftvA naKAMstrIn paYca cEva vA .
+402638:1: vcp: <>pfzWe ca jaGane yonO dattvA kAmI ramet striyam .
+402639:0: vcp: <>naKaromAYcitaM kftvA dantenADarapIqanam . grIvAmA-
+402640:1: vcp: <>kfvya yatnena yonO liNgena tAqanam . liNgapraveSana
+402641:4: vcp: <>kftvA DftvA gAQaprayogataH . pArSvadvayena sampIdDya nispfhaM
+402642:0: vcp: <>tAqayedBagam . samAliNgya striyaM gAQaM stanayugme ca
+402643:0: vcp: <>mardanam . yonO nABO ca saMmardya nizWuraM liNga-
+402644:0: vcp: <>tAqanam . keSaM kareRa saMgfhya dfQaM santAqayedBa-
+402645:1: vcp: <>gam . vadane cumbanaM kftvA BagaM hastena mardayet . kucaM
+402646:2: vcp: <>kareRa saMmardya pIqayedaDaraM dfQaMm . rasena padmavanDena
+402647:0: vcp: <>padmanIratimAdiSet . SItkAraM cumbanaM pIqA gale haste
+402648:1: vcp: <>ca cumbanam . kzaRe kzaRe stane hastaM citraRIrati- [Page5344-a+ 38]
+402649:0: vcp: <>mAdiSet . strIpuMsayostaTAnyonyaM Bage liNge ca
+402650:4: vcp: <>cumbanam . ramaRantu taTA gAQaM SaNKiRI ratimAdi
+402651:3: vcp: <>Set . keSaM kareRa saMnfhya sadfQaM gajavanDanam . BagaM
+402652:0: vcp: <>kareRa santAqya hastinIratimAdiSet . kUrmapfzWaM
+402653:3: vcp: <>gajaskanDaM padmaganDaM suganDi yat . alAmakaM suvistorRaM
+402654:2: vcp: <>paYcEtad Baganuttamam . SItalaM nimnamatyuccaM gojihvA-
+402655:1: vcp: <>sadfSaM param . ityuktaM kAmaSAstrajYEBagadozacatuzwayam” .
+402656:9: vcp: <>strISuBASuBalakzaRantu upayamaSabde 1278 pfzWAdO dfSyam
+402657:6: vcp: <HI>{@strIgavI@}¦ strI0 strI cAsO gOSca zacsamA0 . (gABi) ro-
+402658:1: vcp: <>hiRyAma .
+402659:2: vcp: <HI>{@strIcittahArin@}¦ pu0 striyAScitaM harati hf--Rini .
+402660:2: vcp: <>1 SoBAYjane trikA0 . 2 strImanohArake tri0 .
+402661:2: vcp: <HI>{@strIcihna@}¦ na0 striyA asADAraRaM cihnam . 1 yonO jawA0 .
+402662:2: vcp: <>2 striyA asADAraRe cihne stanAdO 3 strIlakzaRe ca .
+402663:1: vcp: <HI>{@strIcora@}¦ pu0 striyA cora iva . kAmuke trikA0 .
+402664:1: vcp: <HI>{@strIjita@}¦ pu0 striyA jitaH ji--kta . strIvaSye .
+402665:3: vcp: <>“strIjitasparSamAtreRa sarvaM puRyaM praRaSyati . na BUmO
+402666:1: vcp: <>pAtakI pApAt pApinAM strIjitAt paraH” brahmavE0 ja0
+402667:2: vcp: <>4 a0 tasya nindoktA .
+402668:0: vcp: <HI>{@strIDana@}¦ na0 6 ta0 . strIsvatvASraye dravyamAtre iti mitAkzarA-
+402669:2: vcp: <>dayaH . “aDyagnyavyAzAhanikaM BartfdAyastaTEva ca .
+402670:1: vcp: <>BrAtrAdataM pitfByAYca zaqviDaM strIDanaM smftam” nArada-
+402671:0: vcp: <>parigaRite strIsvatvASraye Dane iti dAyaBAgAdayaH .
+402672:1: vcp: <>strIDanasvarUpAdikaM mitAkzarAmatAnusAreRa vIrami0
+402673:1: vcp: <>mirUpitaM yaTA
+402674:0: vcp: <>“aTa strIDanaviBAgaM vaktuntatsvarUpaM tAvannirUpyate tatra
+402675:2: vcp: <>manuH “aDyagnyaDyAvahanikandattaYca prItikameRi . BrAtf
+402676:4: vcp: <>mAtfpitfprAptaM zaqviDaM strIDanaM smftamimi” zaqvi-
+402677:1: vcp: <>DamitinyUnasaMKyAvyavacCedaparannADikyanirAsAya . ata
+402678:3: vcp: <>eva yogASvaraRa “pitfmAvfpatiBrAtfdattamaDyagnyupA-
+402679:1: vcp: <>gatam . ADivedanikAdyaYca strIDanaM parikIrttitam,
+402680:0: vcp: <>ityAdyaSabda upAttaH . vizRunApi zaqaDikAni strIDanA-
+402681:2: vcp: <>ByuktAni . sa yaTAha “pitfmAtasutaBrAvfdattamaDyagnya-
+402682:1: vcp: <>pAgatam . ADivedanikaM banDurdattaM Sulsamanva Deya-
+402683:3: vcp: <>miti strIDanama” iti . mArada “aDyagnyaDyAvAhani-
+402684:3: vcp: <>kamBarttfdAyastaTEva ca . BrAtfdattaM pitfByAYca zAqvaDa
+402685:3: vcp: <>strIDanaM smftamiti . zAqraDatvaM mAnavavadeva vyAKyeyam .
+402686:1: vcp: <>strIDanaSabdaScAyaM yOgikaH strIKAmikanDanamiti na tu [Page5344-b+ 38]
+402687:5: vcp: <>pAriBAzikaH yogasamBave pariBAzAyA anyAyyAtvAt .
+402688:0: vcp: <>ata eva yogoSvareRa rikTakrayAdisADAraRasvatvo-
+402689:1: vcp: <>pAyasaMgrahAyAdyapadaM prayuktam . nanu ca kvacit strI-
+402690:0: vcp: <>DanatvanizeDO'nupapanna evaM sati syAt . na hi strI-
+402691:1: vcp: <>svAmikatvaM tatra nizedDuM Sakyate bADAt . yaTAha
+402692:0: vcp: <>kAtyAyanaH “tatra sopaDi yaddattaM yacca yogavaSena vA .
+402693:2: vcp: <>vitrA BrAtrA'Ta vA patyA na tat strIDanasucyate iti .
+402694:2: vcp: <>upaDirutsavAdAvivedaM mayA dattaM tvayA DAryyamalaNkArAdi-
+402695:1: vcp: <>nAnyadeti niyamastatapUrvakaM dattaM sopaDi yogavaSena dAyA-
+402696:0: vcp: <>dAnAM kanyAyE dattamidantadDanaNkaTaM viBAjyamiti .
+402697:1: vcp: <>SilpaprAptaM saKyAdiByaH protyA prAprantadapi na strIDana
+402698:0: vcp: <>mityapyAha sa eva “prAptaM SilpEstu yatkiYcit-
+402699:0: vcp: <>prItyA cEva yadanyataH . BarttuH svAmyantadA tatra Sezantu
+402700:0: vcp: <>strIDanaM smftam” iti . pAriBAzikatve BrAtrAdidattatvena
+402701:0: vcp: <>prAptaM strIDanaM pratiziDyate . tenEtasmAdBinnameva pitrAdi-
+402702:2: vcp: <>dattaM SilpAdipAptaBinnaM vA strIzanamiti pariBAzyate
+402703:0: vcp: <>iti cet . ucyate . nAtra strIDanatvanizeDaH . kintu
+402704:1: vcp: <>tatkAryya viBAgAdi nizeDaH . ata evottaraSloke tatra-
+402705:3: vcp: <>BarttuH svAmyamityuktam . Barttustadviniyoge svAtantryaRa
+402706:0: vcp: <>striyA ityarTaH . praTamaSloke tu strIsvatvanizeDo'pi samBa-
+402707:2: vcp: <>vati upaviyAgapadayorupAdAnAt . tAdfSadAne ca
+402708:0: vcp: <>svatvABAvasya prasidDatvAt . “yogADamanavikrotaM yogadAna
+402709:3: vcp: <>pratigraham . yatra cApyupaDimpaSyettatsarvaM vinivarttaye-
+402710:4: vcp: <>diti” manuvacanAt “BAryyA puttraSca dAsaSca traya evADanAH
+402711:0: vcp: <>smftAH . yatte samaDigacCanti yasya te tasya tadDanamityapi
+402712:1: vcp: <>vacanamBAryyAvizaye SilpAdiprAptaparameva ekamUlakalpa-
+402713:1: vcp: <>nAlAGavAt . aDyagnyAdisvarUpannirUpitaM kAtyA-
+402714:0: vcp: <>yanena “vivAhakAle yat strIByo dIyate hyagni
+402715:6: vcp: <>sanniDO . tadaDyagnikfta saNgiH strADanaM parikIttitam .
+402716:2: vcp: <>yatpunarllaBate nArI nIyamAnA piturgfzWAt . aDyAvA-
+402717:2: vcp: <>haBikannAma strIDanantadudAhftam . prItyA dattaM tu yatki-
+402718:4: vcp: <>YcicCaSnA vA SvaSureRa vA . pAdavandanakaYcEva prItiwatta-
+402719:2: vcp: <>ntaducyata . vivAhAtparato yattu labDa BarttfkulAt
+402720:8: vcp: <>striyA . anTAeheyantu tatproktaM yallabDaM svakulattaTA .
+402721:7: vcp: <>gfhopaskAravAhyAnAM dAhyABaraRazamaMRAm . mUlyaM
+402722:2: vcp: <>labDantu yatkiYcittacCulkaM parikottitam . UdayA
+402723:3: vcp: <>kanyayA vApi patyuH pitfgfzwe'pi yA . BrAtuH
+402724:5: vcp: <>sakASAt pitrorvA labDaM sOdAyikaM smftam” . BarttuH [Page5345-a+ 38]
+402725:1: vcp: <>mokzastyagodAnamiti yAvat . ananujYAtatyAgaBoga-
+402726:0: vcp: <>vizayametat . tadanujYayA tvanApadyapi na dozaH “svaya-
+402727:0: vcp: <>mevetyevakAraH svApatyAnAM vyudAsArTaH . BartfvyudA-
+402728:2: vcp: <>sasya patirnAhatItyanenABiDAnAt . BartfvyudAse
+402729:2: vcp: <>tato vahiraNgAnAM brAtrAdInAM vyudAsasyApi daRqA-
+402730:2: vcp: <>pUpikayA sidDatvAt . anApadItyamiDAnadApadi na
+402731:0: vcp: <>dozaH . ataeva “putrArttiharaRe cApi strIDanaM Boktu-
+402732:0: vcp: <>marhatIti” tasyEva vAkyaSezaH . patirityanuzaNgaH . putra-
+402733:0: vcp: <>grahaRaM kuwumbopalakzakaM tasyArttirBakzyAdyaBAvanimittA
+402734:0: vcp: <>pIqA tasyA haraRe . caSabdAdanyasminnapi DanABAva
+402735:0: vcp: <>nimitte saNkawe strIDanamananujYAtamapi patistyaktuM Bo-
+402736:0: vcp: <>YcArhatItyarTaH . nanu paraDane tyAgaBogayoH svAmyanu-
+402737:2: vcp: <>jYayA vinA kaTamarhatA vADitA'nena voDyate . anu-
+402738:0: vcp: <>jYAyAntvanApadyapi na viroDaH . ucyate . vacanavalA-
+402739:2: vcp: <>ttAdvaSavizaye vyaye svatvameva tasya tatretyadozaH . ata-
+402740:1: vcp: <>eva yogISvaro'pi “durBikze DarmakAryye ca vyADO
+402741:0: vcp: <>sampratiroDake . gfhItaM strIDanaM BarttA nAkAmo dAtu,
+402742:1: vcp: <>marhati” . DarmakAryye AvaSyake nitye nEmittike ca
+402743:0: vcp: <>sampratiroDake daRqAdyarTaM rAjYAvaroDe kfte . vAcaspatistu
+402744:1: vcp: <>sampratiroDaka iti vyADiviSezaRaM kAryyAnuzWAnabADake
+402745:1: vcp: <>iti ca tadarTa ityAha . nAkAmo dAtumarhatItyapi
+402746:0: vcp: <>dAridryAdikftadAnAsAmarTye durBikzAdigfhItamapyavaSyaM
+402747:2: vcp: <>deyametAvatEva vacanopapattO sAmarTye'satyadAnamicCayetyasya
+402748:2: vcp: <>kalpayitumanarhatvAt . patigrahaRAdApadyapi patyureva
+402749:0: vcp: <>patnIDanagrahaRADikAraH pratidAnaYcecCayA nAnyasyeti
+402750:1: vcp: <>jYeyam . BartrA dAtuM pratiSrutaM BAryyAyE tasmin mfte
+402751:2: vcp: <>putrAdimistasyE deyamityapyAha sa eva “BartrA prati-
+402752:0: vcp: <>SrutaM deyamfRavat strIDanaM sutEriti” . sutagrahaRaM
+402753:3: vcp: <>pOttraprapOttrayorupalakzaRamfRavadityaBiGAnAt . anena
+402754:1: vcp: <>strIDane jIvantyAntasyAM sutAnAM janmanA svatve'pi
+402755:0: vcp: <>nAsti viBAga iti gamyate . evaM strIDanamuktam” . dAya-
+402756:0: vcp: <>BAgamataM pAriBAzikaparatvapakza eva . anayoryuktA-
+402757:7: vcp: <>yuktatvaM suDIBirBAvyam . uttarADikAriSabde 1101 pf0
+402758:0: vcp: <>ca tadviBAgo dfSyaH .
+402759:1: vcp: <HI>{@strIDava@}¦ pu0 striyaM DunAti Gu--ac . puruze jawA0 .
+402760:2: vcp: <HI>{@strIDarmma@}¦ pu0 6 ta0 . ftO nArIkusumavikASe rajasi hemaca0
+402761:0: vcp: <HI>{@strIDarmiRI@}¦ strI strIDarmo'styasyA ini . ftumatyAM stri-
+402762:0: vcp: <>yAm amaraH . [Page5345-b+ 38]
+402763:2: vcp: <HI>{@strIpaRyopajIvin@}¦ pu0 strIrUpeRa paRyena jIyati jIva-
+402764:0: vcp: <>Rini . DanaM gfhItvA samBogArTamanyasmE striyaM dattvA
+402765:1: vcp: <>tallabDaDanopajIvini .
+402766:2: vcp: <HI>{@strIpuMDarmma@}¦ pu0 striyAH puMsaSca DarmaH tamaDikftya vyavahAro vA .
+402767:0: vcp: <>strIpuM sayoH yaTASAstrAcArarUpe Darme tadvizayake azwA-
+402768:0: vcp: <>daSasu vivAdapadezu maDye vivAdapadaBede strIpuMsayogo'-
+402769:0: vcp: <>pyatra . vIra0 tat nyarUpi yaTA “tatsvarUpamAha nAradaH
+402770:0: vcp: <>“vivAhAdiviDiH strIRAM yatra puMsAYca kIrttyate .
+402771:0: vcp: <>strIpuM sayogasaMjYaM tadvivAdapadamucyate” iti . vivA-
+402772:0: vcp: <>hAdiSabdena strIpuMDarmA gfhyante . ataeva
+402773:0: vcp: <>manurvyavahArapadoddeSakAle strIpuMDarmoviBAgaScetyuddiSya
+402774:1: vcp: <>pratijYApUrvaMkaM tezAM nirUpaRaM cakAra “puruzasya stri-
+402775:0: vcp: <>yAScEva Darmye vartmani tizWatoH . saMyoge viprayoge ca
+402776:0: vcp: <>DarmAn vakzyAmi SASvatAn ityAdinA saMyoge anyo-
+402777:0: vcp: <>nyasanniDAne viprayoge deSataH kAlato vA vyava-
+402778:1: vcp: <>DAne . SASvatAnnityAn avaSyAnuzWeyAniti yAvat .
+402779:1: vcp: <>ke te DarmA ityAkANkzAyAmAha sa eva “asvatantrAH
+402780:0: vcp: <>striyaH kAryAH puruzEH svErdivAniSam . vizayezu ca
+402781:1: vcp: <>sajjantyaH saMsTApyA hyAtmano vaSe” ityAdi . puruzEH
+402782:1: vcp: <>BartfpuruzEH . vizaTe daRqahetuBUtacAYcalyAdivizaye .
+402783:0: vcp: <>nArado'pi “svAtantryAdvipraRaSyanti kUle jAtA api
+402784:0: vcp: <>striyaH . asvAtantryamatastAsAM prajApatirakalpayat”
+402785:0: vcp: <>iti . ato'nyErapi svastrIRAmasvAtantryaM yaTA
+402786:4: vcp: <>Bavati taTA kalpayitavyamityASayaH . puruzeRa svastrI
+402787:0: vcp: <>vyaBicArAdavaSyaM rakzaRIyA . taTA ca hArItaH
+402788:3: vcp: <>“ekavratsakannaBAvAt parendriyopahatatvAcca duzWAH kula-
+402789:0: vcp: <>saNkarakAriRyo Bavanti jIvati jArajaH kuRqomfte
+402790:1: vcp: <>Barttari golakastasmAdretopAGAtAjjAyAM rakzejjAyA-
+402791:4: vcp: <>nASe kulanASaH kulanASe tantu nASastantunASe devapivf-
+402792:0: vcp: <>yajYanASo devapitfyajYanASe AtmanASaH AtmanASe
+402793:2: vcp: <>sarvasvanASaH” iti . ekavratamkannaBAvAt strIRAM
+402794:0: vcp: <>ekaBartteti niyamanASAt . parendriyopahatatvAt
+402795:2: vcp: <>parasmin puMsi indriyamya manasorAgAdinA upaha-
+402796:3: vcp: <>tatvAt . kulasaNkarakAriRyastajnAtisvaBAvAnugata pajo
+402797:1: vcp: <>tpAdanena kulasANkaryyakAriRyaH . ataeva SaNKaliKitO
+402798:3: vcp: <>“yasmin BAvo'rpitaH strIRAmarttave tAdfSaM tastuSrana
+402799:4: vcp: <>yantIti” . tantuH putrAdisantatiH . manurapi “sUkzma
+402800:1: vcp: <>Byo'pi prasaNgeByaH striyo rakzyA viSezataH . dvayorhi [Page5346-a+ 38]
+402801:2: vcp: <>sakASAditi kalpatarvAdO pAWaH . aDyAgnyAdiSabdAstu
+402802:2: vcp: <>yogarUdAstAdfSastroDanAdAveva prayogAt . gfhopaskara-
+402803:2: vcp: <>RAdonAM yanmUlyaM kanyArpaRApADitvena yarAdiByaH kanyA-
+402804:2: vcp: <>BaraRarUpeRa sfhyate tacCulkamiti madanaratne vyAkyA-
+402805:1: vcp: <>tam . mitAkzarAyAM tu yadgfhItvA kanyA dIyate
+402806:0: vcp: <>tacCulkamityuktam . uBayatrApi pitrAdInAM kanyAyA
+402807:2: vcp: <>idamityudDveSo vivakzitaH anyaTA tatsvatvABAvena
+402808:0: vcp: <>strIDanatvavyapadeSatvAnupapatteH . jImUtavAhanena tu karmi-
+402809:2: vcp: <>RAmiti paWitvA gfhAdikarmiBaH SilpiBistatkarma-
+402810:2: vcp: <>kareRe BartrAdipreraRArTaM striyE yadutkAcadAnaM tacCu-
+402811:3: vcp: <>lkaM tadava sulyaM prakftyarTatvAditi vyAKyAtam .
+402812:4: vcp: <>punaScoktam “yadAnetuM Bartfrfhe SulkantatparikIrttiM-
+402813:1: vcp: <>tamiti” vyAsoktaM vA . BartfgfhagamanArTamutkAcAdi
+402814:1: vcp: <>yaddattaM tacCulkamityarTa iti . taduBayamapi strA
+402815:0: vcp: <>svAmikaM Bavatyeva tasyA eva dattatvAditi tatra strI-
+402816:0: vcp: <>DanatvavyapadeSo'nyastrIDanavat sugama eva . ADi-
+402817:8: vcp: <>vedanikaM stryantaravivAhakAle pUrvaBAryyAyE yaddIyate .
+402818:7: vcp: <>yadAha yAjYavalkyaH “aDivinnastrayE dadyAdAGi-
+402819:0: vcp: <>vedanikaM samam . na dattaM strIDanaM vAsAM datte tvardDaM
+402820:0: vcp: <>prakalpayet” iti . pitrAdiBirjjIvanAdyarTaM strIByo
+402821:0: vcp: <>DanadAne viSezamAha kAtyAyanaH “pitfmAtfpati
+402822:1: vcp: <>BrAtfjYAtiBiH strADanaM striyE . yaTASaktyAdvisA-
+402823:1: vcp: <>hasrAddAtavyaM sTAvarAdfte” . sTAvaretaradDanaM yaTASakti
+402824:1: vcp: <>AkArzApaRasahasradvayaparyyantaM deyamityarTaH . vyAso'pi
+402825:0: vcp: <>“dvisahasraH paro dAyaH striyE deyo Danasya tu” . Advi-
+402826:3: vcp: <>sahasrAditi kAtyAyanena, para iti ca vyAmenokte-
+402827:6: vcp: <>rito'Dikamiti DaninApi na strIByo deyamiti
+402828:2: vcp: <>darSitam . ayaYca niyamaH prativanasaramasakfwarpaRe jYeyaste-
+402829:2: vcp: <>nAnekavatsarezu jIvanArTaM dIyamAnamigo'Dikamapi
+402830:1: vcp: <>Bavati cenna dozaH . jIvanArTatvAddAnasya tAvajjIvaYca
+402831:1: vcp: <>dvisAhasramAtreRa tannirvAhAsamBazAt . strIDane'pi
+402832:3: vcp: <>marvanumatimantareRa strIRAnna svAtantryamityAha manuH
+402833:1: vcp: <>“na nirhAraM striyaH kuryuH kudumbAdbahumaDyakAt .
+402834:3: vcp: <>sramadapi ca vittAdDi svasya BartturanAjYayA” iti
+402835:2: vcp: <>nirhAro vyayaH . kacittu strIDane tAmAM svAtantrya-
+402836:6: vcp: <>masti yadAha sOdAyikasvarUpasaktvA kAtyanaH
+402837:2: vcp: <>“sAdAyikaM DanaM prApya strIRAM svAtantryamizyete .
+402838:1: vcp: <>yasmAttadAnfSasyArTaM  tEdattamupajIvanam . sOdAyike [Page5346-b+ 38]
+402839:0: vcp: <>sadA strIRAM svAtantryaM parikIrttitam . vikraye
+402840:4: vcp: <>dAne ca yaTezwaM sTAvarezvapi” . Barttfdatte tu sTAva-
+402841:2: vcp: <>retaratrEva svAtantryamityAha nAradaH “BartrA prAtana
+402842:3: vcp: <>yaddattaM striyE tAsman mfta'pi tat . sA yaTA kAma-
+402843:1: vcp: <>maSnIyAddadyAdvA sTAvarAdfte” . sTAvare Battfdatte striyA
+402844:0: vcp: <>nivAsAdyupaBogamAtraM na dAnavikrayAdikamityarTaH .
+402845:1: vcp: <>aputrA SayanaM BaturityAdi kAtyAyanavaco'pi Bartf-
+402846:0: vcp: <>dattasTAvaravizayameva nAradekavAkyatayeti kecit .
+402847:1: vcp: <>asmABistu patnI duhitara iti vyAKyAnAvasare'mya
+402848:0: vcp: <>vizayaH prapaYcitaH . puruzARAmapi kasminnapi strIDane
+402849:0: vcp: <>na svAtantryaM svAmyABAvAdityAha kAtyAyanaH “na
+402850:1: vcp: <>BarttA nEva ca sutI na pitA BrAtaro na ca . AdAne
+402851:0: vcp: <>vA visarge vA strIDane praBavizRavaH . yadi tvekataro-
+402852:2: vcp: <>'pyezAM strIDanaM Bakzayed balAt . savfdDikaM ma dApyaH
+402853:0: vcp: <>syAddaRqaYcEva samApnuyAt . tadeva yadyanujYApya Bakzayet
+402854:1: vcp: <>protipUrvakam . mUlameva tadA dApyo yadA sa DanavAn
+402855:1: vcp: <>Bavet . aTa cet sa dviBAryyaH syAnna ca tAM Bajate punaH .
+402856:4: vcp: <>prItyA visfzWamapi cet pratidApyaH sa tadvalAt .
+402857:0: vcp: <>grAsAcCAdanavAsAnAmucCedo yatra yozitaH . tatra svamA-
+402858:0: vcp: <>dadIta strI viBAgaM rikTinAntaTA” . striyA DanaM
+402859:1: vcp: <>gfhItvA yadyaparaBAryyayA saha vasatyenAYcAvamanyate
+402860:0: vcp: <>tadA gfhItaM tadDanaM rAjYA balAddApyaH . BaktAcCA-
+402861:0: vcp: <>dananivAsAn yadi BarttA na dadAti tadA te'pi
+402862:6: vcp: <>striyA balAdgrAhyaHstatparyyaptaM GanaM vA grAhyamiti
+402863:1: vcp: <>SlokadvayanyArTaH . idamapi tasyA dozarAhitye boDyaM
+402864:0: vcp: <>duzwA punaH kimapi strIDanaM na laBate ityAha
+402865:0: vcp: <>sa eva “apakArakriyAyuktA nirlajjA cArTanA-
+402866:0: vcp: <>SikA . vyaBicAraratA yA ca strIDanaM na tu sA-
+402867:1: vcp: <>rhati” . nArhatotyanena tayA labDamapyAcCidya grAhya-
+402868:0: vcp: <>miti sUcitam . apakArakriyAyuktA sadA BartfpratikUlA-
+402869:1: vcp: <>caraRaparA “nirmaryyAdArTanASikA” ityapi pAWaH . devalaH
+402870:2: vcp: <>“vfdDirABaraRaM SulkaM lABaSca strIDanaM Bavet . muNkte
+402871:0: vcp: <>tat svayamevedaM patirnArhatyanApadi . vfTA mokze ca
+402872:0: vcp: <>Boge ca striyE dadyAt savfdDikam” iti . vfdDi-
+402873:6: vcp: <>rvardDanArTaM pitrAdinA darttAmati dmftacandrikAyAm .
+402874:0: vcp: <>madanaratne tu vfttiriti paWitam . vfttirjjIvatArTaM
+402875:1: vcp: <>pitrAdiBirdattamiti vyAKyAtaYca . lABo gOryyAdi-
+402876:3: vcp: <>prIvyarTaM yavaByate kutaScit . vfTA ApadamantareRa . [Page5347-a+ 38]
+402877:0: vcp: <>kulayo SokamAvaheyurarakzitAH . imaM hi sarvavarRAnAM
+402878:1: vcp: <>paSyato Darmamuttamam . yatante rakzituM BAryyAM BarttAro
+402879:0: vcp: <>durbalA api . svAM prasUtiM caritraYca kulamAtmAnameva
+402880:4: vcp: <>ca . syaDamaM hi prayatnena jAyAM rakzan hi rakzitaH”
+402881:0: vcp: <>iti . dvayoH kulayoH BarttfpitfkulayoH . anena kula-
+402882:2: vcp: <>dvayavfdDErapi rakzyA iti SokakaTanasuKena darSitam .
+402883:1: vcp: <>ataeva vfhaspatiH “sUkzmeByo'pi prasaNgeByo nivAryA
+402884:0: vcp: <>strI svabanDuBiH . SvaSvAdiBiH pAlanIyA gurustrIBirdivA-
+402885:0: vcp: <>niSam” . manurapi “kAle'dAtA pitA vAcyo vAcya
+402886:0: vcp: <>ScAnupayan patiH . mfte Barttari putrastu vAcyo mAtura-
+402887:0: vcp: <>rakzitA” iti . kAle kanyAdAnayogye kAle . vAcyo-
+402888:1: vcp: <>nindyaH . anupayan ananugacCan . sa eva “pitA rakzati
+402889:0: vcp: <>kOmAre BarttA rakzati yOvane . putrastu sTAvire BAve
+402890:1: vcp: <>na strI svAtantryamarhati” . yAjYavalakyo'pi “rakzet-
+402891:2: vcp: <>kanyAM pitA, vinnA patiH, putrastu vArdDake . aBAve
+402892:0: vcp: <>jYAtayastezAnna svAtantryaM kvacit striyAH” iti . vinnA
+402893:1: vcp: <>vivAhitA . patiputravihInAyAstu rakzaRaM patipakzAnta-
+402894:3: vcp: <>rgatena pratyAsannena kAryyam . taTA ca nAradaH “mfte
+402895:1: vcp: <>BarttaryyaputrAyAH patipakzaH praBuH striyaH . viniyogAtma
+402896:2: vcp: <>rakzAsu BaraRezu ca IScaraH . parikzIRe patikule
+402897:0: vcp: <>nirmanuzye nirASraye . tatsapiRqezu cAsatsu pitfpakzaH
+402898:0: vcp: <>praBuH striyaH” . pitfpakzasyApyaBAve sa evAha “pakzadvayA-
+402899:1: vcp: <>vasAne tu rAjA BarttA smftaH striyaH . sa tasyA BaraRaM
+402900:4: vcp: <>kuryyAnnigfhRIyAtpaTaScyutAm” iti . viniyogaH
+402901:2: vcp: <>karmaRi niyojanam . BarttA zozakaH strIsvaBAvaM darSa-
+402902:0: vcp: <>yati dakzaH “jalOkAvat striyaH sarvA BUzaRAcCAdanA-
+402903:2: vcp: <>SanEH . suhitApi kftA nityaM puruzaM hyapakarzati .
+402904:0: vcp: <>jalOkA raktamAdatte kevalaM sA tapasvinI . itarA tu
+402905:1: vcp: <>DanaYcittaM mAMsaM vIryyaM balaM suKam . sASaNkA bAla-
+402906:1: vcp: <>BAve tu yOvane'BimuKI Bavet . tfRavanmaMnyate nArI
+402907:6: vcp: <>vfdDaBAve svakampAtam . svakAMmye varttamAnA sA snehAnna
+402908:2: vcp: <>ca nivAritA . apaTyA nu Bavet paScAd yaTA vyADi-
+402909:0: vcp: <>rupekzitaH” iti . suhitA tfptA kftApItyanvayaH .
+402910:0: vcp: <>apakarzati satatamAjYAmAtraM karoti svakAmye svecCA-
+402911:1: vcp: <>yAm . apaTyA artyantAhitahetuBUtA . manurapi “nEtA
+402912:1: vcp: <>rUpaM pratIkzante nAsAM vayasi saMsTitiH . surUpaM vA
+402913:2: vcp: <>virUpaM vA pumAnityeva BuYjate . pOMScalyAccalacittvatvAt
+402914:0: vcp: <>nEHsnehyAcca svaBAvataH . rakzitA yatrato'pIha Bartf- [Page5347-b+ 38]
+402915:0: vcp: <>zvetA vikurvate . SayyAsanamalaNkAraM kAmaM kroDamanArja-
+402916:0: vcp: <>vam . drohaBAvaM kucaryAYca strIByomanurakalpayat . nAsti
+402917:1: vcp: <>strIRAM kriyA mantrEriti Darmo vyavasTitaH . nirindriyA
+402918:1: vcp: <>hyamantrASca striyo'nftamiti sTitiH . taTA ca Srutayo
+402919:0: vcp: <>bahvyA nigItA nigamezvapi . strIlakzaRaparIkzArTantAsAM
+402920:2: vcp: <>SfRut nizkftIH . yanme motA praluluBe vicarantya'-
+402921:0: vcp: <>pativratA . tanme retaH pitA vfNktAmityuktEtannidarSanam .
+402922:0: vcp: <>DyAyatyanizwaM yatkiYcitpARigrAhasya cetasA . tasyEza
+402923:2: vcp: <>vyaBicArasya nihnavaH samyagucyata . evaM svaBArvaM jYAtvA-
+402924:4: vcp: <>''sAmprajApatinisargajam . paramaM yatnamAtizWet puruzo
+402925:3: vcp: <>rakzaRaM prati” iti . nirindriyA nirvIryyAM DEryyaprajYA-
+402926:2: vcp: <>dirahitA iti yArvat . striyo'nftamiti prAyaSo-
+402927:1: vcp: <>'nftavadanaSolatvAducyante . SrutayaH SrutivAkyAni .
+402928:3: vcp: <>nigamezu vedezu strIlakzaRaM svarUpaM tAsAM SrutInAmmaDye yA
+402929:0: vcp: <>nizkftirUpA vyaBicAraprAyaScittarUpAstAH SrutIH
+402930:0: vcp: <>SfRuta strIsvaBAvajYAnArTamityarTaH . mahABArate'pi
+402931:3: vcp: <>“kulInA rUpavatyaSca nArTavatyaSca yozitaH . maryAdAsu na
+402932:5: vcp: <>tizWanti sa dozaH strIza nArada! . anarTitbanpanuzyasya
+402933:0: vcp: <>BayAtparijanasya ca . maryAdAyAmamaryAdAH striyasti-
+402934:2: vcp: <>zWanti Bartfzu . yOvane varttamAnAnAM mfzwABaraRavAsasAm .
+402935:1: vcp: <>nArIRAM svEravfttInAM spfhayanti kulastriyaH . yadi
+402936:1: vcp: <>puMsAmmatirvrahman! kaTaYcinnopapadyate . anyonyaYca
+402937:4: vcp: <>pravarttante na ca tizWanti Bartfzu . alABAt puruzARAYca
+402938:0: vcp: <>BayAtparijanasya ca . baDabanDaBayAccEva svayaM guptA Bavanti
+402939:1: vcp: <>tAH . nAgnistfpyati kAzWAnAM nApagAnAM mahodaDiH .
+402940:1: vcp: <>nAntakaH sarvaBUtAnAnna puMsAM vAmalocanA . kAmA-
+402941:2: vcp: <>nAmapi dAtAsaM dAdAraM mAnasAnnayoH . rakzitAranna
+402942:0: vcp: <>mfzyanti BarttAraM yatnataH striyaH” iti . SrIrAmAyaRe-
+402943:2: vcp: <>'pi “nEvANganAnAndayito nApi dvezyo'sti kasana .
+402944:2: vcp: <>sarvamevAvalambante latA gahanajA iveti” . aTa rakzaRa-
+402945:0: vcp: <>prakAraH . tatra manuH “na kaScidyoyitaH SaktaH prasahya
+402946:0: vcp: <>parirakzitum . etErupAyayOgEstu SakyAstAH parirakzi-
+402947:0: vcp: <>tum” . iti . prasahya Akramya avaruhyeti yAvat .
+402948:0: vcp: <>yadyapyavaroDena SarIravyaBicArAdrakzaRaM SakyantaTApi
+402949:2: vcp: <>mAnasavyaBicArAdrakzaRamaSakyamityASayena manunA na
+402950:2: vcp: <>kaScidyozitaH SakaH pasahya parirakzitumityuktam . na
+402951:3: vcp: <>ca mAnasavyaBicArAdrakzaRamanarTakamanyajatvABAvena prajA-
+402952:5: vcp: <>viSudDiviGAtABAvAditi vaktavyam . yata Aha sa [Page5348-a+ 38]
+402953:0: vcp: <>eva “yAdfSaM Bajate strI hi sutaM sUte taTAviDam .
+402954:1: vcp: <>tasmAt prajAviSudDyarTaM striyo rakzet prayatnataH” iti .
+402955:0: vcp: <>yAdfSaM puruzamftukAle strI manasA Bajate tatsamAna-
+402956:1: vcp: <>SIlaM putraM janayatIti pUrvArdDArTaH . ataevAhatuH
+402957:4: vcp: <>SaNKaliKitO “yasman BAveo'rpataH strIRAmArttava
+402958:0: vcp: <>tacCIlaM janayantIti” . mAnasavyaBicArAdapi striyaM
+402959:2: vcp: <>rakzediti SezaH . taTAM ca manunA tasmAdatyAdinotta
+402960:0: vcp: <>rArdDenAyamevArTo darSitaH . parirakzaRopAyAnAha manu-
+402961:2: vcp: <>reva “arTasya saMgrahe canAM vyaye cEva niyojayet . SOce
+402962:3: vcp: <>Darme ca paktyAYca pAriRAhyamya cakzaRa” iti . arTasya
+402963:1: vcp: <>saMgrahe svena samAnItArTasaMviDAne . vyaye svenokta-
+402964:2: vcp: <>vyaye . SOce gfhAdiSudDikarasaMmAjanApalepanAdO . Darme
+402965:0: vcp: <>agnihotrAdyanukUlalOkikavyApAre . paktyAM pAkavyA-
+402966:0: vcp: <>pare . pAriRAhyaM pIwAdi gfhopakaraRaM tasya
+402967:1: vcp: <>IkzaRe vicAraRe . nirantaragfhavyApAraniyojanAta
+402968:0: vcp: <>puruzAntaracintArAhityaM yaTA Bavati BAryAyAH taTA
+402969:1: vcp: <>kuryAditi tAtparyArTaH . vfhaspatirapi “Ayavyaye'Ta
+402970:4: vcp: <>saMmkAre gfhopasakararakzaRe . SOcAgnikAryye saMyojyAH
+402971:1: vcp: <>strIRAM SudDiriyaM smftA” iti . evaviDavyApArA-
+402972:2: vcp: <>saktacittatayA sADvya iti vyapadiSyanta ityAha manuH
+402973:1: vcp: <>“AtmAnamAmanA yAstu rakzeyustAH surakzitAH”
+402974:0: vcp: <>iti . AtmanA gfhavyApArAsaktenAntaHkaraRena sura-
+402975:2: vcp: <>kzitAH sADyaH . AptapuruzArakzitastu striyo na
+402976:2: vcp: <>samyagrakzitA ityAha sa eva “arakzatA gfhe rudDAH
+402977:0: vcp: <>puruzErAptakAriBiH” iti . AptakAriBiH puruzEH
+402978:0: vcp: <>gfhe rudDA ityanvayaH . AptASca te kAriRaScAptakAriRaH .
+402979:0: vcp: <>arakzitAH samyagrakzAvihInA ityarTaH . BartturdDarma-
+402980:3: vcp: <>nizWatvamopi svIRAM rakzaRopAya iti darSayituM sa
+402981:1: vcp: <>evAha “yAdfgguRena BarttA strI saMyujya ta yaTAviDi .
+402982:0: vcp: <>tAdfgguRA sA Bavati samudreReva nimagnA . akzamAlA
+402983:1: vcp: <>vasizWena saMyuktA'DamayonijA . SAraNgI mandapAlena
+402984:2: vcp: <>jagAmAByarhaRIyaMtAm” iti . mAryAyA BaraRamapyA-
+402985:3: vcp: <>vaSyakamityAha sa eva “devadattAM patirBArgAM vindate-
+402986:0: vcp: <>necCayAtmanaH . tAM sADvIM viBfyAnnityaM devAnAM priya-
+402987:0: vcp: <>mAcaran” . devErdattA devadattA dEvavaSAdAyAteti yAvat .
+402988:2: vcp: <>tAM BAryAM svayaMvare patirvindate . tatra svavyApArABAvA-
+402989:1: vcp: <>ddevadattAmityanena vivAhalakzaRasya strIpuMsayoH sambanDasya
+402990:3: vcp: <>na svADInatvaM kintahi devakftatvamiti darSitam . deva- [Page5348-b+ 38]
+402991:2: vcp: <>dattatvaYca strIRAm “somodadadganDarvAya ganDarvo dadadagnaye .
+402992:0: vcp: <>rayiSca putrAMScAdadagnirmahyamaTo imAm” ityAdiByaH Sruti-
+402993:0: vcp: <>vAkyaByo'vagamyate . tena devErdattAyA aBaraRena dAtFRAM
+402994:3: vcp: <>devAlAM drAha ApAdyata ityarTavAda ityuktaM madanaratna .
+402995:4: vcp: <>na ca sADvomityasya patibratAmityarTaparatvena vyaBi-
+402996:0: vcp: <>cAriRyA BaraRamanAvaSyakamiti vaktavyam . tasyA api
+402997:2: vcp: <>kadannAdinA'vaSyaBaraRAyatvAt . taTA ca nAradaH
+402998:0: vcp: <>“vyaBicAre striyAmORqyamaDaHSayanameva ca . kada-
+402999:1: vcp: <>nnaYca kuvAsaSca karma cAvaskarojJanama” iti . striyAra-
+403000:1: vcp: <>tyarTaM vyaBicAre jAte muRqanamaDaHSayanaYca sADayeta .

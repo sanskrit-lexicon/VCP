@@ -1,0 +1,46 @@
+410001:1:  te:  %hrAdinI% strI <vkr>hrada-Rini NIp.</vkr> (1)vidyuti (2)vajre amaraH
+410002:0:  te: nadyAm rAjani0 (4)SallakyAYcaSabdara0 (5)hrAdaviSizwe tri0</5><page>vp6_1044.pdf</page><column>2</column><br/>
+410003:0:  te:  %hrAsa% pu0 <vkr>hrasa-GaY.</vkr> (1)mande tri0 (2)apacaye ca.</2><page>vp6_1044.pdf</page><column>2</column><br/>
+410004:1:  te:  %hriRI% <vkr>lajjAyAm kaRqvA0 A0 aka0 sew. hriRIyate
+410005:0:  te: ahriRIyizwa.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410006:1:  te:  %hriRIyA% strI <vkr>hriRI-yak BAve a.</vkr> (1)lajjAyAm amaraH
+410007:0:  te: pfzo0 hriRiyA ityapi tatrArTe BarataH.</vn><page>vp6_1044.pdf</page><column>2</column><br/>
+410008:0:  te:  %hrI% <vkr>lajjAyAM ju0 pa0 aka0 aniw. jihreti ahrEzIt. Rici hrepayati te.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410009:0:  te:  %hrI% strI <vkr>hrI-sampa0 BAve kvip. lajjAyAm amaraH.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410010:2:  te:  %hrIkA% strI <vkw>hrI-kaka.</vkr> (1)trAme uRA0. (2)lajjAyAM</2> <vkr>si0 kO
+410011:0:  te: vA rasya laH tatrArTe.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410012:0:  te:  %hrIku% tri0 <vkr>hrI-un kukca.</vkr> (1)lajjite. (2)majjane (3)jatuke
+410013:0:  te: trapuRi ca</4> <vkr>uRA0. vA rasya laH.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410014:0:  te:  %hrIcCa% <vkr>lajjAyAm BvA0 pa0 aka0 sew. hrIcCati ahrIcCIt.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410015:0:  te:  %hrIjita% tri0 3ta0. (1)lajjASIle jawA0.</1><page>vp6_1044.pdf</page><column>2</column><br/>
+410016:0:  te:  %hrI(ta)Ra% tri0 <vkr>hrI-kta vA tasya naH.</vkr> (1)lajjite amaraH.</1><page>vp6_1044.pdf</page><column>2</column><br/>
+410017:0:  te:  %hrIvera(la)% na0 <vg>hriye lajjAyE veramaNgamasya</vg> <vkr>kzudratvAt pfzo
+410018:5:  te: vA rasya la (vAlA) kzapakzede pfzo0. hi vera tatrArTe rasya
+410019:0:  te: laH hrIyela tatrArTe amarawIkAyAmAhasma BarataH.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410020:0:  te:  %hruqa% <vkr>gatO BvA0 A0 saka0 sew fdit caNi na hrasvaH
+410021:0:  te: hroqate ahroqizwa.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410022:0:  te:  %hrUqa% gatO <vkr>BvA0 A0 saka0 sew fdit caNi na hrasvaH. hrUqati ahnUqizwa</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410023:0:  te:  %hrepa% <vkr>gatO BvA0 A0 saka0 sew. fdit caNi na hrasvaH
+410024:0:  te: hrepate ahropizwa.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410025:1:  te:  %hreza% <vkr>aSvaSabde aka0 sarpaRe saka0 BvA0 A0 sew ftit
+410026:0:  te: caNi na hrasvaH. hrezate ahrezizwa.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410027:0:  te:  %hrezA% strI <vkr>hresa-BAva a.</vkr> (1)aSvaSabde amaraH.</1><page>vp6_1044.pdf</page><column>2</column><br/>
+410028:1:  te:  %hrOqa% <vkr>gatO BvA0 A0 saka0 sew fdit caNi na hrasvaH
+410029:0:  te: hrOqate ahrOqizwa.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410030:!:  te: 
+410031:0:  te:  %hlapa% <vkr>BAzaRe cu0 u0 dvika0 sew. hlApayati te ajihlapat ta.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410032:0:  te:  %hlasa% <vkr>rave BvA0 pa0 a0 sew. hlasati ahlasIt ahlAsIt.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410033:2:  te:  %hlAda% <vkr>Sabde BvA0 Atma0 aka0 modane saka0 sew Idit
+410034:1:  te: nizWAyAmaniw. hlAdate ahlAdizwa. hladaH
+410035:0:  te: A+Anande aka0 AhlAdaH.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410036:1:  te:  %hlAdinI% strI <vkr>hlAda-Rini NIp.</vkr> (1)vidyati (2)vajre amara
+410037:6:  te: H pAWAntaram (3)ISvaraSaktiBede ca SrIDaraH (4)hlAdaviSizwe tri0 </4><page>vp6_1044.pdf</page><column>2</column><br/>
+410038:0:  te:  %hvala% <vkr>calane BvA0 pa0 aka0 sew. hvalati ahvAlIt. GawA
+410039:4:  te: prahvalayati anupamargasya vA hrasvaH hralayati hvAlayati.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410040:0:  te:  %hvAna% na0 <vkr>hve-lyuw.</vkr> (1)AhvAne.</1><page>vp6_1044.pdf</page><column>2</column><br/>
+410041:1:  te:  %hvf% <vkr>kuwilIkaraRe BvA0 pa0 saka0 aniw. hvarati ahvArzIta. jahvaratuH.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>
+410042:1:  te:  %hve% <vkr>spardDAyAM Sabde ca aka0 AhvAnArTe saka0 BvA0 uBa0 yajA
+410043:0:  te: aniw. hvAyati ahvat-ahvata ahvAsta sampra0 ju
+410044:0:  te: hAva AhUtaH AhUtiH
+410045:1:  te: A+svardDAyAm Atma0 SatrumAhvayate. Sivam
+410046:2:  te: tatsat.</vkr><page>vp6_1044.pdf</page><column>2</column><br/>

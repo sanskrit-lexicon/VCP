@@ -1,0 +1,500 @@
+197001:0:  te: svarodaye. mantre pumarBUvaraRe nAmarASeH praDAnateti
+197002:0:  te: aTa grAmAtmanoruttamarRatvamaDamarRatvaM cAha, svaM varga
+197003:0:  te: miti. <reN>vargAstu <q>akacawatapayaSAH KageSamArjAra
+197004:0:  te: siMhaSunAm. sarpAKumfgAvInAM nijapaYcamavEriRAmazwO
+197005:1:  te: ityuktAstatra yasya puMsuH yatsaMKyAko vargo garuqAdiH
+197006:0:  te: syAttadvargasaMNKyAM dviguRAM viDAya kftvA parasya grAmasya varga
+197007:2:  te: saMNKyayA AdyAM ca kftvA gajErazwaBiH Sezitamaya
+197008:0:  te: SizwantAH kAkiRyo jYeyAHpuMsaH. evaM grAmasyApi svavarga
+197009:0:  te: saMNKyAM dviguRAM kftvA parasya puMsaH vargasaMNKyayA yuktAM ca
+197010:1:  te: kftvAgajaBaktAvaSizwAH grAmasya kAkiRyo Bavanti. evamanayoH
+197011:0:  te: puruzagrAmayoH kAkiRyaHsyuH. tatra tadvivarataH purugakA
+197012:0:  te: kiRInAM grAmakAkiRInAM vivaramantarantasmin kriyamARe
+197013:0:  te: yasya grAmasya dAtftvAt puMsaH kAkiRyAviSeze puMsodravya
+197014:0:  te: hAniH. grAmasya pratigrahItftvAdityarTaH. yaTA. nIla
+197015:0:  te: kaRWasya vargaH sarpaH tatsaMNKyA 5dviguRA 10caraRAdre
+197016:0:  te: rvargaHsiMhastatsaMNgyayA 3yuktA 13 gajaBaktaSezaM 5nI
+197017:0:  te: lakaRWasya kAkiRyaH. evaM grAmavargasaNKyA 3 dviguRA
+197018:1:  te: nIlakaRWavarga 5 saNKyayA yuktA 11 azwaBaktAvaSezaM
+197019:0:  te: grAmasya kAkiRyaH dvayorantare SezaM 2 nIlakaRWasya dAtf
+197020:1:  te: tvAt svadravyahAnirityarTaH. uktaYca <q>svavargaM dviguRaM
+197021:0:  te: kftvA paravargeRa yojayet. azwaBistu haredBAgaM yo'DikaH
+197022:0:  te: sa fRI Bavet<q> iti. <reN>ito'nyaTAhuH kaSyapavaSizWanAra
+197023:1:  te: dadAH <q>akArAdizu vargezu dikzu prAgAdizu kramAt
+197024:0:  te: gfDramArjArasiMhASvasarpAKugajamezakAH. digvargARA
+197025:0:  te: miyaM yoniH svavargAtpaYcamo ripuH. ripuvargaM pari
+197026:2:  te: tyajya SezavargAH SuBapradAH. sADyavarge puraH sTApya
+197027:0:  te: pfzWataH sADakaM nyaset. viBajedazwaBiH SezaM sADakasya
+197028:0:  te: DanaM smftam. vyatyayenAgataM SezaM sADakasya fRaM
+197029:0:  te: smftam. DanADikaM svalpamfRaM sarvasaMpatpradaM smftam
+197030:1:  te: iti.</reN> gfDro'tra garuqaH garuqasarpayormahAvErasa
+197031:0:  te: ttvAt sADya ityarTaH. sADyo vAsayogyo grAmAdi
+197032:6:  te: stasya vargasaMKyAM puraH saMsTApya sADakasya nIlakaRWAdeH
+197033:0:  te: vargasaMKyAM pfzWato nyaset. evaM viSizwo'Nko'zwaBirBaktaH SezaM
+197034:0:  te: sADakasya fRaM syAt. yaTA sADyavargasaMKyA 3puraH
+197035:0:  te: sTApitA sADakasya 5vargasaMKyA ca pfzWataH sAcEvam
+197036:2:  te: etAstripaYcASat kazWaBaktAvaSizwaM sADyasya 5DanaM
+197037:0:  te: sADakasya sADyasya ca saMKyA viparItasTApita35 azwaBaktaM
+197038:0:  te: SezaM sADakasya (3)fRaM</3> syAt. <reN>aTa dvAraniveSanamAha
+197039:0:  te: aTeti. dvijAdirASimatAM puMsAM krameRa pUrvataH
+197040:0:  te: prAcyAdidikcatuzwaye dvAraM hitaM yaTA dvijarASayaH
+197041:0:  te: karkavfScikamInAstezAM pUrvadiSi. vESyarASayo vfzaka
+197042:0:  te: nyAmakarAstezAM dakziRadiSi. SUdrarASayo miTunatulA
+197043:2:  te: kumBAste.zAM paScimadiSi nfparASayo mezasiMhaDanuDerA
+197044:0:  te: stezAmuttaradiSi dvAraniveSa ityarTaH<q> pIyu0 DA
+197045:2:  te: atredaM boDyam.</reN> <reN><q>SezANkena Pale boDye SezABAve tu
+197046:0:  te: hArakAt. aNkAdeva PalaM boDyamiti tantravidAM matam
+197047:0:  te: jyo0 ta0</reN> vacanAdaNkABAve hArakANkAt PalanirRayaH
+197048:0:  te: rASiviSezasya grAmAdisTAnaviSeze nivAsanizeDamAha
+197049:2:  te: gosiMhakramiTunaM nivasenna maDye grAmasya pUrvakakuBo
+197050:0:  te: 'livfzANganASca. karko DanustulaBamezaGawASca tadvadvargAH
+197051:2:  te: svapaYcamaparA balinaH syurEndryAH<q> mu0cida</reN> <reN><q>vastumizwasya
+197052:0:  te: grAmasya vastraviBAgavannavaDA viBAgaM kftvA maDye maDya
+197053:0:  te: maviBAge gosiMhanakramiTunaM samAhAradvandvaH. na nivaset
+197054:0:  te: vfzasiMhamakaramiTunarASimantaH puruzA na vaseyuH. aTa
+197055:1:  te: pUrvakakuBaH pUrvadiSAto'zwadikzu alirvfScikaH tadA
+197056:1:  te: dirASimantaH puruzAH na vaseryuH. yaTA. pUrvasyAM vfScikaH
+197057:1:  te: AgneyyAM Jazo mInaH, dakziRasyAM kanyA, nEftyAM karkaH
+197058:0:  te: paScimAyAM DanuH. vAyavyAM tulA uttarasyAM mezaH ESA
+197059:0:  te: nyAM kumBaH na vasedityarTaH. aTa vargAH. akacawata
+197060:0:  te: payaSavargAH azwO EndryAH pUrvadiSamAraBya azwadikzu
+197061:0:  te: balinaH. yaTA avargaH pUrvasyAm. kavarga AgneyyAm
+197062:1:  te: cavargo dakziRasyAm wavargo nEftyAm. tavargaH paScimAyAm
+197063:0:  te: pavargo vAyavyAm. yavargaH uttarasyAm. Savarga ESAnyAM
+197064:0:  te: balItyarTaH. kIdfSAH vargAH svapaYcamaparAH svasmAt paYca
+197065:0:  te: maH paraH SatruryezAM te. yasya avargaH pUrvasyAM balI tena
+197066:0:  te: svapaYcamapaScimAyAM dvAraM nivAso vA na viDeyaH evaM
+197067:0:  te: kavargAdInAmAgneyAdisaptadikzu balitvaM tat paYcamasya
+197068:0:  te: riputvaYca jYeyam<q>. pI0 DA
+197069:0:  te: tatra gfhayogyaBUmiparIkzA viSvakarmaRoktA yaTA
+197070:1:  te: aTAtaH saMpravakzyAmi lokAnAM hitakAmyayA. SvetA
+197071:2:  te: raktA taTA pItA kfzRA varRAnuparvaSaH. suganDA brAhmaRI
+197072:0:  te: mUmIraktaganDA tu kzatriRo. maDuganDA BavedvESyA
+197073:0:  te: madyaganDA ca SUdriRI. maDurA brAhmaRI BUmiH kazAyA
+197074:0:  te: kzatriyAnvitA. amlA vESyA BavedUmistiktA SUdrA prakI
+197075:0:  te: rttitA. caturasrA dvipAkArA siMhA vfzaBarUpiRI
+197076:1:  te: vfttaM ca BadrapIWaM ca triSUlaM liNgamanniBam. prAsA
+197077:0:  te: daDvajakumBAdidevAnAmapi durlaBam. trikoRAM SakawA
+197078:0:  te: kArAM SUrpavyajanasanniBAm. murajAkArasadfSIM sarpa
+197079:1:  te: maRqUkarUpiRIm. KarAjagarasaNkASAM vakrAM cipiwarUpi
+197080:0:  te: RIm. mudgarABAM taTA lUkakAkasarpaniBAM taTA
+197081:1:  te: sUkarozwrAjasadfSIM DanuHparaSurUpaBAm. krakalAsaSavA
+197082:0:  te: kArAM durganDAM ca vivarjayet. manoramA'tra yA BUmiH
+197083:0:  te: parIpsettAM prayatnataH. dvitIyA dfQaBUmiSca nimnA cottara
+197084:2:  te: pUrvake. gamBIrA brahmaRI BUmirnfpARAM tuNgamASritA
+197085:0:  te: vESyAnAM samaBUmiSca SUdrARAM vikawA smftA. sarvezAM
+197086:0:  te: cEva varRAnAM samaBUmiH SuBAvahA. SuklavarRA ca
+197087:0:  te: sarvezAM SuBA BUmirudAhftA. kuSakASayutA brAhmI dUrvA
+197088:1:  te: nfpativalaBA. PalapuzpayutA vESyA SUdrARAM tfRasaMyutA
+197089:0:  te: nadIpAtASritAM tadvat mahApAzARasaMyutAm. muSa
+197090:0:  te: lABAM mahADorAM vAyunA vApi pIqitAm. vallaJallaka
+197091:0:  te: saMyuktAM maDye vikawarUpiRIm. SvaSfgAlaniBAM rUkzAM
+197092:4:  te: dantikEH parivAritAm. ttEvaSmaSAnavalmIkaDUrttA
+197093:0:  te: ntikezu varttinIm. catuzpaTamahAvfkzadevamantrinivAsataH
+197094:0:  te: adUrasTAM SvaBragarttayuktAYcEva vivarjayet<q> BUmiBede
+197095:0:  te: PalAni tatrEva <q>suvarRaganDA surasA DanaDAnya SuBAvahA
+197096:0:  te: vyatyaye vyatyayaPalA tataH kAryaM parIkzaRam. caturasrA
+197097:0:  te: mahADanyA dvipABA DanadAyinI. siMhABA sadguRanyUnA
+197098:2:  te: vfzABA paSuvfdDidA. vfttA sadvfttadA BUmirBadrapIWaniBA
+197099:0:  te: taTA. triSUlarUpA vIrARAM satKanirDanasOKyadA
+197100:1:  te: liNgABA liNgitA SrezWA prAsAdaDyajasanniBA. padonnatiM
+197101:1:  te: prakurute kumBABA DanavardDinI. trikoRaSakawAkArA SUrpa
+197102:0:  te: vyajanasanniBA. krameRa sutasOKyArTaDarmahAnikarI
+197103:0:  te: smftA. murajA vaMSahA sarpamaRqUkABA BayAvahA. nEHsvA
+197104:0:  te: KarAnukArA ca mftyudA'jagarAnvitA. cipiwA pOruzE
+197105:0:  te: rhInA vakrAkArA taTEva ca. kAkolUkaniBA tadvadduHKa
+197106:0:  te: SokaBayapradA. sarpABA putrapOtraGnI vaMSABA vaMSahAnidA
+197107:1:  te: sUkarozwrAjasadfSI DanuHparaSurUpiRI. kucelAnma
+197108:0:  te: litAn mUrKAn brahmaGnAn janayet sutAn. kfkalAsaSavA
+197109:0:  te: kArA mftaputrA DanArttidA. durgamyAM pApinIM duzwaprajAM
+197110:0:  te: BUmiM parityajet. manoramA sutapradA dfQA DanapradA matA
+197111:1:  te: sutArTadA taTApyudaksureSadikptavA mahI. gamBIraSabdA
+197112:0:  te: janayet putrAn gamBIraniHsvanAn. tuNgA padAnvitAn
+197113:1:  te: kuryAt sadAH sOBAgyadAyinI. vikawA SUdrajAtInAM
+197114:0:  te: taTA durgamavAsinAm. SuBadA na parezAM ca taskarARAM
+197115:2:  te: SuBAvahA. suvarRavarRA svAn varRAn varRAnAmADipaM
+197116:0:  te: sadA. SuklavarRA ca sarvezAM putrapOtrapravardDinI. kuSa
+197117:0:  te: kASAnvitA brahmavarcasAn kurute sutAn. dUrvAnvitA vIra
+197118:0:  te: janiH PalAQyA DanaputradA. nadIpAtASritA mUrKAn
+197119:1:  te: mftavatsAMstaTEva ca. daridrAnaSmamaDyasTAgarttAntastAmfzA
+197120:0:  te: yutAn. vivarA paSuputrArttidAyinI sOKyahAriRI
+197121:0:  te: vakrAtivakrA janayet putrAn vidyAvihInakAn. SUrpa
+197122:0:  te: mArjAralaguqaniBA BItisutArtidA. muSalA muSalAn
+197123:0:  te: putrAn jatayedvaMSaGAtakAn. GorAGorapradA vAyupIqitA
+197124:4:  te: vAyuBItidA. valaJalakasaMyuktA paSuhAnipradA sadA
+197125:0:  te: vikawA vikawAn putrAn SvaSfgAlaniBA taTA. dadAti
+197126:0:  te: rUkzA parUzA durbalAn janayet sutAn. gfhasvAmiBayaM
+197127:0:  te: cEva valmIke vipadaH smftAH. DUrttAlayasamIpe tu
+197128:0:  te: putrasya maraRaM Druvam. catuHpaTe tvakIrtiH syAdudvego
+197129:0:  te: devasadmani. arTahAniSca sacive SvaBre vipada utkawAH
+197130:0:  te: gartAyAM tu pipAsA syAt kUrmABaM DananASadam. daSa
+197131:1:  te: RqAdiparyantaM pIqyante puravAsinaH. cEtyaSmASAnadevAnAM
+197132:0:  te: gfhARi parivarjayet. niKanedDastamAtreRa punastenEva
+197133:0:  te: pUrayet. pAMsunADikamaDyonAH SrezWamaDyADamAH kramAt
+197134:0:  te: jalenApUrayet SvaBraM SIGraM gatvA SataM padam. taTEvAgamya
+197135:2:  te: vIkzatena hInaM salilAMSunA. aratnimAtre SvaBre vA
+197136:0:  te: hyanulipte ca sarvataH. vftamAmaSarAvasTaM kftvA
+197137:0:  te: vartticatuyam. jvAla-yedBUparIkzArTaM sampUrRaM sarva
+197138:1:  te: diNmuKam. dIptvA pUrvAdi gfhRIyAdvarRAnAmanupUrvaSaH
+197139:2:  te: halAkazwe taToddeSe sarvabIjAni vApayet. tripaYca
+197140:1:  te: saptarAtreRa saMprarohanti tAnyapi. uptabIjA trirAtreRa
+197141:0:  te: sANkurA SoBanA mahI. maDyamA paYcarAtreRa sapta
+197142:0:  te: rAtreRa ninditA. tilAnvA vApayettatra yavAMScApi ca
+197143:0:  te: sarzapAn. aTa vA sarvaDAnyAni vApayecca samantataH
+197144:0:  te: yatra nEva prarohanti tAM prayatnena varjayet. vrIhayaH
+197145:1:  te: Salayo mudgAH goDUmAH sarzapAstilAH. yavAScozaDayaH
+197146:1:  te: sapta sarvabIjAni cEva hi. suvarRatAmrapuzpARi SvaBra
+197147:0:  te: maDyaM gatAni ca. yasya nAnni samAyAnti sa BUmistasya
+197148:0:  te: SoBanA. pAMsavo reRutAM nItA nirIkzyAScAntarikzagAH
+197149:2:  te: aDomaDyorDvagA nfRAM gatitulyaPalapradAH
+197150:1:  te: BUmeH parvAdidikplavaPalaM tatrEvoktam <q>caturastrAM samAM
+197151:0:  te: SudDAM BUmiM kftvA prayatnataH. tasmin diksADanaM kAryaM
+197152:3:  te: vfttamaDye gate diSi. pUrvaplave BavelakzmIrAgneyyAM Soka
+197153:1:  te: mAdiSet. yAmyAM yAti yamadvAraM nEfte ca mahABayam
+197154:0:  te: paScime kalahaM kuryAdvAyavyAM mftyumAdiSet. uttare
+197155:0:  te: vaMSavfdDiH syAdISAne ratnasaYcayam. diNmUQe kulanASaH
+197156:0:  te: syAdvakre dAridryamAdiSet
+197157:1:  te: gfhe AyAmavistAraBedena DvajAdyAyastatPalaM
+197158:0:  te: varRadigBedena DvajAdInAM viDinizeDO cAha tatrEva
+197159:1:  te: vistAreRa hataM dErDyaM viBajeddazwaBistataH. yacCezaM sa Bave
+197160:0:  te: dAyoDvajAdyAste syurazwaDA. Dvajo DUmo hariH SvA gOH
+197161:3:  te: svareBO vAyaso'zwamaH. parvAdidikzu cAzwAnAM DvajAdInA
+197162:0:  te: mavasTitiH. svasTAnAt paYcame sTAne vEratvaM ca maha
+197163:0:  te: dBavet. vizamAyaH SuBaH proktaH samAyaH SokaduHKadaH
+197164:0:  te: svasTAnagA balizWAH syurnacAnyasTAnagAH SuBAH
+197165:0:  te: DvajaH siMhe tO ca gaje hyete gavi SuBapradAH. vfzo na
+197166:0:  te: pUjitohyatra DvajaH sarvatra pUjitaH. vfzasiMhagajAScEva
+197167:0:  te: kuRqe karkawakIwayoH. dvipaH punaH prayoktavyo vApIkUpa
+197168:0:  te: saraHsu ca. mfgendramAsane dadyAcCayanezu gajaM punaH
+197169:0:  te: vfzaM BojanapAtrezu CatrAdizu punarDvajam. agniveSmasu
+197170:0:  te: sarvezu, gfhe vahnyupajIvinAm. DUmaM niyojayet kecit
+197171:0:  te: SvAnaM mlecCAdijAtizu. KarovESyagfhe SastoDvANkzaH Seza
+197172:0:  te: kuwIzu ca. vfzasiMhagajAScApi prAsAdapuraveSmasu. gajAye
+197173:0:  te: vA DvajAye vA gajAnAM sadanaM SuBam. aSvAlayaM DvajAye
+197174:2:  te: ca svarAye vfzaBe'pi vA. uzwrARAM mandiraM kAryaM ga
+197175:0:  te: jAye vA vfzaDvaje. paSusadma vfzAye ca DvajAye vA SuBa
+197176:1:  te: pradam. SayyAsu vfzaBaH SastaH pIwe siMhaH SuBapradaH
+197177:0:  te: amatracCatravastrARAM vfzAye vA Dvaje'pi vA. pAdukopA
+197178:2:  te: nahO kArye siMhAye'pyaTa vA Dvaje. svarRarOpyAdidAtU
+197179:0:  te: nAmanyezAM tu DvajaH smftaH. brAhmaRe tu DvajaH SrezWaH
+197180:0:  te: pratIcyAM kArayenmuKam. siMhaSca BUBftAM Sasta udIcyAM
+197181:1:  te: ca muKaM SuBam. viSAM vfzaH prAgvadanaM SUdrARAM dakziRe
+197182:0:  te: gajaH. sarvezAmeva cAyAnAM DvajaH SrezWatamo
+197183:0:  te: mataH. DvajAyaH kzatriyaviSoH praSasto gururabravIt
+197184:0:  te: siMhAyaH sarvaTA tyAjyo brAhmaRena vfzastaTA. siMhAye
+197185:0:  te: Suni cAye ca alpAyAsaM prajAyate. DvajAye pUrRa
+197186:0:  te: sidDiH syAdvfzAyaH paSuvfdvidaH. gajAye sampadAM
+197187:1:  te: vfdDiH SezAyAH SokaduHKadAH<q>.</reN> taTA ca DvajAdyA
+197188:2:  te: AyA yatra syustaddiNmuKadvArARi syuriti PalitArTaH
+197189:4:  te: pratyagDvaje dvAramaTokzRi pUrvaM harAvudak syAt
+197190:0:  te: dvirade ca yAmyam<q> iti SrIpatyukteH</reN> <reN><q>sarvadvAra iha
+197191:0:  te: Dvajo varuRadigdvAraM ca hitvA hariH prAgdvAro
+197192:0:  te: vfzaBo gajo yamasureSASAmuKe syAcCuBaH<q> maheSvaro
+197193:1:  te: kteSca.</reN> <reN><q>paScAdudakpUrvayame dvijAditaH<q> mu0ci0</reN> brAhma
+197194:1:  te: RAdivarRaBedena dvAraniveSanamuktam. dvijAditaH brAhma
+197195:0:  te: RAdivarRaBedena paScAdAdi dikzu gfhadvAraM syAt. yaTA
+197196:0:  te: brAhmaRasya paScAnmuKaM gfhadvAraM kzatriyasyodagdiSi
+197197:1:  te: vESyasya pUrvasyAM, SUdrasya yame dakziRasyAm ityarTaH. <reN>uktaSca
+197198:0:  te: SrIpatinA <q>Dvaje pratIcyAM muKamagrajAnAmudaNmuKa
+197199:2:  te: M BUmiBftAYca siMhe. viSo vfze prAgvadanaM gaje tu SUdravya
+197200:0:  te: yAmyAnanamAmanantIti<q>.</reN> <reN>woqarAnande cyavanaH <q>Dvaje
+197201:0:  te: parAsyaM viprARAM rAjYAM siMhe'pyudaNmuKam. gaje
+197202:0:  te: SUdrasya yAmyAsyaM viSaH pUrvamuKaM vfze iti..<q></reN> <reN>pI0DA
+197203:1:  te: gfhARAmAyavArAMSAdikaM tatPalaYca viSva0 uktaM yaTA
+197204:1:  te: piRqe navANkANgAgajEragninAgAzwasAgarEH. nAgESca
+197205:0:  te: guRite Bakte kramAdete padArTakAH. nAgAdrinavasUryA
+197206:0:  te: zwarkzatiTyfkzaKaBAnuBiH. Ayo vAro'Sako dravya
+197207:1:  te: mfRamfkzantiTiryutiH. AyuScATa gfheSarkzagfhamEkyaM
+197208:0:  te: mftipradam. saMpUrRAH SuBadA hyete hyasaMpUrRAstvanizwadAH
+197209:0:  te: asyArTaH. izwagfhadIrGaH 27 hastAH vistAraH 7hastAH
+197210:0:  te: taTAyate tadBujakowiGAtaH<q> lIlA0</reN> uktadiSA kzetraPa
+197211:0:  te: lam203 idaM piRqaM navaDA sTApitam yaTAkramam navAdya
+197212:1:  te: NkErguRite nAgAdyaNkErhfte AyAdayaHsyuH. yaTA
+197213:3:  te: piRqe 9guRite 1624. 8Bakte SozANkAt 3prAya
+197214:3:  te: H siMhAKyaH. 9dftaH 1827.7 BaktaH SezaH 7tena vAra
+197215:2:  te: H SaniH. 6guRaH 1218. 9BaktaH 3sezaH aMSakaH (navAM
+197216:0:  te: SakaH). 8guRaH 1624. 12BaktaH 4Danam. 3guRaH
+197217:0:  te: BaktaH SezaH 1fRam. 8guRaH
+197218:0:  te: BaktaH SezaH 4nakzatraM rohiRI. 9guRaH 1624. 15 BaktaH
+197219:0:  te: SezaH 4caturTI tiTiH. 4guRaH 8121 27BaktaH SezaH
+197220:1:  te: prItiryogaH. 8guRaH 1624. 120BaktaH SezaH 64varzA
+197221:0:  te: AyuH. AyAdInAM prayojanaM pI0DA0 darSitaM yaTA
+197222:0:  te: aTEzAmAyAdInAM prayojanamucyate. <reN>Ayasya tAvat <q>viza
+197223:0:  te: mAyaH SuBAyEva samAyaH SokaduHKadaH<q> iti vasizWoktam
+197224:0:  te: vArARAM ca sUryAravArarASyaMSAH sadA vahniBayapradAH
+197225:0:  te: SezagrahARAM vArAMSAH kartturizwArTasidDidAH<q> iti</reN> yaTA
+197226:3:  te: guRitenAgato BOmavAraH so'pi nindyaH tadrASI meGa
+197227:1:  te: vfScikO nindyO evamanyezvapi rASizu tannavAMSAnindyAH
+197228:3:  te: gfhasyAgatamaM yattu taddvirASyAtmakaM yadi. tannavAMSa
+197229:2:  te: vaSAttatra jYAtavyaM sarvadA gfhamiti<q></reN>taTA ca kfttikA
+197230:0:  te: dvirASyAtmikA tatrEkAvaSeze mezaH. mfge'pidvyAdike Seze
+197231:1:  te: miTunamanyaTA vfzaH. punarvasAvapyaMSakatrayaM yAvanmiTunamanyaTA
+197232:1:  te: karkaH. evamuttarAPAlgunyAdizu dvirASyAtmakezUhanIyaM vi
+197233:0:  te: dvadBiH. na tu niHsandigDezvekarASyAtmakezu aSvinyAdizu
+197234:0:  te: DanarRayoSca Palam <q>DanADikaM gfhaM vfdDyE nirdDanAya
+197235:0:  te: fRADikamiti<q>.</reN> <reN>nakzatrasya Palam <q>vipatpradA vipattArA
+197236:2:  te: pratyariH pratikUnadaH. niDanAKyA tArakA tu sarvaTA niDa
+197237:0:  te: napradA. vivarjyatArakAsvetannirmARamaSuBapradam. kurvanna
+197238:1:  te: jYAnato mohAdduHKaBAgvyADiBAgaBavet.</reN> atra gfhana
+197239:0:  te: kzatrAddinaBaM yatsaMKyaM tannavaBaktamavaSizwatArakA vipattA
+197240:0:  te: rAdikAH syuScettadAnizwAstaddine gfhAramBaM na kuryA
+197241:0:  te: danyasmin dine SuBatArAsu gfhAramBaM kuryAdityarTaH
+197242:2:  te: iti kecit. apare tu gfhakarturnAmanakzatrAdgfhaBaM
+197243:0:  te: saMgaRyaM navaBaktamavaSizwaM vipattArAdikaM syAttadgfhama
+197244:0:  te: nizwamanyaTA SuBamiti yadAha <reN>kaSyapaH <q>datte duHKaM tftI
+197245:1:  te: yarkzaM paYcamarkzaH yaSaHkzayam. AyuHkzayaM saptamarkzaM karttu
+197246:0:  te: rBAdyadi saptamamiti<q></reN> <reN>vAstuSAstre'pi <q>gfhaBAt svAmiBaM
+197247:3:  te: gaRyaM BaktaM ca navaBiH punaH. yacCezaM sA BavettArA
+197248:0:  te: saptapaYcatrikA'Dameti<q> prAhuH.</reN> yadA tu gfhakartturgfhasya
+197249:0:  te: cEkaM nakzatraM syAttadA tacCuBamaSuBaM veti nirRayamAha
+197250:0:  te: vasizWaH <q>gfhasya tatpatestvekaM DizRyaM cenniDanaprada
+197251:0:  te: miti<q>niDanaM maraRam.</reN> rASyEkye'yaM dozaH na tu Binna
+197252:0:  te: rASitve tadvAkyasya vivAhaprakaraRoktatvAt. <reN>kEScida
+197253:1:  te: nyadapi prayojanamuktaM tadukta vyavahArasamuccaye <q>triBi
+197254:0:  te: striBirveSmani kfttikAdyErukCedaputrAptiDanAni Sokam
+197255:0:  te: SatrorBayaM rAjaBayaM ca mftyuH suKaM pravAsaSca nava praBedAH
+197256:1:  te: iti.</reN> guhaBavaSAdrASijYAne'pi prayojanamAha sa eva
+197257:1:  te: (viSvakarmA) rASikUwAdikamityAdi (tadvAkyamanupadaM
+197258:0:  te: dfSyam) vAstuSAstre kfttikAdizu dvirASizu Bezu rASi
+197259:0:  te: nirRayo yaTA <q>aSvinyAditrayaM meze siMhe proktaM maGAtra
+197260:0:  te: yam. mUlAditritayaM cApe Sezezu nava rASaya<q> iti
+197261:1:  te: Sezezu mezurohiRyAdizu nava rASayo jYeyAH. yaTA
+197262:0:  te: rohiRImfgayorvfzaH. ArdrArpunarvasvormiTunam
+197263:1:  te: puzyASlezayoH karkaH. ezaM hastAdike SravaRAdidvike ca
+197264:0:  te: kanyAmakarAdyArASayaH syurityarTaH ayaM ca pakzo
+197265:1:  te: vAstuSAstre navAMSAnukteruktaH. atra rASikUwe
+197266:0:  te: nAqIveDo na dozAya. <reN>uktaM ca jyotiScintAmaRO
+197267:0:  te: sevyasevakayoScEva gfhatatsvAminorapi. parasparaM
+197268:0:  te: mitrayoScedekanAqI praSasyate<q> iti.</reN> tiTiprayojanaM
+197269:0:  te: tiTyAnayanaprakArAntaraM ca <reN>vAstuSAstre <q>SakrAhataM
+197270:6:  te: kzetraPalaM triMSaNBaktAgaSezakam. tiTyaH pratipadAdyAHsyu
+197271:0:  te: rdarSaM riktAM ca varjayediti<q>.</reN> <reN>tulyanyAyatvAcCuBASuBapraka
+197272:1:  te: raRoktaM nezwayogavarjanaM ca yogAnaM, prayojanaM spazwameva
+197273:0:  te: AyuzaH prayojanaM tAvatkAlaM gfhasTitiriti<q> pI0DA
+197274:0:  te: AyAdiPalaM viSva0vAstuSAstre <q>DizRye ca vasuBirBakte
+197275:0:  te: vyayaH syAcCezakANkake. DanADikaM gfhaM vfdDyE nirdDa
+197276:0:  te: nAya fRADikam. vyayAnvite kzetraPale DruvAdyakzarasaM
+197277:0:  te: yute. triBiH Seze kramAdindrayamaBUBUmipASayAH. indrAMSe
+197278:0:  te: padavIvfdDirmahatsOKyaM prajAyate. yamAMSe maraRaM nUnaM
+197279:0:  te: rogaSokamanekaDA. rAjAMSe DanaDAnyAni putravfdDiSca
+197280:0:  te: jAyate. rASikUwAdikaM sarvaM dampatyoriva cintayet
+197281:2:  te: duHKaM dvidvAdaSe nUnaM trikoRe tvanapatyatA. zawkAzwake
+197282:1:  te: nEDanaM syAdvyatyaye maDyamaM smftam. (vyatyaye dvAdaSadditI
+197283:0:  te: yAdO) dyUnasTite putralABaH strIlABaSca taTEva ca
+197284:2:  te: janmatftIye ca taTA DanaDAnyAgamo Bavet. daSamEkA
+197285:0:  te: daSe candre DanAyurBadraputradaH. caturTAzwamaripPasTo
+197286:0:  te: mftyuputravinASadaH. trikoRe'tvanapatyaM syAt kecid
+197287:0:  te: banDugfhe SuBam. vadanti candremunayo nEtanmama mataM
+197288:1:  te: smftam. aSvinyAditrayam ityAdikam (anupadamuktam)
+197289:1:  te: sUryAravArarASyaMSAH sadA vahniBayapradA. Seza
+197290:0:  te: grahARAM vArAMSAH kartturizwArTasidDidAH. gfhasyAgataBaM
+197291:0:  te: yattu tadDi rASyAtmakaM yadi. tannavAMSavaSAttatra jYA
+197292:0:  te: tavyaM sarvadA gfham. vipatpradA vipattArA pratyariH
+197293:0:  te: pratikUladaH. niDanAKyA tu yA tArA sarvaTA niDa
+197294:0:  te: napradA. vivarjyatArakAsvetannirmARamaSuBapradam. pratya
+197295:1:  te: ritArA BayadA niraSarkzetu mftyuBIH. niDAnAKyA
+197296:0:  te: tu yA tArA strIsUtArttipradAyinI. kurvannajYAnato
+197297:0:  te: mohAdduHKaBAgvyADiBAgBavet. tiTO rikte dari
+197298:0:  te: dratvaM darSe garBanipAtanam. kuyoge DanaDAnyAdinASaH
+197299:1:  te: pAtaSca mftyudaH. vEDftO sarvanASAya nakzatrEkye taTEva ca
+197300:0:  te: AyurvihIne gehe tu durBagatvaM prajAyate. nAqIveDo na
+197301:2:  te: SuBadastArA romaBayapradA. guRavEre putrahAnirdDana
+197302:0:  te: hAnistaTEva ca. yonO kalirmahAduHKaM yamAMSe
+197303:0:  te: maraRaM Druvam. nakzatrEkye svAmimftyurvarRe vaMSavi
+197304:0:  te: nASanam. pApavAre daridratvaM SiSUnAM maraRaM taTA
+197305:1:  te: kecicCaniM praSaMsanti cOraBItistu jAyate
+197306:0:  te: AyAdikacintAyA maryAdAM digBedena gfhaBedanirmARa
+197307:1:  te: YcAha viSvakarmA <q>ekAdaSakarAdUrdDaM yAvadvAtriM Sahastakam
+197308:4:  te: tAvadAyAdikaM cintyaM tadUrdDaM nEva cintayet. Ayuvya
+197309:5:  te: yO mAsaSurdDirna jIrRe cintayedgfhe. SilAnyAsaM
+197310:0:  te: prakurvIta maDye tasya viDAnataH. ESAnyAM devatAgehaM
+197311:1:  te: parvasyAM snAnamandiram. AgneyAM pAkasadanaM SayanaM
+197312:0:  te: dakziRe nyaset. SastragehaM ca nErftyAM paScime BojanAla
+197313:0:  te: yam. vAyavyAM DAnyasadanaM BARqArAgAramuttare
+197314:0:  te: AgneyIpUrvayormaDye daDimanTanamandiram. agniprete
+197315:1:  te: SayormaDye AjyagehaM praSasyate. yAmyanEftayorma
+197316:1:  te: Dye purIzatyAgamandiram. nEftyambupayormaDye vidyA
+197317:0:  te: ByAsasya mandiram. paScimAnilayormaDye rodanArTaM
+197318:0:  te: gfhaM smftam. vAyavyottarayormaDye ratigehaM praSasyate
+197319:0:  te: uttareSAnayormaDye OzaDArTaM ca kArayet. ISAnapUrva
+197320:0:  te: yormaDye SezaM sarvagfhaM smftam. nErftyAM sUtikA
+197321:2:  te: gehaM nfpARAM gehamizyate. Asannaprasave mAsi kuryA
+197322:0:  te: ccEva viSezataH. tadvat prasavakAle syAditi SAstrezu ni
+197323:0:  te: Scitam. mAse tu navame prApte pUrvapakze SuBe dine. prasUti
+197324:0:  te: samBave kAle gfhAramBaRamizyate
+197325:0:  te: alindaBedena gfhanAmaBedAn tatPalamalindaSabdArTaYcAhaM
+197326:1:  te: tatrEva <q>guroraDo laGuH sTApyaH purastAdurdDagaM nyaset
+197327:0:  te: guruBiH paScime pUryaM sarvalaGvavaDirviDiH. syAdalindaM laGu
+197328:0:  te: sTAne nAlindaM gurumASritam. pradakziRErgfhadvArAdalindE
+197329:0:  te: rdaSazaqviDEH 19. DruvasaMjYaM1 gfhaM tvAdyaM DanaDAnyasuKa
+197330:0:  te: pradam. DanyaM2 DAnyapradaM nFRAM jayaM3syAdvijayapradam
+197331:2:  te: mandaM4 strIhAnidaM nUnaM svaraM5 sampadvinASanam
+197332:1:  te: putrapOtrapradaM kAntaM6 SrIpadaM syAnmanoramam7. suvaktvaM
+197333:0:  te: BogadaM nUnaM durmuKaM9 vimuKapradam. sarvaduHKapradaM
+197334:0:  te: krUraM10 vipakzaM11 SatruBItidam. DanadaM12 DanadaM
+197335:0:  te: gehaM kzayaM13 sarvakzayAvaham. AkradaM14SokajananaM
+197336:0:  te: vipulaSrIyaSaHpradam. vipulaM15 nAmasadfSaM DanadaM
+197337:0:  te: vijayABiDam16. pradakziRaM sadmamuKAdalindaM vidyA
+197338:2:  te: laGusTAnasamASritaM ca. gfhasya parvAdigatezvalindezvevaM
+197339:1:  te: BaveyurdaSa zawkaBedAH16. Bavet punaH SuBAlindayutaM
+197340:0:  te: kApAlasaMjYakam. vistArAt dviguRaM gehaM gfhasvAmi
+197341:0:  te: vinASanam. nirarTakaM tadgfhaM syAdBayaM vA rAjasamBa
+197342:0:  te: vam. kecidalindaM dvAraM tu pravadanti manIziRaH
+197343:0:  te: kecidalindaM SAlAYca keciccAlindakaM ca tat. gfhA
+197344:0:  te: dbahiSca ye kozWA gfhasyAntargatASca ye. tezAM kozWIkftaM
+197345:0:  te: tiryaggehaM cAlindasaMjYakam. stamBahInaM gfhAd
+197346:0:  te: bAhyAnnirgataM kozWanirmitam. maDyAdUrdDaM tacca gehaM
+197347:2:  te: vAcAlindasaMjYakam. yatrAlindaM ca tatrEva dvAramArgaH
+197348:0:  te: praSasyate. alindadvArahInaM ca gfhaM kowIsamaM smftam
+197349:0:  te: yatrAlindaM tatra SAlA tatra dvAraM ca SoBanam. SAlA
+197350:1:  te: lindadvArahInaM na gfhaM kArayedabuDaH<q> ayamarTaH
+197351:0:  te: prastAre tu laGuM nyasya praTamasya guroraDaH. yaTopari
+197352:4:  te: taTA SezaM BUyaH kuryAdanuM viDim. janeQadyAgurUneva yA
+197353:1:  te: vat sarvalaGurBavet<q> vf0ra0</reN>uktarItyA caturddArarUpacaturguru
+197354:0:  te: prakalpanena prastAre laGuM dvAraM prakalpya zoqaSa BedAH
+197355:0:  te: svarUpato darSyante yaTA
+197356:1:  te: '''' UrdDa muKam DruvaM SuBadam
+197357:0:  te: ''' prAgmuKaM DAnyaM SuBam
+197358:0:  te: '.'' dakziRadvAram jayaM SuBadam
+197359:0:  te: '' prAgdakziRadvAram mandamaSuBadam
+197360:0:  te: ''.' paScimadvAraM KaramaSuBadam
+197361:1:  te: '.' prAgpaSvimamuKam kAntaM SuBadam
+197362:1:  te: '..' dakziRapaScamAsyam manoramaM SuBadam
+197363:1:  te: ' prAgdakziRapaScimAsyaM sumuKaM SuBadam
+197364:0:  te: '''. uttarAsyam--durmuKamaSuBadam
+197365:1:  te: ''. parvottaradvAram-ugramaSuBadam
+197366:0:  te: '.'. dakziRottarAsyam vipakzamaSuBadam
+197367:1:  te: '. prAgdakziRAdigAsyagDanadaMSuBadam
+197368:0:  te: '.. paScimottarAsyam kzayamaSuBadam
+197369:1:  te: '.. parvapaScimottarAsyam AkrandamaSuBadam
+197370:0:  te: '... dakziRapaScimottaradvAram vipulaM SuBadam
+197371:2:  te: caturdigdvArakam vijayaM sarvatra SuBadam
+197372:0:  te: digBedenEkaSAlAdinirmARaprakAraM tatrAha
+197373:0:  te: yadvAstuni ca vistAraH sEvocCAyaH SuBaH smftaH. eka
+197374:0:  te: SAlo gfhaH kAryo vistArAddviguRocCrayaH. catuH
+197375:0:  te: SAlagfhasyEvamucCrAyo vyAsasaMmitaH. vistArAddviguRaM
+197376:2:  te: dErDyamekaSAlezuSasyate. vistIrRaM yadBavedgehaM tadUrdDaM tveka
+197377:0:  te: SAlake. dviSAle dviguRaM proktaM triSAle triguRaM taTA
+197378:1:  te: catuH SAle paYcaguRaM tadUrdDaM nEva kArayet. SiKA cEva
+197379:0:  te: triBAge tu gfhaM cottamasaMjYakam. ekaM nAgendrasaMSudDO
+197380:2:  te: dve ca dakziRapaScime. triSAlaM parvatohInaM kArya
+197381:0:  te: vA sOmyavarjitam. UrdDaBAgatrayaM tyaktvA aDoBAgadvayaM
+197382:0:  te: taTA. maDye nABiM vijAnIyAditi prAha parASaraH
+197383:0:  te: pUrvAdizu caturddikzu vAmamekAdayo DruvAH vistArasyATa
+197384:2:  te: dErGyasya taTEvEkEkasaMyutAH. vAmaM vAtAdikoRezu Druva
+197385:1:  te: vistAradErDyayoH. ekAdyAH svecCayA sarve kAryAvedasama
+197386:1:  te: nvitAH. anenEva prakAreRa kriyamARe ca vAstuni. Aya
+197387:2:  te: vyayAdisaMSudDiM nucintayati pUrvataH<q></reN> asyArTaH yadi
+197388:1:  te: vAstuni ekameva gfhaM kriyate tadA nAgendrasaMSudDyA
+197389:0:  te: sOmyavarjitaM uttaraSAlAhInaM gfhaM kAryaM yadi
+197390:0:  te: dviSAlakaM gfhaM kriyate tadA dakziRapaScime SAle kArye
+197391:0:  te: triSAle pUrvatohInaM kAryam uttaraSAlayA vA
+197392:0:  te: hInaM kAryam. SAlAviBAgastu anenEva viDAnena kAryaH
+197393:1:  te: pUrvataH UrdDaBAgatrayaM tyaktvA paScime BAgadvayaM tyaktA yo
+197394:0:  te: maDyagato BAgaH sa nABiH tatra SAlA na viDeyA a
+197395:0:  te: nenEva prakAreRa pUrvAdidikzu ekAdayo vistArasya dErDyasya
+197396:0:  te: ekEkaBAgaM saMyojya vAtAdikoRezu uttaraSAlA hInatvAnna
+197397:0:  te: deyaM sarve ekAdyAScatuHSAlAntA vedasamanvitAH kAryAH
+197398:1:  te: anenEva prakAreRa SAlAyute gfhavAstuti AyavyAyAdi
+197399:0:  te: SudDirna cintanIyA. ekaSAle AyavyayAdivicAraH karttavyaH
+197400:0:  te: dviSAlAdigfhe AyavyayAdiSudDirna vicAraRIyA
+197401:1:  te: yataH nirgamAltindaniryUhAdIni yAni caturdiSaM veSmanAM
+197402:0:  te: tAni na grAhyARi iti. <reN>varRaBedenEkaSAlAdiviSeza
+197403:0:  te: BedAdikamAha tatrEva <q>brAhmaRAnAM catuHSAlaM kzatriyARAM
+197404:0:  te: triSAlakam. dviSAlakaM ca vESyAnAM SUdrARAmekaSAlakam
+197405:0:  te: sarvezAmeva varRAnAmekaSAlaM praSasyate. ekaSAlaM dviSAlaM
+197406:0:  te: vA triSAlaM turyaSAlakam. yaTAlindagfhaM kuryAttA
+197407:0:  te: dfkSAlA praSasyate. SAlABedo na karttavyo na kuryAttu
+197408:0:  te: Nganimnakam. samAM SAlAM tataH kuryAtsamaM prAkArameva
+197409:0:  te: ca. kulIro vfScikomIna uttaradvArasaMsTitAH. meza
+197410:0:  te: siMhaDanurdvArI pUrvadvArezu saMsTitAH. vfzaBo makaraH
+197411:0:  te: kanyA yAmyadvArasamASritAH. miTunaM tulakumBO ca
+197412:1:  te: paScimadvAramASritAH. brAhmaRAH kzatriyA vESyAH SUdrA
+197413:0:  te: ScEva yaTAkramam. yadISA rASayaH proktAstasmin
+197414:0:  te: SAlA pravarttate. aTa pUrvaviBAge tu brAhmaRA uttare nfpAH
+197415:0:  te: vESyASca dakziRe BAge paScime SUdrakAstaTA. Agne
+197416:0:  te: yAdikrameREvApaBraMSAvarRasaNkarAH. jYAtiBrazwASca cO
+197417:0:  te: rASca vidiksTAH SoBanAH smftAH. brAhmaRAH kzatriyA
+197418:0:  te: vESyAH SUdrAH prAgAdizu smftAH. nfpAdInAM gfhamAna
+197419:0:  te: BedamAha tatrEva. <q>azwottaraM hastaSataM vistAre nfpama
+197420:1:  te: ndiram. kAryaM praDAnamanyAni taTAzwAzwonitAni
+197421:3:  te: tu. vistArapAdasaMyuktaM tezAM dErDyyaM prakalpayet
+197422:0:  te: evaM nfpARAM paYcEva gfhARi SuBadAni ca. senA
+197423:0:  te: nInAM ca paYcEva gfhARi SuBadAni ca. zaqBiH
+197424:1:  te: zaqBivihInAni catuHzazwimitAni ca. paYcEva, tasya
+197425:1:  te: vistAre dErDyaM zaqBAgasaMyutam. zazwiScaturvi
+197426:0:  te: hInAni veSmAni sacivasya ca. paYcasvazwAMSasaMyuktaM
+197427:1:  te: dErDyaM tasyArdDameva ca. nfpARAM mahizIRAYca pra
+197428:0:  te: SastaM paYca cEva hi. zaqBiH zaqBiSca varjyAni aSItyASca
+197429:1:  te: taTEva. ca. triMSadyutaYca dErDyaM ca yuvarAjagfhARi
+197430:0:  te: ca. paYca UrdDaM ca tasyEva BrAtFRAM praBavanti hi. nfpa
+197431:2:  te: mantrimfhARAYca antare yatpramARakam. sAmantarAjamf
+197432:0:  te: tyAnAM pravarARAM gfhaM smftam. nfpARAM yuvarAjasya gf
+197433:1:  te: hARAmantareRa yat. tat gfhaM kaYcukoveSma kalA
+197434:0:  te: jYAnAM taTEva ca. yuvarAjamantrigfhezvantaraM yadBave
+197435:0:  te: diha. aDyakzasya tu tadgehaM tatkarmakuSalASca ye. aDya
+197436:0:  te: kzADikftAnAM ca ratikoSapramARakam. catvAriMSa
+197437:1:  te: ccaturhInA paYca gehA Bavanti hi. zawBAgasaMyutaM dErDyaM
+197438:0:  te: dEvajYaBizajAM taTA. purohitAnAM SuBadaM sarvezAM
+197439:0:  te: kaTayAmyataH. hastAt dvAtriMSatA yuktaM vistArasya
+197440:2:  te: dvijAlayam. vistAraM sadaSAMSaM tu dErDyaM tasya praka
+197441:0:  te: lpayet. trayARAM kzatriyAdInAmAlayaM pUrvacodi
+197442:0:  te: tam. nfpasenApatigehasyAntaraM yadBavediha. tatkoSa
+197443:1:  te: gehaM Bavati ratigehaM taTEva ca. senApatinfpagehAnA
+197444:0:  te: mantaraM yatpramARakam. cAturvarRyasya yadgehaM tadrAja
+197445:0:  te: pUjyasammatam. aTa pArasavAdInAM mAtApitroryadanta
+197446:0:  te: ram. brAhmaRasya ca yanmAnaM SUdreRa saha tadBavet
+197447:0:  te: SatahastocCritaM kAryaM catuHSAlaM gfhaM Bavet. prami
+197448:1:  te: tantvekaSAlantu SuBadaM tatprakIrttitam. senApatinf
+197449:1:  te: pAdInAM saptatyA sahite kfte. vyAse caturdaSa hfte SAla
+197450:0:  te: mAnaM vinirdiSet. paYcatriMSadDfte'nyatrAlindamAna
+197451:1:  te: M Bavecca tat. SAlA triBAgatulyA ca karttavyA vITikA
+197452:0:  te: bahiH. BavanAt pUrvaM sozRIzaM paScAtpApASrayaM Bavet
+197453:1:  te: sAvazwammaM pArSvayostu sarvatra susTiraM Bavet. vistAra
+197454:2:  te: zoqaSAMSastu caturhastayutocCrayaH. tadantarasToccaraM
+197455:1:  te: pramARaM pravadedbuDaH. dvAdaSaBAgenonaM ca samastAnAM
+197456:0:  te: prakalpayet. yajante rAjasUyAdyEH kratuBirye'vanISvarAH
+197457:1:  te: nalErapyazwamEstezAM kArayedBavanottamam. taTA ca saptamErova
+197458:1:  te: viprARAM kArayedgfham. sArdDazazWEH kzatriyARAM vESyA
+197459:3:  te: nAM sArdDapaYcamEH. triBiH sArdDESca SUdrARAM Bavana SuBadaM
+197460:0:  te: smftam. svagfhARAM viBAgena pramARamiha lakzayet
+197461:0:  te: vistArAyAmaguRitaM nalEH zOqaSaBiH smftam. svagf
+197462:2:  te: kARAM viBAgena pramARamiha lakzayet.  vyAmAcca zoqa
+197463:0:  te: SoBAgaH sarvezAM BittayaH smftAH. pakvezwakAkftAnAM
+197464:0:  te: ca na dArURAM kadAcana. nfpasenApatigfhezvazwASItiM
+197465:1:  te: SatEryutAm. aNgulAni dvAramAnaM pravadanti manIziRAH
+197466:2:  te: viprAdInAM viMSatista aNgulAni ca sapta ca. dvArasya
+197467:0:  te: mAnaM tatproktaM dviguRocCrAya ucyate. ucCrAyahasta
+197468:0:  te: saMKyAyAH parimARANgulAni ca. SAKAdvaye'pi
+197469:0:  te: bAhulyaM kAryaM sArdDAMSasaMyutam. ucCrAyAt saptaguRitA
+197470:2:  te: daSItiH pfTutA matA. BAgaH punarnavaguRASItya SAstamBa
+197471:0:  te: mAnakam. daSAMSahInaM tasyAgraM stamBAnAM parimARakam
+197472:1:  te: vedASro rucakaH1 stamBo vajro2'zwASriyuto mataH. dvivajraH
+197473:3:  te: zoqaSAstrastaddviguRASraH pralonakaH4. samantavftto vfttAKyaH
+197474:1:  te: stamBaH prokto dvijottamEH. viBajya navaDA stamBaM kuryA
+197475:2:  te: dudvahanaM Gawam. padmaM tu mottarozWaYca kuryAdBAgena BA
+197476:0:  te: gataH. stamBasamaM bAhulyaM BAratulAnAmuparyuparyAsAm
+197477:1:  te: Bavati tulopatulAnAmUnaM pAdena pAdena. apratisidDA
+197478:0:  te: lindaM samantato vAstu sarvatoBadram. nfpavibuDasamU
+197479:0:  te: hAnAM kAryaM dvArEScaturBirapi
+197480:0:  te: aTa dviSAlAni gfhARiM dakziRe durmuKaM kftvA pUrve ca
+197481:0:  te: KarasaMjYakam. tadvAtAKyaM1 BavedgehaM vAtarogapradaM smftam
+197482:2:  te: dakziRe durmuKaM gehaM paScime DAnyasaMjYakam. yamasuryaM
+197483:0:  te: dviSAlaM tanmftyudaM nASadaM smftam. pUrve tu svaranAmAna
+197484:3:  te: muttare DAmyasaMjYakam. daRqAKyaM3 tadDiSAlaM syAddaRqaM
+197485:0:  te: kuryAt punaH punaH. durmuKaM dakziRe kuryAduttare jayasaM
+197486:1:  te: jYakam. vIcyAKyaM4 tadDviSAlantu banDunASaM Danakzayam
+197487:3:  te: KaraYca pUrvadigBAge paScime DAnyasaMjYakam. gfhaM culo
+197488:0:  te: dviSAlaM tadDanaDAnyavinASanam. AkrandaM dakziRe BAge
+197489:0:  te: paScime DanadaM taTA. dviSAlaM cekzusaMjYaM6 tatpaSuvfdDi
+197490:0:  te: Danapradam. vipakzaM dakziRe BAge paScime krUrasaMjYakam
+197491:1:  te: SoBanAKyaM7 dviSAlaM tadDanaDAnyakara param. vijayaM
+197492:1:  te: dakziRe BAge vijayaM cEvaM paScime. dviSAlaM cEva ku
+197493:1:  te: mBAKyaM8putradArAdisaMyutam. DAnyaYca pUrvadigBAge
+197494:0:  te: DAnyaM cEva tu paScime. nandAKyaM9taddviSAlaYca GanadaM
+197495:1:  te: SoBanaM smftam. vijayaM sarvadigBAge dviSAlAKya
+197496:2:  te: M tadeva10hi. aNkAdyaM11 nAma tadgehaM SuBadaM dvArato Ba
+197497:0:  te: vet. vipulaM sarvadigBAge dviSAlaM tatprajAyate. tAni
+197498:4:  te: sftyuwasaMjYAni12 DanaDAnyapradAni ca. DanadaM sarvadig
+197499:1:  te: BAge sumuKaM vA manoramam. kAntanAma13 tu tadgehaM
+197500:0:  te: sarvAMSe SoBanaM smftam. dviSAlAnAM sadmanAM ca BedAScEva

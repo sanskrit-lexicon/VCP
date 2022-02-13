@@ -1,0 +1,500 @@
+035001:0:  te: tarppayanti sadA mUtraM saritaH sAgaraM yaTA sUkzmatvA
+035002:1:  te: nnopalaByante muKAnyAsAM sahasraSaH nAqIBirupanItasya
+035003:0:  te: mUtrasyAmASayAntarAt jAgrataH svapataScEva sa niHzyandena
+035004:0:  te: pUryyate AmuKAtsalile nyastaH pArSveByaH pUryyate navaH
+035005:0:  te: Gawo yaTA taTA vidDi vastirmUtreRa pUryyate evameva prave
+035006:0:  te: Sena vAtaH pittaM kaPo'pi vA mUtrayukta upasnehAt pra
+035007:0:  te: viSya kurute'SmarIm apsu svacCAsvapi yaTA niziktAsu
+035008:1:  te: nave Gawe kAlAntareRa paNkaH syAdaSamarIsamBavastaTA saMha
+035009:0:  te: ntyapo yaTA divyA mAruto'gniSca vEdyutaH tadvadvalAsaM
+035010:0:  te: vastisTamuzmA saMhanti sAnilaH mArute praguRe vastO mUtraM
+035011:0:  te: samyak pravarttate vikArA viviDAScApi pratilome Bavanti
+035012:0:  te: hi mUtrAGAtAH pramehASca SukradozAstaTEva ca mUtradozASca
+035013:1:  te: ye kecidvastAveva Bavanti hi<q> suSva0 <q>asmarIM kzapa
+035014:0:  te: yatyASu sikatASarkarAnvitAm<q> suSru0</reN> ayaYca mahA
+035015:0:  te: pApajatvAnmahArogaH <reN><q>unmAdastvagdozo rAjayakzmA
+035016:0:  te: SvAso maDumeho BagandaraH udaro'SmarItyazwO mahA
+035017:0:  te: rogAH<q> Su0 ta0 nAra0</reN></vn><page>vp1_499.pdf</page><column>1</column><br/>
+035018:0:  te:  %aSmarIGna% pu0 <vg>aSmarIM mUtrakfcCraM hanti</vg> <vkr>hana-wa</vkr> (1)varuRavfkze</1><page>vp1_500.pdf</page><column>1</column><br/>
+035019:0:  te:  %aSmarIhara% pu0 <vg>aSmarIM harati</vg> <vkr>hf-wa</vkr> (deDAna)(1)devaDAnye</1><page>vp1_500.pdf</page><column>1</column><br/>
+035020:0:  te:  %aSmavat% tri0 <vg>aSmA'styatra</vg> <vkr>matup</vkr> (1)pAzARaBUyizWe deSe</1> <vkr>striyAM
+035021:0:  te: NIp</vkr> (2)taTAviDaBUmerguRASca</2> <reN><q>tatrASmavatI sTirA gurvvI
+035022:0:  te: SyAmA kfzRA vA sTUlavfkzaSasyaprAyA guRaBUyizWA
+035023:0:  te: snigDA SItalAsannodakA snigDaSasyatfRakomalavfkzaprAyA
+035024:0:  te: SuklAmbuguRaBUyizWA nAnAvarRA laDvaSmavatI praviralAlpa
+035025:0:  te: pARqu vfkzaprarohA'gniguRaBUyizWA iti<q> suSrutaH</reN><page>vp1_500.pdf</page><column>1</column><br/>
+035026:0:  te:  %aSmasAra% pu0 na0 <vg>aSmanaH sAra iva</vg> (1)lOhe</1> <reN><q>PalguvfScika
+035027:1:  te: darBASmasAracUrRakavAriRA<q> suSru0</reN> <reN><q>prARAH sa
+035028:0:  te: tvaramaSmasArakaWinA gacCanti gacCantvamI<q> sA0 da
+035029:0:  te: ba0</reN> (2)tattulyakaWine tri0</2><page>vp1_500.pdf</page><column>1</column><br/>
+035030:0:  te:  %aSmahanman% na0 <vg>hanyate'nena <vkr>hana-manin</vkr> hanma AyuDam
+035031:1:  te: aSmanirmmitaM hanma</vg> (1)lOhanirmite AyuDe</1> <reN><q>agni
+035032:0:  te: tasteBiryuvamaSmahanmaBiH<q> f0 7,104,5</reN><page>vp1_500.pdf</page><column>1</column><br/>
+035033:0:  te:  %aSmAdi% pu0 6 ta0 <vn>caturarTyAM pARinyuktarapratyayanimitte
+035034:0:  te: SabdagaRe</1> sa ca gaRaH aSman, yUTa, Uza, mIna, nada, darBa
+035035:1:  te: vfnda, guda, KaRqa, naga, SiKA, kowa, pApa, kanda, kAnda
+035036:0:  te: kula, gahva, gaqa, kuRqala, pIna, guha</vn><page>vp1_500.pdf</page><column>1</column><br/>
+035037:0:  te:  %aSmArma% na0 <vg>aSmakArakamarmma</vgw> (pATure) (1)aSmarIroge</1><page>vp1_500.pdf</page><column>1</column><br/>
+035038:0:  te:  %aSmIra% pu0 na0 <vg>aSmAstyasya </vg><vkr>Iran</vkr> (pATure) (1)aSmarIroge</1><page>vp1_500.pdf</page><column>1</column><br/>
+035039:0:  te:  %aSmotTa% na0 <vg>aSmanaH uttizWati</vg> <vkr>ud+sTA-ka</vkr> 5 na0 (1)SilA
+035040:0:  te: jatuni</1> rAjani0<page>vp1_500.pdf</page><column>1</column><br/>
+035041:0:  te:  %aSra% na0 <vg>aSnute netram</vg> <vkr>aSa-rak</vkr> (1)netrajale</1> <reN><q>saKIBiraSrottara
+035042:1:  te: mIkzitAmimAm<q> kumA0</reN> <reN><q>netrAByAmaSramutsfjan
+035043:0:  te: rAmA0</reN> <vkr>suKA0 astyarTe ini na matup aSrI aSru
+035044:0:  te: yukte tri0 striyAM NIp</vkr><page>vp1_500.pdf</page><column>1</column><br/>
+035045:2:  te:  %aSradDA% strI aBAve na0 ta0 (1) SradDABAve viroDe na0 ta
+035046:2:  te: SradDAviroDini (2) cittavfttiBede</2> <reN><q>kAmaH saNkalpovici
+035047:2:  te: kitsA SradDA'SradDA DftiDftihrIrDIrBIrityetatsarvaM mana
+035048:0:  te: eva<q> SrutiH</reN> <reN><q>aSradDayA ca yaddattaM tattAmasamudAhftam
+035049:0:  te: gItA</reN> na0 ba0 (3) SradDASUnye tri0</3><page>vp1_500.pdf</page><column>1</column><br/>
+035050:0:  te:  %aSradDeya% tri0 na0 ta0 SradDAnarhe aviSvasanIye  (1) SramaSUnye tri0</1><page>vp1_500.pdf</page><column>1</column><br/>
+035051:0:  te:  %aSrama% pu0 aBAve na0 ta0 (1) SramABAve anAyAse na0 va0</1><page>vp1_500.pdf</page><column>1</column><br/>
+035052:0:  te:  %aSravaRa% na0 aBAve na0 ta0 (1) SravaRABAve na0 ba0 (2) SravaRa
+035053:0:  te: SUnye tri0 (3) SrotrendriyaSUnye baDire tri0 (4) sarpe pu0</4><page>vp1_500.pdf</page><column>2</column><br/>
+035054:0:  te:  %aSrAdDaBojin% tri0 <vg>SrAdDaM na BuNkte</vg> <vkr>Buja-Rini</vkr> <vn>asamarTa
+035055:0:  te: sa0 sati Bojane SrAdDameva yo BuNkte tasmin</vn> <reN><q>aSrAdDa
+035056:2:  te: BojItyatra sati Bojane'SrAdDameva BuNkte na SrAdDamiti na
+035057:0:  te: niyamaH taTAtve vratalopaH syAt<q> durgasiMhaH prA0 ta0</reN><page>vp1_500.pdf</page><column>2</column><br/>
+035058:0:  te:  %aSrAnta% tri0 <vkr>Srama-karttari</vkr> na0 ta0 SrAntaBinne (1) SramaSUnye
+035059:0:  te: avirate (3) kriyAviSezaRatve na0</3> <reN><q>aSrAntaSrutipAWapUta
+035060:0:  te: rasanAvirBUtaBUristaveti nEza0</reN> <vkr>BAve kta</vkr> na0 ta
+035061:0:  te: aviSrAme na0</4><page>vp1_500.pdf</page><column>2</column><br/>
+035062:0:  te:  %aSri(SrI)% strI <vg>aSyate saMhanyate'nayA</vg> <vkr>aSa-vaNkryA0 kri
+035063:0:  te: gfhAdeH koRe ASrIyate saMGAtArTam</1> <vkr>A+SrI-<reN><q>ANi
+035064:0:  te: SrIhaniByAM hrasvaSca<q></reN> upA0 in sa ca qit</vkr> (2) KaqgAderagraBAge
+035065:0:  te: uBayatra vA NIp</vkr> <reN><q>vftrasya hantuH kuliSaM kuRWitASrIva
+035066:0:  te: lakzyate<q> kumA0</reN> <vn>vAjapeyayUpaM prakftya <reN><q>sa vA azwASrirBavati
+035067:2:  te: tasmAdazwASrirBavati<q> Sata0 brA0</reN> catuH pUrvvAdasmAt ac
+035068:0:  te: samA0 caturaSraH <reN><q>kxptopacArAM caturaSravedIm<q> kumA
+035069:3:  te: yogaviBAgAt anyasmAdapyac tena tryaSraM zaqaSramityAdi
+035070:4:  te: AyatAScaturaSrASca tryaSrA maRqalinastaTA<q></reN> SastralakzaRe
+035071:2:  te: suSrutaH <reN><q>vfttAntastryaSrapUrvvARAM nAvASrARAM pfTak pfTak
+035072:1:  te: lIlA0</reN> samAsAntaviDeranityatvAt kvacinnAc <reN><q>trirASriM
+035073:0:  te: hanti caturaSrirugraH f0 1,252,2. </reN></vn><page>vp1_500.pdf</page><column>2</column><br/>
+035074:0:  te:  %aSrI(ka)% <vg>nAsti SrIryasya</vg> <vkr>nadItvABAvAt na hrasvaH tena vA kap</vkr> (1)SoBASUnye</1><page>vp1_500.pdf</page><column>2</column><br/>
+035075:0:  te:  %aSrIra% tri0 <vg>na SrIH aSrIH</vg> <vkr>astyarTa0 ra</vkr> (1) kutsitaSrIke
+035076:0:  te: aSrIra iva jAmAtA<q> f0 8,2,20</reN> <reN><q>aSrIraH guRE
+035077:0:  te: rhInaH kutsitaH<q> BA0</reN> (2) amaNgale ca</2> <reN><q>kfSaM cidaSrIram
+035078:0:  te: f0 6,28,6</reN> <reN><q>aSrIramamaNgalam<q> BA0</reN><page>vp1_500.pdf</page><column>2</column><br/>
+035079:0:  te:  %aSru% na0 <vg>aSnute vyApnoti netramadarSanAya</vg> <vkr>aSa-krun</vkr> (1)netra
+035080:1:  te: jale</1> <reN><q>papAta BUmO saha sEnikASruBiH<q> dUzayAmAsa kEkeyI
+035081:0:  te: SokozREH pArTivASruBiH<q> <q>tamaSru netrAvaraRaM pramfjya
+035082:0:  te: iti ca raGuH</reN> <reN><q>SlezmASru dUzikA svedaH<q> manuH</reN><page>vp1_500.pdf</page><column>2</column><br/>
+035083:1:  te:  %aSruta% tri0 na0 ta0 (1) SrutaBinne SravaRAvizayIBUte</1> <reN><q>yenASrutaM
+035084:0:  te: SrutaM Bavati yenAmataM mataM Bavati<q> vf0 u0</reN> <vg>SrUyate SrutaM SAstraM
+035085:1:  te: tajjYAnaM</vg> na0 ba0 (2) SAstrajYAnaSUnye mUrKe</2> <reN><q>BAmaM vidyA
+035086:0:  te: DanAttasmAt sa laBetASruto'pi san<q> dA0 BA0 smftiH</reN><page>vp1_500.pdf</page><column>2</column><br/>
+035087:0:  te:  %aSruti% strI aBAve na0 ta0 (1) SravaRABAve na0 ba0 (2) SravaRa
+035088:0:  te: SUnye tri0</2> <reN><q>aSrutimeva tadaGaM gamayati<q> Sata0 brA</reN><page>vp1_500.pdf</page><column>2</column><br/>
+035089:0:  te:  %aSrupAta% pu0 6 ta0 (1)netrajalapAte krandane</1> <reN><q>na cASrupAtaH
+035090:0:  te: piRqo vA kAryyaM SrAdDAdikaM Su0 ta0 kvacit<q> brahmapurA0</reN><page>vp1_500.pdf</page><column>2</column><br/>
+035091:1:  te:  %aSrumuKa% tri0 <vg>aSrupUrRaM muKaM yasya</vg> (1)netrajalaplutamuKe</1> <vkr>striyAM
+035092:1:  te: NIp</vkr> <reN><q>patiGnAnASrumuKI kfDukarRI ca kroSatu
+035093:0:  te: aTa0 11,11,7 </reN><page>vp1_501.pdf</page><column>1</column><br/>
+035094:0:  te:  %aSruSAlin% tri0 <vg>aSruRA Salate</vg> <vkr>Sala-Rini 3 ta0 striyAM NIp</vkr> (1)netrajalayukte</1><page>vp1_501.pdf</page><column>1</column><br/>
+035095:0:  te:  %aSreyas% tri0 <vg>na SreyAn</vg> (1)hInatare</1> <reN><q>aSreyAn SreyasIM
+035096:0:  te: jAtiM gacCatyA saptamAdyugAt<q> manuH</reN> <vkr>striyAM NIp</vkr><page>vp1_501.pdf</page><column>1</column><br/>
+035097:0:  te:  %aSrOta% tri0 <vg>SrutO vihitaH</vg> viroDe na0 ta0 (1)Srutivihita
+035098:0:  te: virudDe nizidDe nAstikAcArAdO (2) vedavihitaBinne
+035099:0:  te: smftimAtravihite ca</2><page>vp1_501.pdf</page><column>1</column><br/>
+035100:0:  te:  %aSAGA% strI aBAve na0 ta0 vikatTanABAve (1) AtmagarBABAve
+035101:0:  te: na0 ba0 vikatTanaSUnye garvvaSUnye (2) vinIte tri0</2><page>vp1_501.pdf</page><column>1</column><br/>
+035102:0:  te:  %aSlizwa% tri0 na0 ta0 (1) asaNgate (2) asambanDe (3) SlezaSUnye kAvye ca</3><page>vp1_501.pdf</page><column>1</column><br/>
+035103:0:  te:  %aSlIka% tri0 <vg>nAsti SrIryasya</vg> <vkr>kap rasya laH</vkr> (1)SrIpratikUle
+035104:0:  te: SrInASake</1> <reN><q>aSlIkametat sADUnAM yatra juhvatyamI
+035105:0:  te: haviH<q> manuH</reN><page>vp1_501.pdf</page><column>1</column><br/>
+035106:0:  te:  %aSlIla% na0<vg> SriyaM lAti gfhRAti</vg> <vkr>lA-ka rasya laH, SrI
+035107:0:  te: siDmAditvAt la vA na0 ta0</vkr> (1) lajjAdisampAdake
+035108:1:  te: vAkye (2) grAmyaBAzAyAm</2> <reN><q>BAskarAlokanASlIla
+035109:0:  te: parivAdAMSca varjjayet<q> yA0 smf0</reN> (3) kAvyadozaBede na
+035110:1:  te: tacca triviDaM yaTA <reN><q>duH SravaM triviDASlIlAnucitArTA
+035111:0:  te: prayuktatA<q> sA0 da0</reN> aSlIlatvaM vrIqAjugupsAmaNgalavyaYjaka
+035112:0:  te: tvAttriDA yaTA <reN><q>dfptArivijaye rAjan ! sADanaM sumahattava
+035113:0:  te: prasasAra SanErvAyuH<q> <q>vinASe tanvi ! te sadA
+035114:0:  te: atra sADanavAyuvinASaSabdA aSlIlavAcakAH<q> sA0 da
+035115:0:  te: tatra sADanaSabdasya SiSnasyApi vAcakatayA vrIqAyAH
+035116:0:  te: vAyuSabdasyApAnavAyuvAcakatayA jugupsAyA, vinASaSabdasya
+035117:0:  te: maraRavAcakatayA'maNgalasya ca dyotakatA yaTAkramaM ca prakfte
+035118:0:  te: hetupavanavirahaboDakatAyE prayuktA api te aSlIlavyaYjaka
+035119:0:  te: tvAdduzwAH</vn> (4) nindAvyaYjake vAkye ca</4> <reN><q>yamaSrutyASlIlA vA
+035120:1:  te: gfcCatIti<q> tA0 brA0</reN> <reN><q>aSlIlA vindArUpA vAk<q> BA
+035121:1:  te: na SriyaM lAti</vg> <vkr>lA-ka</vkr> (5) aSrIke tri0</5> <reN><q>yEvEnamasAva
+035122:0:  te: SlIlaM vAg vadati<q> tA0 brA0</reN> <reN><q>aSlIlamaSrIkaram<q> BA0</reN><page>vp1_501.pdf</page><column>1</column><br/>
+035123:1:  te:  %aSlezA% strI <vg>na Slizyati yatrotpannena SiSunA</vg> <vkr>Sliza-GaY na
+035124:0:  te: ta0</vkr> <vn>saptaviMSatiDA viBaktarASicakrasya navame nakzatre tannakzatra
+035125:0:  te: jAtasya SiSoH pitrAdiBirAzaRmAsaM darSanABAvasyASlezASA
+035126:0:  te: ntiSabde vakzyamARasya sUcakatayA tasyA aSlezAtvam tatsvarU
+035127:0:  te: pAdinirUpaRAya sarvvatArARAM svarUpaM, saMKyaviSezaH, yoga
+035128:0:  te: tArASca prasaNgAdatrABiDIyante yaTAha SrIpatiH <reN><q>1 turaga
+035129:0:  te: muKasamfdDaM 2 yonirUpaM 3 kzurABaM 4 SakawaniBamaTERasyo
+035130:0:  te: ttamANgena 5 tulyam 6 maRi 7 gfha 8 Sara 9 cakrABAni
+035131:0:  te: SAlopamaM ca 11 SayanasadfSamanyaccAtra 12 paryyaNkarUpam
+035132:1:  te: hastAkAramajasramOktikasamaM 14 cAnyat 15 pravAlopa
+035133:3:  te: mam vizRyaM toraRvat 16 sTitaM 17 balaniBaM syAt
+035134:0:  te: kuRqalABaM 18 param kruDyatkeSarivikrameRa sadfSaM 19 SayyA
+035135:0:  te: samAnaM 20 param cAnyaddantivilAsavat 21 sTitamataH (aBi
+035136:1:  te: jit) SuNkAwakavyakti ca 22 trivikramABaYca 23 mfdaNga
+035137:1:  te: rUpaM 24 vfttaM tato'nyadyamaladvayAam 25.  26 paryyaNkatulyaM
+035138:0:  te: murajAnukAramityevamaSvyAdiBacakrarUpam<q> atrANkAnu
+035139:0:  te: sAreRASvyAdInAM rUpARi jYeyAni</reN> <reN><q>vahnitri ftvizuguRendu
+035140:1:  te: kftAgniBUtabARAgninetraSaraBUkunagAgnirAmAH rudrAbDi
+035141:1:  te: rAmaSucivedaSatadviyugmadantA buDErnigaditAH krameSoBatArAH
+035142:0:  te: yaTA <reN>tritArASvino BaraRI ca zawtArAH kfttikA paYca
+035143:0:  te: tArA rohiRI tritArA mfgaSirA ekatArA ArdrA
+035144:0:  te: catustArA punarvasuH tritArA puzyA, paYcatArA aSlezA
+035145:3:  te: maGA ca tritArA pUrvvaPalgunI dvitArA uttaraPalgunI
+035146:0:  te: paYcatArA hastA, ekatArA citrA, svAtiSca saptatArA
+035147:0:  te: viSAKA, tritArA anurADA jyezWA ca ekAdaSatArA
+035148:0:  te: mUlA, catustArA pUrvvAzAQA tritArA uttarAzAQA, SravaRA
+035149:0:  te: catustArA DanizWA SatatArA SataBizA dvitArA
+035150:0:  te: pUrvvaBAdrapadA uttaraBAdrapadA ca dvAtriMSattArA revatI<q></reN> ezAM
+035151:0:  te: yogatArA sUryyasi0 <reN><q>PAlgunyorBAdrapadayostaTEvAzAQa
+035152:0:  te: yordvayoH viSAKASvinasOmyAnAM yogatArottarA<q></reN> smftA
+035153:1:  te: ezAmuktanakzatrARAM pratyekaM svatArAsu muKyA uttarA
+035154:0:  te: uttaradiksTA tArA yogatArA <reN><q>paScimottara
+035155:0:  te: tArA yA dvitIyA paScime sTitA hastasya yogatArA
+035156:0:  te: sA SravizWAyASca paScimA<q> sU0 si0</reN> <reN>hastanakzatraM paYca
+035157:0:  te: tArAtmakaM hastapaYcANgulisanniveSAkAraM tato nErftyadiga
+035158:0:  te: vasTitA paScimAvasTitatArAyA uttaradigASritatArAyA
+035159:0:  te: dvitIyA pUrvvoktAtiriktA paScime vAyavyASrite sTitA
+035160:0:  te: sA hastasya yogatArA jYeyA, uttaratArAsannA paScimASritA
+035161:0:  te: tArA hastasya yogatArA<q></reN> DanizWAyAstArAsu yA paScima
+035162:0:  te: diksTA sA tasyA yogatArA iti ca raNganA0 <reN><q>jyezWA
+035163:1:  te: SravaRamEtrARAM bArhaspatyasya maDyamA BaraRyAgneyapityARAM
+035164:0:  te: revatyAScEva dakziRA<q> sU0 si0</reN> <reN><q>jyezWASravaRAnurADAnAM
+035165:0:  te: puzyasya ca pratyekaM tArAtrayAtmakatvAt maDyamatArA yoga
+035166:0:  te: tArA<q> raNganA0</reN> <reN><q>rohiRyAdityamUlAnAM prAcI sArpasya
+035167:0:  te: cEva hi taTA pratyavaSezARAM sTUlA syAt yogatArakA
+035168:0:  te: sU0 si0</reN> rohiRIpunarvasuBUlAnAmaSlezAyASca pratyekaM
+035169:3:  te: svatArAsu pUrvvadiksTA tArA yogatArA avaSizWAnAM
+035170:0:  te: ArdrAcitrAsvAtyaBijicCatatArARAM yaTAyogyaM svatArAsu
+035171:0:  te: yAtyantaM sTUlA sA yogatArA nakzatraprasaNgAt
+035172:2:  te: brahmAdinakzatrARAmapi sTitisTAnamuktaM tatrEva <reN><q>pUrvvasyAM
+035173:0:  te: brahmahfdayAdaMSakEH paYcaBiH sTitaH prajApatirvfzAnte
+035174:0:  te: 'sO sOmye'zwatriSadaMSakEH<q> sU0 si0</reN> brahmahfdayasTA
+035175:0:  te: nAt pUrvvaBAge paYcaBiraMSEH vfzAntanikawe ekarASisaptaviM
+035176:0:  te: SatyaMSEH prajApatistArAtmako brahmA krAntivftte sTitaH
+035177:0:  te: asya vikzepamAha asAviti asO brahmA sOmye uttarasyAM
+035178:0:  te: azwatriMSEH sTita ityarTaH raNganA0 <reN><q>apAMvatsaSca citrA
+035179:0:  te: yA uttare'SEstu paYcaBiH vfhat kiYcidato BAgErApaH
+035180:0:  te: zaqBistaTottare<q> sU0 si0</reN> <reN><q>tizyapunarvasU dvandve pA sU
+035181:0:  te: vyAKyAyAM saralAyAmasmABiryat punarvasordvitAratvamuktaM
+035182:0:  te: tanmanoramAdimUlatayA prAmAdikameva etacCAstrAloca
+035183:0:  te: nena punarvasunakzatrasya catustArAtmakatvaM puzyasTa tritArAtma
+035184:0:  te: katvaM tena bahutve prApte dvitvaviDAyakaM sUtraM sArTakamiti
+035185:1:  te: drazwavyam</reN><reN><q>pAdaH punarvvasorantyaH puzyo'SlezA ca karkawa
+035186:0:  te: jyoti0</reN> nakzatrADipA uktAH vfhatsaM0 <reN><q>aSviyama
+035187:0:  te: dahanakamalajaSaSiSUlaBfdaditijovaPaRipitaraH yonya
+035188:1:  te: ryyamadinakfttvazwfpavanaSakrAgnimitrAH Sakro nifti
+035189:0:  te: stoyaM viSvaviriYcI harirvaruRaH ajapAdohirbuDnaH
+035190:0:  te: pUzA cetISvarA BAnAm<q></reN> <reN><q>citrASlezAsvAtiviSAKA
+035191:0:  te: BaraRIpitryeSakfttikAH nAtiSastAH prayARezu<q> jyo0 ta
+035192:0:  te: asya klIvatvamapi <reN><q>aSlezavahniyamapitryaviSAKayukta
+035193:4:  te: M pUrvvAtrayaM SataBizA ca navApyuqUni<q></reN> etAnyaDomuKa
+035194:1:  te: gaRAni kaTitAni <reN>nityaM vidyArTaBUmiKananezu ca BUzi
+035195:0:  te: tAni<q> jyo0 ta0</reN> taTA ca nakzatraparatve na0 tArA
+035196:0:  te: paratve strItvam evaM mUlASravaRAdInAmapi dviliNgatvam
+035197:0:  te: iyaM tIkzRagaRaH</vn> <reN><q>tIkzRo'hirudrenduyuk<q> jyo0 ta0</reN> <vg>nAsti
+035198:0:  te: Slezo yasya</vg> (2) asaMbanDe tri0</2> <vg>SlezaH kAvye nAnArTaparatA
+035199:0:  te: sa nAsti yatra</vg> (3) SlezaSUnye kAvye na0</3><page>vp1_501.pdf</page><column>1</column><br/>
+035200:0:  te:  %aSlezAja% pu0 <vp>aSlezAnakzatre jAyate</vp> <vkr>jana-qa</vkr> 6 ta0 (1)ketu
+035201:0:  te: grahe</1> <vn>tasyASlezAjAtatvAttaTAtvaM aSlezAjAtAdayo'pyatra</vn><page>vp1_502.pdf</page><column>1</column><br/>
+035202:0:  te:  %aSlezASAnti% strI <vg>aSlezAjanananimittA SAntiH</vg> SAka0 ta
+035203:0:  te: aSlezAjanananimittaSAntO</1> <reN>tatra aSlezAjanane doza
+035204:0:  te: mAha<q> jyo0 ta0</reN> <reN><q>aSvinImaGamUlAnAM gaRqA AdyAstri
+035205:0:  te: nAqikAH antyAH pOzRoragendrARAM paYcEva yavanAH jaguH
+035206:0:  te: mUlendrayordivA gaRqo niSA ca pitfsarpayoH sanDyAdvaye
+035207:0:  te: taTA jYeye revatIturagarkzayoH<q></reN> <reN>sanDyArAtridivABAge
+035208:0:  te: gaRqayogodBavaH SiSuH AtmAnaM mAtaraM tAtaM
+035209:1:  te: vittaM hanti yaTAkramam sarvezAM gaRqajAtAnAM parityAgo
+035210:0:  te: viDIyate tAtenAdarSanaM vApi yAvat zARmAsiko
+035211:2:  te: Bavet<q> jyo0 ta0</reN> <vn>tyAgAsAmarTye zRamAsaparyyantaM muKaM na
+035212:0:  te: paSyet SAntyA sarvatra SuBam tripaYcAdiGawiketyukti
+035213:0:  te: rdozabAhulyArTA vastutaH sarvacaraRezveva dozaviSezaH
+035214:0:  te: yaTAha nAradaH <reN><q>Adye pitA nASamupEti mUlapAde
+035215:0:  te: dvitIye jananI tftIye DanaM caturTe'sya SuBo'sya SAntyA
+035216:0:  te: sarvatra tatsyAdahiBe vilomam<q></reN> sanDyAdiviSezokti
+035217:0:  te: raDikadozArTA yaTAha jyotirnibanDaH <reN><q>mUlASvipitrya
+035218:1:  te: caraRe praTaRe ca nUnaM pOzRondrayoSca PaRinaSca turIyapAde
+035219:0:  te: mAtuH pituH svavapuzoSca karoti nASaM jAto yadA niSi
+035220:0:  te: dine'pyaTa sanDyayorvA<q></reN> kanyAyAM viSezaH viDAnapAri
+035221:0:  te: jAte <reN><q>na bAlA hanti mUlarkze pitaraM mAtaraM taTA
+035222:0:  te: mUlajA SvaSuraM hanti vyAlajA ca tadaNganAm mahendra
+035223:0:  te: jA'grajaM hanti devarantu dvidevajA SAntirvA puzkalA
+035224:0:  te: syAccettarhi dozo na kaScana<q></reN> dvidevajA aSvinIjAtA
+035225:0:  te: tasyAH aSvinIsutadevatAkatvena tayoSca dvitvAt taTAtvam
+035226:0:  te: tacCAntiSca <reN><q>aSlezAyAntu jAtAnAM SAntiM vakzyAmyataH param
+035227:0:  te: jAtasya dvAdaSAhe ca SAntihomaM samAcaret viBave paYca
+035228:0:  te: kumBAMstu dvayaM vA tadaSaktitaH<q></reN> ityAdinA mAnavasaMhitoktA
+035229:0:  te: sA ca viDAnapArijAte aSlezASAntiviDAnaprakaraRe
+035230:0:  te: dfSyA tatPalaM ca mantraliNgAt jYeyam mantro yaTA
+035231:0:  te: aSlezAfkzajAtasya mAtApitrorDanasya ca BrAtfjYAti
+035232:0:  te: kUlasTAnAM dozaM sarvaM vyapohatu yo'sO vAgISvaro devo
+035233:0:  te: hyaDidevo vfhaspatiH mAtrApitroH SiSoScEva gaRqadozaM
+035234:0:  te: vyapohatu pitaraM sarvaBUtAnAM rakzantu pitaraH sadA
+035235:0:  te: sarpanakzatrajAtasya vittaM jYAtiM ca bAnDavAn<q> vi0 pA
+035236:0:  te: purA0</reN></vn><page>vp1_502.pdf</page><column>1</column><br/>
+035237:3:  te:  %aSva% pu0 <vg>aSrute vyApnoti mArgam</vg> <vkr>aSa-kvan</vkr> (1)Gowake</1> <reN><q>gacCanta
+035238:0:  te: muccalitacAmaracArumaSvam<q> mAGaH</reN> <reN><q>jitasiMhaBayAnAgA
+035239:1:  te: yatrASvA vilayonayaH<q> kumA0</reN><reN><q>amftAdbAzpatovahne
+035240:1:  te: rvedeByo'RqAcca garBataH sAmno hayAnAmutpattiH saptaDA
+035241:0:  te: parikIrttitAH ityuktestezAmamftAdyutpattisTAnam
+035242:1:  te: hayotpattisTAnasaMkyAsAmyAcca (2) saptasaMKyAyAm</2></reN> <reN><q>kAzWatulyavapu
+035243:1:  te: rDfzyo miTyAcAraSca nirBayaH dvAdaSANgulameQraSca daridrastu
+035244:0:  te: hayo mata<q> ityuktalakzaRapuruzaBede</reN> <reN><q>padminI SaSake tuzwA
+035245:0:  te: haye tuzwA ca hastinIti<q> rasa0 atra prasaNgAt aSvAnA
+035246:0:  te: maNgaviBAgaviSezasaMjYAlakzaRAdikamucyate jayadattakftAdaSva
+035247:0:  te: SAstrAt sArAMSaH </reN><reN><q>atiprasidDA jihvA tu tasyAH SUnA
+035248:2:  te: BavedaDaH UrTvaM tAlu BavettasyAstato'gre dantapI
+035249:3:  te: Wakam tatodantAH samuddizwA UrTva dantA BavantyaDaH
+035250:0:  te: civukaM cAGare BAge tezAM proktaM vicakzaREH civukasyo
+035251:0:  te: parizwAttu aDarozWaH prakIrttitaH civukAtpArSvaBAge
+035252:0:  te: tu hanurnAmABiDIyate sfkvadvayaM vijAnIyAt vaktrapA
+035253:2:  te: rSva gataM buDaH uttarozWaM prayARAKyaM tadUrDvaM proTa ucyate
+035254:0:  te: nAsAcCidre taTA pArSve proTasyEva vyavasTite nAsAcCidrAkzi
+035255:0:  te: maDye tu GoRAKyA samudAhftA GoRApArSvagatO gaRqO
+035256:0:  te: kzIrike ca tataH param netrayoruttare BAge aSrupAta udAhf
+035257:0:  te: taH karRAnte cEva netrAntamapANgaM bruvate buDAH kanI
+035258:0:  te: nikAKyo vijYeyo yaSca nAsAsamIpagaH sitAsitO ca
+035259:0:  te: tanmaDye netrayormaRqalaM hi tat pracCAdanaM Bavedvartma
+035260:3:  te: cAkzikUwamataH param tasmAdUrTvaH BruvorleKA lalAwaM ca
+035261:3:  te: taduttaram UrTvaH lalAwadeSAttu keSAntaM ca tataH SravaH
+035262:2:  te: tataH Siro vijAnIyAt SravAdUrTva gataM buDaH SiraH
+035263:0:  te: pArSvagatO karRO tayormUlaM sakuntalam apANgAddvyaNgule
+035264:0:  te: cEva SaNKaM vidyAdvicakzaRaH SaNkzakarRAntare cEva kawAkzaM
+035265:0:  te: samudAhftam vidomarmma viduScEva karRasyADaH zaqaNgule
+035266:0:  te: GaRwAbanDasamIpasTo nigAlaH parikIrttitaH aDastale
+035267:0:  te: nigAlasya galamAhurmanIziRaH tataH kaRWaM vijAnI
+035268:0:  te: yAdaDoBAge nataM buDaH grIvA lokaprasidDA tu
+035269:0:  te: tasyAScopari keSaraH grIvAskanDAntare cEva vAhaM prAhurma
+035270:0:  te: nIziRaH vAhasyopari yastu syAlkAkasaM kakudaM ca tat
+035271:0:  te: tataH pfzWaM vijAnIyAdAsanaM pfzWamaDyagam aMsake kakudaScEva
+035272:0:  te: nibanDaH parikIrttitaH syAtAmaMsAdaDobAhU tayorbAhye
+035273:1:  te: zaqaNgule mandiraH paScimoBAgaH kalApI jAnuno'grimaH
+035274:0:  te: jAnunaScADare BAge jaNGAM vidyAdvicakzaRaH jaNGApArSve
+035275:0:  te: kalAM vidyAt sanDyaM cEzikasaMjYakam agrataH pAlihastaH
+035276:0:  te: syAt paScAtkUrca udAhftaH kiRastatrEva maDyasTohyaDoBAge
+035277:2:  te: ca kuzwakI surasanDiM tato vidyAdaDoBAge tataH Kuram
+035278:0:  te: Kurasya pArSve pArzRiH syAdagraBAge naKo Bavet KurasyA
+035279:0:  te: DastalaM cEva maRqukI talamaDyagA KuramAMsaM vijAnIyAt
+035280:0:  te: kzIrakAKyaM vicakzaRaH hfdayAtparataH kukzI pArSvataSca
+035281:0:  te: viBAgataH jaWaraM pArSvamaDyasTaM tasya nABiSca maDyataH
+035282:2:  te: romarAjiM tato vidyAnmutrakoSamataH param A kawyAH
+035283:1:  te: paScime BAge puwo sPicO ca kIrttitO pucCamUlaM ca
+035284:0:  te: vAhAnAM BAzate pucCamUlataH tasyADaH kIrttitaH pAyuH
+035285:0:  te: sIvanI ca tataH param muzkO ca kawisanDiM ca
+035286:0:  te: tato vidyAtparaM buDaH aDastAtkawisanDestu UrusanDi
+035287:0:  te: rudAhftaH sakTinI PalasanDestu UrU pAdABiDAyake
+035288:0:  te: tataH sTUraM vijAnIyAttasyADo mandiraM Bavet kiRaM
+035289:0:  te: cEva tato vidyAnmandirAKye susaMsTitam tataH paraM
+035290:0:  te: vijAnIyAt kAlakUrcaM ca kuzwikam KurAntasaMjYaM
+035291:0:  te: maRqUkaM tato vidyAdvicakzaRaH agre jaNGAdvayaM cEva vakzo
+035292:1:  te: grIvASiromuKam pUrvakAyaH samuddizwaH pfzWadeSastu maDyamaH
+035293:0:  te: AkaweH paScime BAge KurAntaScAparaM smftam
+035294:0:  te: tezAM lakzaRARi <q>aSuBErlakzaREryuktA hayA na grahaRo
+035295:0:  te: citAH ato lakzaRamevAdO tezAM vakzyAmi dehajam
+035296:0:  te: ozWayoH sfkvaRoScEva jihvAyAM daSanezu ca vaktretAluni
+035297:0:  te: nAsAyAM gaRqayornetrayostaTA lalAwe mastake cEva keSe
+035298:0:  te: karRapuwe taTA grIvAyAM keSare cApi skanDe vakzasi bAhuke
+035299:2:  te: jaNGAyAM jAnunoScADaH kUrce pAde taTEva ca pArSvayoH
+035300:0:  te: pfzWaBAge ca kukzO kawyAM savAlaDO mehane muzkayoScApi
+035301:0:  te: taTA cEvorukadvaye Avartte ca Kure pucCe gatO varRe svare
+035302:0:  te: taTA mahAdoze tyajetprAjYaSCAyAyAM ganDasatvayoH
+035303:0:  te: pramARasyEva vAhAnAM lakzaRaM yatpratizWitam SuBA
+035304:1:  te: SuBavivekAya tadvidyAdbudDimAnBizak SAlihotrAdi
+035305:0:  te: BiH samyak trikAlajYAnakovidEH AtAmrO pUjitA
+035306:0:  te: vozWO balihInO mfdutvacO suproTottarasaMsTaM ca
+035307:0:  te: viparItaM vivarjayet sfkvaRormfdutA SastA jihvAyAM
+035308:0:  te: raktatA taTA ataScAnyadDi dozAya na tvadIrGA ca sA SuBA
+035309:1:  te: GanA snigDA subadDA ca samA dantAH suSoBanAH zawsaMKye
+035310:0:  te: banDare vftte tezu vyaYjanasaMBavaH AyataM tuNgaGoRaM ca nirmAMsaM
+035311:1:  te: priyadarSanam subanDaM pUjitaM vaktaM viparItaM vigarhitam tAlu
+035312:0:  te: raktaM praSastaM ca supuwe cEva nAsike nAtitanU samO gaRqO
+035313:1:  te: vAhAnAM kIrttitO SuBO tyantanirgate cEva subadDe nEva
+035314:0:  te: cAvile praSaste vAjinAM netre madyABe malatArake
+035315:1:  te: srigDAyate viSAle ca SrezWe maDuniBAkziRI kanaka
+035316:0:  te: pratisaMkASe Saste vAhasya locane sAvarttaM ca viSAlaM ca
+035317:1:  te: animnaM cEva vAjinaH lAlAwaM pUjitaM prAhurmunayaH SAstra
+035318:0:  te: kovidAH SiraH samaM taTA vfttamAvarttadvayaBUzitam keSASca
+035319:0:  te: mfdavaScEva bahavaScEva pUjitAH fjutA karRayoScEva tIkzRatA
+035320:0:  te: tanutA taTA adIrGaromatA cEva praSastA viprakIrttitA
+035321:1:  te: suvfttANkuYcitAYcEva DanyAM grIvAM vidurbuDAH keSaraSca
+035322:0:  te: jawAhIno mfduScEva praSasyate subadDaSca dfQaScEva skanDo
+035323:1:  te: vAhasya pUjitaH vakzaH praSastaM vipulaM nirgataM viSaraM ca
+035324:0:  te: tat fjuvfkzasamO bAhU gUQaM jAnu praSasyate avakrA
+035325:0:  te: mAMsahInA ca vAjijaNGA praSasyate SuBaM smftaM suvfttaM ca
+035326:1:  te: samaM ceva natonnatam kUrcamevaM viDaM vidyAdgranTivraRaviva
+035327:0:  te: rjitam dfQamaRqakikAyukto varttulaH SlizwasanDikaH
+035328:1:  te: KuraH KaraKurAkAraH praSastaH samudAhftaH pArSve cEva same
+035329:1:  te: vftte UrdDvamAMsopaSoBite avilambi suvfttaM ca udaraM
+035330:0:  te: cAtipUjitam nAtidIrGaM samaM pfzWaM kiYcicca vinataM
+035331:0:  te: SuBam suvfttA cEva pInA ca kawirDanyA prakIrttitA
+035332:2:  te: mfdusnigDAyatEryuktaM bAlEH pucCaM praSasyate vfzaRO ca samO
+035333:1:  te: vfttO IpallambAvalomaSO kfzRavarRavihInaM tu hrasvaM mehana
+035334:0:  te: mizyate anupUrvaM paraM cEva SoBanaM corukadvayam pUrva
+035335:0:  te: jaNGe ca jaNGAdi KurAntaM cApi paScimam SAliho
+035336:0:  te: trAdiBiH prIktaM muniBiH pUrvavediBiH
+035337:0:  te: AvarttalakzaRam <q>viMSatistu SuBAH proktAH zawsaptatyaSuBAH
+035338:0:  te: smftAH</reN> <reN>uttarozWaprapARasTAstatrAvarttAH SuBAvahAH sfkvaRoSca
+035339:1:  te: yA proktAH sarvakAmaPalapradAH trayaScEvATa catvAro vAjino
+035340:0:  te: ryasya romajAH dvO vAlalAwajO yasya sa tu DanyatamaH smftaH
+035341:3:  te: AnupUrvvyA sTitAScordDvaM lalAwe romajAstrayaH niHSreRI
+035342:0:  te: nAma sA KyAtA BarttuH sarvArTasADinI SiraH keSAnta
+035343:0:  te: yormmaDye SravonAmABiDIyate tatrAvarttaH sTito'Svasya
+035344:0:  te: BartturjjayavivardDanaH GaRwAbanDasamIpasTo nigAlaH
+035345:3:  te: kIrttito vuDEH tasmindevamaRirnAma romajaH SuBakft
+035346:0:  te: smftaH karRamUle taTA bAhvoH keSAnte mastake taTA
+035347:4:  te: AvarttAH pUjitA nityaM viSezeRa tu mastake
+035348:0:  te: AvarttA yasya catvAro vAjino vakzasi sTitAH ekA
+035349:0:  te: kaRWe Bavet spazwaM sa DanyaH sarvakAmadaH ranDre cEva sadA
+035350:0:  te: BarttuH SaMsitArTaprado mataH uparanDrodBavaScEva romajaScAti
+035351:0:  te: pUjitaH SaNKacakragadApadmaSuktivajropamASca ye viSezeRa
+035352:1:  te: SuBAH proktA romajAH SuBadeSajAH ata UrDvaM prava
+035353:1:  te: kzyAmi romajAnaSuBAya yAn BarttuH kleSavahAn sarvA
+035354:0:  te: nDanaprARApahArakAn nAsikApuwayormaDye pradeSaH
+035355:1:  te: poTa ucyate tatra BartturvinASAya romajo'SvasTa
+035356:1:  te: kIrttitaH UrDvasTo nAsikAcCidrAt svAminaH kleSa
+035357:0:  te: dAyakaH gaRqajaScEva BarttAraM hantyAvartto durAsadaH
+035358:0:  te: aSrupAtaH samuddizwaH pradeSaScakzuzoraDaH tatrAvarttIBavedDInaH
+035359:0:  te: svAminaH kulanASanaH apANgAddvyaNgule cEva pradeSaH
+035360:0:  te: SaNKa ucyate tatra BartturvinASAya BavedvAhasya romajaH
+035361:1:  te: Bruvo deSe samudBata Avartto nEva pUjitaH suhfdviyogakftsa
+035362:0:  te: syAdBartturarTAvasAdakaH savyAM grIvAM SirAM vidyAttatrAvarttastu
+035363:0:  te: kutsitaH kakzayoScApi saMgrAme svAminaM cASu GAtayet
+035364:0:  te: civukasya samIpasTo vAmadakziRaBAgataH pradeSastu hanurnAma
+035365:0:  te: tatrAvartto hi dAruRaH aDarozWasya cADastu civuko hi
+035366:0:  te: prasidDakaH tasmin pApo BavedBarttuH karRayoScApi romajaH
+035367:0:  te: kaRWasyATa nigAlasya maDye vAlaka ucyate tatrAvarttaH
+035368:0:  te: sTitaH pApaH skanDasanDigataSca yaH aDastAjjvaNGayo
+035369:0:  te: ScEva granTiH kUrca iti smftaH tatrAvarttaH smfto BarttuH
+035370:0:  te: saMgrAme jIvitAntakft kUrcAdazwANgulaM corDvaM pArSvayoH
+035371:0:  te: kakatA smftA tatra BarttuH SarAGAtErjIvitAntAya romaja
+035372:0:  te: kakudaM vfzaBasyeva suvyaktamupalakzyate vAjino yasya tatrasTa
+035373:0:  te: Avarttastu vinASakft kakudasya puroBAge samIpe vAha
+035374:0:  te: ucyate BarttuH sutasametasya tasmin nASAya romajAH
+035375:1:  te: kAkase tu hayasya syAdAvartto yasya dAruRaH raRe hataH samaM
+035376:3:  te: BatrI kfvyAdEH sa vilupyate kroqe cEvAsane cApi hfdaye
+035377:2:  te: cEva vAjinaH AvarttAH svAmiGAtAya Bavantyete na
+035378:0:  te: saMSayaH pArSvayo romajo yasya sa cASvo nayati kzayam sapakzaM
+035379:0:  te: cASu BarttAraM nIhArAmbu yaTAmbujam kUrcasyADaH pradeSastu
+035380:0:  te: kuzwiSca parikIrttitaH aDanyastatra vAhasya jaGanyo jAnu
+035381:0:  te: jaSca yaH nABijomuzkajaScEva trikajaSca viSezataH
+035382:1:  te: pucCamUlasTitascApi nEva DanyaH prakIrttitaH kukzO
+035383:2:  te: vyADiH, kzayA ye romajAH kukzisaMBavAH pAyutri
+035384:0:  te: balimaDyasTA nEva DanyA prakIrttitAH sPicijaH KurajaScEva
+035385:0:  te: yasyAvartto hi vAjinaH laYjAvarttaH sa viKyAto BarttuH
+035386:0:  te: sarvArTanASakaH SatapAdIti viKyAtastaTA vE mukulo'paraH
+035387:0:  te: AvarttaScEva saMGAtaH pAdukaScArdDapAdukraH SuktiScEvAvalI
+035388:0:  te: QaSca AvarttaH kIrttito'zwaDA vAjidehagataH samyak
+035389:0:  te: SuBASuBanivedakaH SatapAdIsamAkAraH SatapAdIti
+035390:1:  te: kIrttitaH jAtImukulasaNkASo mukulaH samudAhftaH Avartto
+035391:0:  te: Bramito bAlEH saMGAto romapuYjakaH SuktiSca SuktisaMsTAnE
+035392:0:  te: romaBirvyaktalakzaREH etezAmeva lIQastu avalIQaH prakI
+035393:3:  te: rttitaH pAdukaH pAdukAkArastayAvArdDapAdukaH bAlE
+035394:0:  te: rviSezasaMsTAnErnirddiSenmatimAnBizak SAstramArgA
+035395:0:  te: nusAreRa yaTA proktaM tapoDanEH etezAmeva sarvezAmAvarttAnAM
+035396:0:  te: vicakzaREH romRAM tilakftA saMjYA vAjilakzaRave
+035397:0:  te: diBiH SuBASuBO tu yatra dvO tatrEko na PalapradaH
+035398:0:  te: evaM hemnA dahetpApaM tena dozo na duzyati aTa vA
+035399:0:  te: vAjino muKyAH ye cANgAdiguRADikAH dattvA
+035400:3:  te: pAhyAH krayeREva durAvarttastu kAkudI SrIvfkzo romaja
+035401:0:  te: ScEva rocamAnastaTEva ca aNgAdI pezalI nAma rAja
+035402:0:  te: ratnapradAH sadA prayARe mArutaM vidyAllalAwe ca hutASanam
+035403:1:  te: uraBi cASvinO devO candrAsUryyO ca mUrdDani ranDre skanda
+035404:0:  te: viSAKO ca uparanDre harIharO ityevaM pUjitAhye te
+035405:0:  te: daSabanDAstu vAjinaH apyekena vihInA ye Baveyura
+035406:0:  te: SuBAstadA
+035407:1:  te: aTa puRqralakzaRam ata UrDvaM pravakzyAmi puRqrARAM
+035408:0:  te: lakzaRam SuBam SuktiSaNKagadApadmaKaqgacakrANguSopamAH
+035409:0:  te: Siro lalAwaM vadanaM yaH puRqro vyApya tizWati sa DanyaH
+035410:0:  te: pUjito nityaM mfdukaScEva yo Bavet parvatendupatAkABA ye ca
+035411:2:  te: agdAmasanniBAH te sarve pUjitAH puRqrA DanaDAnyaPala
+035412:0:  te: pradAH iti puRqrAH samAKyAtAH pUrvvaSAstrAnusArataH
+035413:6:  te: aSuBAMScEva vakzyAmi yaTAyogaM samAsataH kAkaka
+035414:4:  te: NkabanDAhimfGragomAyusanniBAH asitAH pItakA raktAH
+035415:1:  te: puRqrakA na ca pUjitAH tiryyagagAScEva vicCinnAH SfNga
+035416:1:  te: lApASaSoBitAH jihvAkfzRAkzirUkzARi BasmavarRa
+035417:0:  te: niBAni ca SUlAgrA vAmadehasTAH puRqrakA na SuBapradAH
+035418:2:  te: puRqrakARi vinaSyanti BinnavarRAni vAjinaH
+035419:0:  te: aTa puzpalakzaRam <q>AgataM vatsarantasya ye Bavantyanyava
+035420:1:  te: rRakAH vindavaH puzpasaMjYA vA hitAhitatvakArakAH tezAM
+035421:0:  te: pradeSaBede ca lakzaRaM yadvyavasTitam tattaTEva samAsena vispazwaM
+035422:0:  te: kIrttyate'DunA prapARe ca lalAwe ca kace mUrdDani karRayoH
+035423:0:  te: nigAle cEva keSAnte puzpaM DanyatamaM smftam skanDe vakzasi
+035424:0:  te: kakze ca muzkayorbAhuke muKe hanO pfzWe ca vAhAnAM puzpaM
+035425:0:  te: svAmihitapradam nABO keSe taTA kaRWe dante cEva hi
+035426:1:  te: vAjinAm puzpaM DanyatamaM proktaM BarttuH sarvArTamADakam
+035427:0:  te: apraSastAni dfzwAni muniBiryAni SAstrataH tAni samyak
+035428:0:  te: pravakzyAmi puzpARyanyAni darSanAt aDarozWe kare proTe
+035429:0:  te: uttarozWe taTEva ca GoRAyAM gaRqayoScEva SaNKayoSca taTA
+035430:2:  te: BruvoH grIvAyAM cEva vAhe ca sukaRoH sTUrake
+035431:0:  te: sTici pAyO kroqe ca puzpARi ninditAnIti niScayaH
+035432:0:  te: raktaM pItaM taTA kfzRaM puzpaM sarvatra nezyate SuBapradeSe
+035433:0:  te: saYjAtaM BavetsADAraRaM tataH putralABaDanaprAptimArogyaM
+035434:0:  te: vijayaM taTA vidyAtpuzpEH SuBErBartturaSuBESca viparyyayam
+035435:0:  te: sarvANgapuzpito vAho parityAjyo na saMSayaH
+035436:2:  te: aTa gatiSuBAdilakzaRam <q>dUramutkzipya yaH pAdAM
+035437:0:  te: staptAMgArAn spfSanniva pulaM yAti SuBaM hfzwo vAjI Badra
+035438:1:  te: gatistu saH pUjitA vfzamAtaNgasiM haSArdUlagAminaH ato
+035439:1:  te: 'nyagatayo nezwAH sarvaSudDaturaNkamAH saMkIrRA ekatoBrazwA
+035440:2:  te: caNkramODa vivarjitAH atyUrDvA cEva vakrA ca vAjinAM ninditA
+035441:0:  te: gatiH zoqaSACowikABistu karavezwitajAnuBiH SataM dvigu
+035442:0:  te: RitaM gatvA hastAnAM punaretiyaH sa SIGragatirityukto vAjI
+035443:0:  te: DanyastapoDanEH daSahInA Bavantyete maDyamADamagA hayAH
+035444:1:  te: aTa varRaBedena nAmaBedaH <q>SvetaH kokAha ityuktaH kfzRaH
+035445:0:  te: Kuga ha ucyate pItako haritaH proktaH kazAyo raktakaH smf
+035446:0:  te: taH pakkatAlaniBo vAjI kayAhaH parikIrttitaH pIyUzava
+035447:0:  te: rRaH serAho gardaBABaH surUhakaH nIlo nIlaka evASvaH
+035448:0:  te: tripUhaH kapilaH smftaH SilahaH kapiSo vAjI
+035449:0:  te: pARqukeSaH subAlaDiH halAhaScitrakaSca tripulAhaH
+035450:0:  te: SvetapItakaH IzatpItaH kulAhastu yo Bavet kfzRajA
+035451:0:  te: nukaH kfzRA cAsye BavedreKA pfzWavaMSAnugAminI urAhaH
+035452:0:  te: kfzRajAnustu manAkpARqustu yo Bavet veruhARaH smfto
+035453:0:  te: vAjI pAwalo yaH prakIrttitaH raktapItakazAyotTo varRajo
+035454:0:  te: yasya dfSyate dukulAhaH sa viKyAto varRo vAhasya dehajaH
+035455:2:  te: pUrvoktAnAM ca varRAnAM muKapuRqreRa vAjinAm ye Bavanti
+035456:1:  te: pare BedAstAn bravImyanupUrvagaH kokAhaH puRqriko
+035457:0:  te: nAKaH kokurAhaH prakIrttitaH KurAhaKaragAhO ca
+035458:0:  te: hariko harirAhikaH kalAhaScEva vollAhaH sirAhaH
+035459:0:  te: sihurAhakaH kulAhaH kulurAhastu sarAhaH SuBarA
+035460:0:  te: hakaH cArurAho jayedaSvo vorurAho na yaH smftaH
+035461:1:  te: kulIhI duruRAhastu yudDake nEva kIrttitaH tripuhastri
+035462:2:  te: pulAhaSca yudDake nEva kIrttitaH tripuhastripulAhaSca citra
+035463:0:  te: lANgaSca yo Bavet
+035464:1:  te: aTa romavarRaBedena SuBASruBalakzaRam <q>yasya gOrARi
+035465:1:  te: pItAni gAtraromARi vAjinaH sa BarttuH Sriya
+035466:2:  te: mAGatte yasya SuklasitAni ca yasya pAdAH sitAH
+035467:2:  te: sarve pucCaM vakzo muKaM taTA UrDva jaNGA sitA yasya taM vidyA
+035468:0:  te: dazwamaNgalam praBUtAsitatArASca praSastA muniBiH smftAH
+035469:1:  te: yastu pItAsitEstArEH sa DanyaH kIrttito hayaH praSastaH
+035470:0:  te: kfzRatArastu mallikAkzaH prakIrttitaH SvetajAvezwitaM kfzRa
+035471:0:  te: reKayA tArakaM ca yat mallikAkzaH sa vijYeyaH svAminaH
+035472:0:  te: suKavardDanaH sitatayA'praSastaSca svAminaH kleSavardDanaH
+035473:2:  te: sarvaSvetaSca kfzRaSca raktapItastaTEva ca ete saNgrAmikAH
+035474:0:  te: proktAsturagA munisattamEH haritAH kila jAyante
+035475:0:  te: vAjinaH puRyadarSanAH yato hitA narendrARAmAyurAro
+035476:1:  te: gyaSrIpradAH raktAsyamehanaH SastaH SyAmakarRastu yaH
+035477:0:  te: sitaH kapotena ca varRena yo hayaH SuklakeSaraH SuklapA
+035478:0:  te: damuKo vAjI praSastaH parikIrttitaH caturRAM cEva
+035479:0:  te: pAdAnAM SuklatA yasya vAjinaH muKaM sitataraM cEva paYca
+035480:0:  te: BadraH sa ucyate SvetamaRqalacitraSca BarttuH sarvArTa
+035481:0:  te: sADakaH pARqurA yasya reKA syAt pfzWavaMSAnugAminI
+035482:0:  te: SvetakfzRaSirA yaSca nEva DanyaH prakIrttitaH anyavarRaM
+035483:1:  te: Siro yasya pucCaM vA yasya vAjinaH pucCena SirasA
+035484:0:  te: vApi nAnAvarRena ninditaH avyaktavarRo yovAhastaTA ti
+035485:0:  te: ttirisanniBaH kutsito vAnarAkzaSca yIvA vyAGrAvalIQakaH
+035486:1:  te: taTANgavikftito'SualakzaRam <q>kAkudI kfzRajihvaSca
+035487:0:  te: kfzRasePARqatAlukaH karAlI hInadantaSca SfNgI vADika
+035488:0:  te: dantakaH ekARqaScEva jAtARqaH kaYcukI trisarI
+035489:1:  te: taTA mArjjArapAdo vyAGrABastrikarRI dviKurI stanI
+035490:0:  te: yamayo vAmanaScEva kAkatittirasaMniBaH vAnarAkzo
+035491:1:  te: biqAlAkzo muSalI cendravfdDikaH yezAM pfzWe hato BarttA'
+035492:0:  te: jAtadantastaTEva ca ete dozAnvitA vAhAstyAjyA vE
+035493:0:  te: BUtimicCatA DanaprARaharAhyete banDuvigrahakArakAH ezAM
+035494:2:  te: cihnaM pravakzyAmi yena jAnanti sAdinaH pUrvvaSAstrAnusAreRa
+035495:0:  te: munInAM vacanaM yaTA AvarttA yatra kakude kAkudI sa udA
+035496:0:  te: hftaH karAlErvADare dantErjjAyate yasya cottaram caturBiH
+035497:2:  te: paYcaBiScEva hInadantaH prakIrttitaH saptaBiScAzwaBirdantE
+035498:0:  te: rjjAtaScADikadantakaH aNguzWaparvasaMkASaM CAgaSfNgopamantaTA
+035499:0:  te: jambUvadararUpaM ca taTA cAmalakopamam AmrAsTisadfSaM
+035500:0:  te: cApi harItakyAH Palopamam dagDacarmmaniBaM cApi bAlaM

@@ -1,0 +1,500 @@
+358001:2:  te: tIti yAvat rA-ka.</vkr> (1)aprayivAdini amaraH. (2)agre
+358002:0:  te: vAdini</2> ca <reN><q>muKarastatra hanyate<q> iti hitopadeSaH
+358003:0:  te: kAke puM strI0</3> <vkr>striyAM NIz.</vkr> (4)SaNKe pu0 rAjani0. </4><page>vp6_0364.pdf</page><column>1</column><br/>
+358004:0:  te:  %muKarita% tri0 <vg>muKara ivAcaritaH.</vg> <vkr>muKara+kvip-kta.</vkr> (1)SabdAyamAne</1><page>vp6_0364.pdf</page><column>1</column><br/>
+358005:0:  te:  %muKaroga% pu0 <vg>saptANgasya muKasya rogaH.</vg> (1)saptANgamuKasya
+358006:0:  te: rogaBede</1> <reN>tannidAnAdi yaTA
+358007:0:  te: ozWO ca dantamUlAni dantA jihvA ca tAlu ca. galo
+358008:2:  te: rasAdi sakalaM saptANgaM muKamucyate.<q></reN> <reN>aTa muKarogARAM
+358009:2:  te: saNKyAnAha <q>syurazwAvozWayordantamUle tu daSa zaw taTA
+358010:0:  te: dantezvazwO rasajYAyAM paYca syurnava tAluni. kaRWe tvazwA
+358011:0:  te: daSa proktAstrayaH sarvasarAH smftAH. evaM muKAmayAH
+358012:0:  te: sarve saptazazwirmatA buDEH<q></reN> <reN>muKarogARAM nidAnAnyAha
+358013:0:  te: anUpapiSitakzIradaDimAzAdisevanAt. muKamaDye gadAn
+358014:2:  te: kuryuH krudDaH dozAH kaPottarAH<q>BAvapra0.</reN><page>vp6_0364.pdf</page><column>1</column><br/>
+358015:1:  te:  %muKalANgala% puM strI0 <vg>muKaM lANgalamivaM BUmividArakaM yasya
+358016:1:  te: SUktare jawA0</1> <vkr>striyAM NIz.</vkr><page>vp6_0364.pdf</page><column>1</column><br/>
+358017:0:  te:  %muKavallaBa% pu0 6 ta0. (1)dAqimavfkze SabdamA0</1> <vn>tatPalasya
+358018:0:  te: muKapriyatvAt tasya tayAtvam.</vn> (2)muKapriye tri0.</2><page>vp6_0364.pdf</page><column>1</column><br/>
+358019:0:  te:  %muKavAcikA% strI <vg>muKaM vAcayati ajaqIkaroti sevanAt
+358020:1:  te: vaca-Ric-Rvul.</vkr> (1)ambazWAyAm rAjani0.</1><page>vp6_0364.pdf</page><column>1</column><br/>
+358021:1:  te:  %muKavAsa% pu0 <vg>muKaM vAsayati suraBIkaroti</vg> <vkr>vAsi-aR
+358022:0:  te: upa0 sa0. (1)ganDatfRe rAjani0. (2)karpUrAdO ca.</2><page>vp6_0364.pdf</page><column>1</column><br/>
+358023:1:  te:  %muKavAsana% pu0 <vg>muKaM vAsayati</vg> <vkr>vAsi lyu.</vkr> (1)muKasOraBa
+358024:0:  te: kArake ganDe. (2)tadvati tri0 amaraH.</2><page>vp6_0364.pdf</page><column>1</column><br/>
+358025:1:  te:  %muKavizWA% strI <vg>muKaM vizWeya durganDaM yasyAH.</vg> (1)tElapAyikAyAM
+358026:0:  te: hemaca0</1> <vn>tanmuKasparSamAtre hi dravyAntare durganDo Bavati.</vn><page>vp6_0364.pdf</page><column>1</column><br/>
+358027:1:  te:  %muKavyAdAna% na0 <vkr>vi+A+dA-lyuw</vkr> 6 ta0. (1)muKaprasAraRe.</1><page>vp6_0364.pdf</page><column>1</column><br/>
+358028:0:  te:  %muKaSoDana% na0 <vg>muKaM SoDayati</vg> <vkr>SuDa-Ric-lyu.</vkr> (1)tvace(dAra
+358029:5:  te: cini)rAjani0 (2) kawurase pu0 hemaca0. </2><page>vp6_0364.pdf</page><column>1</column><br/>
+358030:0:  te:  %muKaSoDin% pu0 <vg>muKaM SoDayati</vg> <vkr>suDa-Ric-Rini.</vkr> (1)jambIre rAjani0</1><page>vp6_0364.pdf</page><column>1</column><br/>
+358031:7:  te:  %muKasrAva% pu0 <vkr>sravati lu-R</vkr> 5 ta0. (1)sAkAKye muKaKandi
+358032:0:  te: jale rAjani0.</1><page>vp6_0364.pdf</page><column>2</column><br/>
+358033:0:  te:  %muKAgni% pu0 <vg>muKamevAgnitulyaM SApadAnena dAhakatvAt
+358034:0:  te: yasya.</vg> (1)vipre karma0 vaqavAmuKaje (2)dAvAnale ca SabdamA0.</2><page>vp6_0364.pdf</page><column>2</column><br/>
+358035:0:  te:  %muKAstra% pu0 <vg>muKamevAstraM yasya.</vg> (1)karkawe trikA0. </1><page>vp6_0364.pdf</page><column>2</column><br/>
+358036:0:  te:  %muKya% tri0 <vg>muKe AdO BavaH</vg> <vkr>yat.</vkr> (1)praTamakalpe amaraH (2)SrezWe ca</2><page>vp6_0364.pdf</page><column>2</column><br/>
+358037:1:  te:  %mugDa% tri0 <vkr>muha-kta.</vkr> (1)maQe.</1> <vkr>mohayati antarBUtaRyarTe muha
+358038:0:  te: karttari kta.</vkr> (2)sundare viSvaH . (3)nAyikABede strI sA0 da03 pa0</3><page>vp6_0364.pdf</page><column>2</column><br/>
+358039:0:  te:  %muca% <vkr>(1)damBe (2)SAWye</2> BvA0 Atma0 saka0 sew. mocate amocizwa
+358040:2:  te: idipyayam tatrArTe . muYcate.</vkr><page>vp6_0364.pdf</page><column>2</column><br/>
+358041:2:  te:  %muca% <vkr>(1)tyAge</1> curA0 u0 saka0 seW. mocayati te amucat-ta</vkr><page>vp6_0364.pdf</page><column>2</column><br/>
+358042:0:  te:  %muca% <vkr>(1)tyAge</1> tu0 mucAdi0 uBa0 saka0 aniw. muYcati-te
+358043:4:  te: adit amuYca amukta. karmakarttari sakarmakaH</vkr> <reN><q>mucyate
+358044:0:  te: sarvapApeByaH<q> iti purARam.</reN><page>vp6_0364.pdf</page><column>2</column><br/>
+358045:3:  te:  %mucakunda% pu0 <vkr>muca-kta</vkr> <vg>mucaH kunda iva.</vg> (1)svanAmaKyAte puzpavfkze
+358046:0:  te: BAvapra0 (2)mAnDAtfnfpaputre nfpaBede ca.</2><page>vp6_0364.pdf</page><column>2</column><br/>
+358047:0:  te:  %muja% <vkr>(1)DvanO</1> aka0 mArjjane saka0 vA curA0 pakze BvA0 para
+358048:0:  te: sew. mAjayati te mojati amUmujat ta amojIt
+358049:0:  te: ididapyatrArTe. muYjayati te muYjati amumuYjat ta
+358050:0:  te: amuYjat.</vkr><page>vp6_0364.pdf</page><column>2</column><br/>
+358051:0:  te:  %muYja% pu0 <vkr>muji-ac.</vkr> (1)(muja) rajjvusADane tfRaBede rAjani
+358052:0:  te: mfYjadvayantu maDuraM tuvaraM SiSiraM taTA. dAhatfzRA
+358053:2:  te: visarpAsnamUtravastyakzirogajit. dozatrayaharaM vfpya
+358054:0:  te: meKalAsUpayujyate<q> BAvapra0. </reN><page>vp6_0364.pdf</page><column>2</column><br/>
+358055:3:  te:  %muYjakeSin% pu0 <vg>muYja iva keSaH astyasya iti.</vg> (1)vizRO hemaca0</1><page>vp6_0364.pdf</page><column>2</column><br/>
+358056:0:  te:  %muYjara% na0 <vkr>muji-aran.</vkr> (1)SAlUke SabdamA0. </1><page>vp6_0364.pdf</page><column>2</column><br/>
+358057:2:  te:  %muwa% <vkr>(1)mardane</1> BvA0 para0 saka0 sew idit. muRwati aBuzwIt muRwte</vkr><page>vp6_0364.pdf</page><column>2</column><br/>
+358058:1:  te:  %muwa% <vkr>(1)kzode</1> vA cu0 uBa0 pakze BvA0 para0 saka0 sew. moWa
+358059:0:  te: yati te moWati amUmuWat ta amowIt.</vkr><page>vp6_0364.pdf</page><column>2</column><br/>
+358060:0:  te:  %muWa% <vkr>(1)kzodane (2)Akzepe</2> ca tu0 ku0 para0 saka0 sew. muwati
+358061:0:  te: amuwIt mumowa. </vkr><page>vp6_0364.pdf</page><column>2</column><br/>
+358062:0:  te:  %muWa% <vkr>(1)palAyane</1> BvA0 A0 aka0 sew idit. muRWate amuRWizwa</vkr><page>vp6_0364.pdf</page><column>2</column><br/>
+358063:0:  te:  %muqa% <vkr>(1)keSAdicCede (2)mardane</2> ca BvA0 para0 saka0 sew idit
+358064:0:  te: muRqati amuRqIt. </vkr><page>vp6_0364.pdf</page><column>2</column><br/>
+358065:0:  te:  %muqa% <vkr>(1)majjane</1> BvA0 A0 aka0 sew idit. muRqate amu Rqizwa</vkr><page>vp6_0364.pdf</page><column>2</column><br/>
+358066:0:  te:  %muRa% <vkr>(1)pratijYAne</1> tu0 para0 saka0 sew. muRati amoRIt.</vkr><page>vp6_0364.pdf</page><column>2</column><br/>
+358067:1:  te:  %muRqa% na0 <vkr>muqi-karmaRi GaY.</vkr> (1)mastake amara. (2)vole (3)muRqA
+358068:0:  te: yase ca rAjani0. (4)dEtyaBede, (5)rAhugrahe pu0 medi
+358069:0:  te: nApite jawA0 (7) sTARuvfkze ca pu0. (8)muRqite tri
+358070:0:  te: mahASrAvaRikAyAM (10)muRqIrikAyAYca strI <vkr>wAp</vkr> medi
+358071:0:  te: upanizadBede</11> <reN><q>muRqamARqUkyatittiriH<q>.</reN><page>vp6_0364.pdf</page><column>2</column><br/>
+358072:0:  te:  %muRqaka% pu0 <vp>muRqayati</vp> <vkr>muqi-Ric-Rvul.</vkr> (1)nApite hemaca0.</1><page>vp6_0365.pdf</page><column>1</column><br/>
+358073:2:  te:  %muRqacaRaka% pu0 <vg>muRqaScaRaka iva.</vg> (1)kalAye rAjani0.</1><page>vp6_0365.pdf</page><column>1</column><br/>
+358074:0:  te:  %muRqana% na0 <vkr>muqi-BAve lyuw.</vkr> (1)keSacCede vapane hemaca0.</1><page>vp6_0365.pdf</page><column>1</column><br/>
+358075:3:  te:  %muRqaPala% pu0 <vg>muRqaM Siraiva Palamasya.</vg> (1)nArikele Sabdara0.</1><page>vp6_0365.pdf</page><column>1</column><br/>
+358076:1:  te:  %muRqaSAli% pu0 <vg>muRqaH SukaSUnyaH SAliH.</vg> (1)niHSUke SAli
+358077:0:  te: Bede rAjani0.</1><page>vp6_0365.pdf</page><column>1</column><br/>
+358078:0:  te:  %muRqAyasa% na0 <vg>muRqamayaH</vg> <vkr>ac samA0.</vkr> (1)lOhaBede rAjani0.</1><page>vp6_0365.pdf</page><column>1</column><br/>
+358079:2:  te:  %muRqitikA% strI <vkr>muqi-ita svArTe ka ata ittvam wAp
+358080:1:  te: (muRqIrI)vfkzaBede ratnamA0.</1><page>vp6_0365.pdf</page><column>1</column><br/>
+358081:0:  te:  %muRqin% pu0 <vp>muRqayati</vp> <vkr>muNi Ric-Rini.</vkr> (1)nApite amaraH.</1><page>vp6_0365.pdf</page><column>1</column><br/>
+358082:0:  te:  %muRqIrI% strI <vkr>muqi-Irac gOrA0 NIz.</vkr> (1)svanAmaKyAte
+358083:0:  te: vfkzaBede jawADaraH.</1><page>vp6_0365.pdf</page><column>1</column><br/>
+358084:2:  te:  %muTaSIla% pu0 <vn>  darSite BI0 tA0 ukte ityaSAlayoge </vn><page>vp6_0365.pdf</page><column>1</column><br/>
+358085:1:  te:  %muda% <vkr>(1)sammArjja</1>ne cu0 u0 saka0 sew. modayati te amUmudat ta</vkr><page>vp6_0365.pdf</page><column>1</column><br/>
+358086:0:  te:  %muda% <vkr>(1)harze</1> BvA0 A0 aka0 sew. modate amodizwa. mumude.</vkr><page>vp6_0365.pdf</page><column>1</column><br/>
+358087:1:  te:  %muda(dA)% strI <vkr>muda0 sappa0 BAve kvip vA wAp.</vkr> (1)harze amaraH
+358088:0:  te: vfdDinAmOzaDO rAjani0.</vkr><page>vp6_0365.pdf</page><column>1</column><br/>
+358089:3:  te:  %mudira% pu0 <vkr>muda-kirac.</vkr> (1)meGe amaraH (2)meke ca saMkzipfsA
+358090:0:  te: kAmuke tri0 medi0. </3><page>vp6_0365.pdf</page><column>1</column><br/>
+358091:0:  te:  %mudga% pu0 <vkr>muda-gak new.</vkr> (1)kalAyaBede(muga)pu0 medi0 (2) pakziBede jalakAke ca hemaca0</2><page>vp6_0365.pdf</page><column>1</column><br/>
+358092:4:  te:  %mudgaparRI% strI <vg>mudrasyeva parRamasyAH.</vg> (1)(mudgAnI)vanamudge amaraH. </1><page>vp6_0365.pdf</page><column>1</column><br/>
+358093:2:  te:  %mudgara% na0 <vg>mudaM girati</vg> <vkr>gF-ac.</vkr> (1)mallikABede (2)lozwaBedane
+358094:0:  te: (mugura)medi0. (3)puzpapraDAnavfkzaBede (4)karmAravfkze (kAma
+358095:0:  te: rANgA)ca pu0 rAjani0.</4> <vkr>svArTe ka. tatrEva.</vkr><page>vp6_0365.pdf</page><column>1</column><br/>
+358096:0:  te:  %mudgala% na0 <vg>mudaM gilati</vg> <vkr>gf-ac rasya laH.</vkr> (1)rohizatfRe
+358097:0:  te: rAjani0. (2)gotrapravararzO muniBede, (3)nfpaBede pu0.</3><page>vp6_0365.pdf</page><column>1</column><br/>
+358098:6:  te:  %mudgazwa% pu0 <vg>mudgaM stakati prativaDnAti</vg> <vkr>staka0qa pfzo0 aKaY.</vkr> (1)vanam
+358099:5:  te: udge amaraH.</1> <vkr>ac</vkr> <vn>mudgazwako'pyatra.</vn><page>vp6_0365.pdf</page><column>1</column><br/>
+358100:0:  te:  %mudrA% strI <vkr>muda-raka.</vkr> (1)pratyayakAriRyAm (mohara)trikA
+358101:0:  te: aNgulisTe mudrANkanayuktANgulIyake Sabdara0 (3) svarRarOpyA
+358102:1:  te: ditaNkAyAm (4)aprakASe.</4> <reN><q>mudrAlipiH Silpalipirlipi
+358103:0:  te: rleKanisamBavA. guRqikAGuRasamBUtA lipayaH paYcaDA
+358104:0:  te: matAH<q></reN> ityuktalipimaDye (5)lipiBede vArAhItantram
+358105:1:  te: leKanyA liKitaM viprErmudrABiraNkitaYca yat. SilpA
+358106:3:  te: dinirmitaM yacca pAwyaM DAryyaYca sarvadA<q> muRqamAjYAta
+358107:3:  te: tantraprasidDi vIrAScarasevye</6> <reN><q>pfBukAstaRqulA BrazwA
+358108:0:  te: goDUmacaRakAdayaH. tasya nAma BavenmudrA<q>ityukte</reN> (7)paYca
+358109:3:  te: makArAntargatadravyaBede devaviSezArADanAyANkalpAdisanni
+358110:0:  te: veSaviSeze tantrasAraH</7> <reN><q>yojanAt sarvadevAnAM drAvaRAt
+358111:1:  te: pApasaMhateH. tasmAt mudreti sA KyAtA sarvakAmArTa
+358112:0:  te: sADanI<q>mudrAmakzaguRami<q>ti tantram</reN> (8)saNkoce ca.</8><page>vp6_0365.pdf</page><column>1</column><br/>
+358113:0:  te:  %mudrAlipi% strI <vg>mudrayA lipiH.</vg> (1)paYcaDAviBaktalipimaDye
+358114:0:  te: lipiBede (CApAra akzara)</1><page>vp6_0365.pdf</page><column>2</column><br/>
+358115:2:  te:  %mudrikA% strI <vg>madrEva mudrA vA</vg> <vkr>mudrA kan.</vkr> (1)svarRarOpyAdi
+358116:1:  te: nirmitte aNgulisTe aNkanasADanayogye padArTe.</1><page>vp6_0365.pdf</page><column>2</column><br/>
+358117:0:  te:  %mudrita% tri0 <vg>mudrA jAtA'sya</vg> <vkr>itac.</vkr> (1) aprakASite (2)aNkite ca </2><page>vp6_0365.pdf</page><column>2</column><br/>
+358118:0:  te:  %muDA% avya0 <vkr>muha-kA pfzo0 hasya Da.</vkr> (1)miTyASabdArTe amaraH</1><page>vp6_0365.pdf</page><column>2</column><br/>
+358119:1:  te:  %muni% pu0 <vkr>mana-in pfzo0 utvam.</vkr> <reN><q>duHKezvanudvignamanAH suKezu
+358120:0:  te: vigataspfhaH. vItarAgaBayakroDaH sTiraDIrmunirucyate
+358121:0:  te: gItoktalakzaRe</reN> (1)sTiracitte vItarAgAdO jane.</1> <vn>te ca
+358122:2:  te: manyatrivizRuhArItAdaya.</vn> (2)saptasaMKyAyAYca. (3)vaNga
+358123:1:  te: senatarO (4)jine medi0. (5)priyAlavfkze (6)parASaravfkze hemaca
+358124:3:  te: damanakavfkze rAjani0.</7> <reN><q>mananAnmunirucyate<q> ityukte
+358125:0:  te: mananayute tri0. </8><page>vp6_0365.pdf</page><column>2</column><br/>
+358126:0:  te:  %muniKarjjUrI% strI <vg>munipriyA KarjUrI .</vg> (1)KarjjUrIBede rAjani0</1><page>vp6_0365.pdf</page><column>2</column><br/>
+358127:1:  te:  %municCada% pu0 <vg>munisaNKyAtAH saptasaMKyAtAH CadAH pratiparRaM
+358128:0:  te: yasya.</vg> (1)saptacCade(CAtima)rAjani0.</1><page>vp6_0365.pdf</page><column>2</column><br/>
+358129:0:  te:  %munitaru% pu0 <vg>muniragastyanAmakastaruH.</vg> (1)vakavfkze ratnamA0.</1><page>vp6_0365.pdf</page><column>2</column><br/>
+358130:0:  te:  %munidruma% pu0 <vg>munInAM priyo muninAmako vA drumaH.</vg> (1)Syo
+358131:0:  te: nAkavfkze ratnamA0 (2) vakavfkze ca rAjani0.</2><page>vp6_0365.pdf</page><column>2</column><br/>
+358132:0:  te:  %muniputraka% pu0 <vg>muneH putraH</vg> <vkr>saMjYAyAM kan.</vkr> (1)damanavfkze BAvapra
+358133:0:  te: KaYjane ca trikA0.</2> 6 ta0. (3)fzisute. </3><page>vp6_0365.pdf</page><column>2</column><br/>
+358134:0:  te:  %munipuzpa% na0 <vg>munidrumasya puzpaM BOmo</vg> <vkr>BImasenavaduttarapadalopaH. vakapuzpe</vkr><page>vp6_0365.pdf</page><column>2</column><br/>
+358135:0:  te:  %muniBezaja% na0 <vg>munInAM Bezajamiva.</vg> (1)harItakyAM (2)agastye
+358136:0:  te: munO, (3)BojanABAve ca medi0. </3><page>vp6_0365.pdf</page><column>2</column><br/>
+358137:0:  te:  %munIndra% pu0 <vg>muniH indra iva.</vg> (1)budDe amaraH. 7 ta0. (2)fziSrezWe</2><page>vp6_0365.pdf</page><column>2</column><br/>
+358138:0:  te:  %munTa% <vkr>(1)gatyAM</1> BvA0 para0 saka0 sew ktvA vew. munTati amunTIt</vkr><page>vp6_0365.pdf</page><column>2</column><br/>
+358139:0:  te:  %munTA% strI nI0 ka0 (1)tAjakaprasidDe inTihASabdArTe.</1> <vn>inTihA
+358140:2:  te: Sabde dfSyam.</vn><page>vp6_0365.pdf</page><column>2</column><br/>
+358141:0:  te:  %munyanna% na0 <vg>muniyogyamannam.</vg> (1)nIvArakandAdO.</1><page>vp6_0365.pdf</page><column>2</column><br/>
+358142:0:  te:  %mumukza% tri0 <vg>moktumicCuH</vg> <vkr>muca-san-u.</vkr> (1)mokzecCAvati
+358143:0:  te: saMsArabanDanAmAvecCAvati. (3)yatO pu0.</3><page>vp6_0365.pdf</page><column>2</column><br/>
+358144:1:  te:  %mumUcAna% pu0 <vkr>muca kAma pfzo0 dIrGaH.</vkr> (1)meGe (2)muktavati tri
+358145:3:  te: drupadAdadiva mumUcAnaH<q>iti sanDyANgapAWyamantraH.</reN><page>vp6_0365.pdf</page><column>2</column><br/>
+358146:0:  te:  %mumUrzu% tri0 <vg>marttumicCuH</vg> <vkr>mf-Kan-u.</vkr> (1)AsannamaraRe.</1><page>vp6_0366.pdf</page><column>1</column><br/>
+358147:0:  te:  %mura% <vkr>(1)vezwane</1> tu0 para0 saka0 sew. murati amIrIt.</vkr><page>vp6_0366.pdf</page><column>1</column><br/>
+358148:1:  te:  %mura% pu0 <vkr>mura0 ka.</vkr> (1)dEtyaBede</1> <reN><q>pArTenATa dvizan muram<q>mAGaH
+358149:0:  te: vezwane. (3)svanAmaKyAte ganDadravye strI amaraH</3> <vkr>wAp.</vkr><page>vp6_0366.pdf</page><column>1</column><br/>
+358150:0:  te:  %muraja% pu0 <vg>murAt vezwanAt jAyate</vg> <vkr>jana-qa.</vkr> (1)mfdaNge vAdyaBede
+358151:0:  te: amaraH.</1> <vn>sa iva banDaH. murajabanDaH.</vn> (2)citrAlaNkAraBede.</2><page>vp6_0366.pdf</page><column>1</column><br/>
+358152:0:  te:  %murajaPala% pu0 <vg>muraja iva PalaM yasya.</vg> (1)panasavfkze trikA
+358153:0:  te: mfdaNgaPalAdayo'pyatra.</vn><page>vp6_0366.pdf</page><column>1</column><br/>
+358154:0:  te:  %muraripu% pu0 6 ta0. (1)vizRO.</1> <vn>murArimuramaTanAdayopyatra.</vn><page>vp6_0366.pdf</page><column>1</column><br/>
+358155:0:  te:  %muralA% strI <vg>muraM lAti</vg> <vkr>lA-ka.</vkr> (1)narmadAyAm.</1> <reN><q>muralA
+358156:0:  te: mArutodvUtam<q>raGuH.</reN> (2)vaMSInAmni vAdye</2> <vkr>gOrA0 NIz.</vkr><page>vp6_0366.pdf</page><column>1</column><br/>
+358157:0:  te:  %muralIDara% pu0 <vg>muralIM Darati</vg> <vkr>Df ac.</vkr> (1)SrIkfzRe</1> <vn>muralIvAda
+358158:0:  te: nAdayo'pyatra.</vn><page>vp6_0366.pdf</page><column>1</column><br/>
+358159:0:  te:  %murcCa% <vkr>(1)mohe (2)vfdDO</2> ca BvA0 para0 saka0 sew. mUrcCati
+358160:0:  te: amUrcCIt. Adit BAve kta. mUrtam mUrcCitam.</vkr><page>vp6_0366.pdf</page><column>1</column><br/>
+358161:2:  te:  %murmura% pu0 <vkr>mura-ka pfzo0 dvitvam.</vkr> (1)tfzAgnO (2)kandarpe sUryyAMSce
+358162:0:  te: ca medi0. </2><page>vp6_0366.pdf</page><column>1</column><br/>
+358163:3:  te:  %murva% <vkr>(1)banDe</1> BvA0 para0 saka0 sew. mUrvati amUrvIt nizWAyAmaniwa mUrRaH</vkr><page>vp6_0366.pdf</page><column>1</column><br/>
+358164:0:  te:  %mula% <vkr>(1)ropaRe</1> cu0 uBa0 saka0 sew. molayati te amUmulat ta.</vkr><page>vp6_0366.pdf</page><column>1</column><br/>
+358165:0:  te:  %muSawI% strI <vkr>muza-awac gOrA0 NIz pfzo0.</vkr> (1)sitakaNgO
+358166:0:  te: hemaca0.</1><page>vp6_0366.pdf</page><column>1</column><br/>
+358167:1:  te:  %muSa(sa)lI% strI <vkr>muza musa vA kalac pfzo0 zasya SaH gOrA
+358168:0:  te: NIz.</vkr> (1)tAlamUlyAm (2)gfhagoDikAyAm rAjani
+358169:0:  te: saMjYAyAM kan.</vkr> (2)vallyAm halA0.</2><page>vp6_0366.pdf</page><column>1</column><br/>
+358170:3:  te:  %muza% <vkr>(1)vaDe</1> BvA0 para0 saka0 sew. mozati amozIt.</vkr><page>vp6_0366.pdf</page><column>1</column><br/>
+358171:0:  te:  %muza% <vkr>(1)Cedane</1> divA0 para0 saka0 sew. muzyati irit amuzat
+358172:1:  te: a amozIt</vkr> <vn>puzAdirayamityanye.</vn><page>vp6_0366.pdf</page><column>1</column><br/>
+358173:0:  te:  %muza% <vkr>(1)luRwane</1> kyrA0 para0 dvika0sew. muzRAti amozIt.</vkr><page>vp6_0366.pdf</page><column>1</column><br/>
+358174:1:  te:  %muza(sa)(Sa)la% pu0 <vkr>muza-kalan pfzo0.</vkr> (1)ayogre svanAmaKyAte
+358175:0:  te: DAnyAdikaRqanasADane padArTe amaraH. </1><page>vp6_0366.pdf</page><column>1</column><br/>
+358176:0:  te:  %muzA% strI0 <vkr>muza ka-wAp.</vkr> (1)DAtudrAvaRe pAtraBede (mucI)rAyasu0</1><page>vp6_0366.pdf</page><column>1</column><br/>
+358177:0:  te:  %muzita% tri0 <vkr>muza-kta.</vkr> (1)apahftadravye jane amaraH.</1><page>vp6_0366.pdf</page><column>1</column><br/>
+358178:0:  te:  %muzka% pu0 <vkr>muza-kak.</vkr> (1)puruzacihnaBede aRqakoze (GaRWA
+358179:1:  te: pArula) (2) mokzakavfkze (3)saMhfte ca medi0 (4) taskare
+358180:1:  te: mAMsale ca hemaca0.</5> <vkr>svArTe ka. tatrEva. </vkr><page>vp6_0366.pdf</page><column>1</column><br/>
+358181:0:  te:  %mazkaSUnya% pu0 3 ta0. (1)vfzaRarahite rAjYAmantaHpurarakzake (KojA) heMca0</1><page>vp6_0366.pdf</page><column>1</column><br/>
+358182:7:  te:  %muzwi% puM strI0 <vkr>muza-kti ca.</vkr> (1)badDapARO amaraH (2)palaparimARe
+358183:0:  te: pu0 hemaca0 (3) kuYcyazwaBAge ca.</3> <vkr>ktin.</vkr> (4)mozaRe strI.</4><page>vp6_0366.pdf</page><column>1</column><br/>
+358184:0:  te:  %muzwika% pu0 <vg>muzwyA kAyati</vg> <vkr>kE-ka.</vkr> (1)kaMsarAjamallaBede.</1> <vg>muzwi
+358185:0:  te: rmozaRaM prayojanamasya</vg> <vkr>kan.</vkr> (2)svarRakAre hemaca0.</2><page>vp6_0366.pdf</page><column>2</column><br/>
+358186:2:  te:  %muzwikAntaka% pu0 60. (1)baladeve Sabdara0</1> <vn>tasya muzwikAsura
+358187:0:  te: hananAttaTAtvam.</vn><page>vp6_0366.pdf</page><column>2</column><br/>
+358188:0:  te:  %muzwidyUta% na0. 3 ta0. (1)kapardakamuzwyAkrIqane (puramuw)SabdamA0</1><page>vp6_0366.pdf</page><column>2</column><br/>
+358189:0:  te:  %muzwinDaya% pu0 <vg>muzwiM Dayati</vg> <vkr>De Kac mum ca.</vkr> (1)bAlake trikA0.</1><page>vp6_0366.pdf</page><column>2</column><br/>
+358190:0:  te:  %muzwibanDa% pu0 <vg>muzwerbanDo yatra.</vg> (1)saMgrahe amaraH. 6 ta0 (2) muzwi
+358191:0:  te: banDane.</2><page>vp6_0366.pdf</page><column>2</column><br/>
+358192:0:  te:  %musa% <vkr>(1)KaRqane</1> di0 para0 saka0 sew. musyati irit amusat AmosIt puzAdirayamityanye</vkr><page>vp6_0366.pdf</page><column>2</column><br/>
+358193:2:  te:  %musalin% <vkr>musa(za)(Sa) la+astyarTe ini .</vkr> (1)baladeve amaraH </1><page>vp6_0366.pdf</page><column>2</column><br/>
+358194:6:  te: <MISSING>
+358195:8:  te:  %musalya% tri0 <vg>murA(za)(Sa)lenaveDyaH</vg> <vkr>yat muzala beDye amaraH</vkr><page>vp6_0366.pdf</page><column>2</column><br/>
+358196:2:  te:  %musallaha% pu0 nI0 tA0 ukte (1)navAMSe</1> <reN><q>musallahe paYca lavAH
+358197:0:  te: pradizwAH<q>nI0 tA0.</reN><page>vp6_0366.pdf</page><column>2</column><br/>
+358198:0:  te:  %musta% <vkr>(1)saMhatO</1> cu0uBa0saka0 sew. mustayati te amumustat ta.</vkr><page>vp6_0366.pdf</page><column>2</column><br/>
+358199:1:  te:  %musta% pu0 <vkr>musta ac strItve wAp.</vkr> (1)mustake(muTA)hArA
+358200:0:  te: tatrArTe strI amaraH</1> <vkr>svArTe ka.</vkr> <vn>atrEva astrI0 amaraH
+358201:0:  te: sTAvaravizaBede pu0 hemaca0. </2><page>vp6_0366.pdf</page><column>2</column><br/>
+358202:0:  te:  %mustABa% na0 <vg>musteva BAti</vg> <vkr>BA-ka.</vkr> (1)(nAgaramuTA)mustakaBede amaraH.</1><page>vp6_0366.pdf</page><column>2</column><br/>
+358203:2:  te:  %muha% <vkr>(1)mohe (2)vEcittye</2> di0 uBa0 aka0 sew muhyati lfdit
+358204:1:  te: amuhat udit mohitA, mogDA, moQA YIt
+358205:0:  te: mUQo'sti.</vkr><page>vp6_0366.pdf</page><column>2</column><br/>
+358206:0:  te:  %muhira% pu0 <vkr>muha kirac.</vkr> (1)kAme, (2)mUrKe ca medi0.</2><page>vp6_0366.pdf</page><column>2</column><br/>
+358207:0:  te:  %muhus% avya0 <vkr>muha-usik.</vkr> (1)pOnaH punye amaraH.</1><page>vp6_0366.pdf</page><column>2</column><br/>
+358208:3:  te:  %muhUrtta% strI0 <vkr>mUrcCa kta DAtoH pUrvaM muw ca.</vkr> (1)dvAdaSakzaRamite
+358209:1:  te: kAle,</1> (2)paYcadaSaDAviBaktasya dinasya paYcadaSaBAge, (3)kiYcin
+358210:0:  te: nyUnADikaGawikAdvayarUpe kAle ca.</3><page>vp6_0366.pdf</page><column>2</column><br/>
+358211:0:  te:  %mU% <vkr>(1)banDe</1> BvA0 A0 saka0 sew. Bavate amavizwa mumuve.</vkr><page>vp6_0366.pdf</page><column>2</column><br/>
+358212:2:  te:  %mUka% pu0 <vkr>mU-kak.</vkr> (1)matsye trikA0 (2) dEtyaBede medi0 (3) dIne
+358213:0:  te: hema0vAkSaktirahite ca tri0amaraH.</3><page>vp6_0366.pdf</page><column>2</column><br/>
+358214:0:  te:  %mUQa% tri0 <vkr>muha-kta.</vkr> (1)mUrKe amaraH. (2)bAle (3)tandrite medi0. (4)jaqe hemaca0</4><page>vp6_0366.pdf</page><column>2</column><br/>
+358215:0:  te:  %mUta% tri0<vkr>mU+banDe kta.</vkr> (1)badDe (2)saMyate ca amaraH. </2><page>vp6_0366.pdf</page><column>2</column><br/>
+358216:2:  te:  %mUtra% <vkr>(1)srAve</1> ada0 cu0 uBa0 aka0 sew. mUtrayati te amumUtrat ta</vkr><page>vp6_0366.pdf</page><column>2</column><br/>
+358217:0:  te:  %mUtra% na0 <vkr>mutra-ac.</vkr> (1)prasrAve upasTAt kzaritajale amaraH.</1><page>vp6_0366.pdf</page><column>2</column><br/>
+358218:1:  te:  %mUtrakfcCa% na0. (1)rogaBede</1> <reN><q>vyAyAmatIkzROzaDarUkzamadya
+358219:3:  te: prasaNganftyadrutapfzWayAnAt. AnUpamatsyADyaSanAdajIrRAt
+358220:0:  te: vyurmUtrakfcCrARi nfRAM taTAzwO<q>BAvapra0.</reN><page>vp6_0366.pdf</page><column>2</column><br/>
+358221:1:  te:  %mUtradoza% pa0 <vg>mUtrasya dozo yasmAt</vg> <vkr>duza-GaY</vkr> 6 ta0. (1)prameharoge
+358222:0:  te: rAjani0.</1><page>vp6_0367.pdf</page><column>1</column><br/>
+358223:1:  te:  %mUtraniroDa% pu0 <vg>mUtraM niruRadDi</vg> <vkr>ni+ruDe-aR.</vkr> (1)mUtraprati
+358224:0:  te: banDakaroge. </1><page>vp6_0367.pdf</page><column>1</column><br/>
+358225:0:  te:  %mUtraPalA% strI0 <vg>mUtrameva PalaM yasyAH.</vg> (1)trapusyAm  (2) karkowyAYca rAjani0(SaSA)</2><page>vp6_0367.pdf</page><column>1</column><br/>
+358226:0:  te:  %mUtrAGAta% pu0 <vg>mUtramAhanti</vg> <vkr>A+hana-aR.</vkr> (1)mUtrahanana
+358227:0:  te: kAriRi rogaBede.</1> <reN><q>prAyo mUtraviGAtAdyErvAtakuRqa
+358228:1:  te: likAdayaH. jAyante kupitErdozE mUtrAGAtAstrAyodaSa
+358229:0:  te: BAvapra0.</reN><page>vp6_0367.pdf</page><column>1</column><br/>
+358230:0:  te:  %mUtrASaya% pu0 6 ta0. (1)nABeraDodeSe vastinAmakasTAne BAvapra0</1><page>vp6_0367.pdf</page><column>1</column><br/>
+358231:0:  te:  %mUrKa% tri0 <vkr>muha Ka murAdeSaH.</vkr> (1)mUQe (2)gAyatrIrahite (3)sArTa
+358232:1:  te: gAyatrIrahite ca.</3> <reN><q>kriyAhInasya mUrKasye<q>ti smfti
+358233:0:  te: vyAKyAyAM nibanDakArEstaTArTakatayA vyAKyAnAt.</reN><page>vp6_0367.pdf</page><column>1</column><br/>
+358234:3:  te:  %mUrcCanA% strI <vkr>murcCa-yuc.</vkr> <reN><q>svaraH saMmUrcCito yatra rAgatAM
+358235:0:  te: pratipadyate. mUrcCanAmiti tAM prAhuH kavayo grAmasa
+358236:0:  te: mBavAm<q> ityukte</reN> (1)gAnANgaBede</1> <reN><q>sPuwIBavadgrAmaviSeza
+358237:0:  te: mUrcCanAm<q> mAGaH.</reN><page>vp6_0367.pdf</page><column>1</column><br/>
+358238:0:  te:  %mUrcCA% strI <vkr>murcCa BAve aN.</vkr> (1)mohe amaraH. (2)anidrA
+358239:1:  te: yAmapi bAhyendriyA vyApAraSUnyAvasTAyAM</2> <reN><q>kzIRasya bahu
+358240:3:  te: dozasya virudvAhAramevinaH. vegADAtAdaBiGAtAt
+358241:2:  te: hInasattvasya vA punaH. karaRAyatanezagrA bAhyezvABya
+358242:1:  te: ntarezu ca. niviSanti yadA dozAstadA mUrcCanti
+358243:0:  te: mAnavAH<q> BAvapra0.</reN> (3)vfdDO ca.</3><page>vp6_0367.pdf</page><column>1</column><br/>
+358244:0:  te:  %mUrcCAla% tri0 <vkr>mUrcCA+astyarTe lac.</vkr> (1)mUrcCAviSizwe amaraH.</1><page>vp6_0367.pdf</page><column>1</column><br/>
+358245:0:  te:  %mUrcCita% tri0 <vg>mUrcCA jAtAsya</vg> <vkr>tAra0 itac.</vkr> (1)mUrcCAyukte
+358246:0:  te: vfdDe (3)ucCrite ca medi0</3><page>vp6_0367.pdf</page><column>1</column><br/>
+358247:3:  te:  %mUrta% tri0 <vkr>mUrcCa-kta</vkr> (1) mUrcCAnvite amaraH. (2)mUQe (3)kaWine
+358248:2:  te: ca medi0 .</3> <vg>mUrtirastyasya</vg> <vkr>ac</vkr> (4)mUrtimati nyAyoktezu
+358249:0:  te: avacCinnaparimARavatsu kzitijalapAvakapavanamanaHsu ca.</4><page>vp6_0367.pdf</page><column>1</column><br/>
+358250:0:  te:  %mUrtti% strI <vkr>murcCa-ktin.</vkr> (1)dehe (2)kAWinye, amaraH
+358251:0:  te: pratimAyAYca hema0</3><page>vp6_0367.pdf</page><column>1</column><br/>
+358252:0:  te:  %mUrttimat% pu0 <vg>mUrttirastyasya</vg> <vkr>matup.</vkr> (1)dehe . (2)AkArayukte
+358253:0:  te: kAWinyavati ca tri0</3> <vkr>striyAM NIp.</vkr><page>vp6_0367.pdf</page><column>1</column><br/>
+358254:0:  te:  %mUrdDaja% pu0 <vg>mUrdDni jAyate</vg> <vkr>jana-qa.</vkr> (1)keSe jawA0. (2)mastakajAtamAtre tri0</2><page>vp6_0367.pdf</page><column>1</column><br/>
+358255:0:  te:  %mUrdDanya% tri0 <vg>mUrdDni BavaH</vg> <vkr>yat.</vkr> (1)mastakajAte. (2)SikzAgranToktezu
+358256:2:  te: fkArawavargarazavarRezu pu0.</2><page>vp6_0367.pdf</page><column>1</column><br/>
+358257:8:  te:  %mUrdDan% pu0 <vkr>BuvaM kanit Duw ca.</vkr> (1)mastake amaraH.</1><page>vp6_0367.pdf</page><column>1</column><br/>
+358258:0:  te:  %mUrdDapuzpa% pu0 <vg>mUrdDni pattraSirasi puzpaM yasya.</vg> (1)SirIzavfkze SabdamA0.</1><page>vp6_0367.pdf</page><column>1</column><br/>
+358259:3:  te:  %mUrvA% strI <vkr>murva ac.</vkr> (1)svanAmaKyAte DanurguRopayukte latABede
+358260:2:  te: gOrA0 NIz.</vkr> <vn>mUrtItyapyatra BarataH. </vn><page>vp6_0367.pdf</page><column>2</column><br/>
+358261:0:  te:  %mUla% <vkr>(1)pratizWAyAM</1> BvA0 uBa0 aka0 sew. mUlati te amUlIt amulizwa</vkr><page>vp6_0367.pdf</page><column>2</column><br/>
+358262:0:  te:  %mUla% <vkr>(1)ropaRe</1> curA0 uBa0 saka0 sew. mUlayati te amUmulat ta.</vkr><page>vp6_0367.pdf</page><column>2</column><br/>
+358263:0:  te:  %mUla% na0 <vkr>mUla-ka.</vkr> (1)SiPAyAm(jaqa)(Sikaqa)amaraH
+358264:3:  te: Adye (3)nikuYje (4)nakzatraBede (5)Srantike viSvaH (6)vARi
+358265:1:  te: jyAdyupayogini (7)mUlaDane, medi0. (8)nije ajayaH
+358266:0:  te: caraRe (10)SUraRe SabdamA0. (11)pippalImUle (12)puzkaramUle
+358267:0:  te: rAjani0. (13)wIkAdinA vyAKyeyagranTe ca aSvinyavaDike
+358268:1:  te: UnaviMSe nakzatre astrI0 ti0 ta0 Sabdara0 strItvamuktam.</13><page>vp6_0367.pdf</page><column>2</column><br/>
+358269:1:  te:  %mUlaka% na0 <vkr>mUla+saMjYAyAM kan.</vkr> (1)kandaBede(mUlA)</1> <reN>varjjanIyaM
+358270:1:  te: sadA viprErmUlakaM madirAsamam<q> iti brahmapu0 .</reN> (2)vizaBede
+358271:0:  te: pu0 hemaca0. </2><page>vp6_0367.pdf</page><column>2</column><br/>
+358272:0:  te:  %mUlakaparRI% strI <vg>mUlakavfkzasyeva parRAnyasyAH</vg> <vkr>NIp.</vkr> (1)SoBAYjane ratnamA0</1><page>vp6_0367.pdf</page><column>2</column><br/>
+358273:1:  te:  %mUlakarman% na0 <vg>mUlena mantrozaDAdinA karmavaSIkaraRAdi
+358274:0:  te: ozaDAdinA vaSIkaraRakarmaRi.</1><page>vp6_0367.pdf</page><column>2</column><br/>
+358275:0:  te:  %mUlakfcCa% pu0 <vg>mUlena kvATitavfkzamUlena kfcCraH.</vg> <reN><q>mUlakfcCraH
+358276:0:  te: smfto mUlEriti<q>smftyukte.</reN> (1)vrataBede.</1> <vn>tadyasya
+358277:0:  te: tadvati tri0.</2><page>vp6_0367.pdf</page><column>2</column><br/>
+358278:0:  te:  %mUlaja% na0 <vg>mUlAjjAyate</vg> <vkr>jana qa.</vkr> (1)Ardrake rAjani
+358279:0:  te: utpalAdO pu0 hemaca0. (3)mUlanakzatrajAtamAtre tri0.</3><page>vp6_0367.pdf</page><column>2</column><br/>
+358280:1:  te:  %mUlatrikoRa% na0 <reN><q>siMhovfzaSca mezaSca kanyA GanvI GawoGawaH
+358281:0:  te: arkAdInAM trikoRAni mUlAni rASayaH kramAt
+358282:0:  te: ravyAdInAM krameRa siMhAdizu rASizu.</reN> tadaMSASca <reN><q>ravi
+358283:2:  te: BOmajIvaBArgavaSanEScarARAM trikoRaBAgAH syuH. naKa
+358284:1:  te: ravidiktiTinaKarAjYendvo digBAMSakAH sfccAt<q> jyo0 ta0.</reN><page>vp6_0367.pdf</page><column>2</column><br/>
+358285:2:  te:  %mUladravya% na0 karma0. <vg>mUlaDane yadavalambya vARijyAdikaM
+358286:0:  te: kriyate tasmin</vg> (1)(pUzji)mUlaDanAdayo'pyatra.</1><page>vp6_0367.pdf</page><column>2</column><br/>
+358287:0:  te:  %mUlaparRI% strI <vg>mUlamAraBya parRAnyasyAH</vg> <vkr>NIp.</vkr> (1)maRqUka
+358288:0:  te: parRyAm ratnamA0. </1><page>vp6_0367.pdf</page><column>2</column><br/>
+358289:0:  te:  %mUlapuzkara% na0 <vg>puzkarasya mUlaM</vg> <vkr>rAja0 para0.</vkr> (1)puzkaramUle rAjani0</1><page>vp6_0367.pdf</page><column>2</column><br/>
+358290:2:  te:  %mUlapItI% strI <vkr>pU-tac gO0 NIz</vkr> <vg>mUlaM praDAnA pItI.</vg> (1)pUti
+358291:0:  te: kAyAm rAjani0.</1><page>vp6_0367.pdf</page><column>2</column><br/>
+358292:1:  te:  %mUlaprakfti% strI <vg>mUlIBUtA sarvAdyA prakftiH.</vg> (1)sAMKyamatokte
+358293:3:  te: sarvezAM kAraRIBUte sAmyAvasTApanne sattvarajastamorupe
+358294:1:  te: triguRAtmake praDAne</1> <reN><q>mUlaprakftiravikftiH<q> sAMKyakA
+358295:0:  te: rikA.</reN> (2)durgAyAYca brahmavE0 pu0 4 0 a0. </2><page>vp6_0367.pdf</page><column>2</column><br/>
+358296:7:  te:  %mUlaPalada% pu0 <vg>mUle'pi PalaM dadAti</vg> <vkr>prasUte dA-ka.</vkr> (1)panasavfkze rAjani0</1><page>vp6_0367.pdf</page><column>2</column><br/>
+358297:0:  te:  %mUlarasa% pu0 <vg>mUle raso yasya.</vg> (1)morawAlatAyAm ratnamAlA.</1><page>vp6_0368.pdf</page><column>1</column><br/>
+358298:0:  te:  %mUlaSAkawa% na0 <vg>mUlAnAM kzetraM</vg> <vkr>mUla+SAkawa.</vkr> (1)mUlaBavana
+358299:2:  te: yogye kzetre SAKin .</1> <vn>mUlaSAkinopyatra pu0 </vn><page>vp6_0368.pdf</page><column>1</column><br/>
+358300:0:  te:  %mUlA% strI <vg>mUlAni bAhulyena santyasyAH</vg> <vkr>ac.</vkr> (1)SatamUlyAm rAjani0</1><page>vp6_0368.pdf</page><column>1</column><br/>
+358301:0:  te:  %mUlADAra% pu0 6 ta0. (1)nABiliNgayormaDye</1> <vn>tasya hi SarI
+358302:3:  te: rasya sakalanANInAM mUlasTAnatvAttaTAtvam</vn> <reN><q>mUlADAre
+358303:0:  te: trikoRAKye icCAjYAnakriyAtmake. maDye svayamBUli
+358304:0:  te: Ngantu kowisUryyasamapraBam<q> ityuktalakzaRe</reN> (2)trikoRAkAre
+358305:0:  te: tantrokte suzumRAnAqIsTe cakraBede ca. </2><page>vp6_0368.pdf</page><column>1</column><br/>
+358306:0:  te:  %mUlin% pu0 <vg>mUlamastyAsya iti.</vg> (1)vfkze Sabdaca0.</1> <vkr>Wan. mUli ko'pyatra</vkr><page>vp6_0368.pdf</page><column>1</column><br/>
+358307:1:  te:  %mUlya% na0 <vg>mUlAya pawAdikAraRatantrAdyAdAnAya idam</vg> <vkr>yat
+358308:0:  te: tantvAdyAdAnAya dIyamAne Dane amaraH.</1> <vkr>mUla-Rft
+358309:0:  te: vapanayogye tri0.</2><page>vp6_0368.pdf</page><column>1</column><br/>
+358310:0:  te:  %mUza% <vkr>(1)luRWane</1> BvA0 para0 saka0 sew. mUzati amUzIt . muzUza</vkr><page>vp6_0368.pdf</page><column>1</column><br/>
+358311:0:  te:  %mUza% puM strI0 <vkr>mUza-ka.</vkr> (1)mUzike ratnA0</1> <vkr>striyAM NIz.</vkr> (2)tE
+358312:3:  te: jasadravyadrAvaRApatre(muci)amaraH. (3)gavAkze</3> <reN><q>ekadvitryA
+358313:0:  te: di mUzAvahane<q>ti lIlA0</reN> (4) devatAqavfkze ca strI Sabdaca0.</4><page>vp6_0368.pdf</page><column>1</column><br/>
+358314:0:  te:  %mUzaka% puMstrI0 <vkr>mUza-Rvul.</vkr> <vkr>strItve wAp ata ittvam
+358315:0:  te: undurO Sabdaca0.</1><page>vp6_0368.pdf</page><column>1</column><br/>
+358316:1:  te:  %mUzakaparRI% strI <vg>mUzakastatkarRa iva parRAnyAsyAH.</vg> (1)(undura
+358317:0:  te: kAnI)AKukarRyAm</1> <vn>mUzikakarRyAdayo'pyatra.</vn><page>vp6_0368.pdf</page><column>1</column><br/>
+358318:0:  te:  %mUzariPa% pu0 <reN>nIla0 tA0 ukte (1)iSarAPAKye yogaBede</1> <q>SIGro
+358319:0:  te: yadA mandagateraTEkamapyaMSamatyeti tadeSarAPaH. kAryyakzayo
+358320:0:  te: mUzariPe Kalogye sOmye na hillAjamatena cintyam.<q></reN><page>vp6_0368.pdf</page><column>1</column><br/>
+358321:0:  te:  %mUzika% puM strI0 <vkr>mUza-in.</vkr> (1)undurO amaraH</1> <vkr>strItve wAp
+358322:0:  te: mUzikaparRyoM strI Sabdara0 (3) mUzAyAM BarataH. </3><page>vp6_0368.pdf</page><column>1</column><br/>
+358323:1:  te:  %mUzikaparRI% strI <vg>mUzikakarRa iva parRAnyasyAH</vg> (1)jalajatfRaBede Sabdara0</1><page>vp6_0368.pdf</page><column>1</column><br/>
+358324:0:  te:  %mUzI% strI <vkr>mUza+in gO0NIz.</vkr> (1)svarRAdrerdrAvaRapAtre(sucI)
+358325:0:  te: mahAmUzike rAjani0.</2><page>vp6_0368.pdf</page><column>1</column><br/>
+358326:1:  te:  %mf% mftO <vkr>tu sArvaDAtuke luNi ASIrliNi ca A0 anyatra
+358327:0:  te: para0 aka0 aniw mriyate. amfta. mamAra marttAsi
+358328:0:  te: mfzIzwa.</vkr><page>vp6_0368.pdf</page><column>1</column><br/>
+358329:0:  te:  %mfkaRqa(Rqu)% pu0 (1)muniBede Sabdaca0.</1><page>vp6_0368.pdf</page><column>1</column><br/>
+358330:0:  te:  %mfkza% <vkr>(1)saMGAte BvA0 pa0 aka0 sew. mfkzati amfkzIt.</vkr><page>vp6_0368.pdf</page><column>1</column><br/>
+358331:1:  te:  %mfga% <vkr>(1)avezaRe (2)yAcane</2> ca ada0 cu0 A0 saka0 sew mfgayate
+358332:1:  te: amamugat</vkr><page>vp6_0368.pdf</page><column>1</column><br/>
+358333:0:  te:  %mfga% <vkr>(1)anvezaRe</1> divA0 para0 saka0 sew. mfgyati amargIt.</vkr><page>vp6_0368.pdf</page><column>1</column><br/>
+358334:0:  te:  %mfga% pu0 <vkr>mfga-ka.</vkr> (1)paSumAtre, (2)gajaBede, (3)aSvinyavaDike
+358335:0:  te: paYcame nakzatre pu0. a0 cu0 mfga0 <vkr>BAve ac.</vkr> (4)anvezaRe pu
+358336:1:  te: yAcane ca mede0 (6) yajYaBede (7)mArgaSIrze mAsi ajayaH
+358337:0:  te: ac. (8)mfgamade, BarataH (9)makararASO ca pu0 jyo0 ta
+358338:0:  te: hariRe amaraH</10> <vkr>sarvataH jAtO striyAM NIz</vkr> (11)naraBede
+358339:0:  te: mfge tuzwA ca citriRI<q>ratimaYjarI.</reN><page>vp6_0368.pdf</page><column>1</column><br/>
+358340:0:  te:  %mfgagAminI% strI <vg>mfga iva gacCati</vg> <vkr>gama Rini NIp
+358341:0:  te: viqaNgAyAm rAjani0. (2)mfgatulyagamanavati tri
+358342:0:  te: striyAM NIp.</vkr><page>vp6_0368.pdf</page><column>2</column><br/>
+358343:0:  te:  %mfgajIvana% pu0 <vg>mfgEstanmAMsAdivikrayABirjIvati</vg> <vkr>jIva-lyu. vyADe Sabdaca0.</vkr><page>vp6_0368.pdf</page><column>2</column><br/>
+358344:0:  te:  %mfgaRA% strI <vkr>mfga yuc wAp.</vkr> (1)nazwadravyasyAnvezaRe amaraH.</1><page>vp6_0368.pdf</page><column>2</column><br/>
+358345:0:  te:  %mfgatfzRA% strI <vg>mfgARAM tfzReva tfzRAhetutvAt.</vg> (1)sUryyakiraRe
+358346:1:  te: jalaBrAntO amaraH. </1> <vn>nirjaladeSasTaM sUryyakiraRaM dUrato
+358347:1:  te: vIkzya mfgErjalaBrAntyA tfzRArttE- sadBiH bamBramyate na ca
+358348:2:  te: laByate iti grIzme marudeSe sikatAdO patitaravikiraRezu
+358349:2:  te: jalaBrAntiritiH ca lokaprasidDim.</vn> <vkr>svArTe ka. tatrEva.</vkr><page>vp6_0368.pdf</page><column>2</column><br/>
+358350:3:  te:  %mfgadaMSaka% puM strI0 <vg>mfgaM daMSati</vg> <vkr>daMS Rvul.</vkr> (1)kukkure amaraH
+358351:0:  te: striyAM jAtitvAt NIz. </vkr><page>vp6_0368.pdf</page><column>2</column><br/>
+358352:1:  te:  %mfgaDUrttaka% puM strI0 <vg>mfgezu maDye DUrttakaH.</vg> (1)SfgAle amaraH striyA NIz</1><page>vp6_0368.pdf</page><column>2</column><br/>
+358353:0:  te:  %mfganABi% pu0 <vg>mfgasya nABiH janmaheturyasya.</vg> (1)kastUryyAm
+358354:0:  te: mfgamade amaraH.</1><page>vp6_0368.pdf</page><column>2</column><br/>
+358355:0:  te:  %mfganetrA% strI <vg>mfgo mfgaSiro nakzatraM netA prApakaH sarva
+358356:0:  te: rAtriprakASakatvAt yatra</vg> <vkr>acsamA0.</vkr> (1)sOramArgasya kiYci
+358357:0:  te: daDikatrayoviMSadinAvaDiSezaparyyantarAtrizu.</1><page>vp6_0368.pdf</page><column>2</column><br/>
+358358:1:  te:  %mfganABijA% strI <vg>mfgasya nABerjAyate</vg> <vkr>jana-qa.</vkr> (1)kastUryyAm
+358359:0:  te: hemaca0.</1><page>vp6_0368.pdf</page><column>2</column><br/>
+358360:0:  te:  %mfgapati% pu0 6 ta0. <vg>mfgARAM paSUnAM patiH svAmI.</vg> (1)siMhe  hemaca0 mfgeSAdayopyatra (2) siMharASE ca.</2><page>vp6_0368.pdf</page><column>2</column><br/>
+358361:0:  te:  %mfgapriya% na0 6 ta0. (1)parvatatfRe rAjani0.</1><page>vp6_0368.pdf</page><column>2</column><br/>
+358362:2:  te:  %mfgavaDAjIva% pu0 <vg>mfgavaDenAjIvati</vg> <vkr>A+jIva-ac.</vkr> (1)vyADe
+358363:0:  te: amaraH</1> <vn>mfgAjIvo'pyatra.</vn><page>vp6_0368.pdf</page><column>2</column><br/>
+358364:0:  te:  %mfgabanDanI% strI <vg>mfgobaDyate'nayA</vg> <vkr>banDa-karaRe lyuw NIp
+358365:0:  te: mfgabanDanArTe jAle amaraH.</1> <vkr>karaRasya karttftvavivakzAyAM
+358366:1:  te: Rini NIp.</vkr> <vn>mfgabanDinItyapyatra amare pAWAntaram.</vn><page>vp6_0368.pdf</page><column>2</column><br/>
+358367:0:  te:  %mfgaBakzyA% strI <vg>mfgErBakzyate</vg> <vkr>Bakza-karmaRi Ryat.</vkr> (1)jawAmAMsyAm
+358368:0:  te: rAjani0.<page>vp6_0368.pdf</page><column>2</column><br/>
+358369:0:  te:  %mfgamada% pu0 <vg>mfgasya mado garvo yasmAt.</vg> (1)kasteryyAm amaraH.</1><page>vp6_0368.pdf</page><column>2</column><br/>
+358370:1:  te:  %mfgamadavAsA% strI <vg>mfgamadasyeva vAsa sOraBamasyAH .</vg> (1)kastU
+358371:0:  te: rImallikAyAM rAjani0.</1><page>vp6_0368.pdf</page><column>2</column><br/>
+358372:2:  te:  %mfgayA% strI <vg>mfgaM yAtyanayA</vg> <vkr>yA-GaYarTe ka .</vkr> (1)(strIkAra)
+358373:0:  te: paSuvaDaPalake vyApAraBede AKewake amarakozaH.</1><page>vp6_0368.pdf</page><column>2</column><br/>
+358374:0:  te:  %mfgayu% pu0 <vkr>mfga-astyarTe yu.</vkr> (1)brahmaRi (2)SfgAle (3)vyADe ca
+358375:0:  te: medi0</3> <reN><q>mfgayumiva mfgo'Ta dakziRermA<q> BawwiH.</reN><page>vp6_0369.pdf</page><column>1</column><br/>
+358376:1:  te:  %mfgarasA% pu0 <vg>mfgo mfgamAMsaM tasyeva raso'syAH.</vg> (1)sahadevI
+358377:0:  te: latAyAm rAjani0.</1><page>vp6_0369.pdf</page><column>1</column><br/>
+358378:0:  te:  %mfgarAja% pu0 <vg>mfgARAM paSUnAM rAjA</vg> <vkr>wacsamA0.</vkr> (1)siMhe
+358379:1:  te: Sabdara0.</1> <vg>mfgeRa gajena rAjate</vg> <vkr>ac.</vkr> (2)candre. (3)siMhe
+358380:0:  te: rASO ca. (4)upacArAt mfgaSirAnakzatre ca.</4><page>vp6_0369.pdf</page><column>1</column><br/>
+358381:0:  te:  %mfgarAwikA% strI <vg>mfgaM rawati jIvyatvena</vg> <vkr>rawa-aR gO
+358382:0:  te: NIz svArTe ka.</vkr> (1)jIvantyAmozaDO rAjani0. </1><page>vp6_0369.pdf</page><column>1</column><br/>
+358383:0:  te:  %mfgaripu% pu0 6 ta0. (1)siMhe mfgaSatrupraBftayo'pyatra . (2)siMharASO ca.</2><page>vp6_0369.pdf</page><column>1</column><br/>
+358384:0:  te:  %mfgalAYCana% pu0 <vg>mfgo lAYCanaM yasya.</vg>  1 candre Sabdara0 . mfgA
+358385:1:  te: >NkAdayopyatra upacArAt 2 mfgaSirAnakzatre ca . <page>vp6_0369.pdf</page><column>1</column><br/>
+358386:0:  te:  %mfgavallaBa% na0 6 ta0. (1)kundaratfRe rAjani0.</1><page>vp6_0369.pdf</page><column>1</column><br/>
+358387:0:  te:  %mfgavAhana% pu0 <vg>mfgo vAhanaM yasya.</vg> (1)vAyO</1> <reN><q>DAvan hariRa
+358388:0:  te: pfzwatyaH<q> iti vAyuDyAnam.</reN> (2)svAtinakzatre ca.</2><page>vp6_0369.pdf</page><column>1</column><br/>
+358389:0:  te:  %mfgavya% na0 <vg>mfgAn vyaTate'tra</vg> <vkr>vyaTa-qa.</vkr> (1)mfgayAyAm amaraH.</1><page>vp6_0369.pdf</page><column>1</column><br/>
+358390:0:  te:  %mfgaSiras% na0 pu0. <vg>mfgasyeva Siro'sya.</vg> (1)aSvinyavaDike
+358391:0:  te: paYcame nakzatre</1> <vn>mfgaSirApyatra</vn> <vkr>strI wAp Sabdara0.</vkr> <vn>mfga
+358392:0:  te: SIrzan, na0 rAyasu0 mfgaSIrza pu0 etAvapyatra BarataH.</vn><page>vp6_0369.pdf</page><column>1</column><br/>
+358393:0:  te:  %mfgA% strI <vg>mfgo mfgamAMsatulyaraso'styasya</vg> <vkr>ac.</vkr> (1)sahadevI
+358394:0:  te: latAyAm rAjani0.</1><page>vp6_0369.pdf</page><column>1</column><br/>
+358395:2:  te:  %mfgAkzI% strI <vg>mfgasyevAkzi tattulyaM puzpaM vA yasyAH</vg> <vkr>acsamA
+358396:1:  te: NIz.</vkr> (1)viSAlAyAM (2)mfgatulyanayanavayAM striyAM ca
+358397:0:  te: medi0.</2> <vkr><page>vp6_0369.pdf</page><column>1</column><br/>
+358398:0:  te:  %mfgARqajA% strI <vn>mfgasyARqAkArAt nABisTitamAMsapiRqAt. jAyate jana-qa. kastUryyAm rAjani0. </vn><page>vp6_0369.pdf</page><column>1</column><br/>
+358399:1:  te:  %mfgAdana% puM strI0 <vg>mfgAn atti</vg> <vkr>ad-lyu.</vkr> (1)kzudravyAGre amaraH
+358400:0:  te: striyAM NIz.</vkr> <vn>mfgAntako'pyatra.</vn><page>vp6_0369.pdf</page><column>1</column><br/>
+358401:0:  te:  %mfgAdanI% strI <vg>mfga ivAdyate</vg> <vkr>ada-karmaRi lyuw.</vkr> (1)saha
+358402:1:  te: devyAm (2)indravAruRyAm(rAKAlaSaSA)(3) karkowIBede ca
+358403:0:  te: rAjani0. </3><page>vp6_0369.pdf</page><column>1</column><br/>
+358404:2:  te:  %mfgArAti% pu0 6 ta0. (1)kukkure SabdamA0 . (2)mfgaSatrO siMhe ca.(3) siMharASO ca. </3><page>vp6_0369.pdf</page><column>1</column><br/>
+358405:1:  te:  %mfgAri% pu0 6 ta0. (1)kukkure (2)siMhe (3)vyADre (4)raktaSoBAYjane
+358406:0:  te: ca rAjani0</4> <vn>tatsevane hi tasya nASaH .</vn> (5)siMharASO ca.</5><page>vp6_0369.pdf</page><column>1</column><br/>
+358407:1:  te:  %mfgAviDa% pu0 <vg>mfgaM viDyati</vg> <vkr>vyaDa+ kvip pUrvadIrGaH.</vkr> (1)vyADe
+358408:0:  te: jawADaraH.</1><page>vp6_0369.pdf</page><column>1</column><br/>
+358409:0:  te:  %mfgita% tri0 <vkr>mfga-kta.</vkr> (1)anvezite amaraH (2)yAcite ca.</2><page>vp6_0369.pdf</page><column>1</column><br/>
+358410:1:  te:  %mfgendra% puM strI0 <vg>mfgaH indra iva.</vg> (1)siMhe amaraH</1> <vkr>striyAM NIz.</vkr><page>vp6_0369.pdf</page><column>1</column><br/>
+358411:0:  te:  %mfgendracawaka% pu0 <vg>mfgendra iva hiMsraScawakaH pakzI.</vg> (1)Syena
+358412:0:  te: pakziRi jawA0.</1><page>vp6_0369.pdf</page><column>2</column><br/>
+358413:0:  te:  %mfgendrASI% strI <vg>mfgendreRa siMhenASyate Bakzyate</vg> <vkr>aSa-karmaRi
+358414:0:  te: GaYarTe ka gOrA0 NIz.</vkr> (1)vAsake rAjani0.</1><page>vp6_0369.pdf</page><column>2</column><br/>
+358415:0:  te:  %mfgervAru% strI <vg>mfgapriyA irvAruH karkowI.</vg> (1)SvetAyAmindra
+358416:0:  te: vAraRyAm (sAdA rAKAlaSaSA)rAjani0.</1><page>vp6_0369.pdf</page><column>2</column><br/>
+358417:0:  te:  %mfgezwa% pu0 6 ta0. (1)mudgavfkze rAjani0.</1><page>vp6_0369.pdf</page><column>2</column><br/>
+358418:3:  te:  %mfgekzaRA% strI <vg>mfgasya IkzaRamivekzarRA puzpaM vA yasyAH
+358419:0:  te: mfgervArO rAjani0 (2) mfgatulyanetrAyAM striyAM ca.</2><page>vp6_0369.pdf</page><column>2</column><br/>
+358420:0:  te:  %mfja% <vkr>(1)SoDane (2)BUzaRe</2> ca vA cu0 uBa0 pakze adA0 saka0 vew
+358421:0:  te: mArjayati-te mArzwi amImfjat-ta amamArjat-ta amA
+358422:0:  te: rkzIt AmrAkzIt amfkzat zit mfjA. </vkr><page>vp6_0369.pdf</page><column>2</column><br/>
+358423:0:  te:  %mfjA% strI <vkr>mfja-aN.</vkr> (1)mArjane amaraH</1> <reN><q>SirasA ca mfjAyatA<q> BawwiH</reN><page>vp6_0369.pdf</page><column>2</column><br/>
+358424:0:  te:  %mfqa% <vkr>(1)tozaRe</1> kryA0 tu 0 ca para0 saka0 sew. mfqRAti
+358425:0:  te: mfqati amarqIt mamarqa
+358426:0:  te: mfqa% pu0 mfqa--ka . 1 Sive amaraH 2 tatpamtyAm strI NIz Anuk ca mfqAnI .<page>vp6_0369.pdf</page><column>2</column><br/>
+358427:0:  te:  %mfRA% <vkr>(1)hiMse</1> tu0 pa0 saka0 sew. mfRAti amarRIt. </vkr><page>vp6_0369.pdf</page><column>2</column><br/>
+358428:2:  te:  %mfRAla% puMna0 <vkr>mfRa-kAlan.ca</vkr> (1)padmAdernAlasTe sUtre amaraH
+358429:1:  te: vIraRamUle na0 medi0</2> <vkr>gOrA0 NIz.</vkr> (3)mfRAlItyapi
+358430:0:  te: bisatantO strI rAjani0.</3><page>vp6_0369.pdf</page><column>2</column><br/>
+358431:0:  te:  %mfRAlin% strI <vg>mfRAlaM vidyate'sya</vg> <vkr>ac mfRAlaM padmaM tataH
+358432:0:  te: samUhe tadyuktadeSe vA ini .</vkr> (1) padmasamUhe (2)padmayuktadeSe
+358433:0:  te: tadyuktalatAyAYca jawA0.</3><page>vp6_0369.pdf</page><column>2</column><br/>
+358434:0:  te:  %mfta% na0 <vkr>mf-BAve kta.</vkr> (1)maraRe. (2)tattulyaduHKajanake yAci
+358435:0:  te: take vfttO ca amaraH.</2> <vkr>karttari kta.</vkr> (3)gataprARe tri0.</3><page>vp6_0369.pdf</page><column>2</column><br/>
+358436:0:  te:  %mftaka% na0 <vg>mftena maraRena kAyati</vg> <vkr>kE-ka.</vkr> (1)maraRASOce
+358437:1:  te: sUtake mftake'Ta vA'iti smftiH.</reN><page>vp6_0369.pdf</page><column>2</column><br/>
+358438:0:  te:  %mftakalpa% tri0 <vg>IzadasamApto mftaH</vg> <vkr>mfta+ kalpam.</vkr> (1)mftaprAye.</1><page>vp6_0369.pdf</page><column>2</column><br/>
+358439:0:  te:  %mftakAntaka% puM strI0 <vg>mftaH SavadehaH kAnto'Bimato yasya
+358440:0:  te: kap.</vkr> (1)SfgAle hArA0</1> <vkr>striyAM NIz.</vkr><page>vp6_0369.pdf</page><column>2</column><br/>
+358441:0:  te:  %mftajIva% pu0 <vg>mftaH nazwaH san punarjIvati</vg> <vkr>jIva-ac
+358442:0:  te: tilakavfkze rAjani0.</1><page>vp6_0369.pdf</page><column>2</column><br/>
+358443:0:  te:  %mftavatsA% strI <vg>mfto vatso yasyAH.</vg> (1)mftApatyAyAM striyAM
+358444:0:  te: strIgavyAYca</2> <reN><q>mftavatsA ca yA nArIti<q>tantram.</reN><page>vp6_0369.pdf</page><column>2</column><br/>
+358445:0:  te:  %mftasaYjIvanI% strI <vg>mftAn saMjIvayati</vg> <vkr>sam+jIva-Ric
+358446:0:  te: lyu gOrA0 NIz.</vkr> (1)gorakzadugDAyAmozaDO rAjani
+358447:0:  te: tantrokte (2)vidyABede ca. </2><page>vp6_0369.pdf</page><column>2</column><br/>
+358448:0:  te:  %mftasnAta% tri0 <vg>mftaM maraRaM tannimittaM snAtaH</vg> <vkr>snA-kta.</vkr><page>vp6_0369.pdf</page><column>2</column><br/>
+358449:0:  te:  %mftAlaka% na0 <vg>mftamAlayati BUzayati</vg> <vkr>ala-Ric-Rvul
+358450:1:  te: AQakyAm amaraH.</1> <vkr>mft mfttikA tAlaH pratizWA yasya
+358451:0:  te: vA kap.</vkr> (2)mfttAlakamapyatra Sabdara0. (3)sOrAzdramfdi rAjani0.</3><page>vp6_0370.pdf</page><column>1</column><br/>
+358452:1:  te:  %mfttikA% strI <vkr>mfd+tikan wAp.</vkr> (1)mfdi (mAwi)sA
+358453:0:  te: kzetratvenA'styasya</1> <vkr>ac wAp.</vkr> (2)AQakyAm rAjani0.</2><page>vp6_0370.pdf</page><column>1</column><br/>
+358454:2:  te:  %mftPalI% strI <vg>mfdi PalamasyAH</vg> <vkr>NIz.</vkr> (1)kuzWOzaDO. (kuqa)
+358455:0:  te: hArA0.</1><page>vp6_0370.pdf</page><column>1</column><br/>
+358456:0:  te:  %mftyu% pu0 <vkr>mf-tyuk.</vkr> (1)yame hema0 dehAdiByaH (2)prARaviyoge
+358457:0:  te: vijAtIyAtmamanaHsaMyoganASe vA (3)maraRe ca amaraH
+358458:0:  te: mftyoH sa mftyu mApnoti<q>SrutiH</reN> (4)BayAt mAyAyAM jAte
+358459:0:  te: putraBede pu0</4> <reN>BayAjjYe'Ta vE mAyA mftyuM BUtApahA
+358460:0:  te: riRam. nirftiSca taTA kanyA mftyorBAryyA'Bavanmune
+358461:1:  te: alakzmIrnAma tasyAM ca mftyoH putryAScaturdaSa<q> mArka0 pu0.</reN><page>vp6_0370.pdf</page><column>1</column><br/>
+358462:0:  te:  %mftyuYjaya% pu0 <vg>mftyuM jayati</vg> <vkr>ji-ac.</vkr> (1)mahAdeve amaraH
+358463:0:  te: katiDA mftyukanyAnAM brahmaRAM kowiSolaye. kAle na
+358464:0:  te: lInaH SamBuSca sattvarUpI ca nirguRaH. mftyukanyA
+358465:1:  te: jitA SaSvat Sivena guruRA mama. na mftyunA jitaH
+358466:0:  te: SamBuH kalpe kalpe SrutO Srutam<q>brahmavE0 pra0 51 a0.</reN><page>vp6_0370.pdf</page><column>1</column><br/>
+358467:1:  te:  %mftyunASaka% pu0 <vg>mftyuM nASayati</vg> <vkr>nASi-Rvul.</vkr> (1)pArade
+358468:0:  te: rAjani0</1> <vn>tasya hi rasAyanakriyAdinA SoDayitvA sevane
+358469:2:  te: mftyunASakatvam.</vn> (2)mftyunASakamAtre tri0.</2><page>vp6_0370.pdf</page><column>1</column><br/>
+358470:1:  te:  %mftyupuzpa% pu0 <vg>mftyave svAmimaraRAya puzpaM yasya.</vg> (1)ikzO
+358471:0:  te: ratnamA0</1> <vn>tasmin puzpite hi tatsvAmino nASaH.</vn><page>vp6_0370.pdf</page><column>1</column><br/>
+358472:0:  te:  %mftyuPalA% strI <vg>mftyave svanASAya PalaM yasyAH.</vg> (1)kadalyAM
+358473:0:  te: medi0</1> <vn>PalapAke hi tasyA nASo lokasidDaH. </vn><page>vp6_0370.pdf</page><column>1</column><br/>
+358474:0:  te:  %mftyubIja% pu0 <vg>mftyustadDeturdAha eva bIjaM kAraRamasya.</vg> (1)vaMSe trikA0</1><page>vp6_0370.pdf</page><column>1</column><br/>
+358475:1:  te:  %mftyusUti% strI <vg>mftyave sUtiH prasavo'syAH.</vg> <vn>karkawakayoziti
+358476:0:  te: prasavena hi tasyA nASaH</vn> <reN><q>yaTA karkawakI garBamAdatte
+358477:0:  te: mftyave nijam<q>iti purARam.</reN><page>vp6_0370.pdf</page><column>1</column><br/>
+358478:3:  te:  %mft(sa)snA% strI <vkr>mfdu+praSastArTe sa sna vA .</vkr> (1)praSastamfttikA
+358479:0:  te: yAm amaraH.</1> <vkr>arSaAdyac snAntaH.</vkr> (2)AQakyAm amaraH.</2><page>vp6_0370.pdf</page><column>1</column><br/>
+358480:0:  te:  %mfda% <vkr>(1)kzode</1> kryA0 pa0 saka0 sew. mfdgAti amarddIt mamarda.</vkr><page>vp6_0370.pdf</page><column>1</column><br/>
+358481:1:  te:  %mfdu(dA)% strI <vkr>mfdyate mfda-karmaRi kvip.</vkr> (1)mfttikAyAm
+358482:0:  te: (mAwI)amaraH</1> <vkr>halantatvAt vA wAp.</vkr> <vn>mfdApyatra</vn><page>vp6_0370.pdf</page><column>1</column><br/>
+358483:0:  te:  %mfdaNga% pu0 <vkr>mfda aNgac kicca.</vkr> (1)vAdyaBede amaraH. (2)kozA
+358484:1:  te: takyAM strI ratnamA0</2> <vkr>gOrA0 NIz.</vkr><page>vp6_0370.pdf</page><column>1</column><br/>
+358485:0:  te:  %mfdaNgaPala% pu0 <vg>mfdaNga iva Palamasya.</vg> (1)panasavfkze Sabdara0.</1><page>vp6_0370.pdf</page><column>1</column><br/>
+358486:0:  te:  %mfdaNgaPalinI% strI <vg>mfdaNga iva PalamastyasyA</vg> <vkr>ini NIp
+358487:1:  te: kozAtasyAm rAjani0.</1> <vn>tatPalaM sAmyA dastyasya <vkr>ac
+358488:0:  te: mfdaNgatulyaPale panasavfkze pu0 Sabdara0.</1><page>vp6_0370.pdf</page><column>1</column><br/>
+358489:1:  te:  %mfdu% tri0 <vkr>mfda-ku.</vkr> (1)komale amaraH.</1> <vkr>striyAM vA NIp
+358490:0:  te: mfdvI maduH.</vkr> sA ca (2)gfhakanyAyAm. (3)citrAnurADA
+358491:0:  te: mfgarevatInakzatrarUpe nakzatragaRaBede ca tri0 jyo0 ta0.</3><page>vp6_0370.pdf</page><column>2</column><br/>
+358492:3:  te:  %mfducarmin% pu0 <vg>mfdu komalaM carma tvacAstyasya</vg> <vkr>vrIhyAM0 ini
+358493:0:  te: BUrjavfkze rAjani0.</1><page>vp6_0370.pdf</page><column>2</column><br/>
+358494:0:  te:  %mfducCada% pu0 <vg>CAdyate'nena CadaH tvak</vg> 6 ba0. (1)BUrjavfkze
+358495:0:  te: parvatajapIluvfkze jawA0 (3) kukkuravfkze (4)SrItAlavfkze ca
+358496:0:  te: rAjani0.</4><page>vp6_0370.pdf</page><column>2</column><br/>
+358497:0:  te:  %mfdutAla% strI karma0. (1)SrItAlavfkze (teqeta)rAjani0.</1><page>vp6_0370.pdf</page><column>2</column><br/>
+358498:1:  te:  %mfdutvac(ca)% pu0 <vg>mfduH tvak tvacA vA yasya.</vg> (1)BUrjatvacavfkze
+358499:0:  te: amaraH.</1><page>vp6_0370.pdf</page><column>2</column><br/>
+358500:0:  te:  %mfdupattra% pu0 <vg>mfdUni pattrARyasya.</vg> (1)nale rAjani0. karma
