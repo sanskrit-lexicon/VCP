@@ -1,13 +1,17 @@
-VCP
-===
+# VCP
 
-Vachaspatyam
+Sanskrit dictionary digitization and corrections repository in the Sanskrit Lexicon project.
 
-## verbs01
-Feb 2020.  Analysis of the verbs and prefixed verbs in VCP, with comparison
-to MW verbs. Details provided in the readme.txt file therein.
- See https://github.com/sanskrit-lexicon/VCP/issues/9 and
-     https://github.com/sanskrit-lexicon/VCP/issues/10
-and also https://github.com/sanskrit-lexicon/SKD/issues/9 (for 
-    work comparing  skd and vcp verbs)
+## Issues
 
+This repository uses the Sanskrit Lexicon unified issue taxonomy with:
+- **9 type labels**: link-target, link-splitting, markup, text-correction, content-enhancement, encoding, scan-quality, bug, question
+- **3 severity levels**: minor, medium, hard
+- **4 milestones**: Dictionary to Book, Digitization Quality, Structured Data, Major Enhancements
+
+## GitHub Issue Conventions
+
+All issues follow the unified taxonomy. See [CLAUDE.md](CLAUDE.md) for details.
+
+---
+*Updated by Cologne Issue Runbook*
