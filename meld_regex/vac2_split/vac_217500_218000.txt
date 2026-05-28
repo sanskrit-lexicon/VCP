@@ -1,0 +1,500 @@
+217501:1:  te: saha manaHsaMyogasya hetutvAt tadaBAvAdeva na cAkzuzAdi
+217502:1:  te: pratyakzaM, jYAnAderaBAvAdeva na mAnasapratyakzaM, jYAnAdyaBAve
+217503:0:  te: ca nAtmano'pi pratyakzamiti. vyAptijYAnABAvAt nAnu
+217504:0:  te: mitiH, sAdfSyajYAnABAvAt nopamitiH, padajYAnABAvAt
+217505:0:  te: na SAbdaboDaH, ityanuBavasAmagryaBAvAt nAnuBavaH
+217506:0:  te: udboDakABAvAcca na smaraRam. mEvaM suzuptiprAkkAlot
+217507:0:  te: pannecCAdivyaktestatsambanDenAtmanaSca pratyakzaprasaNgAt tadatI
+217508:5:  te: ndriyatve mAnABAvAt suzuptipAkkAle nirvikalpameka jIyata
+217509:0:  te: ityatrApi pramARABAvAt. aTa jYAnamAtre tvaNmanaH
+217510:0:  te: saMyogasya yadi kAraRatvaM tadA rAsanacAkzuzAdipratyakza
+217511:0:  te: kAle spArSanapratyakzaM syAt vizayendriyasaMyogasya
+217512:2:  te: vizayatvakasaMyogasya ca tadA sattvAt parasparapratibanDA
+217513:1:  te: dekamapi vA na syAditi. atra kecit pUrvoktayuktyA
+217514:0:  te: tvaNmanoyogasya hetutve sidDe cAkzuzAdisAmagryAH
+217515:0:  te: spArSanAdipratibanDakatvamanuBavAnuroDAt kalpyate iti
+217516:1:  te: anye tu suzuptyanuroDAt carmamanaHsaMyogasya jYAna
+217517:2:  te: hetutvaM kalpyaM vAkzuzAdipratyakzakAle tvaDi manaH
+217518:2:  te: saMyogAtAvAnna syArSanapratyakzamiti vadanti. carmmatva
+217519:0:  te: corBeda iti tu rahasyam. <reN>tvacaSca saptaviDA yaTAha suSrutaH
+217520:1:  te: tasya Kyalvevampravfttasya SukraSoRitasyABipacyamAnasya
+217521:0:  te: kzIrasyeva sAntAnikAH sapta tvaco Bavanti. tAsAM praTamA
+217522:1:  te: 'vamAsinI nAma yA sarvvavarRAnavaBAsayati paYcaviDAYca
+217523:0:  te: CAyAM prakASayati sA vrIherazwAdaSaBAgapramARA siDmapadma
+217524:2:  te: kaRwakADizWAnA, dvitIyA lohitA nAma zoqaSaBAga
+217525:0:  te: pramARA tilakAlakanyacCavyaNgADizWAnA, tftIyA SvetA
+217526:0:  te: nAma dvAdaSaBAgapramARA carmmadalAjagallImaSakADizWAnA
+217527:0:  te: caturTI tAmrA nAmAzwaBAgapramARA viviDakilAsakuzWADi
+217528:1:  te: zWAnA, paYcamI vedinI nAma vrIhipaYcaBAgapramARA
+217529:0:  te: kuzWavisarpADizWAnA, zazWI rohiRI nAma vrIhipramARA
+217530:0:  te: granTyapacyarvudaSlIpada galagaRqADizWAnA, saptamI mAMsaDarA
+217531:0:  te: nAmavrIhidvayapramARA BagandaravidraDyarSo'DizWAnA  yade
+217532:0:  te: tatpramARaM nirdizwaM tanmAMsalezvavakASezu na lalAwasUkzmA
+217533:0:  te: NgANGrAdizu. yato vakzyatyudarezu vrIhimuKenANguzWo
+217534:0:  te: darapramARamavagAQaM viDyediti
+217535:1:  te: PalakavivftiyuktikalpatarO yaTA
+217536:1:  te: SarIrAvarakaM SastraM carma ityaBiDIyate. tatpuna
+217537:0:  te: rdviviDaM kAzWacarmmasamBavaBedataH. SarIrAvarakatvaYca
+217538:0:  te: laGutA dfQatA taTA. durBedyateti kaTitaScarmaRAM guRa
+217539:0:  te: saMgrahaH. sitoraktastaTA pItaH kfzRa ityaBiSabditaH
+217540:0:  te: brahmAdijAtiBedena carmmaRAM varRa nirRayaH. citravarRastu
+217541:1:  te: sarvezAM sarvadEvopapadyate<q> iti BojadevaH.</reN><page>vp4_429.pdf</page><column>2</column><br/>
+217542:1:  te:  %carmanAlikA% strI <vg>carmmanirmmitA nAlikeva.</vg> (1)kazAyAM
+217543:0:  te: tAqanyAM (koqA) SabdArTaci0.</1><page>vp4_430.pdf</page><column>1</column><br/>
+217544:1:  te:  %carmapawwikA% strI <vg>carmmanirmmitA pawwikA.</vg> (cAmAwI) (1)carmma
+217545:0:  te: mayapawwikAyAm SabdArTaci0.</1><page>vp4_430.pdf</page><column>1</column><br/>
+217546:1:  te:  %carmapatrA% strI <vg>carmmeva patraM pakzo'syAH.</vg> (cAmacikA) (1)ajinapatrAyAM jawA0.</1><page>vp4_430.pdf</page><column>1</column><br/>
+217547:3:  te:  %carmapAdukA% strI <vg>carmamayI pAdukA.</vg> (1)carmakftapAdatrARe
+217548:0:  te: tato brahmacArI anena mantreRa carmapAduke pAdayornida
+217549:0:  te: DyAt<q> BavadevaH.</reN><page>vp4_430.pdf</page><column>2</column><br/>
+217550:1:  te:  %carmapuwa(ka)% pu0 <vg>carmamayaM puwamatra</vg> <vkr>vA kap.</vkr> (1)dftisaMjYake carmamayapAtraBede (kupA) medi0.</1><page>vp4_430.pdf</page><column>2</column><br/>
+217551:1:  te:  %carmapraBedikA% strI <vg>carmma praBinatti</vg> <vkr>pra+Bida-Rvul wApi
+217552:0:  te: ata ittvam 6ta0.</vkr> (1)carmaveDane'straBede amaraH</1><page>vp4_430.pdf</page><column>2</column><br/>
+217553:1:  te:  %carmaprasevikA% strI <vg>carmaRA prasIvyate</vg> <vkr>pra+siva-vA0 karmmaRi
+217554:0:  te: vun wApi ata ittvam.</vkr> (1)BastrAyAm agnisandIpa
+217555:0:  te: nArTe carmamaye yantraBede amaraH.</1><page>vp4_430.pdf</page><column>2</column><br/>
+217556:1:  te:  %carmamaRqala% pu0 ba0 va0. (1)deSaBede</1> <reN><q>aparAntAH parAntASca
+217557:0:  te: pahnavAScarmamaRqalAH<q> BA0 BI0 9a0 deSoktO.</reN><page>vp4_430.pdf</page><column>2</column><br/>
+217558:1:  te:  %carmamaya% tri0 <vg>carmaRovikAraH</vg> <vkr>mayaw.</vkr> (1)carmanirmite pAtrAdO
+217559:1:  te: striyAM NIp.</vkr> <reN><q>dvIpicarmAvanadvESca vyAGracarmamayErapi
+217560:4:  te: BI0 Ba0 46a0.</reN> <reN><q>yaTA kAzmayo hastI yaTA
+217561:0:  te: carmamayo mfgaH<q> manuH.</reN><page>vp4_430.pdf</page><column>2</column><br/>
+217562:1:  te:  %carmamuRqA% strI <vkr>cAmuRqA+pfzo0.</vkr> (1)durgAyAM hemaca0.</1><page>vp4_430.pdf</page><column>2</column><br/>
+217563:2:  te:  %carmamudrA% strI <reN><q>vAmahastaM taTA tiryak kftvA cEva prasAryya
+217564:0:  te: ca. AkuYcitANgulIH kuryyAt carmamudreyamIritA
+217565:0:  te: tantrasArokte (1)devapUjANge mudrABede.</1></reN><page>vp4_430.pdf</page><column>2</column><br/>
+217566:4:  te:  %carmamnA% tri0 <vg>carmamaye kavacAdO manati aByasyati</vg> <vkr>ntrA-ka
+217567:0:  te: carmamayakavacAdO kftAByAse.</1> <reN><q>kfzwayaScarmamnA aBito
+217568:0:  te: janAH<q> f0 8.5.38.</reN> <reN><q>sADyeByaScarmamnam<q> yaja
+217569:0:  te: puruzaBede devaBedoddenAlaByapuruzaBedoktO.</2><page>vp4_430.pdf</page><column>2</column><br/>
+217570:1:  te:  %carmayazwi% strI <vg>carmamayI yazwiriva.</vg> (1)aSvAdestAqanyAM
+217571:0:  te: (koqA). SabdArTaci0.</1><page>vp4_430.pdf</page><column>2</column><br/>
+217572:2:  te:  %carmaraNgA% strI <vg>carmaRe raNgo'syAH.</vg> (1)AvarttakIlatAyAM
+217573:0:  te: viBARqyAm rAjani0. (2)deSaBede pu0</2> <vn>sa cadeSaH vf0sa
+217574:0:  te: kUrmaviBAge 14a0paScimottaradiSi uktaH. <reN><q>diSi paSci
+217575:0:  te: mottarasyAm<q></reN> <reN>ityupakrame <q>guruhAmarukacCacarmaraNgAKyAH<q>.</reN></vn><page>vp4_430.pdf</page><column>2</column><br/>
+217576:2:  te:  %carmarI% strI <vkr>carma-rAti rA-ka gOrA0 NIz.</vkr> (1)sTAvara
+217577:0:  te: vizAntargate Palavize latABede.</1> <reN><q>kumudvatIreRukAkaramBa
+217578:0:  te: karkowakareRukaKadyotakacarmarItyupakrame PalavizAH<q> suSru0.</reN><page>vp4_430.pdf</page><column>2</column><br/>
+217579:1:  te:  %carmaru% pu0 <vkr>carmma-rAti rA-bA0 ku.</vkr> (1)carmmakAre trikA0.</1><page>vp4_430.pdf</page><column>2</column><br/>
+217580:1:  te:  %carmavat% tri0 <vkr>carmman+astyarTe matup masya vaH asaMjYAtvAt
+217581:0:  te: na ni0.</vkr> (1)carmmayukte</1> <vkr>striyAM NIp.</vkr> <reN><q>lohacarmmavatI
+217582:3:  te: cApi sAgniH saguqagfzwikA<q> BA0 va0 15a
+217583:5:  te: subalAtmajaBede pu0.</2> <reN><q>gajogavAkzo vfzaBaScarmma vAnArjavaH
+217584:5:  te: SukaH. zaqete balasampannA niyeyurmahato balAt<q> ityupa
+217585:0:  te: krame <q>amfzyamARAste sarve subalasyAtmajAraRe<q> BA
+217586:0:  te: mI0 91a0 ityuktam.</reN><page>vp4_430.pdf</page><column>2</column><br/>
+217587:1:  te:  %carmavasana% pu0 <vg>carma gajAsuracarma vasanamasya.</vg> (1)kfttivAsasi
+217588:2:  te: Sive</1> <vn>kfttivAsasSabde dfSyam.</vn><page>vp4_431.pdf</page><column>1</column><br/>
+217589:1:  te:  %carmavfkza% pu0 <vg>carmapraDAnaH carmatulyavalkapraDAnovfkzaH
+217590:2:  te: BUrjavfkze.</1> <reN><q>svarjUrA nArikelASca carmavfkzo haritakI
+217591:0:  te: harivaM0. 31a0.</reN><page>vp4_431.pdf</page><column>1</column><br/>
+217592:1:  te:  %carmasamBavA% strI <vg>carmaRi tvaci samBavati</vg> <vkr>sam+BU-ac
+217593:0:  te: sTUlElAyAM hArA0.</1> <vn>tatPalasya tvaNmaDye samBavAttasyA
+217594:0:  te: staTAtvam.</vn><page>vp4_431.pdf</page><column>1</column><br/>
+217595:3:  te:  %carmasAra% pu0 <vg>carmaRaH sAraH.</vg> (1)rase rAjani0.</1> <vn>BuktAnnAdeH
+217596:0:  te: rasasva tvagmaDye jAyamAnatvAt tasya taTAtvam.</vn><page>vp4_431.pdf</page><column>1</column><br/>
+217597:1:  te:  %carmAmBas% pu0<vg>carmaRo'mBaH.</vg> (1)carmmAntarasTe rase rAjani
+217598:0:  te: BuktAnnAdirasasya carmAByantarasTatvAttasya taTAtvam.</vn><page>vp4_431.pdf</page><column>1</column><br/>
+217599:2:  te:  %carmAra% pu0 <vg>carma SilpasADanatayA fcCati</vg> <vkr>f-aRa. upa
+217600:0:  te: sa0.</vkr> (1)carmakAre jawA0.</1><page>vp4_431.pdf</page><column>1</column><br/>
+217601:4:  te:  %carmAvakarttin% pu0 <vg>carma avakfntati svaSilpanirvAhAya
+217602:0:  te: ava+kftI cCede Rini.</vkr> (1)carmakAre.</1> <reN>tadannaBakzaRaM manunA
+217603:0:  te: nizidDaM yaTA <q>AyuH suvarRakArARAM yaSaScarmAkavartti
+217604:0:  te: nAm<q>.</reN><page>vp4_431.pdf</page><column>1</column><br/>
+217605:2:  te:  %carmika% tri0 <vg>carma carmamayaM PalakaM (QAla). yudDasADanatayA'
+217606:1:  te: styasya</vg> <vkr>brIhyA0vA Wan.</vkr> (1)carmamayaPalakena yodDari (QAlI)
+217607:0:  te: tasya BAvaH karma vA purohitA0 yak. cArmikya
+217608:0:  te: tadBAve na0.</vkr><page>vp4_431.pdf</page><column>1</column><br/>
+217609:1:  te:  %carmin% tri0 <vg>carma dehAvarakaM (QAla) PalakaM vA astyasya</vg> <vkr>vA
+217610:0:  te: ini wilopaH.</vkr> (1)carmayukte (QAli) KyAte carmike
+217611:0:  te: nAge nAge daSa raTA SatamaSvA raTe raTe. aSve'Sve daSa
+217612:0:  te: DAnuzkA DAnuzke daSa carmiRaH<q> BA0 BI0 20 a
+217613:1:  te: carmARi valkalAnyasyAM santi</vg> <vkr>vA ini.</vkr> (2)BUrjavfkze
+217614:0:  te: amaraH. (3)kadalyAM (4)BfNgarIwe ca pu0 Sabdara0.</4><page>vp4_431.pdf</page><column>1</column><br/>
+217615:2:  te:  %caryA% strI <vkr>cara-<reN><q>paricaryyAparisaryyetyAdi<q> pA0</reN> parItyasyA
+217616:0:  te: vivakzAtaH BAve kyap.</vkr> (1)AcAramAtre</1> <reN><q>vanavAsasya SUrasya
+217617:2:  te: mama caryA hi rocate<q> rAmA0 a0 29.15.</reN> (2)gatO
+217618:0:  te: caryyAyAM hayamutsfzwam<q> BA0 A0 637 Slo
+217619:1:  te: IryyApaTasTitO parivrAjakAdInAM vratAnuzWAne niyamA
+217620:1:  te: parityAge.</3> <vkr><reN><q>gadamadacaretyAdi<q> pA0</reN> karmaRi yat
+217621:0:  te: anuzWeye AcaraRIye tri0</4> <reN><q>zawtriMSadAbdikaM caryyaM gurO
+217622:9:  te: trEvedikaM matam<q></reN> <vkr>maNKaH BAve yat.</vkr> (5)avaSyacaraRe na0.</5><page>vp4_431.pdf</page><column>1</column><br/>
+217623:1:  te:  %carva% (1)BakzaRe dantEScUrRane(civAna)</1> <vkr>vA curA0 uBa0 pakze BvA
+217624:0:  te: para0 saka0 sew. carvayati-te carvati acacarvat ta
+217625:0:  te: acarvIt carvayAM baBUva Asa cakre cacarva. carvaRaM carvaRA
+217626:0:  te: carvitaH.</vkr> <vn>rasAsvAdavyApAre carvaRaSabde dfSyam.</vn><page>vp4_431.pdf</page><column>2</column><br/>
+217627:2:  te:  %carvaRa% na0 <vkr>carva-BAve lyuw.</vkr> (1)dantEScUrRane (civAna) (2)rasA
+217628:0:  te: svAdavyApAraBede ca sA0 da0.</2> <vkr>yuc carvaRApyatra strI
+217629:0:  te: pramARaM carvaREvAtra svABinne viduzAM matam<q> carvaRA''
+217630:0:  te: svAdanam.</reN> <reN>tacca <q>svAdaH kAvyArTasamBedAdAtmAnandasamudBavaH
+217631:1:  te: nizpatyA carvaRasyAsya nizpattirupacArataH<q> <q>yadyapi
+217632:1:  te: rasABinnatayA carvaRasyApi na kAryatvaM taTApi tasya kA
+217633:1:  te: dAcitkatayA upacaritena kAryyatvena kAryyatvamupacaryate
+217634:0:  te: iti ca sA0da0.</reN><page>vp4_431.pdf</page><column>2</column><br/>
+217635:1:  te:  %carvA% strI <vkr>carva-aN.</vkr> (1)carvaRe (2)talaprahAre SabdArTaci0.</2><page>vp4_431.pdf</page><column>2</column><br/>
+217636:0:  te:  %carvvita% tri0 <vkr>carva-karmaRi kta.</vkr> (1)Bakzite dantEScUrRIkfte
+217637:0:  te: AsvAdite ca.</2><page>vp4_431.pdf</page><column>2</column><br/>
+217638:8:  te:  %carvitapAtra% na0 6ta0. carvitasya tAmbUlAdestyAgArTaM pAtram
+217639:6:  te: (pikadAnI) KyAte patadgrahe. <reN><q>tAmbUlaM darpaRaM
+217640:1:  te: pAnapAtraM carvitapAtrakam<q> padmapu0 pA0 a0.</reN><page>vp4_431.pdf</page><column>2</column><br/>
+217641:0:  te:  %carvya% tri0 <vkr>carva-karmaRi Ryat yat vA.</vkr> (1)dantEScUrRanIye BakzyaBede
+217642:2:  te: AhAraSabde BAvaprakA0 vAkyam yaTA <q>BojyaM
+217643:0:  te: BakzyaM taTA carvyaM guru vidyAt yaTottaram. carvyaM ca
+217644:0:  te: cipiwakacaRakAdi<q>.</reN> <reN><q>zawkowiM brAhmaRAnAYca BojayA
+217645:0:  te: mAsa nityaSaH. cyUzyapeyalehyacarvyEratitfptiM dine dine
+217646:0:  te: vra0 vE0 pu0.</reN><page>vp4_431.pdf</page><column>2</column><br/>
+217647:0:  te:  %carzaRi% pu0 <vkr>kfza-ani <reN><q>AdeSca caH<q> uRA0.</reN></vkr> (1)manuzye niDa
+217648:1:  te: yaekaScarzaRInAM vasUnAm<q> f01.7.9</reN> <reN><q>aryamRo
+217649:0:  te: mAtfkA patnI tayoScarzaRayaH sutAH. yatra vE mAnuzI jAti
+217650:0:  te: rbrahmaRA copakalpitA<q> BAga0 6.6.31 SlokaH,</reN> <reN>tadvyA
+217651:0:  te: KyAyAM carzaRayaH kftAkftajYAnavantaH<q> SrIDaraH.</reN> <vn>vicarzaRi
+217652:0:  te: viSvacarzaRItyAdinA niGaRwO carzateH paSyatikarmasU
+217653:0:  te: ktatvena taTArTatvam.</vn> <reN>asyAyamaBiprAyaH <q>kfzerAdeSca caH
+217654:1:  te: uRA0 2.103.</reN> <vn>sUtre ujjvaladattena <reN><q>AdeSca DaH<q> iti
+217655:3:  te: paWitvA DarzaRiH vanDakItyudAhftam. ataScarzaRinizpa
+217656:1:  te: ttirniGaRwuproktacarzaDAtoreva. <reN>si0kA0tu <q>AdeSca caH
+217657:1:  te: iti<q></reN> pAWAt kfzaDAtoreva tacCabdanizpattiriti BedaH
+217658:0:  te: tayoryuktAyuktatve suDIBirBAvye. <vkr>kfdikArAntatvAt striyAM
+217659:0:  te: vA NIp.</vkr></vn> (2)puM ScalyAM strI</2> <reN>sacarzaRInAmudagACuco
+217660:3:  te: mujan<q> BAma0 10.29.3.</reN> <vkr>vAkyasya carzaRInAM puMScalInAm
+217661:3:  te: a ityarDaparatvaM yuktam. manuzyajAtiparatve striyAM vA
+217662:2:  te: NIp.</vkr> <reN><q>idamuktA carzaRIDftA<q> f0 8.90.5.</reN> <reN>carzaRI
+217663:0:  te: DftA'surahananadvAreRa manuzyajAtiDArakavajreRa<q> BA0</reN><page>vp4_431.pdf</page><column>2</column><br/>
+217664:4:  te:  %cala% (1)gatO</1> <reN>vkrvBvA0 para0 saka0 sew. calati acAlIt. cacAla
+217665:0:  te: celatuH. calan calitaH jvalAdi0 cAlaH pacA0calaH
+217666:0:  te: kfzRena nihate cEdye cacAla ca vasunDarA<q> BA0 sA
+217667:0:  te: a0.</reN> <reN><q>calatyekena pAdena tizWatyekena budDimAn
+217668:0:  te: cARa0.</reN> <reN><q>tilamAtramapi calituM na Saknoti<q> paYcata
+217669:0:  te: Arze Atma0.</vkr> <reN><q>na DarmAccalate vudDirDarmarAjasya DImataH
+217670:0:  te: BA0sa0 78a0.</reN> <vkr>Rici. calayati cAlayati.</vkr> <reN><q>cAla
+217671:2:  te: yan vasunAM cenAM balena caturaNgiRA<q> BA0 A0 94a
+217672:0:  te: kampane aka0 micca. calayati te. acIcalat</vkr> <reN><q>calayan
+217673:0:  te: BfNgarucastavAlakAn<q> raGuH</reN> <reN><q>tAM prAviSat kapivyAGra
+217674:0:  te: starUnacalayan SanEH<q> BawwiH.</reN> <reN><q>yUnAM manaScalayati prasaBaM
+217675:0:  te: naBasvAn<q> f0 sa0</reN> <vkr>gatyarTasya na mittvam <reN><q>miccale<q> iti
+217676:0:  te: kavikalpadrume kampArTaeva tasya mittvokteH</reN></vkr> <reN><q>AcAlayeyuH
+217677:0:  te: SElAMste krudDABindyurmahItale<q> hariva0 54a
+217678:0:  te: parvatAnAYca SiKarARyAcAlayati vegavAn<q> BA0 SA
+217679:0:  te: a
+217680:2:  te: ud+UrdDagamane utkramya gatO</vkr> <reN><q>puzpoccalitazawpadam<q> raGuH
+217681:0:  te: utTAya gatO ca.</1><reN><q>uccalitaH prayAtAm<q> raGuH
+217682:0:  te: vi+viSezeRa calane.</vkr> <reN><q>vyacAlIdamBasAM patiH<q> BawwiH
+217683:4:  te: vilAse tu0 pa0 a0 sew. calati acAlIt cacAla
+217684:4:  te: mftO pozaRe cu0 saka0 uBa0 sew. cAlayati te
+217685:4:  te: acIcalat.</vkr> <vkr>tri
+217686:8:  te: cala vA pacA0 ac.</vkr> (1)tarale, caYcale, (2)kampa
+217687:3:  te: yukte amara. (3)parameSvare pu0.</3> <reN><q>DUtASIracalaSaclaH
+217688:0:  te: vizRu sa0.</reN> <reN><q>na svarUpAnna sAmarTyAt naca jYAnAdi
+217689:0:  te: kAt guRAt. calanaM vidyate yasmAdacalaH kIrttito
+217690:0:  te: 'cyutaH<q> smfteH.</reN> <reN>vAyurUpeRa calatIti calaH<q> BA
+217691:0:  te: kampArTakacalateH svArTe Rici BAve ac.</vkr> (4)kampane
+217692:1:  te: medi0.</4> <reN><q>miccale<q> kavikalpa0.</reN> <reN>calanaM ca rajasaH kAryaM
+217693:1:  te: yaTAha sA0 kA0 <q>satvaM laGu prakASakamizwamupazwamBakaM
+217694:0:  te: calaYca rajaH
+217695:1:  te: satvatamasI svayamakriyatayA svasvakAryapravfttiM pratyavasa
+217696:1:  te: dantI rajasopazwaByete avasAdAt pracyAvya svakAryye te
+217697:0:  te: utsAhaM prayatnaM kAryyete. tadidamuktamupazwamBakam
+217698:0:  te: iti. kasmAdityata uktaM calamiti. tadanena rajasaH
+217699:0:  te: pravfttyarTatvaM darSitam. rajastu calat paritastrEguRyaM
+217700:0:  te: cAlayadguruRA''vfRvatA ca tamasA tatra tatra pravftti
+217701:0:  te: pratibanDena kvacideva pravarttyate<q>. sA0ta0kO
+217702:1:  te: mBOnajO BrO ceccalamidamuditaM yugErmuniBiH svarEH
+217703:1:  te: vf0 ra0 ukte azwAdaSAkzarapAdake (5)varRavfttaBede ta
+217704:0:  te: sa vfttacUlaScalakAkapakzakEH<q> raGuH.</reN> <reN><q>yaTAmBasA praca
+217705:2:  te: latA taravo'pi calA iva<q> BAga0 7.1.23.</reN> <reN>Kalu
+217706:0:  te: prema calaM suhfjjane<q> <q>prAyaScalaM gOravamASritezu<q> kumA0</reN><page>vp4_432.pdf</page><column>1</column><br/>
+217707:1:  te:  %calaketu% pu0 karma0. (1)ketuBede</1> <reN>sa ca <q>aparasyAM calaketuH
+217708:0:  te: SiKayA yAmyAgrayANgulocCritayA. gacCet yaTA yaTodak
+217709:2:  te: a taTA taTA dErDyamAyAti<q> vf0 sa0 11a0. uktaH</reN><page>vp4_432.pdf</page><column>2</column><br/>
+217710:0:  te:  %calacaYcu% puM strI <vg>calA caYcurasya.</vg> (1)cakoraKage hema0.</1><page>vp4_432.pdf</page><column>2</column><br/>
+217711:2:  te:  %calatpUrRimA% strI <vg>calantI pUrRimA tadupalakzitaH candra
+217712:0:  te: iva.</vg> (cAzdA) (1)candrakamIne trikA0.</1><page>vp4_432.pdf</page><column>2</column><br/>
+217713:0:  te:  %caladaNga% puM strI <vg>calanti aNgAnyasya.</vg> (ceNcA) (1)matsyaBede
+217714:0:  te: rAjani0.</1> <vkr>vA kap. caladaNgaka tatrArTe jawA0.</vkr><page>vp4_432.pdf</page><column>2</column><br/>
+217715:0:  te:  %caladala% pu0 <vg>calAni caYcalAni dalAnyasya.</vg> (1)aSvatTavfkze
+217716:0:  te: amaraH.</1> <vn>calapatrAdayo'pyatra.</vn> <reN><q>aNgena (strIcihna
+217717:0:  te: Bedena) kenApi vijetumasyA gavezyate kiM ? calapatra
+217718:0:  te: patram. na cedviSezAditaracCadeByastasyAstu kampastu
+217719:1:  te: kutoBayena<q> nEza0. tasyakampayuktapatratA varRitA.</reN><page>vp4_432.pdf</page><column>2</column><br/>
+217720:0:  te:  %calana% na0 <vkr>cala-BAve lyuw.</vkr> (1)kampe (2)gatO ca.</2> <vkr>karttari lyu
+217721:0:  te: kampayukte tri0 medi0. (4)hariRe puMstrI jawA0</4> <vkr>jAti
+217722:0:  te: tvAt striyAM NIz. karaRe lyuw.</vkr> (5)caraRe hemaca0.</5><page>vp4_432.pdf</page><column>2</column><br/>
+217723:0:  te:  %calanaka% na0 <vkr>calana+saMjYAyAM kan.</vkr> (1)caRqAtake hemaca0.</1><page>vp4_432.pdf</page><column>2</column><br/>
+217724:0:  te:  %calanI% strI <vg>calatyatra</vg> <vkr>cala-ADAre lyuw NIp.</vkr> (1)gaja
+217725:2:  te: banDanyAM vAryAm (2)GarGayyAYca (GAGarA) vastraBede
+217726:0:  te: hemaca0.</2><page>vp4_432.pdf</page><column>2</column><br/>
+217727:1:  te:  %calasaMkrAnti% strI karma0. <vn>ayanAMSacalanaBedAt tatta
+217728:0:  te: drASiviSezAMSe ravyAdeH praBAmuYjasaYcAre ayana saMkrAnti
+217729:2:  te: Sabde vivftiH.</vn><page>vp4_432.pdf</page><column>2</column><br/>
+217730:0:  te:  %calA% strI <vkr>cala-ac.</vkr> (1)lakzmyAM medi0 (2)sihlake ganDadravyaBede ca ratnamA0.</2><page>vp4_432.pdf</page><column>2</column><br/>
+217731:0:  te:  %calAcala% tri0 <vkr>cala-ac</vkr> ni0. (1)caYcale amaraH (2)kAke
+217732:0:  te: puM strI rAjani0</2> <vkr>striyAM jAtitvAt NIz.</vkr> <reN><q>calAcalE
+217733:2:  te: ranupadamAhatAH KurEH<q> mAGaH.</reN> <reN><q>janmino'sya sTitiM
+217734:0:  te: vidvAn lakzmImiva calAcalAm<q> kirA0.</reN><page>vp4_432.pdf</page><column>2</column><br/>
+217735:3:  te:  %calAtaNka% pu0 <vg>calasya calanasyAtaNkoBayamasmAt.</vg> (1)vAtAmaya
+217736:0:  te: Bede rAjani0.</1><page>vp4_432.pdf</page><column>2</column><br/>
+217737:3:  te:  %calita% tri0 <vkr>cala-kartrari kta.</vkr> (1)kalpite aparaH. (2)gate
+217738:4:  te: calitadurvalapakzaparigrahaH<q></reN> <reN><q>calitaH haraH patimupe
+217739:0:  te: tamAtmajam<q> mAGaH.</reN> (3)prApte (4)jYAte ca tri0.</4> <vkr>BAve ka
+217740:0:  te: calane 5gatO ca na0.</5><page>vp4_433.pdf</page><column>1</column><br/>
+217741:0:  te:  %calu% pu0 <vkr>cala-un.</vkr> (1)gaRqUze hemaca0.</1><page>vp4_433.pdf</page><column>1</column><br/>
+217742:0:  te:  %caluka% pu0 <vg>calunA mIyate</vg> <vkr>kan.</vkr> (1)prasftO (2)BARqaBede ca medi0.</2><page>vp4_433.pdf</page><column>1</column><br/>
+217743:0:  te:  %calezu% pu0 <vg>calo lakzyamaprApta izuryasya.</vg> (1)lakzyamaprAptavARake
+217744:0:  te: mandaDAnuzke.</1> <vkr>atra <reN><q>udarASvezu kzepe<q> pA0</reN> izu
+217745:2:  te: Sabdepare kzepe pUrvapUrvvapadasyAntodAttatAviDAnAt
+217746:1:  te: pUrvvapadamantodAttam.</vkr><page>vp4_433.pdf</page><column>1</column><br/>
+217747:3:  te:  %cavarga% pu0 <vkr>ca+prAtiSAstroktaH vargapratyayaH 6ta0 vA.</vkr> (1)tAlu
+217748:0:  te: sTAnoccaritAnAM sparSavarRAnAM varge (ca Ca ja Ja Ya)
+217749:0:  te: varRezu.</1> <reN>tataH <q>vargAntAcCaH<q> pA0 Ca. cavargIya tadvarga
+217750:0:  te: Bave tri0.</reN><page>vp4_433.pdf</page><column>1</column><br/>
+217751:1:  te:  %cavala% pu0 <vkr>carva-vA0 alac pfzo0.</vkr> (1)rAjamAze kalAyaBede
+217752:0:  te: SabdArTaci0.</1><page>vp4_433.pdf</page><column>1</column><br/>
+217753:3:  te:  %cavi% strI <vkr>carva-in pfzo0.</vkr> (1)cavye (cad) Sabdara0.</1> <vkr>vA NIp. tatrArTe Sabdara0</vkr><page>vp4_433.pdf</page><column>1</column><br/>
+217754:0:  te:  %cavikA% strI <vkr>cavi+svArTe ka.</vkr> (1)cavye</1> <reN>asya klIvatvamAha
+217755:0:  te: rudraH <q>kawUzRA cavikA laGvI rocanI dIpanI matA
+217756:0:  te: jantUdrekaSvAsakAsaSUlarogavimarddinI<q> rAjani
+217757:0:  te: BedinI kaPanASinI<q> ityaDikaM rAjavalleBenoktam.</reN><page>vp4_433.pdf</page><column>1</column><br/>
+217758:1:  te:  %cavya% na0 <vkr>carva-karmaRi Ryat pfzo0.</vkr> (1)cavikAyAm</1> <vn>tasya
+217759:0:  te: strItvamapyAha BarataH.</vn> <vkr>svArTe ka cavyikA tatrArTe
+217760:0:  te: rAjani0.</vkr> sA ca (2)vacAyAM medi0.</2><page>vp4_433.pdf</page><column>1</column><br/>
+217761:0:  te:  %cavyajA% strI <vg>cavyamiva jAyate</vg> <vkr>jana-qa.</vkr> (1)gajapippalyAm rAjani0.</1><page>vp4_433.pdf</page><column>1</column><br/>
+217762:1:  te:  %cavyaPala% na0 <vg>cavyamiva Palati</vg> <vkr>Pala-ac.</vkr> (1gajapippalyAm
+217763:0:  te: rAjani0.</1><page>vp4_433.pdf</page><column>1</column><br/>
+217764:0:  te:  %cavyAdi% na0 <reN><q>cavyaM trikawukaM pAWA kzIraM kustumburURi
+217765:2:  te: ca. mAnI pippalImUlamuBe ca viqasEnDave. citrakaM
+217766:2:  te: vizyamaBayAM pizwvA sarpirvipAcayet. SakfdvAtAnulO
+217767:0:  te: myArTaM jAte daDni caturguRe. pravAhikAM gudaBraMSaM mUtra
+217768:1:  te: kfcCraM parisravam. gudavaNkzaRaSUlaYca Gftametadvyapo
+217769:0:  te: hati<q> cakradattokte (1)GftaBede.</1></reN><page>vp4_433.pdf</page><column>1</column><br/>
+217770:0:  te:  %caza% (1)Bakze</1> <vkr>BvA0 uBa0 saka0 sew. cazati te acazIt
+217771:0:  te: acAzIt acazizwa cacAza cezatuH ceze
+217772:4:  te: vaDe</1> <vkr>BvA0 pa0 saka0 sew. cazati aca-(cA)zIt.</vkr><page>vp4_433.pdf</page><column>1</column><br/>
+217773:0:  te:  %cazaka% pu0 na0 <vkr>caza-karaRe kvun ardDarcAdi.</vkr> (1)madyapAnapAtre
+217774:2:  te: amaraH.</1> <reN>tallakzaRAdikaM yuktikalpatarAzuktam yaTA
+217775:2:  te: yat pAnapAtraM BapAnAM tajjYeyaM cazakaM buDEH. kAnakaM
+217776:1:  te: rAjataM cEva sPAwikaM kAcameva ca. vfttaM svarAzwadikkaM
+217777:0:  te: ca caturRAM pfTivIBujAm. ityanyasammataM tezAM nirRayaH
+217778:1:  te: pAWasammataH. svamuzwisammitaM ratnEScaturvarReH sama
+217779:2:  te: nvitam. mArttikaM vATa Pala vA sarvezAmupayujyate
+217780:0:  te: kAzWajaM DAtujaM SElaM jANgalAdimahIBujAm. yada
+217781:2:  te: nyattoyapAnAdipAtraM pfTvIBUjAM Bavet. evaM tatrApi
+217782:1:  te: niyama iti Bojasya sammataH<q></reN> <reN><q>AnanaH parihftaM caza
+217783:0:  te: kAntaH<q> mAGaH.</reN> <vkr>karmaRi kvun.</vkr> (2)maDuni, (3)madyaBede
+217784:0:  te: ca na0 medi0</3><page>vp4_433.pdf</page><column>1</column><br/>
+217785:0:  te:  %cazati% pu0 <vkr>caza-Bakze vaDe vA BAve ati.</vkr> (1)Bakze (2)baDe ca si0 kO0.</2><page>vp4_433.pdf</page><column>2</column><br/>
+217786:0:  te:  %cazAla% pu0na0 <vkr>caza-Alac ardDarccAdi.</vkr> (1)yUpakawake yajYiya
+217787:1:  te: paSubanDanArTe yUpamaDyedeye valayAkAre kAzWamaye lOha
+217788:0:  te: maye vA padArTe amaraH.</1><reN>tallakzaRAdikamuktaM kA0 SrO
+217789:0:  te: sUtrAdO
+217790:0:  te: agrAccazAlaM pfTamAtramazwASri maDyasaMgfhItam<q> 28sU
+217791:0:  te: yUpaparivAsanAnantaraM yadavaSizwaM pfTakkftamagram tataScazA
+217792:1:  te: laM karttavyam prasAritANguliH pARirAmaRibanDanAn pfTak
+217793:0:  te: ityucyate cazAlamiti saMjYA saM vyavahArArTA <q>A cazAle
+217794:0:  te: kzaRAt<q> ityAdO.</reN> <reN>azwASri azwakoRam tadapi takzaRenAzwa
+217795:3:  te: koRaM kuryAt takzEva. uKalavanmaDye saMkucitam<q> karkaH
+217796:1:  te: UrdDamagre pratimuYcati<q> 29sU0</reN> <q>taccazAlaM yUpasyAgre UrdDaM
+217797:0:  te: pratimuYcati ataevordDapratimokaviDAnAccazAlasya taTA
+217798:1:  te: veDaH kAryaH. pratimuYcatIti vacanAcca cUqAgro yUpaH
+217799:0:  te: cazAlaM ca sasuziramiti gamyata iti harisvAminaH
+217800:0:  te: taTA cAhApastambaH <q>mUlato'tazwamuparam azwASriranu
+217801:1:  te: pUrvo'grato'RIyAn prajYAnAzwASririti<q> karka
+217802:1:  te: dvyaNgulaM tryaNgulaM vA tardmAtikrAntaM yUpasya<q> 30sU
+217803:0:  te: yUpasya yUpAgrasya dvyaNgulaM tryaNgulaM vA cazAlaM tardmAti
+217804:0:  te: krAntaM cazAlacCidrAgraveDAdatikrAntaM Bavati atikramyordDvaM
+217805:0:  te: niHsftaM Bavati taTA cazAlasyordDaM pravayaRaM karttavyam
+217806:0:  te: yaTA cazAlo yUpAgrAdaDo dvyaNgule tryaNgule vA tizWa
+217807:1:  te: H tItyarTaH<q> karkaH</reN> <reN><q>BUScazAlatulitANgulIyakam<q> mAGaH.</reN><page>vp4_433.pdf</page><column>2</column><br/>
+217808:0:  te:  %caha% (1)kalke (pratAraRe)</1> <vkr>BvA0 para0 saka0 sew. cahati
+217809:0:  te: acahIt. cacAha cehatuH
+217810:5:  te: kalke (pratAraRe)</1> <vkr>ada0 curA0 uBa0 saka0 sew
+217811:2:  te: cahayati-te acacahat sa. cahayAM, baBUva Asa-cakAra
+217812:0:  te: cakre
+217813:4:  te: kalke pratAraRe</1> <vkr>curA0 uBa0 saka0 sew GawA0 cahayati
+217814:0:  te: te acIcahat-ta.</vkr><page>vp4_434.pdf</page><column>1</column><br/>
+217815:0:  te:  %cAkacakya% na0 <vkr>caka-ac cakaH prakAre dvitvaM cakacakastasya
+217816:1:  te: BAvaH zyaY.</vkr> (1)ujjvalatAyAm.</1> <reN><q>nahi lokasidDasAmagro
+217817:1:  te: prAtiBAsikarajatotpAdikA kintu vilakzaREva. ta
+217818:0:  te: TAhi. kAcAdidozadUzitalocanasya purovarttidravya
+217819:0:  te: saMyogAdidamAkArA cAkacakyAkArA ca kAcidantaH
+217820:1:  te: karaRavfttirudetIti<q></reN> <reN><q>cAkacakyasaMdarSanasamudDudDarajata
+217821:0:  te: tvasaMskArasaDrIcInA<q> iti ca vedAnta0 pa0.</reN> pfzo
+217822:0:  te: cAkacikyamapyatra SabdArTaci0.</vn><page>vp4_434.pdf</page><column>1</column><br/>
+217823:0:  te:  %cAkaciccA% strI <vkr>caka-GaY cAkaM dIptiM cinoti ci
+217824:1:  te: kvip taTAsatI cIyate ci-vA0 qa.</vkr> (1)SvetabuhnAyAM
+217825:0:  te: ratnamA0.</1><page>vp4_434.pdf</page><column>1</column><br/>
+217826:0:  te:  %cAkra% tri0 <vg>cakreRa nirvfttam</vg> <vkr>aR.</vkr> (1)cakranirvftte</1> <reN><q>cAkra
+217827:0:  te: mOzalamityevaM saMgrAmaM raRavfttayaH<q>harivaM0 200a0.</reN><page>vp4_434.pdf</page><column>1</column><br/>
+217828:1:  te:  %cAkravarmaRa% pu0 <vg>cakravarmmaRo'patyam</vg> <vkr>aR na wilopaH
+217829:1:  te: cakravarmmaRo'patye vyAkaraRAcAryaBede.</1> <reN><q>kapaScA
+217830:0:  te: kravarmaRasya<q> uRA0 3.1.3sU0.</reN> <reN><q>i3 cAkravarmaRasya
+217831:0:  te: pA0 6.1.3. sU0.</reN><page>vp4_434.pdf</page><column>1</column><br/>
+217832:0:  te:  %cAkravAkeya% tri0 <vg>cakravAkasyAdUradeSAdi</vg> <vkr>caturarTyAM saKyA0 QaY.</vkr> (1)cakravAkasamIpAdO.</1><page>vp4_434.pdf</page><column>1</column><br/>
+217833:0:  te:  %cAkrAyaRa% pu0 <vg>cakrasyarzergotrApatyam</vg> <vkr>aSvAdi0 PaY.</vkr> (1)cakra
+217834:1:  te: syarze gotrApatye uzastO</1> <reN><q>BawacIhatezu kuruzf uza
+217835:0:  te: stirha cAkrayaRa imyagrAme pradrARa Asa<q> CA0 u0.</reN><page>vp4_434.pdf</page><column>1</column><br/>
+217836:0:  te:  %cAkrika% tri0 <vg>cakreRa samUhena yantraBedena cakrayuktaSakawena
+217837:2:  te: vA carati</vg> <vkr>Wak.</vkr> saNGIBUya militvA stutipAWake
+217838:1:  te: GARwike amaraH</1> <reN><q>piSunAnftinAM cEva taTA
+217839:0:  te: cAkrikavandinAm<q> yAjYa0.</reN> <reN><q>cAkriko GozayAmAsa
+217840:0:  te: puruzo mfzwakuRqalaH<q> hariva0 159 a0.</reN> (2)tElakAre
+217841:0:  te: hemaca0 (3)SAkawike (gAqaoyAna) KyAte ca SabdArTaci
+217842:0:  te: BikzukAMScAkrikAMScEva klIvonmattAn kuSIlavAn
+217843:2:  te: vAhyAn kuryAnnaraSrezWo dozAya te syuranyaTA<q> BA
+217844:0:  te: SA0 69 a0.</reN><page>vp4_434.pdf</page><column>1</column><br/>
+217845:0:  te:  %cAkreya% tri0 <vg>cakreRa nirvfttAdi</vg> <vkr>cakra+saKyA0 caturarTyAM QaY.</vkr> (1)cakranirvfttAdO.</1><page>vp4_434.pdf</page><column>1</column><br/>
+217846:0:  te:  %cAkzuza% na0 <vg>cakzuzA gfhyate</vg> <vkr>cakzus+SEziko'R.</vkr> cakzu
+217847:0:  te: rgrAhye (1)rUpAdO (2)tadvati tri0.</2> <vn>tadgrAhyavizayASca
+217848:2:  te: cakzurvizayaSabde dfSyAH.</vn> <vg>cakzuzA nirvfttaH
+217849:0:  te: aR.</vkr> (3)pratyakze na0.</3> <vn>tajjYAne cakzuzaH karaRatve'pi
+217850:0:  te: vizayaBedena tasya vyApAraBedA <reN>BAzA0 uktA yaTA
+217851:0:  te: dravyagrahastu saMyogAt saMyuktasamavAyataH. dravyezu sama
+217852:0:  te: vetAnAM taTA tatsamavAyataH. tatrApi samavetAnAM Sabdasya
+217853:0:  te: samavAyataH. tadvfttInAM samavetasamavAyena tu grahaH
+217854:0:  te: dravyacAkzuzaM prati cakzuHsaMyogovyApAraH. dravyasamaveta
+217855:0:  te: cAkzuzaM prati cakzuHsaMyuktasamavAyaH. dravyasamavetasamaveta
+217856:1:  te: cAkzuzaM prati cakzuHsaMyuktasamavetasamavAyaH<q>.</reN> <vg>cakzuzo'
+217857:0:  te: patyam.</vg> (3)cakzurnAmakasya ripuYjayanfpasyaputre zazWe manuBede
+217858:0:  te: tatkaTA yaTA <q>cakzuzA brahmadOhitryAM vIriRyAM sa ripu
+217859:0:  te: YjayaH. vIraRasyAtmajAyAntu cakzurmanumajIjanat. manurvE
+217860:0:  te: rAjakanyAyAM naqvalAyAM sa cAkzuzaH. janayAmAsa tana
+217861:2:  te: yAndaSa SUrAnakalmazAn. UruH pUruH Satadyusra
+217862:0:  te: stapasvI satyavAk haviH. agnizwudatirAtraSca
+217863:0:  te: sudyumnaScAparAjitaH. aBimanyustu daSamo naqvalA
+217864:0:  te: yAmajAyata<q> matsyapu0 4a0.</reN> <reN><q>zazWaM te sampra
+217865:1:  te: vakzyAmi tanniboDa narADipa!. BfgurnnaBo vivasvAMSca
+217866:0:  te: suDAmA virajAstaTA. atinAmA sahizRuSca saptEte
+217867:0:  te: tu maharzayaH. cAkzuzasyAntare tAta! manorddevA
+217868:1:  te: nimAn SfRu. ApyaH praBUtA fBavaH pfTukASca
+217869:0:  te: divOkasaH. leKA nAma mahArAja! paYca devagaRAH
+217870:1:  te: smftAH. fzeraNgirasaH pftrA mahAtmAno mahOjasaH
+217871:1:  te: nANvaleyA mahArAja! daSa putrAstu viSrutAH. Uru
+217872:0:  te: praBftayo rAjan! zazWaM manmantaraM smftam<q> hari0 7a0</reN></vn><page>vp4_434.pdf</page><column>1</column><br/>
+217873:2:  te:  %cAkzma% tri0 <vkr>cakza-vA0 ma pfzo0.</vkr> (1)drazwrari</1> <reN><q>cAkzyo
+217874:1:  te: yadvAcaM Barate matI<q> f0 2.24.9.</reN> <reN><q>cAkzmaH sarvasya
+217875:0:  te: drazwA<q> BA0.</reN><page>vp4_434.pdf</page><column>2</column><br/>
+217876:3:  te:  %cANga% pu0 <vg>cIyate <vkr>ci-qa</vkr> camaNgamasya.</vg> (1)pANgeryAM rAyasu
+217877:0:  te: camaNgaM tadavayavo danto'smAt.</vg> (2)dantapawutve SabdArTaci0.</2><page>vp4_434.pdf</page><column>2</column><br/>
+217878:0:  te:  %cANgerI% strI <vg>cANgaM dantapawutvamIrayati</vg> <vkr>Ira-aR upa
+217879:0:  te: sa0 gOrA0 NIz.</vkr> (1)amlaloRikAyAm(amarula) amaraH
+217880:0:  te: cANgerI dIpanI rucyA laGUzRA kaPavAtanut. pitta
+217881:0:  te: lAmlA grahaRyarSaH kuzWAtIsAranASinI<q> BAvapra0.</reN><page>vp4_434.pdf</page><column>2</column><br/>
+217882:1:  te:  %cANgerIGfta% na0 cakradattokte cANgerIpake (1)GftaBede</1> <reN>tat
+217883:0:  te: pAkaviDiryaTA <q>nAgaraM pippalImUlaM citrakaM hastipi
+217884:1:  te: ppalI. SvadaMzwrA pippalI DAnyaM bilvaM pAWAyamAnikA
+217885:0:  te: cANgerIsarase sarpiH kalkEretErvipAcitam. caturgu
+217886:1:  te: Rena daDnA ca tadGftaM kaPavAtanut. arcAMsi graha
+217887:2:  te: RIdozaM mUtrakfcCraM pravAhikAm. gudaBraMSArttimAnAzwaM
+217888:0:  te: Gftametad vyapohati<q> cakradattaH</reN><page>vp4_434.pdf</page><column>2</column><br/>
+217889:0:  te:  %cAwa% pu0 cu0 <vkr>cawa-Bede ac.</vkr> (1)AdO viSvAsamutpAdya
+217890:0:  te: paScAt DanApaharttari cOre</1> <reN><q>cAwacAraRadAsezu dattaM
+217891:0:  te: Bavati nizPalam<q> smftiH.</reN> <reN><q>cAwataskaradurvfttamahA
+217892:2:  te: sAhasikAdiBiH. pIqyamAnAH prajAraDAt kAyasTESca
+217893:1:  te: viSevataH<q> yAjYa0.</reN> <reN><q>cAwAH pratArakAH viSvAsya ye
+217894:0:  te: paraDanamapaharanti<q> mitAkzarA</reN><page>vp4_435.pdf</page><column>1</column><br/>
+217895:1:  te:  %cAwapuwa% pu0 <reN><q>gururlaGuplutaScEva BaveccAwapuwABiDaH<q> saNgI
+217896:0:  te: tadAmodarokte (1)tAlaBede.</1></reN><page>vp4_435.pdf</page><column>1</column><br/>
+217897:0:  te:  %cAwu% pu0 na0 <vkr>cawa-YuR.</vkr> (1)priyavAkye (2)miTyApriyavAkye
+217898:0:  te: (KosAmuderakaTA)ca.</2> <reN><q>kurvan cAwusahasrARi avyaktaka
+217899:0:  te: layA girA<q> harivaM020.</reN> <reN><q>no cAwuSravaRaM kftaM na
+217900:0:  te: ca dfSA hAro'ntike vIkzitaH<q> sA0 da0.</reN> <vkr>svArTe ka
+217901:0:  te: atrEvArTe <q>viSrabDacAwukaSatAni ratAntarezu<q> sA0 da0</reN><page>vp4_435.pdf</page><column>1</column><br/>
+217902:0:  te:  %cAwukAra% tri0 <vg>cAwuM karoti.</vg> <vkr>hetvAdO prAptasya wasyApa
+217903:0:  te: vAdena <reN><q>na SabdaSloketyAdinA<q> pA0</reN> aR.</vkr> (1)satata cAwu
+217904:0:  te: vAkyakarttari.</1> <reN><q>cAwukAramapi prARanATaM rozAdapAsya
+217905:0:  te: yA<q> sA0 da0.</reN><page>vp4_435.pdf</page><column>1</column><br/>
+217906:0:  te:  %cAwupawu% pu0 7ta0. (1)BaRqe (BAzqa) hArA0.</1><page>vp4_435.pdf</page><column>1</column><br/>
+217907:1:  te:  %cAwu(wllo)lola% tri0 <vg>cAwuzu lolaH (ullolaH).</vg> (KosA
+217908:0:  te: mude) (1)cAwukAre hArA0.</1><page>vp4_435.pdf</page><column>1</column><br/>
+217909:0:  te:  %cAwuvawu% pu0 7ta0. (1)vidUzake krIqAsahacarE BaRqe.</1><page>vp4_435.pdf</page><column>1</column><br/>
+217910:0:  te:  %cAwUkti% strI 6ta0. (1)priyakaTane.</1> <vn>cAwuvAkyasyoktiryatra
+217911:0:  te: sevAyAm hArA0.</2><page>vp4_435.pdf</page><column>1</column><br/>
+217912:0:  te:  %cARaka% puM strI <vg>cARakyasya CAtraH</vg> <vkr>aR yalopaH.</vkr> (1)cARakyaCAtre.</1><page>vp4_435.pdf</page><column>1</column><br/>
+217913:1:  te:  %cARakIna% na0 <vg>caRakasya BavanaM kzetraM</vg> <vkr>KaY.</vkr> (1)caRakotpatti
+217914:0:  te: yogyakzetre.</1><page>vp4_435.pdf</page><column>1</column><br/>
+217915:0:  te:  %cARakya% pu0 <vg>caRakasya munergotrApatyam</vg> <vkr>gargA0 yaY.</vkr> (1)vAt
+217916:0:  te: syAyane candraguptamantriRi kOwilye</1> <reN><q>nava nandA Bavizyanti
+217917:0:  te: cARakyoyAn hanizyati<q> vizRupu0.</reN> <vn>candraguptaSabde dfSyam
+217918:1:  te: sahi nandavaMSotKAtena mOryaM candraguptaM rAjye'
+217919:1:  te: BiziktavAn. bfhat kaTAyAM tadvivftiH</vn> <vg> cARakyena
+217920:0:  te: proktam</vg> <vkr>aR.</vkr> tatkftagranTe (2)nItiSAstraBede ca
+217921:1:  te: cARakyaM sArasaNgraham<q> cARakyam.</reN> <vkr>caRaka+svArTe
+217922:0:  te: zyaY.</vkr> (3)caRakaSabdArTe.</3><page>vp4_435.pdf</page><column>1</column><br/>
+217923:0:  te:  %cARakyamUlaka% na0 <vg>caRaka eva cARakyam tadiva mUlamasya
+217924:0:  te: (caRakamUlI) KyAte (1)mUlakaBede. SabdArTaci0</1><page>vp4_435.pdf</page><column>1</column><br/>
+217925:0:  te:  %cARU(nU)ra% pu0 (1)kaMsAnucare mallayudDABijYe'suraBede.</1> <reN><q>nAgaM
+217926:0:  te: kuvalayApIqaM cARU(nU)raM muzwikaM taTA<q> hariva0 42a
+217927:0:  te: varAhaSca kiSoraSca matO dAnavasattamO. mallO raNga
+217928:0:  te: gatO tatra yAtO cARU(nU)ramuzwikO<q> harivaM 055a
+217929:0:  te: asya dantyanakAmaDyateti kecit.</vn><page>vp4_435.pdf</page><column>1</column><br/>
+217930:0:  te:  %cARU(nU)rasUdana% pu0 <vg>cARU(nU)raM sUdayati sUdi-lyu
+217931:3:  te: vAsudeve kfzRe</1> <reN>tallabDakaTA harivaM0 87a
+217932:0:  te: tataH kroDABitAmrAkzaH kaMsaH paramakopanaH. cARU(nU)
+217933:0:  te: ramAdiSadyudDe kfzRasya sumahAvalam<q> ityupakrame <q>dorByA
+217934:1:  te: mAnaBya kfzRastu cARU(nU)raM pUrRajIvinam. prAharanmu
+217935:1:  te: zwinA mUrdDni vakzasyAhatya jAnunA niHsfte sASru
+217936:1:  te: ruDire tasya netre sabanDane. tApanIye yaTA DaRwe
+217937:0:  te: kakzopari vilambite. papAta sa turaNgasya maDye niH
+217938:2:  te: sftnocanaH. cARU(nU)ro vigataprARo jIvitAnte
+217939:0:  te: mahItale<q>.</reN> <vn>cARU(nU)rumardanAdayo'pyatra.</vn><page>vp4_435.pdf</page><column>2</column><br/>
+217940:0:  te:  %cARqa% puM strI <vg>caRqasyApatyaM</vg> <vkr>SivA0 aR.</vkr> (1)caRqasyApatye
+217941:0:  te: caRqasya BAvo</vg> <vkr>yuvA0 aR.</vkr> (2)caRqatAyAm na0.</2><page>vp4_435.pdf</page><column>2</column><br/>
+217942:0:  te:  %cARqAla% puM strI <vg>caRqAla eva</vg> <vkr>svArTe aR.</vkr> (1)caRqAla
+217943:0:  te: SabdArTe amaraH.</1> <vkr>striyAM jAtitvAt NIz.</vkr><page>vp4_435.pdf</page><column>2</column><br/>
+217944:1:  te:  %cARqAlaki% pu0 strI <vg>cARqAlasyApatyam</vg> <vkr>iY</vkr> <vkr><reN><q>vyAsavaruqa
+217945:0:  te: nizAdacARqAletyAdi<q> pA0</reN> akaN.</vkr> (1)caRqAlApatye.</1><page>vp4_435.pdf</page><column>2</column><br/>
+217946:0:  te:  %cARqAlikA% strI <vg>caRqAlena nirvfttA</vg><vkr> Wak.</vkr> (1)vIRABede
+217947:0:  te: amaraH.</1> <vg>caRqAlena kftA</vg> <vkr>kulA0 aR.</vkr> (2)caRqAlakfta
+217948:0:  te: vastumAtre tri0</2><page>vp4_435.pdf</page><column>2</column><br/>
+217949:0:  te:  %cARqAlikASrama% na0 (1)BArataprasidDe tIrTaBede</1> <reN><q>kokAmuKe
+217950:1:  te: vigAhyATa gatvA cARqAlikASrame<q> BA0 Anu0 25.0.</reN><page>vp4_435.pdf</page><column>2</column><br/>
+217951:0:  te:  %cARqAlI% strI <vg>cARqamAlAti</vg> <vkr>A+lA-ka gOrA0 NIz
+217952:0:  te: liNginIlatAyAM rAjani0</1> <vkr>jAtO NIz.</vkr> (2)cARqA
+217953:0:  te: lajAti striyAYca.</2><page>vp4_435.pdf</page><column>2</column><br/>
+217954:0:  te:  %cAtaka% puM strI <vkr>cata-yAcane karttari Rvul.</vkr> sAraNge svanAma
+217955:0:  te: KyAte (1)KagaBede</1> <vkr>striyAM jAtitvAt NIz.</vkr> <vn>ayaYca pakzI
+217956:0:  te: tryAhaRezu suSrute paWitaH.</vn> <reN><q>tryAhaRA vikirAScetyuktvA
+217957:1:  te: maDurAH kazAyA dozaSamanASceti<q> sAmAnyatastadgu
+217958:0:  te: RAstatroktAH.</reN> <reN><q>sTagayantyamUH SamitacAtakArttasvarAH
+217959:0:  te: mAGaH.</reN> <reN><q>kiM cAtakaH Palamapekzya savajrapAtAm<q> udBawaH.</reN><page>vp4_435.pdf</page><column>2</column><br/>
+217960:0:  te:  %cAtakAnandana% pu0 <vg>cAtakamAnandayati</vg> <vkr>A+nanda-Ric-lyu
+217961:0:  te: varzAkAle rAjani0. (2)meGe.</2> <vn>vfzwijalapAnasya cAtaka
+217962:0:  te: bratatvena meGasya taTAtvam.</vn><page>vp4_435.pdf</page><column>2</column><br/>
+217963:0:  te:  %cAtakAzwaka% na0 (1)kAvyaBede</1> <vn>kAvyasaNgrahe dfSyam.</vn><page>vp4_435.pdf</page><column>2</column><br/>
+217964:1:  te:  %cAtana% na0 <vkr>cat Riclyuw.</vkr> (1)arddane (2)pIqane ca.</2><page>vp4_435.pdf</page><column>2</column><br/>
+217965:0:  te:  %cAtura% tri0 <vg>catura eva</vg> <vkr>svArTe aR.</vkr> (1)cature (2)niyantari
+217966:0:  te: netragocare medi0.</3> <vg>caturBiruhyate</vg> <vkr>SEzako'R.</vkr> <reN><q>ca
+217967:0:  te: tuScakrayukte 2Sakawe na0 si0 kO0</reN><page>vp4_436.pdf</page><column>1</column><br/>
+217968:0:  te:  %cAturakza% na0 <vg>caturBirakzErnizpAdyate</vg> <vkr>aR.</vkr> (1)krIqABede
+217969:0:  te: upaDAnaBede (gAlavAliSa) pu0 medi0.</2><page>vp4_436.pdf</page><column>1</column><br/>
+217970:0:  te:  %cAturarTika% pu0 <vg>caturzu arTezu vihitaH</vg> <vkr>Wak.</vkr> <reN><q>tada
+217971:0:  te: sminnastIti deSe tannAmni<q> 04.2.67.</reN> <reN><q>tena nirvfttam
+217972:0:  te: tasya nivAsaH<q> 69.</reN> <vkr><reN><q>adUraBavaSca<q> 70 pA
+217973:0:  te: sUtracatuzkoktArTezu vihite pratyayaBede. <reN><q>janapade lup
+217974:0:  te: pA0.</reN> <reN>janapade vAcye cAturarTikasya lup syAt
+217975:0:  te: si0 kO0.</reN></vkr><page>vp4_436.pdf</page><column>1</column><br/>
+217976:0:  te:  %cAturASramika% tri0 <vg>caturzu ASramezu vihitaH</vg> <vkr>Wak
+217977:2:  te: brahmacaryAdyASramavihite Darme.</1> <reN><q>cAturvidyaM yaTAvarRaM
+217978:0:  te: cAturASramikAn param. tAnahaM saMpravakzyAmi SASvatAn
+217979:0:  te: lokaBAvanAn<q> BA0 A0 35a0.</reN><page>vp4_436.pdf</page><column>1</column><br/>
+217980:1:  te:  %cAturASramya% na0 <vg>catvAra ASramAH</vg> <vkr>saMjYAtvAt karma0 tataH
+217981:1:  te: brAhmaRA0 svArTe zyaY.</vkr> (1)brahmacArigfhasTavAnaprasTa
+217982:2:  te: BikzukarUpezu ASramezu</1> <reN><q>cAturviDaM cAturhotraM cAtu
+217983:0:  te: rASramyameva ca BA0 SA0 46a0.<q></reN><page>vp4_436.pdf</page><column>1</column><br/>
+217984:0:  te:  %cAturika% pu0 <vg>cAturIM vetti</vg> <vkr>Wak.</vkr> (1)sAraTO jawADaraH.</1><page>vp4_436.pdf</page><column>1</column><br/>
+217985:0:  te:  %cAturI% strI <vg>caturasya BAvaH</vg> <vkr>zyaY zittvAt NIzyalopO
+217986:0:  te: caturatAyAM</1> <reN><q>tadBawacAturIturI<q> nEza0</reN><page>vp4_436.pdf</page><column>1</column><br/>
+217987:0:  te:  %cAturjAtaka% na0 <vg>caturjAtakaeva</vg> <vkr>svArTe'R.</vkr> (1)guqatvagelA
+217988:0:  te: nAgakeSararUpe ganDacatuzwaye rAjani0.</1><page>vp4_436.pdf</page><column>1</column><br/>
+217989:1:  te:  %cAturddaSa% na0 <vg>caturddaSyAM dfSyate</vg> <vkr>SEDiko'R.</vkr> (1)rakzasi
+217990:0:  te: si0 kO0.</1> <vg>caturddaSyAM BavaH</vg> <vkr>sanDivelA0 aR.</vkr> (2)catu
+217991:0:  te: rddaSIBave tri0</2><page>vp4_436.pdf</page><column>1</column><br/>
+217992:0:  te:  %cAturddaSika% pu0 <vg>caturddaSyAm anaDyAye'DIte</vg> <vkr>Wak.</vkr> (1)catu
+217993:0:  te: rddaSyAmaDyetari.</1> <reN><q>SizyaM hanti caturddaSI<q> manunA
+217994:0:  te: tasyA anaDyAyatoktestaTAtvam.</reN><page>vp4_436.pdf</page><column>1</column><br/>
+217995:0:  te:  %cAturBadra% na0 <vg>caturBadrameva</vg> <vkr>svArTe aR.</vkr> (1)nAgarAtivizA
+217996:0:  te: mustAguqUcIrUpe dravyacatuzwaye rAjani0.</1><page>vp4_436.pdf</page><column>1</column><br/>
+217997:0:  te:  %cAtu(rTa)rTika% pu0 <vg>caturTe catvarTe'hni BavaH</vg> <vkr>Wak vuY vA
+217998:1:  te: caturTacaturTadinajAte jvaraBede</1> <reN><q>cAturTa(rTi)kojvarorudro
+217999:1:  te: hyanye cEva jvarAstataH. jamBUPalaM haridrA ca sarpa
+218000:1:  te: syEva ca kaYcukam. sarvajvarARAM DUpo'yaM hara

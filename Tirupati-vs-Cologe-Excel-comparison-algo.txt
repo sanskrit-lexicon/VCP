@@ -1,0 +1,46 @@
+Самый простенький и ненадежный алгоритм разбивки для Джима.
+
+Заменяем в обоих текстах 
+"<(.*?)>" regex на ""
+"\{\@|\@\}¦" regex на "%"
+"“|”" regex на """
+"--" на "-"
+" ." на "."
+".." на "."
+"  " на " "
+
+Sub razbivka()
+Dim text1 As String
+text1 = %a% pu0 avati rakzati atati sAtatyena tizWatIti vA ava-ata vA+qa. vizRO "akAro vizRuruddizwa ukArastu maheSvaraH. makArastu smfto brahmA praRavastu trayAtmaka" iti. asya (vizRoH) apatyam ata iY+iH (kAmaH) asya (vizRoH) patnI +NIp+I (lakzmIH).   avya0 ava(prIRanAdO)+qa svarAdipAWAdavyayatvam. (1)aBAve, (2)pratizeDe, (3)svalpe.'rTe,(4) anukampAyAM,(5) samboDane-a ananta !. (6)aDikzepe-a pacasi tvaM jAlma !. "upasargasvaraviBaktipratirUpakASceti" svarAdigaRasUtre a iti sidDAntakOmudyAmudAhftaM manoramAyAYca a samboDane aDikzepe nizeDe ceti vyAKyAtam. "aBAve nahyanona" ityamarawIkAyAM naYAdeSo.'yamityuktam. sa ca AdeSaH naKanamucyAdiBinnaSabdaGawake uttarapadasTe halAdO Sabde pare Bavati. sa tu naYarTe eva sTAnitulyArTakatvAdAdeSasya. naYarTASca  tatsAdfSyamaBAvaSca tadanyatvaM tadalpatA.  aprASastyaM viroDaSca naYarTAH zaw prakIrttitAH..  ityukteH zaq_viDAH. tatra abrAhmaRaityAdO brAhmaRasAdfSyavattvena kzatriyAdInAM boDakatA, aGawamityAdO GawABAvasya, apawa ityAdO pawaBinnasya, anudarA kanyetyAdO alpodaratvasya, apaSavo vE anye go.'SveByaityAdO gavASvaBinnapaSUnAmaprASastyasya, asuraH asita ityAdO ca surasitaviroDasya boDakatA. tatrAyaM viSezaH naYaH sarvvatra aBAve Bede ca SaktiH, sAdfSyAdO tu nirUQalakzaRA. tatra aGawamityAdO avyayIBAve, aDana ityAdO bahuvrIhO, BAvakfdantottarapadake "aBedaH ajYAnamityAdO" naYtatpuruze ca aBAvaboDakatA. BAvakfdantaBinnottarapadanaY_tat_puruze tu aGawa ityAdO BinnatvaboDakateti. atredaM boDyam. samAse halAdO uttarapade naYaH sTAne a ityAdeSaviDAnena samAsa evAsya naYarTakasya a ityasya prayogaH nAnyaTA, samboDanAdyarTakasya tu pfTak_prayogaH kintu "naYo nalopastiNi kzepe" iti vArttikena tiNantapade pare.'pi naYAdeSasya viDAnAt tasyEva pfTak_prayogaH. aDikaM naY_SabdArTAvasare vakzyate. ajIvanirityAdO aDikzepArTakatA ajasramityAdO upa0 sa0. tasya ca kriyAyogAt pratizeDArTakatA. 
+
+' перебор строк по 2-му источнику
+For i = 2 To 35
+text1 'это весь текст из первого источника без тегов
+text1 = Cells(2, 3).Value
+text2 'это строка из 2-го источника
+'%a% pu0 avati rakzati atati sAtatyetra tizWatIti vA ava-ata-
+'vA qa. vizRO "akArovizRuruddizwOkArastu maheSvaraH.
+'makArastu smftobrahmA praRavastu trayAtmaka" iti. asya
+'(vizRoH) apatyam ata iY iH (kAmaH) asya (vizRoH)
+'patnI NIp I (lakzmIH).
+
+text2 = Cells(i, 1).Value
+' получаем что-то справа до 1-го пробела 
+text2_right = Right(Cells(i, 1).Value, Len(text2) - InStrRev(Cells(i, 1).Value, " "))
+' проверка на -, например ava-ata- => ava-ata
+If (Right(text2_right, 1) = "-") Then
+text2_right = Left(text2_right, Len(text2_right) - 1)
+End If
+' получаем 1-е вхождение строки ava-ata + длина ava-ata
+text3_num = InStr(1, text1, text2_right) + Len(text2_right)
+' получаем строку из основной от начала строки включая слово ava-ata
+text3 = Left(text1, text3_num)
+Cells(i, 2).Value = text3
+' получаем длину строки
+len_text3 = Len(text3)
+' удаляем из начальной строки подстроку которую выбрали.
+text1 = Right(text1, Len(text1) - len_text3)
+' перезаписываем начальный текст
+Cells(2, 3).Value = text1
+Next i
+End Sub

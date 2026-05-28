@@ -1,0 +1,500 @@
+272501:0:  te: jI0Su0, BO0sO04. bu0jI0, Su0sO05 Su0sO0, bu0jI
+272502:1:  te: bu0Su0, jI0SO07 jI0sO0, bu0Su08. jI0Su0,bu0sO
+272503:2:  te: bu0sO0jI0Su01da. evamekatra 160. dvO dvitIye trayo dvAdaSe
+272504:0:  te: dvAdaSe dvO trayo dvitIye tadyaTA BO0bu0,jI0Su0sO
+272505:0:  te: jI0Su0sO0,BO0bu02. BO0jI0, bu0Su0sO03 bu0Su
+272506:0:  te: sO0,BO0jI04. BO0Su0, bu0jI0sO05 bu0 jI0 sO
+272507:0:  te: BO0 Su0 6 . BO0 sO0, bu0 jI0 Su0 7 . bu0jI0Su0, BO
+272508:0:  te: sO08.  bu0 jI0, BO0Su0sO09. BO0Su0sO0, bu0jI
+272509:0:  te: evamekatra 170. bu0Su0, BO0jI0sO01 BO0jI0sO
+272510:0:  te: bu0Su02. bu0sO0, BO0jI0Su03 BO0jI0Su
+272511:1:  te: bu0sO04. jI0Su0, BO0bu0SO05. BO0bu0sO
+272512:0:  te: jI0Su06. jI0sO0, BO0bu0Su08 BO0bu0Su0, jI
+272513:0:  te: sO08. Su0sO0, BO0 bu0 jI09. BO0 bu0 jI0, Su0 sO
+272514:1:  te: ekamekatra
+272515:0:  te: evaM duruDurAyogaBedAH SatamaSItyaDikaM pradarSitam, Bawwo
+272516:5:  te: sampannaBogamuKaBugDanavAhanAQyastyaDugAnvito duruDarA
+272517:1:  te: praBavaH suBftyaH. kemadrume malinaduH KitanIcaniH svAH
+272518:1:  te: prezyAHKalASca nfpaterapi vaMSajAtAH<q>bfhajjA
+272519:1:  te: asya paMstvamapi. <reN><q>pracuraDanasameto BogasOKyAnvitaH
+272520:0:  te: syAdgajahayaraTamuKyErvAhanEranvitaSca. bahuvitaraRa
+272521:1:  te: lajjAprApitAKaRqaladrurduruDurajanito nA BftyavargEH
+272522:1:  te: prapUrRaH<q>jAtakapadDatO pustvokteH.</reN> <reN><q>daDateva yogamuBaya
+272523:0:  te: grahAntarasTitikAritaM duruDurAKyamindunA<q>mAGaH. </reN></vn><page>vp5_193.pdf</page><column>2</column><br/>
+272524:0:  te:  %duruPa% pu0 (1)nI0 tA0 ukte yogaBede.</1> <reN><q>tambIrakutTO duruPaSca
+272525:4:  te: yogAH syuH zoqaSEzAM kaTayAmi lakzma<q>ityuddiSya
+272526:0:  te: lagnAt zazWe'zwame'ntye ripurarigfhago vakrago nIca
+272527:2:  te: gAmI krUrEryukto'stago vA yadi muTaSilI krUranIcA
+272528:1:  te: rimasTEH. anIkzamARastanumastaBAge sTitaH SuBo
+272529:2:  te: ccAdupadESca SUnyaH. krUresarAPI na sa vIryayuktaH kAryar
+272530:3:  te: TaDAtuM na viBurvato'sO. candraH sUryyAddvAdaSe vfSci
+272531:1:  te: kAdye zaRqe nizwI'ntye tulAyAM viSezAt. rASISenA
+272532:1:  te: dfzwamUrttirna sarvErdfzwo jYeyaH SUnyamArgaH padonaH. kzIRo
+272533:0:  te: BAnte no SuBo janmakAle pucCAyAM vA candra evaM vi
+272534:2:  te: cintyaH. Sukle BOmaH kfzRapakze'rkasUnuH kzudradfzwyunduM
+272535:0:  te: vIkzate no SuBo'sO. Sukle divA nfgfhago'rkasutaH
+272536:1:  te: SaSANkaM kfzRo kujo niSi samarkzagataH prapaSyet. dozA
+272537:3:  te: platAM vitanute'paraTA bahutvam praSne'Ta vA januzi
+272538:0:  te: budDimatohanIyam<q>.</reN><page>vp5_196.pdf</page><column>1</column><br/>
+272539:0:  te:  %durUha% tri0 <vg>duHKena Uhyate</vg> <vkr>dur+Uha-karmaRi Kal.</vkr> (1)durvi
+272540:1:  te: tarkye. <reN><q>jAnIte jayadeva eva SaraRaH SlArGye durUhadrute
+272541:0:  te: gItago0.</reN></1><page>vp5_196.pdf</page><column>2</column><br/>
+272542:0:  te:  %durervA% tri0 <vkr>dur+i-bA0 va.</vkr> (1)duHKena gamye <reN><q>prAdevIrmAyAH
+272543:0:  te: sahate durevAH<q> f0 5.2.9.</reN> <reN><q>durevAH duHKagamanAH<q>BA0. </reN></1><page>vp5_196.pdf</page><column>2</column><br/>
+272544:0:  te:  %duroka% tri0 <vg>duzwa okaH samavAyo'tra</vg> prA0 ba0. (1)duHseve <reN><q>duro
+272545:0:  te: kamagnirAyave SuSoca<q>f0 7.4.3.</reN> <reN><q>durokaM duHseyam<q>BA0.</reN></1><page>vp5_196.pdf</page><column>2</column><br/>
+272546:1:  te:  %duroRa% pu0 (1)gfhe niGaRwuH. <reN><q>ni duroRe amfto martyAnAM
+272547:0:  te: rAjA sasAda vidaTAni sADan<q>f0</reN> 3.1.18. (2)yajYagfhe
+272548:1:  te: ca. <reN><q>kAvyayo rAjA nezu kratvA dakzasya durIRe
+272549:0:  te: yaju0 33.72</reN> <reN><q>duroRe yajYagfhe<q> vedadI0</reN> <reN><q>asi diva
+272550:0:  te: syAyurduroRayuH<q> f0 8.60.19</reN> <reN><q>duroRayuryajamAna
+272551:0:  te: gfhasya miSrayitA<q> BA0</reN> <vkr>yu-miSraRe bA0 ku.</vkr> <reN><q>haMsaH
+272552:2:  te: SucizadvasurantarikzasadDotA vedizada tiTirduroRasat
+272553:0:  te: kaWopa0.</reN></2><page>vp5_196.pdf</page><column>2</column><br/>
+272554:2:  te:  %durodara% pu0 <vg>duzwam A samantAdudaramasya.</vg> (1)dyUtakAre (2)paRe
+272555:2:  te: medi0. (3)akze (4)dyUte na0 amaraH.</4> <reN><q>duroracCadmajitAM
+272556:0:  te: samIhate nayena jetuM jagatIM suyoDanaH<q>kirA0.</reN> <reN><q>na
+272557:0:  te: mfgayA'miratirna durodaram<q>raGuH.</reN><page>vp5_196.pdf</page><column>2</column><br/>
+272558:1:  te:  %durga% puM na0 <vkr><vg>duHKena gamyate'sO</vg> dur+gama-ba 0 qa.</vkr> (1)(gaqa)(kellA)
+272559:0:  te: prasidDe rAjYAmASraRIye kowwe. <vn>tatsvarUpaBedAdikaM
+272560:0:  te: matsyapurARe 216 a0 uktaM yaTA
+272561:0:  te: evaM viDaM yaTAlABaM rAjA vizayamAvaset. tatra durgaM
+272562:4:  te: nfpaH kuryAt zaRmAmekatamaM buDaH. DanvadurgaM mahI
+272563:1:  te: durgaM naradurgaM taTEva ca. vArkza cEvAmbudurgaM ca giri
+272564:1:  te: durgaM ca pArTiva! . sarvezAmeva durgARAM girudurgaM praSa
+272565:0:  te: syate. durgaM ca pariKopetaM vaprAwwAlakasaMyutam. Sata
+272566:3:  te: DnIyantramuKyESca SataSaSca samAvftam. gopuraM sakapAdaYca
+272567:0:  te: tatra syAt sumanoharam. sapatAkaNgajArUQo yena rAjA
+272568:0:  te: viSet puram. catasraSca taTA tatra kAryAstvAyatavITayaH
+272569:0:  te: ekasmiMstatra vITyagre devaveSma BaveddfQam. vITyagre ca
+272570:1:  te: dvitIye ca rAjaveSma vIDIyate. DarmADikaraRaM kAryaM
+272571:1:  te: viTyagre ca tftIyake. caturTe, tvaTa vITyagre gopuraYca
+272572:0:  te: viDIyate. AyataYcaturasraM vA vfttaM vA kArayet puram
+272573:0:  te: muktihInaM trikoRaYca yavamaDyaM taTEva ca. AyataYcatu
+272574:1:  te: rasraM vA vfttaM vA kArayet param. ardDacandraM praSaMsanti
+272575:0:  te: nadItIrezu tadvasan. anyattatra na karttavyaM prayatnena
+272576:1:  te: vijAnatA. rAjYA keSagfhaM kAryaM dakziRe rAja
+272577:0:  te: veSmanaH. tasyApi dakziRe BAge gajasTAnaM viDIyate
+272578:0:  te: gajAnAM prANmuKI SAlA kartavyA vApyudaNmuKI
+272579:1:  te: Agneye ca taTA BAge AyuDAgAramizyate. mahAnasaYca
+272580:0:  te: DarmajYa! karmaSAlAstaTAparAH. gfhaM puroDasaH kAryaM
+272581:1:  te: vAmato rAjaveSmanaH. mantrivedavidAYcEva cikitsAkarttu
+272582:0:  te: reva ca. tatrEva ca taTA BAge kozAgAraM viDIyate
+272583:0:  te: gavAM sTAnaM taTEvAtra turagARAM taTEva ca. uttarABi
+272584:1:  te: muKI SreRI turagARA viDIyate. dakziRABimuKI vATa
+272585:0:  te: pariSizwAstu garhitAH. turagAste taTA DAryAH pradIpEH
+272586:0:  te: sArvarAtrikEH. kukkuwAn vAnarAMScEva markawAMSca viSezataH
+272587:0:  te: DArayedaSvaSAlAsu savatsAM Denumeva ca. ajASca DAryA
+272588:0:  te: yatnena turagARAM hitEziRA. gogajASvAdiSAlAsu
+272589:0:  te: tatpurIzasya nirgamaH. astaM gate na karttavyo devadeve
+272590:0:  te: divAkare. tatra tatra yaTAsTAnaM rAjA vijYAya sA
+272591:0:  te: rataH. dadyAdAvasaTasTAnaM sarvezAmanupUrvaSaH. yoDAnAM
+272592:1:  te: SilpinAYcEva sarvezAmaviSezataH. dadyAdAvasaTAn dUrge
+272593:0:  te: kAlamantravidAM SuBAn. govEdyAnaSvavEdyAMSca gajavEdyAM
+272594:0:  te: staTEva ca. Ahareta BfSaM rAjA durge hi prabalA rujaH
+272595:1:  te: kUSIlavAnAM viprARAM durge sTAnaM viDIyate. na bahU
+272596:0:  te: nAmato durge vinA kAryaM taTA Bavet. durge ca tatra
+272597:0:  te: karttavyA nAnApraharaRAnvitAH. sahasraGAtino rAjaM
+272598:0:  te: stEstu rakzA viDIyate. durge dvArARi guptAni kAryyA
+272599:0:  te: Ryapi ca BUBujA. saYcayaScAtra sarvezAmAyuDAnAM praSa
+272600:0:  te: syate. DanuzAM kzepaRIyAnAntomarARAM ca pArTiva
+272601:0:  te: SarARAmaTa KaqgAnAM kavacAnAM taTEva ca. laguqAnAM
+272602:0:  te: guqAnAYca huqAnAM pariGEH saha. aSmanAYca praBUtAnAM
+272603:0:  te: mudgarARAM taTEva ca . triSUlAnAM pawwiSAnAM kuWArARAYca
+272604:0:  te: pArTiva.! prAsAnAYca saSUlAnAM SaktInAYca narottama
+272605:0:  te: paraSvaDAnAM cakrARAM varmaRAYcarmaBiH saha. kuddAlakzura
+272606:0:  te: vetrARAM pIWakAnAntaTEva ca. tuzARAYcEva dAtrARAmaNgA
+272607:0:  te: rARAYca saYcayaH. sarvezAM SilpiBARqAnAM saYcayaScAtra
+272608:0:  te: cezyate. vAditrARAYca sarvezAmOzaDInAntaTEva ca
+272609:2:  te: yavasAnAM praBUtAnAminDanasya ca saYcayaH. gudusya sarva
+272610:0:  te: tElAnAM gorasAnAntaTEva ca. vasAnAmaTa majjAnAM snA
+272611:0:  te: yUnAmasTiBiH saha. gocarmapawahAnAYca DAnyAnAM
+272612:0:  te: sarvatastaTA. taTEvABrapawAnAYca yavagoDUmayorapi
+272613:1:  te: ratnAnAM sarvavastrARAM lohAnAmapyeSezataH. kalAyamudga
+272614:0:  te: mAzARAYcaRakAnAM tilEH saha. taTA ca sarvaSasyAnAM
+272615:1:  te: pAMSugomayayorapi. SaRasarjarasaM BUrjaM jatulAkzA ca
+272616:1:  te: waNkaRam. rAjA saYcinuyAddurge yaccanyadapi kiYcana
+272617:0:  te: kumBAScASIvizEH kAryA vyAlasiMhAdayastaTA. mfgASca
+272618:0:  te: pakziRaScEva rakzyAste ca parasparam.sTAnAni ca
+272619:1:  te: virudDAnAM suguptAni pfTak pfTak. kartarvyAni mahA
+272620:0:  te: BAga ! yatnena pfTivIkzitA. uktAni cApyanuktAni
+272621:0:  te: rAjadravyARyaSezataH. suguptAni pure kuryAjjanAnAM hita
+272622:0:  te: kAmyayA. jIvakarzaBakAkolamAmalakyAwarUzakAn
+272623:1:  te: SAlaparRIM pfSniparRI mudgaparRI taTEva ca. mAzaparRI
+272624:0:  te: madO dvO ca sArive dve balAtrayam. vArA SvasantI vfzyA
+272625:2:  te: ca bfhatI kaRwakArikA. SfNgI SfNgAwakI droRI varRA
+272626:1:  te: BUrdarBareRukA. maDuparRIM vidArye dve mahAkzIrA mahA
+272627:1:  te: tapAH. DanvanaH sahadevAhvA kawukEraRqaka vizaH. parRI
+272628:1:  te: SatAhvA mfdvIkA PalguKarjurayazwikAH. SukrAti
+272629:3:  te: SukrakaSmaryaM CatrAticCatratavIraRAH. ikzurikzuvikArASca
+272630:0:  te: PARitAdyASca sattama!. siMhI ca sahadevI ca viSve
+272631:0:  te: devASvaroDakam. maDukaM puzpahaMsAKyA SatapuzpA maDU
+272632:0:  te: likA. SatAvarImaDUke ca pippalaM tAlameva ca. Atma
+272633:0:  te: guptA kawPalAKyA dArvikA rAjaSIrzakI. rAjasarzapa
+272634:2:  te: DAnyAkamfzyaproktA taTotkawA. kAlaSAkaM padmabIjaM
+272635:0:  te: govallI maDuvallikA. SItapAkI kuverAkzI kAkajihvo
+272636:2:  te: qrapuzpikA. parvatatrapusO comO guYcAtakapunarnave. kaseru
+272637:0:  te: kArukASmIrI balyA SAlUkakesaram. tuzaDAnyAni
+272638:0:  te: sarvARi SamIDAnyAni cEvahi. kzIraM kzOdraM taTA takraM tElaM
+272639:0:  te: majjA vasA Gftam. nIpaScArizwakAkzoqavAtAmasomabARa
+272640:0:  te: kam. evamAdIni cAnyAni vijYeyo maDurogaRaH. rAjA
+272641:0:  te: saYcinuyAtsarvaM pure niravaSezataH. dAqimAmrAtakO cEva
+272642:2:  te: tintiqIkAmlavetasam. BavyakarkanDukucakaramardakarUzakam
+272643:3:  te: bIjapUrakakaRqUre mAlatIrAjabanDukam. kolakadvaya
+272644:0:  te: parRAni dvayorAmnAtayorapi. pArAvataM nAgarakaM prAcI
+272645:0:  te: nolakameva ca. kapitTAmalakaM cukraM PalaM dantaSaWasya ca
+272646:0:  te: jAmbavaM navanItaYca sOvIrakaruzodake. surAsavaYca madyAni
+272647:0:  te: maRqatakradaDIni ca. SuktAni cEva sarvARi jYeyamAmla
+272648:0:  te: gaRaM dvija!. evamAdIni cAnyAni rAjA saYcinuyAt
+272649:1:  te: pure. sEnDavodBidapAWeyapAkyasAmudralomakam. kupya
+272650:2:  te: sOvarcalasaviqaM vAlakeyaM yavAhvakam. OrvaM kzAraM kAla
+272651:0:  te: Basma vijYeyo lavaRogaRaH. evamAdIni cAnyAni rAjA
+272652:1:  te: BaYcinuyAt pure. pippalI pippalImUlacavyacitrakanAgaram
+272653:1:  te: kuberakaM marIcakaM Sigru BallAtasarzapAH. kuzWAjamodA
+272654:1:  te: kiRihI hiNgumUlakaDAnyakam. kAravIkuYcikA yAjya
+272655:1:  te: sumuKA kAkamAcikA. PaRijJako'Ta laSunaM BUstfRaM
+272656:0:  te: surasantaTA. kAyasTA ca vayasTA ca haritAlaM manaH
+272657:0:  te: SilA. amftA ca rudantI ca rohizaM kuNkumaM taTA
+272658:3:  te: jayA eraRwaqakARqIraM sallakI haYcikA taTA. sarva
+272659:0:  te: pittAni mUtrARi prAyo haritakAni ca. PalAni cEva
+272660:0:  te: hi taTA sUkzmElA hiNgupatrikA. evamAdIni cAnyAni
+272661:0:  te: gaRaH kawukasaMjYitaH. rAjA saYcinuyAddurge prayatnena
+272662:0:  te: nfpottama! mustaM candanahrIverakftamAlakadAravaH. dari
+272663:2:  te: drAnaladoSInaktamAlakadambakam. dUrvA pawolakawukA
+272664:0:  te: dIrGatvak patnakaM vacA. kirAtatiktaBUtumbI vizA cAti
+272665:0:  te: vizA taTA. tAlISapatratagarasaptaparRavikaNkatAH. kAko
+272666:1:  te: dumbarikA divyA taTA cEva surodgavA. zaqgranTA ro
+272667:0:  te: hiRI mAMsI parpawaScATa dantikA.rasAYjanaM BfNgarAjaM
+272668:0:  te: pataNgI paripelavam. duHsparSAguruRI kAmA SyAmAkaM
+272669:1:  te: ganDanAkulI! rUpaparRI vyADranaKaM maYjizWA caturaNgulA
+272670:1:  te: ramBA cEvANgurAsPotA tAlAsPotA hareRukA. vetrAgra
+272671:1:  te: vetamastumbI vizARI loDrapuzpiRI. mAlatIkarakfzRAKyA
+272672:0:  te: vfScikA jIvitA taTA. parRikA ca guqUcI ca sa gaRa
+272673:1:  te: stikasaMjYakaH. evamAdIni cAnyAni rAjA saYcinuyAt
+272674:1:  te: pure. aBayAmalake coBe taTEva ca viBItakam. priyaNgu
+272675:0:  te: DAtakIpuzpaM mocAKyA cArjunAsanAH. anantA strI
+272676:1:  te: tuvarikA SyonA ca kawPalaM taTA. BUrjapatraM SilApatraM
+272677:0:  te: pAwalApatralomakam. samaNgA trivftAmUlakArpAsagErikA
+272678:2:  te: Yjanam. vidrumaM samaDUcCizwaM kumBikA kumudotpalam
+272679:4:  te: nyagroDo dumbarASvatTakiMSukAH SiMSupA SamI. priyAla
+272680:0:  te: pIlukAsAriSirIzAH padmakaM taTA. bilvo'gnimanTaH
+272681:0:  te: plakzaSca SyAmAkaSca vako Ganam. rAjAdanaM karIraYca
+272682:1:  te: DAnyakaM priyakastaTA. kakkolASokavadarAH. kadambaKadira
+272683:0:  te: dvayam. ezAM patrARi sArARi mUlAni kusumAni ca
+272684:0:  te: evamAdIni cAnyAni kAzAyAKyo mato rasaH. prayatnena
+272685:0:  te: nfpaSrezWo rAjA saYcinuyAt pure. kIwASca mAraRe
+272686:0:  te: yogyA vyaNgatAyAM taTEva ca. vAtaDUmASca mArgARAM
+272687:0:  te: dUzaRAni taTEva ca. DAryARi pArTivErdurge tAni
+272688:0:  te: vakzyAmi pArTiva! vizARAM DAraRaM kAryaM prayatnena
+272689:0:  te: mahIBujA. vicitrAScANgadA DAryA vizasya SamanAstaTA
+272690:0:  te: rakzoBUtapiSAcaGnAH pApaGnAH puzwivarDanAH. kAlavadiSca
+272691:0:  te: puruzAH pure DAryAH prayatnataH. BItAn pramattAn kupi
+272692:1:  te: tAMstaTEva ca vimAnitAn. kuBftyAn pApaSIlAMSca na
+272693:0:  te: rAjA vAsayet pure. yantrAyuDAwwAlacayopapannaM samagra
+272694:1:  te: DAnyOzaDisamprayuktam. vaRigjanESca vftamAvaseta durgaM
+272695:1:  te: suguptaM nfpatiH sadEva. manuruvAca. rakzoDnAni viza
+272696:3:  te: GnAni yAni DAryAni BUBujA. agadAni samAcakzva
+272697:1:  te: tAni DarmaBftAM vara ! matsya uvAca. bilvAwakI
+272698:3:  te: yavakzAraM pAwalA bAhnikozaRA. SrIparRI SallakI
+272699:0:  te: yukto nikvATaH prokzaRaM param. savizaM prokzitaM tena
+272700:0:  te: sadyo Bavati nirvizam.  </reN></vn> <vn><reN>yavasEnDavapAnIyavastraSayyAsano
+272701:1:  te: dakam. kavacABaraRaM CatraM bAlavyajanaveSmanAm. Selu
+272702:0:  te: pAwalAtivizA SigrumUrvA punarnavA. samaNgAvfzamUlaYca
+272703:0:  te: kapitTavfzaSoRitam. mahAdantaSaWantadvat prokzaRaM viza
+272704:1:  te: nASanam. lAkzApriyaNgumaYcizWA samamelA hareRukA
+272705:0:  te: yazwyAhvA maDurA cEva baBrupittena kalpitA. niKane
+272706:1:  te: dgovizARasTaM saptarAtraM mamItale. tataH kftvA maRiM
+272707:0:  te: hemnA badDaM hastena DArayet . saMsfzwaM savizaM tena sadyo
+272708:0:  te: Bavati nirvizam. manohvayA SamIpatraM tumbikA Sveta
+272709:3:  te: sarzapAH. kapitTakuzWamaYcizWAH pitna SlakzRakalpitAH
+272710:0:  te: Suno goH kapilAyASca sOmyAkzipto'parogadaH. viza
+272711:0:  te: jit paramaM kAryaM maRiratnaYca pUrvavat. mUzikA jatukA
+272712:1:  te: cApi haste badDA vizApahA. hareRurmAsI maYjizWA
+272713:4:  te: rajanI maDukA maDu. akzatyak surasaM lAkzA SvattaM
+272714:5:  te: pUrvadadBa. vAditrARi patAkASca pizwEretEH pralepitAH
+272715:1:  te: SrutvA dfzwA samAGrAya sadyo Bavati nirvizaH. tryUzaRaM
+272716:1:  te: paYcalavaRaM maYjazWA rajanIdvayam. sUkzmElA trivftApatraM
+272717:2:  te: viqaNgAnIndravAruRI. maDukaM vetasaM kzOdraM vizARe ca
+272718:1:  te: niDApayet. tasmAduzaRAmbunA mAtraM prAguktaM yojaye
+272719:1:  te: ttataH. SuklaM sarjarasopetAH sarzapA elAvAlukEH. suvegA
+272720:5:  te: taskarapurEH kusuramErjunasya tu. DUpo vAsagfhe hanti vizaM
+272721:0:  te: sTAvarajaNgamam. na tatra kIwA na vizaM dardurA na
+272722:1:  te: sarIsfpAH. na kftyAkarmARAYcApi DUpo'yaM yatra dahyate
+272723:0:  te: kalpitEScandanakzIrapalASadrumavalkalEH. mUrvElAvAlusara
+272724:0:  te: sAnAkulItaRqulIyakEH. kvATaH sa vizakAryezu kAka
+272725:0:  te: mAcIyuto hitaH. rocanApatranepAlIkuNkumEstilakAn
+272726:0:  te: vahan. vizErna bADyate syAcca naranArInfpapriyaH
+272727:0:  te: cUrRErharidrAmaYjizWAkiRihIkaRanimbajEH. digDaM nirvi
+272728:0:  te: zatAmeti gAtraM sarvavizArditam. SirIzasya PalaM patraM
+272729:0:  te: puzpaM tvaNmUlameva ca. gomUtraGfzwaM hyagadaH sarvakarmakaraH
+272730:0:  te: smftaH. ekavIra! mahOzaDyaH SfRu cAtaH paraM nfpa
+272731:1:  te: vanDyA karkowakI rAjan ! vizRukrAntA taTotkawA
+272732:0:  te: SatamUlI sitAnandA balA mocA pawolikA. somA
+272733:0:  te: piRqA niSA cEva taTA dagDaruhA ca yA. sTale kama
+272734:1:  te: linI yA ca viSAlI SaNKamUlikA. caRqAlI hasti
+272735:1:  te: BagaDA go'jAparRo karamBikA. raktA cEva mahAraktA
+272736:2:  te: taTA barhiSiKA ca yA. koSAtakI naktamAlaM piyA
+272737:0:  te: laYca sulocanI. vAruRI vasuganDA ca taTA vE ganDanA
+272738:1:  te: kulI. ISvarI SivaganDA ca SAmalA vaMSamAlikA !jatu
+272739:0:  te: kAlI mahA SvetA SvetA ca maDuyazwikA. vajrakaH pAri
+272740:0:  te: BadraSca taTA vE sinDuvArakAH. jIvAnandA vasucCidrA
+272741:0:  te: natanAgarakaRwakA. nAlaYca jAlI jAtI ca taTA ca
+272742:1:  te: vawapatrikA. kArtasvaraM mahAnIlA kundururha sapAdikA
+272743:1:  te: maRqUkararRI vArAhI dve taTA taRqulIyake. sarpAkzI
+272744:0:  te: lavalI brAhmI viSvarUpA suKAkarA. rujApahA vfdDikarI
+272745:0:  te: taTA cEva viSalyadA. patrikA rohiRI cEva naktamAlA
+272746:1:  te: mahOzaDI. taTAmalakavfndAkaM SyAmacitraPalA ca yA
+272747:0:  te: kAkolI kzIrakAkolI pIluparRI taTEva ca. keSinI
+272748:0:  te: vfScikAlI ca mahAnAgA SatAvarI. garuqI ca taTA
+272749:0:  te: vegA jale kumudinI taTA. sTale cotpalinI yA ca
+272750:0:  te: mahABUmilatA ca yA. unmAdinI somarAjI sarva
+272751:1:  te: ratnAni pArTiva! . viSezAnmarakatAni kIwapakzaM viSe
+272752:4:  te: zataH. jIvajAtASca maRayaH sarve DAryAH pravataH
+272753:0:  te: rakzoGnASca vizaGnASca kftyAvetAlanASanAH. viSezAnnara
+272754:4:  te: nAgASca goKarozwrasamudraBavAH sarpanittiragomAyuvastra
+272755:0:  te: maRqakajASca ye. siMhavyAGrarkzamArjAradvIpivAnarasaMBavAH
+272756:0:  te: kapiYjalA gajA vAjimahizERaBavASca ye. ityevametEH
+272757:0:  te: sakalErupetandravyESca sarvEH svapuraM surakzitam. rAjA
+272758:1:  te: vasettatra gfhaM suSuBraM guRAnvitaM lakzaRasamprayuktam
+272759:0:  te: manuruvAca <q>rAjArakzArahasyAni yAni durge niDApayet
+272760:2:  te: kArayedvA mahIBartA brahI tattvAni tAni ca. matsya
+272761:1:  te: uvAca. SirIzodumbaraSamIvIjapuraM Gftaplutam. kzudyogaH
+272762:0:  te: kaTito rAjan ! mAsArdDaM tu purAtanEH. kaSeruPala
+272763:1:  te: mUlAni ikzumUlaM taTA bisam. dUrvAkzIravftErmaRqaH sidDo
+272764:0:  te: 'yaM mAsikaH paraH. naraM SastrahataM prApto na tasya
+272765:0:  te: maraRaM Bavet. kalmAzaveRunA tatra janayettu viBAvasum
+272766:0:  te: gfhe trirapasavyantu kriyate yatra pArTiva!. nAnyo'gni
+272767:2:  te: rjvalate tatra nAtra kAryA vicAraRA. kArpAsAsTA BUja
+272768:1:  te: Ngasya tena nirmocanaM Bavet. sarpaniryAsane DUpaH praSastaH
+272769:0:  te: satataM gfhe. sAmudrasEnDavayavA vidyuddagDA ca mfttikA
+272770:0:  te: tayAnuliptaM yadveSma nAgninA dahyate nfpa!. divA ca
+272771:2:  te: durge rakzyo'gniryAti vAte viSezataH. vizAcca rakzyonfpa
+272772:1:  te: tistatra yuktiM nivoDa me. krIqAnimittaM nfpatirDAra
+272773:5:  te: yenBfgapikzaRaH. annaM vE prAk parIkzeta vahnO cAnyatarezu
+272774:1:  te: ca . vastraM puzpamalaNkAraM BojanAcCAdanaM taTA. nApa
+272775:4:  te: rIkzitapUrvantu spfSedapi mahAmatiH. syAccAsO vataktrasantapa
+272776:0:  te: sodvegaYca nirIkzate. vizado'Ta vizaM dattaM yacca tatra
+272777:3:  te: parIkzate. srastottarIyo vimanAH stamBakuqyAdiBistaTA
+272778:0:  te: pracCAdayati cAtmAnaM lajjate tvarate taTA. BuvaM vili
+272779:0:  te: Kati grIvAM taTA cAlayate nfpa!. kaRqUyati ca
+272780:1:  te: mUrdDAnaM pariloqyAnanantaTA. kriyAsu tvarito rAjan
+272781:0:  te: viparItAsvapi Druvam. evamAdIni cihnAni vizadasya
+272782:1:  te: parIkzayet. samAptervikzipedvahnO tadannaM tvarayAnvitEH
+272783:2:  te: indrAyuDasarvaRantu rUkzaM skowasamanvitam. ekAvartantu
+272784:1:  te: durganDi mfSaYcawacawAyate. tadDUmasevanAjjantoH Siroro
+272785:0:  te: gaSca jAyate. savize'nne vilIyante na ca pArTiva
+272786:2:  te: makzikAH nilInASca vidyante saMspfzwe savize taTA
+272787:0:  te: virajyati cakorasya dfzwiH pArTivasattama!. vikftiYca
+272788:0:  te: svaro yAti kokilasya taTA nfpa!. gatiH sKalati
+272789:4:  te: haMsasya BfNgarAjaSca kUjati. kroYco madamaTAmyeti
+272790:0:  te: kfkavAkurvirOti ca. vikroSati Suko rAjan! sArikA
+272791:2:  te: vasate tataH. cAmIkaro'nyato yAti sftyuM kAraRqava
+272792:0:  te: staTA. mehate vAnaro rAjan ! glAyate jIvajIvakaH
+272793:4:  te: hfzwaromA Bavedba pfzataScEva roditi. harzamAyAti ca
+272794:8:  te: SisvI vizasandarSanfpa! anna savizaM rAjaScireRa
+272795:0:  te: ca vipadyate. tadA Bavati niHSrAvyaM pakzaparyuzito
+272796:1:  te: pamam. vyApannarasaganaYca candrikABistaTAyutam. vyaYja
+272797:2:  te: nAnAntu SuzkatvaM dravARaM budBudodBavaH. sasEnDavAnAM dravyARAM
+272798:0:  te: jAyate PenamAlitA. sasyarAjiSca tAmrA syAt nIlA ca
+272799:0:  te: payasastaTA kokilABA ca madyasya toyasya ca nfpottama
+272800:0:  te: DAnyAmlasya taTA kfzRA kapilA kodravasya ca. maDuSyAmA
+272801:0:  te: ca takrasya nIlA pItA taTEva ca. GftasyodakasaNkASA
+272802:0:  te: kapotABA ca sattanuH. haritA mAkzikasyApi tElasya ca
+272803:1:  te: taTA'ruRA.PalAnAmapyapakkAnAM pAkaH kzipraM prajAyate
+272804:4:  te: prakopaScEva mAkkAnAM sAlyAnAM mlAnatA taTA. mfdutA
+272805:0:  te: kaWinAnAM syAt mfdUnAYca viparyayaH. sUkzmARAM rUpa
+272806:0:  te: dalanaM taTA cEvAtiraktatA. SyAmamaRqalatA cEva vastrARAM
+272807:1:  te: vE taTEva ca. lohAnAYca maRInAYca malapaNkopadigDatA
+272808:0:  te: anulepanaganDAnAM mAlyAnAYca nfpottama ! . viganDatA ca
+272809:0:  te: vijYeyA taTA rAjan ! jalasya tu. dantakAzWatvacaH
+272810:1:  te: SyAmAstanusattvAstaTEva ca. evamAdIni cihnAni vijYeyAni
+272811:0:  te: nfpottama! . tasmAdrAjA sadA tizWet maRimantrOzaDI
+272812:1:  te: gaREH. uktEH saMrakzito rAjA pramAdaparivarjakaH
+272813:0:  te: prajAtarormUlamihAvanISastadrakzaRAdrAzwramupEti vfdDim
+272814:0:  te: tasmAt prayatnena nfpasya rakzA sarveRa kAryA ravivaMSacandra
+272815:0:  te: durgaSuBASuBalakzaRaYca kAlikApurARe 85 a0 yaTA
+272816:1:  te: durgAstu satataM kuryyAt prAkArAwwAlatoraREH
+272817:0:  te: BUzitAnnagarAdrAjA durge durgASrayaM caret . durgaM valaM
+272818:2:  te: nfpARAntu nityaM dugaM praSasyate. Satameko yoDayati
+272819:0:  te: durgasTAyI DanurDaraH. SataM daSasahasrARi tasmAt durgaM
+272820:0:  te: praSasyate. jaladurgaM BUmidurgaM vfkzadurgaM taTEva ca
+272821:0:  te: araRyavanadurgaYca SElajaM pariKodBavam. durgaM kAryaM
+272822:0:  te: nfpatinA yaTAyogyaM svadeSataH. durgaM kurvan puraM kuryyAt
+272823:0:  te: trikoRaM DanurAkfti. vartulaM vA catuzkoRaM nAnyaTA
+272824:0:  te: nagaraM caret. mfdaNgAkfti durgaYca satataM kulanASanam
+272825:0:  te: yaTA rAkzasarAjasya laNkA durgAjitA purA. valeH purI
+272826:0:  te: SoRitAKyA tejo durge pratizWitam. yatastat vyaja
+272827:0:  te: nAkAramato BrazwaH Sriyo baliH. sOBAgyaM SAlvarA
+272828:0:  te: jasya nagaraM paYcakoRakam. divi yadvarttate rAjaMstacca
+272829:0:  te: BrazwaM Bavizyati. yaccAyoDyAhvayaM BUpa! puramikzvAkuBU
+272830:1:  te: BujAm. DanurAkfti taccApi tato'Bidvijayapradam
+272831:3:  te: durgaBUmO yajedudurgA dikprAlAMScEva dvArataH. pUjayitvA
+272832:0:  te: viDAnena jayaM BUpaH samApnuyAt. ato durgaM nfpaH
+272833:0:  te: kuryyAt satataM jayavfdDaye<q>.</reN> aDikaM durgakarmaSabde dfSyam
+272834:0:  te: asuraBede <vn>tatkaTA kASIKa070 a
+272835:1:  te: durgonAma mahAdEtyo rurudEtyANgajo'Bavat. yatastatvA
+272836:1:  te: tapastIvraM paMByo'jeyatvamAptavAn. tatastenAKilA
+272837:0:  te: lokA BUrBuvaH svarmuKA api. svasAtkftA vinirjitya
+272838:0:  te: raRe svaBujasArataH !<q></reN></vn> (3) devIBede strI
+272839:1:  te: durgAsurahananAta devyA durgeti nAmABUt yaTAha tatrEva
+272840:2:  te: a0 <reN><q>aTa praBfti me nAma durgeti KyAtimezyati
+272841:0:  te: durgadEtyasya samare GAtanAdatidurgamAt<q> durgAsurasyEva
+272842:1:  te: nAmAntaraM durgama iti.</reN> <reN><q>tatrEva ca vaDizyAmi durgamAKyaM
+272843:0:  te: mahAsuram. durgAdevIti viKyAtaM tanme nAma Bavi
+272844:1:  te: zyati<q>devIBA0.</reN> tatra-SAkambarIprAdurBAvayuge sa ca
+272845:0:  te: vEvasvatamanvantare catvAriMSattamayugakAlaH yaToktaM lakzmI
+272846:0:  te: tantre vEvasvatamanvantaramuktvA <reN><q>tasminnevAntare Sakra
+272847:0:  te: catvAriMSattame yuge<q></reN> SatAkzISAkamBaryyoravatAramuktvA
+272848:1:  te: tatrEva durgAsuravaDena durgAnAmatAprAptiruktA. tena
+272849:0:  te: SvetavarAhakalpe sA'dyApi na prAdurBUtA kalpAntare
+272850:0:  te: tasyAH prAdurBAveRa tasyA idAnImarcanIyateti boDyam
+272851:0:  te: durgASabdasyAnyApi niruktiranyatra darSitA. prasaNgAdi
+272852:0:  te: hocyate yaTA
+272853:1:  te: durgO dEtye 4mahAviGne 5BavabanDe 5kukarmaRi. 7Soke
+272854:1:  te: duKe ca 9narake 10yamadaRqe ca11 janmani. 12mahA
+272855:0:  te: Baye'tiroge 14 cApyASabdo hantfvAcakaH. etAn ha
+272856:2:  te: ntyeva yA devI sA durgA parikIrttatA<q>.</reN> apica <reN><q>dEtya
+272857:2:  te: nASArTavacano dakAraH parikArtitaH. ukAro viGna
+272858:1:  te: nASasya vAcako vedasammataH. rePo rogaDnavacanogaSca
+272859:0:  te: pApaGnavAcakaH. BayaSatruGnavacanaScAkAraH parikI
+272860:4:  te: rtti. smftyuktiSravaRAdu yasyA ete naSyanti niSci
+272861:0:  te: tam.tato durgA hareH SaktirhariRA parikIrtitA
+272862:0:  te: durgeti dEtyavacano'pyAkAro nASavAcakaH. durgaM nASa
+272863:1:  te: yate yA tu sA durgA parikIrttitA<q>.</reN> vipattivAcako
+272864:0:  te: durgaScAkAro nASavAcakaH. <reN>taM nanASa purA tena buDE
+272865:0:  te: rdurgA prakIrttitA<q>.</reN> asyAH sTAnaM kfzRAvenAtuNgaBadrayo
+272866:0:  te: rmaDyaBAge sahyAdrerIzatprAcyAM prasidDam. <reN><q>sarvasvarUpiRI
+272867:0:  te: SaktiH sA durgeti ca paWyate<q></reN> <reN>yaTA muRqamAlAyAm
+272868:0:  te: BUtAni durgA BuvanAni durgA narAH striyaScApi surA
+272869:0:  te: surAdikam. yadyadDi dfSyaM Kalu sEva durgA durgAsvarU
+272870:4:  te: pAdaparaM na kiYciditidi<q></reN></vn> (4)SabdAryacintAmaRiGftezu mahA
+272871:0:  te: viGnAdizu ca pu0  (5) guggulO rAjani0  (6)durgamamAtre
+272872:0:  te: tri0 (7) durjYeye (8) parameSvare pu0 <reN><q>durlaBo durgamo durgo
+272873:0:  te: durAvAso durADaraH<q>vizRusaM.</reN> <reN><q>antarAyapratihatErdu
+272874:0:  te: rApyate iti durga<q>BA0</reN></8><page>vp5_196.pdf</page><column>2</column><br/>
+272875:2:  te:  %durgakarmman% na0 <vg>durgArTaM durge vA karma kAryam.</vg> <vn>BA0 SA0 86 a
+272876:2:  te: ukte durgamAGanakarmaBede yaTA
+272877:0:  te: tasmAtte vartayizyAmi durgakarma viSezataH. SrutvA taTA
+272878:2:  te: viDAtavyamanuzWeyaSca yatnataH. zaqviDaM durgamAsTAya pu
+272879:0:  te: rARyaTa niveSayet. sarvasampatpraDAnaM yadbAhulyaYcApi
+272880:0:  te: samBavet. DanvadurgaM mahIdurgaM giridurgaM taTEva ca
+272881:1:  te: manuzyadurgaM mfdudurgaM vanadurgaYca tAni zaw. yat puraM
+272882:0:  te: durgasampannaM DAnyAyuDasamanvitam. dfQaprAkArapariKaM
+272883:0:  te: hastyaSvaraTasaNkulam. vidvAMsaH Silpino yatra nica
+272884:0:  te: yASca sucintitAH. DArmikaSca jano yatra dAkzyamuttama
+272885:1:  te: mAsTitaH. UrjasvinaranAgASvaM catvarApaRaSoBitam
+272886:0:  te: prasidDavyavahAraYca praSAntamakutoBayam. supraBaM SAnta
+272887:1:  te: nAdaYca supraSastaniveSanam. SUrAQyajanasampannaM bkahma
+272888:0:  te: GozAnunAditam. samAjotsavasampannaM sadA pUjitadE
+272889:4:  te: vatam. vaSyAmAtyavalo rAjatat puruM svayamAviSet
+272890:0:  te: tatra kozaM balaM mitraM vyavahAraYca vardDayet. pure jana
+272891:1:  te: pade cEva sarvadozAnnivarttayet. BAmqAgArAyuDAgAraM
+272892:9:  te: paryatnenABivardDayet. nicayAn vardDayet sravAstaTA
+272893:0:  te: mantrAyuDAlayAn. kAzWalohatuzANgAradAruSfNgAsTi
+272894:0:  te: vERavAn. majjAsne havasAkzOdramOzaDagrAmameva ca
+272895:0:  te: SaRaM sarjarasanDAnyamAyuDAni SarAMstaTA. carmasnAyuM
+272896:1:  te: taTA vetraM muYjavalvajabanDanAn. ASayAScodapAnaSca
+272897:0:  te: praBUtA salilAkarAH. niroQavyAH sadA rAjYA kzIri
+272898:1:  te: RaSca mahIruhAH. satkftASca prayatnena AcAryartvik
+272899:0:  te: purohitAH. mahezvAsAH sTapatayaH sAMvatsaracikit
+272900:0:  te: sakAH. prAjYA meDAvino dAntA dakzAH SUrA bahuSrutAH
+272901:1:  te: kUlInAH sattvasampannA yuktAH sarvezu karmasu. pUjayedDA
+272902:0:  te: rmikAn rAjA nigfhRIyAdaDArmikAn. niyuYjyAcca
+272903:1:  te: prayatnena sarvavarRAn svakarmasu. bAhyamAbyantaraYcEva pOra
+272904:0:  te: jAnapadaM taTA. cArEH suviditaM kftvA tataH karma
+272905:0:  te: prayojayet carAn mantraYca kozaYca daRqaYcEva viSezataH
+272906:0:  te: anutizWet svayaM rAjA sarvaM hyatra pratizWitam. udAsI
+272907:0:  te: nArimitrARAM sarvameva cikIrzitam. pure janapade cEva
+272908:0:  te: jYAtavyaM cAracakzuzA. tatastezAM viDAtavyaM sarvamevA
+272909:0:  te: pramAdataH. BaktAn pUjayatA nityaM dvizataSca nigfhRatA
+272910:1:  te: yazwavyaM kratumirnityaM dAtavyaYcApyapIqayA. prajAnAM
+272911:0:  te: rakzaRaM kAryaM na kAryaM DarmabADakam. kfpaRAnATa
+272912:1:  te: vfdDAnAM viDavAnAYca yozitAm. yogakzemaYca vfttiSca
+272913:0:  te: nityameva prakalpayet. ASramezu yaTAkAlaM celaBAjana
+272914:0:  te: Bojanam. sadEvopaharedrAjA satkftyAByarcya mAnya ca
+272915:0:  te: AtmAnaM sarvakAryyARi tApase rAzwrameva ca. nivedayet
+272916:2:  te: prayatnena tizWet prahRaYca sarvadA. sarvArTatyAginAM rAjA
+272917:1:  te: kule jAtaM bahuSrutam. pUjayettAdfSaM dfzwA SayanAsana
+272918:0:  te: BojanEH. tasmin kurvIta viSvAsaM rAjA kasyAYcidA
+272919:1:  te: padi. tApasezu hi viSvAsamapi kurvanti dasyavaH. tasmin
+272920:0:  te: niDInAdaDIta prajYAM paryyAdadIta ca. na cApi tIkzRaM
+272921:0:  te: seveta BfSaM vA pratipUjayet. anyaH kAryaH svarAzwrezu
+272922:0:  te: pararAzwrezu cAparaH. awavIzu paraH kAryaH sAmantanagarezvapi
+272923:0:  te: tezu satkAramAnAByAM saMviBAgAMSca kArayet. pararAzwrA
+272924:0:  te: wavIsTezu yaTA svavizaye taTA. te kasyAYcidavasTAyAM
+272925:1:  te: SaraRaM SaraRArTine. rAjYe dadyuryaTAkAmaM tApasAH saSi
+272926:0:  te: tavratAH. eza te lakzaRoddeSaH saNkzepeRa prakIrttitaH
+272927:0:  te: yAdfSe nagare rAjA svayamAvastumarhati<q>.</reN></vn><page>vp5_201.pdf</page><column>1</column><br/>
+272928:1:  te:  %durgakAraka% pu0 <vg>durga karoti vezwanena</vg> <vkr>kf-Rvul.</vkr> (1)vfkzaBede
+272929:0:  te: durgakarttari tri0. </2><page>vp5_201.pdf</page><column>2</column><br/>
+272930:0:  te:  %durgata% tri0 <vg>durgacCati</vg> <vkr>dur+gama-karttari kta.</vkr> (1)daridre (2)dE
+272931:1:  te: nyaNgate ca amaraH. <reN><q>samASvasimi kenAha kaTaM prARisi
+272932:0:  te: durgataH<q>BawwiH.</reN> <reN><q>niDAnakumBasya yaTEva durgataH
+272933:0:  te: sA0 da0.</reN></2><page>vp5_201.pdf</page><column>2</column><br/>
+272934:0:  te:  %durgataraRI% strI <vg>durgaM tIryyate'nayA</vg> <vkr>tF-karaRe lyuw</vkr> 6 ta
+272935:0:  te: NIp.</vkr> (1)devIBede <reN><q>sAvitrI durgataraRI vIRA saptaviDA
+272936:1:  te: taTA<q>BA0 sa0 11 brahmasaBAvarRane.</reN> (2)durgataraRasADane tri0 </2><page>vp5_201.pdf</page><column>2</column><br/>
+272937:0:  te:  %durgati% strI <vg>duzwA gatiH</vg> prA0sa0. (1)narake amaraH. (2)dAridrye
+272938:0:  te: medi0. <reN><q>na durgatimavApnoti svargalokaYca gacCati<q>BA0 SA
+272939:0:  te: Slo0</reN> <vkr><vg>duHsTitA gatirasya</vg> prA0 ba0.</vkr> (3)tadyute tri0.</3><page>vp5_201.pdf</page><column>2</column><br/>
+272940:0:  te:  %durgatinASinI% strI <vg>durgatiM nASayati</vg> <vkr>nASi-Rini</vkr> 6 ta
+272941:0:  te: NIp.</vkr> (1)durgAdevyAm. <reN><q>brahmARqavijayasyAsya kavacasya
+272942:1:  te: prajApatiH. fzicCandaSca gAyatrI devI durgatinA
+272943:4:  te: SinI<q>brahmavE0 gaRo0 rava0.</reN> (2)durgatinASake tri0 <vkr>striyAM NIp.</vkr></2><page>vp5_201.pdf</page><column>2</column><br/>
+272944:2:  te:  %durganDa% pu0 <vg>duHsTito ganDo'sya</vg> prA0 vA. (1)sOvarcalalavaRe
+272945:2:  te: hema0. (2)duzwaganDayukte tri0.</2> prA0 sa0. (3)duzwe ganDe <reN><q>mAsa
+272946:1:  te: Bedo'sTidurganDA <q>harivaM 53 a0</reN> <reN><q>suganDaM vetti durganDaM
+272947:0:  te: durganDasya suganDitAm<q> suSrutaH.</reN></3><page>vp5_201.pdf</page><column>2</column><br/>
+272948:0:  te:  %durganDANga% tri0 <vg>durganDo'Nge yasya.</vg> (1)pUtiganDAnvitadehake <vkr>striyAM
+272949:0:  te: NIp.</vkr></1> <vn>SAtA0 sOganDikapuzpAharaRena taTANgatetyu
+272950:0:  te: ktam yaTA <reN><q>sOganDikasya haraRAt durganDANgaH prajAyate<q></reN></vn><page>vp5_202.pdf</page><column>1</column><br/>
+272951:0:  te:  %durganDin% tri0 <vg>durganDo'styasya</vg> <vkr>nityayoge ini</vkr> <reN><q>tena na karma
+272952:0:  te: DArayAt matvarTIyo bahuvrIhiSce darTapratipattikaraH<q>ityasya
+272953:0:  te: na pravfttiH.</reN> (1)duzwaganDayukte tri0 rAyamukuwaH <reN><q>carmAva
+272954:0:  te: nadDaM durganDi pUrRaM mUtrapurIzayoH<q>manuH.</reN> <vkr>striyAM NIp.</vkr></1><page>vp5_202.pdf</page><column>1</column><br/>
+272955:0:  te:  %durgapati% pu0 6 ta0. (1)durgarakzake durgADyakzaBede. (2)durgasvAmini
+272956:0:  te: ca. <reN><q>vayaM jayema helABirdasyUn durgapatiryaTA<q>BAga0 3.4.18</reN></2><page>vp5_202.pdf</page><column>1</column><br/>
+272957:0:  te: <MISSING>
+272958:1:  te:  %durgapAla% pu0 <vg>durge durgaM vA pAlayati</vg> <vkr>pAli-aR.</vkr> upa0sa
+272959:0:  te: kfcCrapAlake <reN><q>yanno'surARAmasi durgapAlo viSvABi
+272960:0:  te: vandyEraBivanditANGriH<q> BAga0 8.23.5.</reN> (2)durgarakzake ca </2><page>vp5_202.pdf</page><column>1</column><br/>
+272961:0:  te:  %durgapuzpI% strI <vg>durgaM puzpamasyAH</vg> <vkr>jAtitvAt NIz.</vkr> (1)(keSapuzyA)
+272962:0:  te: KyAte vfkzaBede Sabdaca0.</1><page>vp5_202.pdf</page><column>1</column><br/>
+272963:7:  te:  %durgama% pu0 <vg>duHKena gamyate'sO</vg> <vkr>dur+gamf-karmaRi Kal.</vkr> (1)durga
+272964:1:  te: nAmAsuraBede <reN><q>durgamAKyaM mahAsuram<q> devIBA0.</reN> (2)durgama
+272965:0:  te: nIye tri0. <reN><q>kAntArovartma durgamam<q> amaraH.</reN> (3)durjYeye ca
+272966:0:  te: parameSvare pu0 <vn>durgaSabde dfSyam</vn> <reN><q>duHKena gamyate jYAyate
+272967:0:  te: iti durgamaH<q> BAzye tannAmaniruktiH.</reN></4><page>vp5_202.pdf</page><column>1</column><br/>
+272968:0:  te:  %durgala% pu0 <vg>duHsTito galo yatra lokAnAm.</vg> (1)deSaBede <reN><q>durgalAH
+272969:0:  te: pratimAsyASca kuntalAH koSalAstaTA<q> BA0 BI0 9 a
+272970:0:  te: janapadoktO . <vkr><vg>so'Bijano'sya, tasya rAjA vA</vg> aR
+272971:1:  te: dOrgala pitrAdikrameRa taddeSavAsini tannfpe ca. <vkr>bahuzu
+272972:0:  te: aRo luk. durgalA ityeva.</vkr></2><page>vp5_202.pdf</page><column>1</column><br/>
+272973:1:  te:  %durgalaNGana% pu strI0 <vg>durgaM laNGyate'nena</vg> <vkr>laNGi-karaRe lyuw
+272974:0:  te: uzwre hemaca0 <vkr>striyAM jAtitvAt NIp.</vkr></1><page>vp5_202.pdf</page><column>1</column><br/>
+272975:0:  te:  %durgasaMskAra% pu0 6 ta0. (1)pratipakzasya yudDArTodyoge rAjYA svadu
+272976:0:  te: rgasya BagnaprAyasya punarnavIkaraRe <reN><q>ato durgasaMskAre
+272977:0:  te: ArabDavye kiM kOmudImahotsavena<q> iti mudrArA0</reN></1><page>vp5_202.pdf</page><column>1</column><br/>
+272978:0:  te:  %durgasaYcara% pu0 <vkr><vg>durgaM saMccaryate'nena</vg> sam+cara-karaRe ap
+272979:2:  te: (sAko)saNkrame hemaca0 <vkr>GaY.</vkr></1> <vn>durgasaMYcAro'pyatra amara
+272980:0:  te: wIkAyAM kzIrasvAmI</vn><page>vp5_202.pdf</page><column>1</column><br/>
+272981:3:  te:  %durgasiMha% pu0 (1)kalApapariSizwakAre vidvadBede</1><page>vp5_202.pdf</page><column>1</column><br/>
+272982:3:  te:  %durgA% strI (1)durgaSabdokte devIBede <vn>tanniruktyAdikaM tatra darSi
+272983:1:  te: tam.</vn> (2)nIlIvfkze medi0. (3)aparAjitAyAm
+272984:0:  te: Sabdaca0 (4) SyAmAKage rAjani0. (5)himAlayakanyAyAYca
+272985:0:  te: sA durgA menakAkanyA dEnyadurgatinASinI<q> brahmavE0 pu0</reN></5><page>vp5_202.pdf</page><column>1</column><br/>
+272986:1:  te:  %durgAQa% tri0 <vkr>dur+gAha-karmaRi kta.</vkr> (1)kfcCeRAvagAhye <reN><q>du
+272987:0:  te: rgAQo nayamArgo'yamityAhustadvidojanAH<q>harivaM0 236 a0</reN></1><page>vp5_202.pdf</page><column>2</column><br/>
+272988:3:  te:  %durgADyakza% pu0 6 ta0. (1)durgarakzake senABede <reN><q>anAhAryaSca
+272989:0:  te: SUraSca taTA prAjYaH kulodBavaH. durgADyakzaH smfto rAjYa
+272990:0:  te: udyuktaH sarvakarmasu<q> matsyapu0 tallakzaRamuktam. </reN></1><page>vp5_202.pdf</page><column>2</column><br/>
+272991:1:  te:  %durgAnavamI% strI <vg>durgApriyA tatpUjANgatvAt navamI
+272992:2:  te: kArttakaSuklapakzIyanavamyAm.</1> <vkr>durgAyA iyam aR NIp
+272993:1:  te: dOrgI tatpUjayANganavamItiTO <reN><q>SrAvaRI dOrganavamo
+272994:0:  te: dUrvA cEva hutASanI. pUrvavidDEva kartavyA SivarAtrirbale
+272995:0:  te: rdinam<q> ti0 ta0.</reN></2> <vn>tatpUjAviDAnAdi yoginItantre yaTA
+272996:1:  te: kArtike'malapakze ca navamyAYca viSezataH. udubudDAM
+272997:2:  te: tu jagadDAtrI pUjayed dIpamAlayA<q></reN> <reN>tantrAntare <q>trikAla
+272998:1:  te: pUjayeddurgAM manunEkAkzareRa (du)ca. nAnAvaliviDAnena
+272999:1:  te: gItavAdyapuraHsuram. kArtikasya site pakze navamyAYca
+273000:3:  te: viSezataH. kftvEvaM sADakaSrezWo laBedAjyamakaRqakam

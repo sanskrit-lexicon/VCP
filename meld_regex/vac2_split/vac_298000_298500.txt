@@ -1,0 +1,500 @@
+298001:0:  te:  %naBogati% strI 7ta0. (1)gaganagatO <vg>naBasi gatirasya
+298002:0:  te: KagAdO tri0.</2><page>vp5_532.pdf</page><column>1</column><br/>
+298003:0:  te:  %naBoda% pu0 (1)viSvadevaBede <reN><q>uzRInAmo naBodaSca<q> harivaM 07a0 tadgaRoktO.</reN></1><page>vp5_532.pdf</page><column>1</column><br/>
+298004:0:  te:  %naBoduha% pu0 <vkr><vg>naBasi duhati</vg> duha-ka.</vkr> (1)meGe SabdamAlA
+298005:0:  te: tasya naBasi payoniHsArakatvena taTAtvam.</vn></1><page>vp5_532.pdf</page><column>1</column><br/>
+298006:0:  te:  %naBodvIpa% pu0 <vg>naBasi dvIpa iva.</vg> (1)meGe SabdamA0.</1><page>vp5_532.pdf</page><column>1</column><br/>
+298007:2:  te:  %naBoDUma% pu0 <vg>naBasi DUma iva.</vg> (1)meGe ya1SabdamAlA.<reN><page>vp5_532.pdf</page><column>1</column><br/>
+298008:0:  te:  %naBonadI% strI 6ta0. (1)svargagaNgAyAm. </1><page>vp5_532.pdf</page><column>1</column><br/>
+298009:0:  te:  %naBomaRi% pu0 <vg>naBasi maRiriva prakASakatvAt.</vg> (1)dyumaRO sUrye hemaca0.</1><page>vp5_532.pdf</page><column>1</column><br/>
+298010:0:  te:  %naBomaRqala% na0 <vg>naBomaRqalamiva.</vg> (1)gaganamaRqale <reN><q>nEtannaBo
+298011:0:  te: maRqalamamburASeH<q>sA0da0</reN> <reN><q>aTa ca yAvannaBomaRqalaM saha
+298012:0:  te: dyAvApfTivyormaRqalAByAM kAtrsnyena saha BuYjItam
+298013:0:  te: BAga05.22.9.</reN></1><page>vp5_532.pdf</page><column>1</column><br/>
+298014:0:  te:  %naBomaRqaladIpa% pu0 <vg>naBomaRqale dIpa iva rAtrO prakA
+298015:1:  te: SakatvAt.</vg> (1)candre <reN><q>naBomaRqaladIpAya SiroratnAya DU
+298016:0:  te: rjaweH. kalABirvardDamAnAya namaScandrAya cArave<q> ti0ta0.</reN></1><page>vp5_532.pdf</page><column>1</column><br/>
+298017:1:  te:  %naBo'mbupa% puM strI <vkr><vg>naBasi ambu pibati</vg> pA-ka.</vkr> (1)cAtaka
+298018:0:  te: Kage hemaca0. <vkr>striyAM jAtitvAt NIz.</vkr></1><page>vp5_532.pdf</page><column>1</column><br/>
+298019:0:  te:  %naBorajas% na0 <vg>naBasi raja iva dfzwyAvarakatvAt.</vg> (1)anDakAre.</1><page>vp5_532.pdf</page><column>1</column><br/>
+298020:0:  te:  %naBorUpa% tri0 <vg>naBaso rUpamAropitaM rUpamiva rUpamasya
+298021:2:  te: nIlavarRazayukte paSvAdO <reN><q>apratyakze'pi hyAkASe bAlAstala
+298022:3:  te: malinatAdyaDyasyanti<q> SA0BA0</reN> <vn><reN><q>KanIKanIlimA<q> nEza
+298023:0:  te: ukteH </reN> <vn>gaganasyAropitarUpavattvena tattulyarUpatvAt SyAma
+298024:0:  te: mAlinyavarRayuktasya taTAtvam.</vn> <reN><q>naBorUpAH pArjanyAH
+298025:0:  te: yaju0 24.60.</reN> <reN><q>naBavarRA nIlavarRAH<q>vedadI0. </reN></1><page>vp5_532.pdf</page><column>1</column><br/>
+298026:0:  te:  %naBoreRu% strI <vg>naBasi reRuriva AvarakatvAt.</vg> (1)kujJawikAyAM trikA0.</1><page>vp5_532.pdf</page><column>1</column><br/>
+298027:1:  te:  %naBolaya% pu0 <vkr><vg>naBasi loyate</vg> lI-yac 7ta0.</vkr> (1)DUme SabdaratnA
+298028:0:  te: gaganalInamAtre tri0.</2><page>vp5_532.pdf</page><column>1</column><br/>
+298029:0:  te:  %naBovITI% strI <vg>naBasi vITIva.</vg> (1)AkASasTe vITIrUpe
+298030:1:  te: paTi. <reN><q>aTa ca yAvatArdDena  naBovITyAH pracarati taM
+298031:0:  te: kAlamayanamAcakzate<q>BAga0 5.22.7.</reN></1><page>vp5_532.pdf</page><column>1</column><br/>
+298032:1:  te:  %naBOkas% tri0 <vg>naBa AkASam okaH sTAnamasya.</vg> (1)antarikzacare
+298033:0:  te: KagAdO <reN><q>anye ca viviDA jIvA jalasTalanaBOkasaH
+298034:0:  te: graharkzaketavastArAstaqitaH stanayitrayaH<q> BAga0 2.6.15.</reN></1><page>vp5_532.pdf</page><column>1</column><br/>
+298035:0:  te:  %naBya% tri0 <vkr><vg>nABaye raTacakrAvayavaBedAyahitam tAmarhati vA
+298036:0:  te: gavAdi0 yat <reN><q>nABirnaBaYca<q> pA0 ga0</reN> naBAdeSaH.</vkr> (1)raTA
+298037:0:  te: dicakrAvayavahite tElAdO (2)tadarhe ca <reN><q>tadetannaByaM
+298038:0:  te: yadayamAtmA<q> Sata0 brA0 14.4.3.23</reN> <reN><q>tadeva raTacakra
+298039:2:  te: dfzwAntena spazwayati nABiScakrapiRqikA nAByE hitaM
+298040:0:  te: nABimarhatIti vA naByam tadetalloke prasidDaM cakrapi
+298041:0:  te: RqikAsTAnIyam, kiM tat yadayamAtmA yo'yaM SarI
+298042:0:  te: ram<q> BA0.</reN> (3)akze (4)raTacakrAnuguRe aYjane ca. <reN><q>na
+298043:0:  te: Byo'kzaH naByamaYjanaM raTacakranABAvevedam<q> si0kO
+298044:0:  te: naByo'kza iti sacCidro raTANgAvayavo nABistadanupra
+298045:0:  te: vizwaH kAzWaviSezo'kzaH sa ca tadanuguRatvAt nABaye
+298046:1:  te: hitaH. aYjanaM tElAByaNgaH tadapi snehamayatvAt nABave
+298047:0:  te: hitam<q>mano0.</reN> <vn>Sabdakalpadrume naByaSabdasya naBaHprakfti
+298048:0:  te: katvena sADanamanyArTaparatvakaTanaYca nirmUlam.</vn> <reN><q>paScAdu
+298049:2:  te: ttaravedestrizu prakramezu matyA vA naByasTe aBimantrayate'tra
+298050:1:  te: rameTAmiti<q> kAtyA0SrO07.415</reN> <reN><q>maDyamaM cakrasya PalakaM
+298051:0:  te: naByam <q>nABirnaBaM ceti<q> pratyayasaMniyogena nABernaBaBAvaH
+298052:0:  te: naBye tizWato naByasTe maDyame ca Palake sTApayedi
+298053:0:  te: tyarTaH<q>karkaH.</reN></4><page>vp5_532.pdf</page><column>2</column><br/>
+298054:4:  te:  %namrAj% pu0 na <vkr>mrAjati mrAja-kvip namrAqnapAt<q> ityA
+298055:0:  te: dinA pA0naYaH prakftiBAvaH.</vkr> (1)meGe hemaca0<vkr>padatve zatvaqatve.</vkr></1><page>vp5_532.pdf</page><column>2</column><br/>
+298056:3:  te:  %namata% tri0 vkr<reN>nama-atac.</vkr> (1)prahve (2)namre (3)nawe ca (4)DUme
+298057:0:  te: uRA0. <vkr>karmaRi atac.</vkr> (5)praBO uRAdikozaH.</5><page>vp5_532.pdf</page><column>2</column><br/>
+298058:1:  te:  %namayizRu% tri0 <vkr>nama-svArTe Ric vA0 izRuc.</vkr> (1)namanaSIle
+298059:0:  te: sTirA cinnamayizRavaH<q>f08.20.1</reN> <reN><q>namayizRavaH nama
+298060:0:  te: naSIlAH<q>BA0.</reN></1><page>vp5_532.pdf</page><column>2</column><br/>
+298061:0:  te:  %namas% avya0 <vkr>nama-BAve asun svarAdi0.</vkr> (1)namane svApakarza
+298062:0:  te: boDakavyApAre (2)tyAge svasvatvaDvaM sAnukUlavyApAraBede. <vn>puzpaM
+298063:0:  te: vizRave nama ityAdO vizRUddeSyakamantrakaraRakatyAgavizayaH
+298064:0:  te: puzpamityevaM boDaH yaTAha SabdaSaktiprakASikAyAm
+298065:0:  te: puzpamidaM vizRave nama ityasya vizRUddeSyaka mantraka
+298066:4:  te: raRatyAgasya karmedaM puzpamityarTastatra caturTyAM prItyudDeSya
+298067:0:  te: katvaM tadicCADInatvarUpaM namaHpadArTe mantrakaraRatyAge
+298068:0:  te: boDyate prakftyarTasya ca vizRvAdeH prItO tadicCAyAM vAnvayaH
+298069:3:  te: brAhmaRAdyuddeSyakasya gavAdityAgasya mantrakaraRatve
+298070:0:  te: pramARABAvAt gOrbrAhmaRAya nama ityAdiko na prayogaH
+298071:1:  te: brAhmaReByo namonityamityAdO tu namaHpadArTo nati
+298072:1:  te: reveti tatra vizayatvaM caturTyAM boDyate. puzpamidaM para
+298073:0:  te: mAtmane nama ityAdI paramAtmanaH prItyasattve'pi tatprI
+298074:0:  te: titvaprakArakecCAsamBavAnna tatprItyuddeSyakatvAprasidDiH
+298075:0:  te: namyate karmaRi asun.</vkr> (3)anne (4)vajre ca niGaRwuH
+298076:0:  te: namovfDSabde dfSyam.</vn> <vkr>sAkzAdA0upa0sa0. namaskaroti
+298077:0:  te: namaskftya. atra kfDAtoreva namanArTatA namaSSabdastu
+298078:0:  te: tadarTadyotakaH tena nArAyaRaM namaskftyetyAdO dvitIyA
+298079:0:  te: upapadaviBakteH kArakaviBaktirgarIyasI<q> iti nyAyAt
+298080:1:  te: namasovAcakatve namaskftya brAhmaReBya ityAdO namaH
+298081:0:  te: Sabdayoge caturTI. <reN><q>namaH svastItyAdi<q>pA0</reN> sUtre
+298082:0:  te: tyAgArTakanamanArTakayoruBayorgrahaRam.</vkr> (5)yajYe ca na
+298083:0:  te: yajYo vE namaH<q> iti SruteH.</reN></5><page>vp5_532.pdf</page><column>2</column><br/>
+298084:0:  te:  %namasa% tri0 <vkr>nama-asac.</vkr> (1)anukUle ujjvada0.</1><page>vp5_533.pdf</page><column>1</column><br/>
+298085:0:  te:  %namasAna% tri0 <vkr>nAmaDA0namasya-bA0 Anac allopayalopO
+298086:0:  te: namaskaraRaSIle <reN><q>yaSasvinaM namasAnA viDema<q>aTa06.39.2.</reN></1><page>vp5_533.pdf</page><column>1</column><br/>
+298087:1:  te:  %namasi(syi)ta% <vkr>nAmaDA0 namasya-karmaRi kta vA yalopaH
+298088:0:  te: kftanamaskAre amaraH.</1><page>vp5_533.pdf</page><column>1</column><br/>
+298089:0:  te:  %namaskAra% pu0 <vkr>namas+kf-GaY.</vkr> (1)svApakarzaboDakavyApAre kara
+298090:0:  te: SiraHsaMyogAdO (2)vizaBede Sabdaca0. <vn>namaskAre aDikA
+298091:0:  te: riviSezAdikaM nAnAsTAnAt pradarSyate.</vn> (3)aBivAdayedi
+298092:0:  te: tyanuvfttO SaNKaH <reN><q>nAprayatAyAprayataSca<q> iti Su0ta
+298093:0:  te: striyo namasyA vfdDASca vayasA patyureva tAH<q> iti smftyarTa
+298094:0:  te: sAraH.</reN> <reN><q>devaM vipraM guruM dfzwvA na namedyastu samBramAt
+298095:0:  te: sa kAlasUtraM vrajati yAvaccandradivAkarO. brAhmaRaYca
+298096:0:  te: guruM dfzwvA na namedyo narADamaH. yAvajjIvanaparyya
+298097:1:  te: ntamaSuciryavano Bavet<q> iti brahmavE0 janmasva0</reN> <reN><q>deva
+298098:0:  te: tAyatanaM dfzwvA dfzwvA tu daRqinantaTA. namaskAraM na
+298099:0:  te: kuryyAdyaH prAyaScittI BavennaraH. saBAyAM yajYaSAlAyAM
+298100:0:  te: devatAyatanezu ca. pratyekantu namaskAro hanti puRyaM
+298101:0:  te: purAkftam. upaviSya namet SUdro dIrGAyurbrAhmaRo va
+298102:0:  te: det. sa SUdro narakaM yAti brAhmaRo yAtyaDogatim
+298103:0:  te: dUrasTaM jalamaDyasTaM DAvantaM madagarvitam. kroDavantaM
+298104:0:  te: vijAnIyAt namaskAraYca varjayet. puzpahasto vArihasta
+298105:0:  te: stElAByaNgI jalasTitaH. ASIHkarttA namaskarttA
+298106:0:  te: uBayornarakaM Bavet<q> karmalocanam.</reN> <reN><q>mAtuH pituH
+298107:0:  te: kanIyAMsaM na namedvayasADikaH. namaskuryyAd guroH
+298108:0:  te: patnIM BrAtfjAyAM vimAtaram<q> yamaH.</reN> <reN><q>aBivAdayataH
+298109:4:  te: pUrvamASizaM na prayacCati. yadduzkftaM Bavettasya tasmANgArga
+298110:0:  te: prapadyate. svastIti brAhmaRe brUyAt AyuzmAniti rA
+298111:0:  te: jani. vardDatAmiti vESyezu SUdre tvArogyameva ca<q>ma0ta
+298112:0:  te: gurupatnI tu yuvatI nABivAdyeha pAdayoH. pUrRazoqaSa
+298113:1:  te: varzeRa guRadozO vijAnatA<q>manuH.</reN> <reN><q>kurvIta vandanaM BUyo
+298114:0:  te: Bagovohamiti bruvan. viprozya pAdagrahaRamanvahaYcABi
+298115:0:  te: vAdanam. gurudArezu kurvIta satAM Darmamanusmaran. aBivA
+298116:0:  te: danaSIlaH syAnnityaM vfdDezu DarmataH. asAvahamBo nAmeti
+298117:0:  te: samyak praRatipUrvakam. AyurArogyasidDyarTaM tandrAdi
+298118:0:  te: parivarjitaH. AyuzmAn Bava sOmyeti vAcyo vipro'Bi
+298119:0:  te: vAdane. akAraScAsya nAmno'nte vAcyaH pUrvAkzaraplutaH
+298120:0:  te: yo na vettyaBivAdasya dvijaH pratyaBivAdanam. nABi
+298121:0:  te: vAdyaH sa viduzA yaTA SUdrastaTEva saH. vyatyastapARinA
+298122:1:  te: kAryamupasaMgrahaRaM guroH. savyena savyaH sprazwavyo dakziRena
+298123:0:  te: tu dakziRaH. lOkikaM vEdikaYcApi taTADyAtmikameva
+298124:0:  te: vA. AdadIta yato jYAnaM taM pUrvamaBivAdayet. brAhma
+298125:0:  te: RAn kuSalaM pfcCet kzatrabanDUnanAmayam. vESyaM kzemaM
+298126:1:  te: samAgasya SUdramArogyameva tu<q> manuH.</reN> <reN>aBivAdanIyASca
+298127:0:  te: upADyAyaH pitA jyezWo BrAtA cEva mahIpatiH
+298128:0:  te: mAtulaH SvaSurastrAtA mAtAmahapitAmahO. banDu
+298129:0:  te: jyezWaH pitfvyaSca puMsyete guravaH smftAH. mAtA mAtA
+298130:1:  te: mahI gurvI piturmAtuSca sodarI. SvaSrUH pitAmahI
+298131:1:  te: jyezWA DAtrI ca guravaH striyAm. ityuktO guruvargo'yaM
+298132:0:  te: pitfto mAtfto dvijAH. anuvarttanametezAM manovAk
+298133:2:  te: kArTakarmaBiH. gurUn dfzwvA samuttizWedaBivAdya kftA
+298134:0:  te: YjaliH<q> iti kUrmapu0 11a0.</reN> <vn>aDikaM natiSabde dfSyam
+298135:0:  te: ayameva namaskAro BUmyAdipratipattiBiH. praRAma iti
+298136:0:  te: vijYeyaH sa pUrvaM pratipAditaH<q> kAlikApu070a0.</reN> <reN>rAtrO
+298137:0:  te: tannizeDo yaTA <q>rAtrO nEva namaskuryyAttenASIraBicA
+298138:0:  te: rikA. ataH prAtaH padaM dattvA prayoktavye ca te uBe
+298139:0:  te: mahABArate.</reN></3><page>vp5_533.pdf</page><column>1</column><br/>
+298140:0:  te:  %namaskArI% strI <vkr><vg>namaskAraH tadaNgAYjaliriva patram astyasyAH
+298141:0:  te: ac gOrA0 NIz.</vkr> (1)lajjAluvfkze amaraH. <vn>tasyAH nama
+298142:0:  te: skArANgAYjalirUpapatrakatvAt taTAtvam.</vn></1><page>vp5_533.pdf</page><column>2</column><br/>
+298143:0:  te:  %namasya% <vkr>nAmaDA0 namaskaroti <reN><q>namastapobarivaH<q></reN> ityAdi kyac
+298144:0:  te: pUjAyAm BvA0 para0 saka0 sew. namasyati anamasI
+298145:0:  te: (syI)t.</vkr> (1)karmaRi namasyate <reN><q>dvijEH kvaccinnamasyase<q></reN> <reN><q>te
+298146:0:  te: 'namasyazSca SaNkaram<q></reN> <reN><q>no namasyanti te banDUn<q>BawwiH.</reN></1></vkr><page>vp5_534.pdf</page><column>1</column><br/>
+298147:0:  te:  %namasya% tri0 <vkr>nAmaDAtuH namasya-karmaRi yat allopayallopO
+298148:0:  te: pUjye. <reN><q>brahmannatiTirnamasyaH<q> kaWopa0.</reN></1><page>vp5_534.pdf</page><column>1</column><br/>
+298149:0:  te:  %namasyA% strI <vkr>namasya-BAve a.</vkr> (1)pUjAyAm.</1><page>vp5_534.pdf</page><column>1</column><br/>
+298150:0:  te:  %namasyu% tri0 <vkr>kyajantanamasya-<reN><q>kyAcCandasi<q> pA0</reN> u.</vkr> (1)nama
+298151:0:  te: skaraRa SIle <reN><q>sa idvane namasyuBirvacasyate<q> f
+298152:1:  te: puravaMSye nfpaBede <reN><q>janamejayo'BUt pUroH pracinvAM
+298153:0:  te: statsutastataH. pravIro'Ta<q> namasyurvE BAga09.20.3</reN> <vn>tatra
+298154:1:  te: namasyuriti pAWAntaraM harivaMSe 31a0 <reN><q>pracinvataH pravI
+298155:0:  te: ro'BUnnaBasyustasya cAtmajaH<q> ityukteH.</reN></vn></2><page>vp5_534.pdf</page><column>1</column><br/>
+298156:0:  te:  %namita% tri0 <vkr>nama-Ric kta vA hrasvaH.</vkr> (1)nAmite natIkfte
+298157:1:  te: suDIH ko vA kOpIrapi namitamUrdDA na pibati
+298158:0:  te: vidagDamADavaH.</reN></1><page>vp5_534.pdf</page><column>1</column><br/>
+298159:0:  te:  %namI% pu0 <vkr>nama-bA0 I vAtapramIvat.</vkr> (1)fziBede <reN><q>prahvannamIM
+298160:1:  te: sAyyaM sasantam<q> f0 6.20</reN> <reN><q>namIM tatsaMjYAkamfzim<q> BA
+298161:0:  te: pra me namIM sAyyam ize Buje<q> f0 10.48.9</reN> <reN><q>etena vE
+298162:2:  te: namI sAyyovEdeho rAjAYjasA svargaM lokamEt<q> paYcamI
+298163:0:  te: brA0 25.10.17</reN></1><page>vp5_534.pdf</page><column>1</column><br/>
+298164:1:  te:  %namuci% pu0 na <vkr>muYcati muca-in naBrAdityA pA0naYaH prakfti
+298165:0:  te: BAvaH.</vkr> (1)kandarpe danoH putre (2)asuraBede medi0. <vn>catvA
+298166:2:  te: riMSaddanoH putrA ityupakrame <reN><q>SaMvaro namuciScEva pulomA
+298167:0:  te: ceti viSrutaH<q>BA0A060a0.</reN> <reN><q>kaSyapasya danurnAma BA
+298168:2:  te: ryyArsAddvijasattama!. tasyAntu dvO sutAvAstAM sahasrA
+298169:0:  te: kzAd balADikO. jyezWaH SumBaH iti KyAto niSumBa
+298170:2:  te: ScAparo'suraH. tftIyo namucirnAma mahAbalasamanvitaH
+298171:0:  te: vAmanapu0 52a0.<q></reN></2><page>vp5_534.pdf</page><column>1</column><br/>
+298172:0:  te:  %namucidviz% pu0 <vkr><vg>na muciM dvizwavAn</vg> dviza-BUte kvip 6ta0.</vkr> (1)indre
+298173:0:  te: namucisUdanaSabde dfSyam.</vn> <reN><q>vigfhya cakre namucidvizA
+298174:0:  te: balI<q>mAGaH.</reN></1><page>vp5_534.pdf</page><column>1</column><br/>
+298175:0:  te:  %namucisUdana% pu0 <vkr><vg>namuciM sUdayati hinasti</vg> sUdi-lyu
+298176:0:  te: indre amaraH. <vn>tena tasyasUdanakaTA BA0 Sa0 47a
+298177:2:  te: namucirvAsavAdBigItaH sUryaraSmiM samAviSat. tenendraH
+298178:0:  te: saKyamakarot samayaYcedamabravIt. na cArdreRa ca Su
+298179:1:  te: zkeRa na rAtrO nApi cAhani. vaDizyAmyasuraSrezWa
+298180:1:  te: saKe! satyena te Sape. evaM sa kftvA samayaM dfzwvA nIhA
+298181:2:  te: ramIDvaraH. cicCedAsya Siro rAjannapAM Penena vAsavaH
+298182:0:  te: tacCiro namuceSCinnaM pfzWataH SakramanviyAt. Bo mitra
+298183:0:  te: hana! pApeti bruvARaM SakramantikAt<q></reN> namuciSatra
+298184:0:  te: namucihan praBftayo'tra.</vn></1><page>vp5_534.pdf</page><column>1</column><br/>
+298185:0:  te:  %namura% pu0 <vkr>nama-bA0 ura.</vkr> (1)namucO asure <reN><q>BUyAnnindro namu
+298186:0:  te: rAt BUyAnindrAsi mftyuByaH<q>aTa0 13.4.46.</reN></1><page>vp5_534.pdf</page><column>2</column><br/>
+298187:0:  te:  %nameru% pu0 <vkr>nama-bA0eru.</vkr> (1)surapunnAge viSvaH (2)rudrAkze iti
+298188:0:  te: kecit <reN><q>gaRAnameruprasavAvataMsAH<q></reN> <reN><q>prAntezu saMsakta
+298189:2:  te: nameruSAKam<q> kumA0</reN> <reN><q>viSaSramurnamerURAM CAyAsvaDyAsya
+298190:0:  te: sEnikAH<q>raGuH.</reN></2><page>vp5_534.pdf</page><column>2</column><br/>
+298191:1:  te:  %namoguru% pu0 <vg>namaH namaskAravizaye guruH.</vg> (1)brahmaRe Sabdara
+298192:0:  te: brAhmaRAnAM sarvavarRanamasyatayA gurutvAt taTAtvam.</vn></1><page>vp5_534.pdf</page><column>2</column><br/>
+298193:0:  te:  %namovAka% pu0 <vkr>vaca-BAve GaY 6ta0, namaskArAya ucyate
+298194:0:  te: karmaRi GaY vA.</vkr> (1)namovacane namaskArArTaM kaTanIye
+298195:1:  te: tri0 <reN><q>idaM kaviByo pUrveByo namovAkaM praSAsmahe<q> utta
+298196:0:  te: raca0.</reN> <reN><q>namovAke prasTite aDvare<q> f
+298197:0:  te: namaskArAya procyate sa namovAkaH tasminnaDvare<q> BA0.</reN></1><page>vp5_534.pdf</page><column>2</column><br/>
+298198:1:  te:  %namovfD% pu0 <vkr>vfDa-BAve sampa0 kvip <vg>namaso'nnasya vft
+298199:1:  te: vardDanaM yasmAt</vg> 5ta0.</vkr> (1)yajYe <reN><q>agnO prAstAhutiH saBya
+298200:0:  te: gAdityamupatizWate. AdityAjjAyate vfzwirvfzwerannaM tataH
+298201:0:  te: prajAH<q> gItAyAM</reN> <vn>yajYasyAnnahetvasyoktestasya taTAtvam
+298202:0:  te: Ano yajYaM namodfDam<q> f0 3.43.3</reN> <reN><q>namovfDas
+298203:0:  te: namaso'nnasya vardDakaM yajYam<q>.</reN></1><page>vp5_534.pdf</page><column>2</column><br/>
+298204:1:  te:  %namba% <vkr>(1)gatO</1> BvA0 para0 saka0 sew. nambati anambIt nanamba
+298205:0:  te: aRopadeSatvAt sati nimitte na Ratvam. pranambati.</vkr><page>vp5_534.pdf</page><column>2</column><br/>
+298206:0:  te:  %namya% tri0 <vkr>nama-pavargAntatvAt karmaRi yat na Ryat.</vkr> (1)namanIye.</1><page>vp5_534.pdf</page><column>2</column><br/>
+298207:1:  te:  %namra% tri0 <vkr>nama-ra.</vkr> (1)nate nimnatAprApte (2)vinayAnvite ca
+298208:0:  te: SabdArTaci0. <reN><q>stokanamrA stanAByAm<q>meGa0.</reN> <reN><q>aBUcca
+298209:0:  te: namraH praRipAtaSikzayA<q>raGuH.</reN></2><page>vp5_534.pdf</page><column>2</column><br/>
+298210:0:  te:  %namraka% pu0 <vkr><vg>namra iva kAyati</vg> kE-ka.</vkr> (1)vetasavfkze BAvapra
+298211:0:  te: svArTe ka.</vkr> (2)namanakarttari tri0 <vkr>striyAM kApi ata ittvam.</vkr></2><page>vp5_534.pdf</page><column>2</column><br/>
+298212:0:  te:  %naya% <vkr>(1)gatO</1> BvA0 Atma0 saka0 sew. nayate anayizwa. neye .</vkr><page>vp5_534.pdf</page><column>2</column><br/>
+298213:1:  te:  %naya% pu0 <vkr>no-BAve ac.</vkr> (1)nItO amaraH. <reN><q>vizamo'pi
+298214:0:  te: vigAhyate nayaH kftatIrTaH payasAmivASayaH<q>kirA0. (2)dyUta
+298215:0:  te: Bede medi0. (3)nEgamAdO hemaca0. nayati saMsArapAraM Baktam
+298216:1:  te: nI-karttari ac. (4)vizRO <reN><q>rAmovirAmovirajo mArgo
+298217:0:  te: neyo nayo'nayaH<q>vizRu saM0.</reN> <reN>nEgamAdiSca sidDAntAdiH
+298218:0:  te: evaM nyAyanayajYEstftIyamuktaM nimittahetutvam<q></reN> <reN><q>tatrApi
+298219:0:  te: paramARO syAt pAko vESezice naye<q>BAzA0.</reN> (5)nyAyye
+298220:0:  te: netari ca tri0 Sabdaca0 <vkr>tataH AkarzA0 kuSalAdyarTe
+298221:0:  te: vun. nayaka</vkr> (7)nItikuSale tri0.</7><page>vp5_534.pdf</page><column>2</column><br/>
+298222:0:  te:  %nayana% na0 <vkr><vg>nIyate budDivfttiH svasaMyuktavizayAn anena</vg> nI-karaRe
+298223:0:  te: lyuw.</vkr> (1)netre amaraH. <vn>tasya budDivftteH svasaMyogivizaya
+298224:2:  te: prApakatvAt taTAtvam.</vn> <reN><q>sevizyante nayanasuBagaM sve BavantaM
+298225:1:  te: balAkAH<q> meGa0.</reN> <reN><q>aTa nayanasamutTaM jyotiratreriva
+298226:3:  te: dyOH<q>raGuH</reN> <vkr>asya svANgatve bahvackatvAt upasarja
+298227:0:  te: natve striyAM na NIz.</vkr> <reN><q>dayitA dayitAnanAmbujaM dara
+298228:1:  te: mIlannayanA nirIkzate<q> rasagaNgA0</reN> <vkr>BAve lyuw.</vkr> (2)prApaRe
+298229:0:  te: yApane ca <reN><q>nayanaM pArijAtasya dvArakAM mama rocate
+298230:0:  te: harivaM0129</reN> <reN><q>kAlasya nayane yuktAH somapatnyaH Suci
+298231:0:  te: vratAH<q>BA0A066a0</reN>  <reN><q>kAlasya nayane yuktA yamasya
+298232:0:  te: puruzASca ye<q> BA0sa0 8a0.</reN></3><page>vp5_534.pdf</page><column>2</column><br/>
+298233:0:  te:  %nayanABiGAta% pu0 6ta0. (1)suSrutokte nayanABihananarUpe
+298234:1:  te: rogaBede yaToktam <reN><q>aTAto nayanABiGAtapratizeDaM vyA
+298235:0:  te: KyAsyAmaH. aByAhate tu nayane bahuDA narARAM
+298236:0:  te: saMramBarAgatumulAsu rujAsu DImAn. nasyapralepapari
+298237:0:  te: zecanatarpaRAdyamuktaM punaH kzatajapittajaSUlapaTyam
+298238:0:  te: dfzwiprasAdajananaM viDimASu kuryyAtsnigDErhimESca maDurESca
+298239:0:  te: taTA prayogEH. svedAgniDUmaBayaSokarujABiGAtEraByA
+298240:0:  te: hatAvapi taTEva Bizak cikitset. sadyohate nayana
+298241:1:  te: eza viDistadUrdDaM syanderito Bavati dozamavekzya kAryaH
+298242:3:  te: aByAhataM nayanamIzadaTAsya bAzpasaMKeditaM Bavati tanna
+298243:0:  te: rujaM kzaRena. sADyaM kzataM pawalamekamuBe tu kfcCre trIRi
+298244:0:  te: kzatAni pawalAni vivarjayettu. syAtpicciwaYca nayanaM
+298245:0:  te: hyati cAvasannaM srastaM cyutaYca hatadfkca Bavettu yApyam
+298246:1:  te: vistIrRadfzwitanurAgamasatpradarSi sADyaM yaTAsTitamanAvi
+298247:1:  te: ladarSanaYca. prARoparoDavananakzavakaRWaroDErunnaByamASu
+298248:0:  te: nayanaM yadatipravizwam. netre vilambini viDirvihitaH
+298249:0:  te: purastAducCiM hanaM Sirasi vAryyavasecanaYca. zawsaptati
+298250:1:  te: rnayanajA va ime pradizwA rogA BavantyamahatAM mahatAYca
+298251:0:  te: teByaH. stanyaprakopakaPamArutapittaraktErbAlAkzivartma Bava
+298252:0:  te: eva kukURako'nyaH. mfdnAti netramatikaRqumaTAkzikUwa
+298253:0:  te: nAsAlalAwamapi tena SiSuH sa nityam. sUryapraBAM na
+298254:0:  te: sahate sravati pravfdDaM tasyAharedruDiramASu vinirliKecca
+298255:1:  te: kzOdrAyutESca kawuBiH pratisArayettu mAtuH SiSoraBihi
+298256:0:  te: taYca viDiM vidavyAt<q>.</reN></1><page>vp5_535.pdf</page><column>1</column><br/>
+298257:0:  te:  %nayanABirAma% pu0 <vkr><vg>nayanamaBiramayati</vg> aBi+rama-Ric
+298258:0:  te: aR</vkr> <vg>nayanayoraBirAmo yasmAt vA.</vg> (1)candre <reN><q>AyuH
+298259:0:  te: kzayaYca kurute nayanABirAmaH<q> vEvAhikalagnaPaloktO
+298260:0:  te: jyotirvasizWaH.</reN> (2)netrAnurAgakArake priyamAtre tri0.</2><page>vp5_535.pdf</page><column>1</column><br/>
+298261:0:  te:  %nayanI% strI <vkr>nI-karaRe lyuw NIp.</vkr> (1)netrakanikAyAM Sabdaci0.</1><page>vp5_535.pdf</page><column>2</column><br/>
+298262:0:  te:  %nayanotsava% pu0 <vg>nayanayorutsavo yasmAt.</vg> (1)dIpe Sabdara
+298263:2:  te: tasyAlokena hi netrasya darSanayogyatvAt <reN><q>gfhRAti
+298264:0:  te: cakzuHsambanDAdAlokodBUtarUpayoH<q>BAzA0</reN> Alokasamba
+298265:0:  te: nDena nayanasya vizayagrAhitvokteH.</vn> (2)netrotsavakAri
+298266:0:  te: mAtre tri0.</2><page>vp5_535.pdf</page><column>2</column><br/>
+298267:0:  te:  %nayanopAnta% pu0 6ta0. (1)apANge rAjani0.</1><page>vp5_535.pdf</page><column>2</column><br/>
+298268:0:  te:  %nayanOzaDa% na0 6ta0. (1)puzpakAsIse hemaca0.</1><page>vp5_535.pdf</page><column>2</column><br/>
+298269:0:  te:  %nayapIWI% strI <vg>nayasya pIWIva.</vg> (1)(Cak) dyUtANge azwakozWe trikA0.</1><page>vp5_535.pdf</page><column>2</column><br/>
+298270:0:  te:  %nayavartma% 6ta0. (1)nItermArge zAqguRyaprayoge <vn>zaw guRASca
+298271:0:  te: sanDivigrahayAnAni saMsTApyaTa damastaTA. dvEDIBAvaSca
+298272:0:  te: vijYeyAH zaqguRA nItivedinAm<q> nItisA0.</reN></vn></1><page>vp5_535.pdf</page><column>2</column><br/>
+298273:1:  te:  %nayaviSArada% tri0 7ta0. (1)nItiSAstrAnusAreRa zAqguRya
+298274:0:  te: prayogABijYe <reN><q>zAqguRyaviDitattvajYo deSaBAzAviSA
+298275:0:  te: radaH. sAnDivigrahikaH kAryyo rAjYA nayaviSAradaH
+298276:0:  te: mAtsye 89a0.</reN></1><page>vp5_535.pdf</page><column>2</column><br/>
+298277:0:  te:  %nara% puM strI0 <vkr>nF-naye ac.</vkr> (1)manuzye jAtitvAt striyAM nArI
+298278:0:  te: tyeva <reN><q>putre yaSasi toye ca narARAM puRyalakzaRam
+298279:0:  te: narARAYca narADipaH<q> gItA</reN></1> <reN><q>naratIti naraH proktaH
+298280:0:  te: paramAtmA sanAtanaH<q> vyAsokteH</reN> (2)paramAtmani <reN><q>narA
+298281:0:  te: jjAtAni tattvAni nArARIti vidurbuDAH<q> vedamantram
+298282:0:  te: Apo nArA iti proktA Apo vE narasUnavaH<q> manuH
+298283:0:  te: jahnurnArAyaRo naraH<q>vizRusaM0.</reN> (3)puMsi rAjani
+298284:0:  te: devaBede <reN><q>tatastadamftaM devo vizRurAdAya vIryyavAn
+298285:0:  te: jahAra dAnavendreByo nareRa sahitaH praBuH. evaM sutumule
+298286:1:  te: yudDe varttamAne mahABave. naranArAyaRo devO samA
+298287:0:  te: jagmaturAhavam<q> BA0 A019a0 </reN> (5)svArohihArake aSve
+298288:2:  te: niGaRwuH (6)naradevasyAvatAre arjune medi
+298289:1:  te: naranArAyaRO yO tO purARAvfzisattamO. tAviBA
+298290:0:  te: vanujAnIhi hfzIkeSaDanaYjayO. viKyAtO trizu
+298291:1:  te: lokezu naranArAyaRAvfzI. kAryyArTamavatarRO tO pfTvIM
+298292:0:  te: puRyapratiSrayAm. yanna SakyaM surErdrazwumfziBirvA mahA
+298293:1:  te: tmaBiH. tadASramapadaM puRyaM badarInAma viSrutam. sa
+298294:4:  te: nivAso'Bavadvipra! vizROrjizROstaTEva ca. yataH pravavfte
+298295:0:  te: gaNgA sidDacAraRasevitA. tO manniyogAdbrahmarze
+298296:0:  te: kzitO jAtO mahAdyutI. BUmerBArAvataraRaM mahAvIryyO
+298297:1:  te: karizyataH<q> BA0va0 47a0</reN> <reN><q>tezAM manaSca tEjaScApyAdadAnA
+298298:0:  te: vivOjasA. pUrvadevO vyatikrAntO naranArAyaRAvfzI
+298299:2:  te: bfhaspatistu papracCa brahmARaM kAvimAviti. BavantaM nopa
+298300:0:  te: tizWete tO naH SaMsa pitAmaha!<q></reN> <reN>brahmovAca <q>yAvetO
+298301:1:  te: pfTivIM dyAYca BAsayantO tapasvinO. jvalantO rocamAnO
+298302:0:  te: ca vyApyAtItO mahAbalO. naranArAyaRAvetO lokA
+298303:0:  te: llokaM samAsTitO. UrjitO svena tapasA mahAsatva
+298304:0:  te: parAkramO. etO hi karmaRA lokaM nandayAmAsatu
+298305:0:  te: rDruvam. dviDA BUtO mahAprAjYO vidDi brahman parantapO
+298306:0:  te: asurARAM vinASAya devaganDarvapUjitO<q></reN> <reN>vESampAyana
+298307:0:  te: uvAca <q>jagAma SakrastacCrutvA yatra tO tepatustapaH
+298308:1:  te: sArdDaM devagaREH sarvErbfhaspatipurogamEH. tadA devAsure
+298309:1:  te: yudDe Baye jAte divOkasAm. ayAcata mahAtmAnO
+298310:0:  te: naranArAyaRO varam. tAvabrUtAM vfRIzveti tadA Ba
+298311:1:  te: ratasattama!. aTa tAvabravIcCrakraH sahyaM naH kriyAtA
+298312:0:  te: miti. tatastO SakramabrUtAM karizyAvo yadicCasi
+298313:1:  te: tAByAYca sahitaH Sakro vijigye dEtyadAnavAn. nara
+298314:0:  te: indrasya saMgrAme hatvA SatrUn parantapaH. pOlomAn
+298315:0:  te: kAlakaYjAMSca sahasrARi SatAni ca. evametO mahA
+298316:0:  te: vIryyO tO paSyata samAgatO. vAsudevArjunO vIrO sama
+298317:1:  te: vetO mahArarTO. naranArAyaRO devO pUrvadevAviti
+298318:0:  te: SrutiH. ajeyO mAnuze loke sendrErapi surAsurEH
+298319:0:  te: eza nArAyaRaH kfzRaH PAlgunaSca naraH smftaH. nArA
+298320:0:  te: yaRo naraScEva satvamekaM dviDA kftam. etO hi karmaRA
+298321:0:  te: lokAnaSnutohya'kzayAn DruvAn<q> BA0u0 48a0.</reN> (7)DA
+298322:0:  te: nyakarpUratfRe medi0. (8)SaNkO CAyAvyavahAropayogikIla
+298323:0:  te: kaBede <reN><q>CAyAhfte tu naradIpatalAntaraGne SaNkO Bavennarayute
+298324:0:  te: Kalu dIpakoccyam<q>lIlA0.</reN> <vn>CAyAvyavahAraSabde dfSyam
+298325:0:  te: lIlA0 ukte ratnamiSravyavahAre (9)ratnamiSraRakArinara
+298326:1:  te: saNKyAyAYca <reN><q>naraDnadAnonitaratnaSezErizwe hfte syuH Kalu
+298327:0:  te: mOlyasaNKyAH<q>lIlA0.</reN> <vn>naratvasya durlaBatA vizRu pu0 uktA
+298328:0:  te: narakaBogottaraM tattadyoniBramaRAnantaraM saprapaYcaM purA
+298329:0:  te: Rasa0 darSitA yaTA
+298330:0:  te: pApena hi DruvaM yAnti narakezu narAH svayam. yaH
+298331:0:  te: karoti naraH pApaM tasyAtmA DruvamapriyaH. pApasya hi
+298332:1:  te: PalaM duHKaM tadBoktavyamihAtmanA. kaTaM te pApaniratA
+298333:0:  te: narA rAtrizu Serate. maraRAntarite yezAM narake tIvra
+298334:0:  te: yAtanAH. evaM klizwA viSudDASca sAvaSezeRa karmaRA
+298335:0:  te: tataH kzitiM samAsAdya punarjAyanti dehinaH. sTAvarA
+298336:0:  te: viviDAkArAstfRagulmAdiBedataH. tatrAnuBUya duH
+298337:0:  te: KAni jAyante kIwayonizu. nizkrAntAH kIwayoniBya
+298338:0:  te: stato jAyanti pakziRaH. saMkziptA, pakziBAvena Bavanti
+298339:0:  te: tfRajAtizu. mArgaduHKamatikramya jAyante paSuyonizu
+298340:0:  te: kramAd goyonimAsAdya punarjAyanti mAnuzAH. evaM
+298341:0:  te: yonizu sarvAsu pariBramya krameRa tu. kAlAntaravaSA
+298342:0:  te: yAnti mAnuzyamatidurlaBam. vyutkrameRApi mAnuzyaM
+298343:0:  te: prApyate puRyagOravAt. vicitrA gatayaH proktAH karmaRAM
+298344:0:  te: gurulAGavAt. mAnuzyaM yaH samAsAdya svargamokzaprasA
+298345:0:  te: Dakam. dvayorna sADayatyekaM sa mftastapyate ciram
+298346:0:  te: devAsurARAM sarvezAM mAnuzyamatidurlaBam. tat saMprApya
+298347:0:  te: taTA kuryyAt na gacCennarakaM yaTA. svargApavargalABAya
+298348:0:  te: yadi nAsti samudyamaH. sarvasya mUlaM mAnuzyaM tadyatnA
+298349:0:  te: danupAlaya. DarmamUlena mAnuzyaM labDvA sarvArTasADakam
+298350:0:  te: mAnuzatve ca vipratvaM yadi prApnoti durlaBam. na karo
+298351:0:  te: tyAtmanaH SreyaH ko'nyo'smAdastyacetanaH
+298352:0:  te: naratvaM durlaBaM loke vidyA tatra sudurlaBA<q>sA0da0agnipu0.</reN></vn></9><page>vp5_535.pdf</page><column>2</column><br/>
+298353:0:  te:  %naraka% pu0 <vkr><vg>narati nayati pApilokaM pApAnurUpaBogAyAtra
+298354:0:  te: nF-naye ADAre bA0vun.</vkr> (1)pApaBogasTAne <vn>tasya taTAtvaYca
+298355:0:  te: vistareRa vizRupu0SivaDarmottare ca varRitaM tadeva purARasa
+298356:7:  te: pradarSitaM tacca karmavipAkaSabde darSitam
+298357:0:  te: pApaBedena narakaBedaprAptiSca pAdme utta0Ka048a0 yaTA
+298358:0:  te: kUwasAkzI taTA'samyak pakzapAtena yo vadet. yaScAnya
+298359:1:  te: danftaM vakti sa naro yAti rOravam. BArURahA pura
+298360:1:  te: harttA ca gOGnaSca munisattamaH!. yAnti te narake roDe
+298361:0:  te: yaScocCvAsaniroDakaH. surApo brahmahA harttA suvarRasya ca
+298362:0:  te: SUkare. prayAti narake yaSca tEH saMsargamupEti vE. rAjanya
+298363:0:  te: vESyahA tAta! taTEva gurutalpagaH. taptakumBe svasfgAmI
+298364:1:  te: hanti rAjaBawAMSca yaH. mADvIvikrayakfdbaDyapAlaH
+298365:0:  te: keSarivikrayI. taptalOhe tu pacyante yaSca BaktaM paritya
+298366:0:  te: jet<q>.</reN> <reN>(keSarI aSvaH) <q>snuzAM sutAYcApi gatvA mahA
+298367:0:  te: jvAle nipAtyate. avamantA gurURAM yo yaScAkrozwA
+298368:0:  te: narADamaH. vedadUzayitA yaSca vedavikrAyakaSca yaH. aga
+298369:0:  te: myAgAmI yaSca syAtte yAntyasivanaM dvija. cOro vi
+298370:0:  te: mohe patati maryyAdAdUzakastaTA. devadvijapitFn dvezwA
+298371:1:  te: ratnadUzayitA ca yaH. sa yAti kfmiBakze vE kfmISe
+298372:0:  te: ca durizwakft. pitfdevAtiTIn yastu paryyaSnAti na
+298373:0:  te: rADamaH. lAlABakze sa yAtyugre SarakarttA ca roDake
+298374:0:  te: (paryyaSnAti parityajya AdO BuNkte)</reN> <reN><q>karoti karRino
+298375:0:  te: yastu yastu KaNgAdikfnnaraH. prayAnti te viSasane narake
+298376:0:  te: BfSadAruRe. asatpratigrahItAro narake yAntyaDomuKe
+298377:0:  te: ayAjyayAjakastatra taTA nakzatrasUcakaH. vegI pUyavaha
+298378:3:  te: YcEko yAti mizwAnnaBuNnaraH.</reN> <reN>(vegI sAhasakArI)
+298379:0:  te: (putrAdIn varjayitvA eka eva mizwAnnaBuka) <q>lAkzAmAMsa
+298380:1:  te: rasAnAYca tilAnAM lavaRasya ca. vikretA brAhmaRo
+298381:0:  te: yAti tameva narakaM dvija!. mArjArakukkuwacCAgAn Svava
+298382:0:  te: rAhavihaNgamAn. pAlayannarakaM yAti tameva dvija
+298383:2:  te: sattama!. radgoejIvI kEvarttaH kuRqASI garadastaTA
+298384:1:  te: sUcI mAhizikaScEva parvakArI ca yo dvijaH<q>.</reN> <reN>(patyO
+298385:0:  te: jIvati jArAjjAtaH kuRqaH tadannaBojI kuRqASI
+298386:2:  te: mAhiziko mahizopajIvo <q>vadvA mahizItyucyate
+298387:1:  te: BAryyA BagenopArjitaM Danam. upajIvati yastasyAH sa vE
+298388:0:  te: mAhizikaH smftaH<q> iti smftiH.</reN> <reN>parvakArI DanAdiloBena
+298389:0:  te: parvasu amAvasyAdikriyApravarttakaH) <q>agAradAhI mitraGnaH
+298390:1:  te: SAkunirgrAmayAjakaH. ruDirArdre patatyete somaM vikrIRate
+298391:0:  te: ca ye. maDuhA grAmahantA ca yAti vEtaraRIM naraH
+298392:0:  te: retaHpAnAdikarttAro maryyAdABedinaSca ye. te kfzRe
+298393:0:  te: yAntyaSOcASca kuhakAjIvinaSca ye. asipatravaRaM
+298394:2:  te: yAti vanacCedI vfkzEva yaH. OraBriko mfgavyADo
+298395:0:  te: vahnijvAle patanti vE. yAntyete dvija! tatrEva yaScApA
+298396:0:  te: kezu vahnidaH. vratezu lopako yaSca svASramAdvicyutaSca
+298397:1:  te: yaH. sandaMSayAtanAmaDye patatastAvuBAvapi. divA
+298398:1:  te: svapnezu skandanti ye narA brahmacAriRaH. putrEraDyApitA
+298399:1:  te: ye ca te patanti SvaBojane. ete cAnye ca narakAH
+298400:0:  te: SataSo'Ta sahasraSaH. yezu duzkftakarmARaH pacyante
+298401:0:  te: yAtanAgatAH. yaTEva pApAnyetAni taTAnyAni saha
+298402:1:  te: sraSaH. Bujyante yAni puruzErnarakAntaragocarEH. varRA
+298403:0:  te: SramavirudDaYca karma kurvanti ye narAH. karmaRA manasA
+298404:2:  te: vAcA nirayezu patanti te. aDaHSiroBirdaSyante nAra
+298405:0:  te: kErdivi devatAH. devAScADomuKAn sarvAnaDaH paSyanti
+298406:1:  te: nArakAn. sTAvarAH kfmayo'YjASca pakziRaH paSavo narAH
+298407:0:  te: DArmikAstridaSAstadvanmokziRaSca yaTAkramam. sahasra
+298408:1:  te: BAgapraTamA dvitIyAtukramAstaTA. sarve hyete mahABAga
+298409:1:  te: yAvanBuktisamASrayAH. yAvanto jantavaH svarge tAvanto
+298410:0:  te: narakOkasaH.<q>pApakfdyAti narakaM prAyaScittaparAN
+298411:0:  te: muKaH<q> iti vizRu pu0 dvitIyAMSe 6a0.</reN> <reN>tatrEva <q>kaTa
+298412:0:  te: yAmi vicitrARAM karmaRAM viviDA gatIH. tAH SfRuzva
+298413:0:  te: mahArAja! yAH SrutvA mokzamApnuyAt. paravittaM parA
+298414:0:  te: patyaM kalatraM pArakaYca yaH. harate budDimohena so'nte
+298415:1:  te: mftyuvaSaNgataH. kAlapASena sambanDo yasadUtErmahAbalEH
+298416:0:  te: tAmisre pAtyate tAvat yAvat varzasahasrakam. tatra tA
+298417:2:  te: qanasudvfttAH kurvanti yamakiNkarAH. pApaBogena samBukta
+298418:0:  te: stato yonintu SOkarIm. tatra BuktvA mahAduHKaM mAnu
+298419:1:  te: zatvaM gamizyati. romAdicihnitaM tatra duryaSojYApakaM
+298420:2:  te: stavakam. BUtadrohaM viDAyEvaM kevalaM svakuwumbakam
+298421:0:  te: puzRAti pApanirataH so'nDatAmisrake patet. ye narA
+298422:2:  te: iha jantUnAM vaDaM kurvanti vE mfza. te rOrave nipAtyante
+298423:3:  te: svAdyante ruruBiryataH. yaH svodarArTaM BUtAnAM vaDamA
+298424:1:  te: carati sPuwam. mahAroravasaMjYe tu pAtyate sa yamA
+298425:0:  te: jYayA. yo vE nijantu janakaM brAhmaRaM dvezwi pApakft
+298426:2:  te: kAlasUtre mahAduzwe TojavAyatavistfte. yAvanti
+298427:1:  te: paSuromARi gavAM dvezaM karoti yaH. tAvadvaMrzasaha
+298428:0:  te: srARi pacyate yamakiNkarEH. yo BUmO BUpatirBUtvA da
+298429:0:  te: RqAyogyantu daRqayet. karoti brAhmaRasyApi dehadaRqaM
+298430:1:  te: vilolupaH. sa SUkaramuKErduzwEH pIhyate yamakiNkarEH
+298431:1:  te: paScAdduzwAsu yonIzu jAyate pApaBuktaye. brAhmaRAnAM
+298432:2:  te: navAM ye tu dravyaM vittaM taTAlpakam. vfttiM vA gfhRate
+298433:1:  te: mohAllumpanti svabalAnnarAH. te paratrAnDakUpe ca pA
+298434:0:  te: tyante ca mahArdditAH. yo'rTaM svayamupAhftya maDukaYcAtti
+298435:2:  te: lolupaH. na devAya na suhfde dadAti rasanAturaH
+298436:0:  te: sa patatyeva narake kfmiBojanasaMjYake. anApadi naro
+298437:3:  te: vastu hiraRyAdInamAharet. brahmasvaM vA mahAduzwaH sa
+298438:2:  te: ndeSe narake pacet. yaH svadehaM prapuzRAti nAnyaM jAnAti
+298439:0:  te: mUQaDIH. manasA kalpitaM dravyaM viduze yo dadAti na
+298440:0:  te: sa pumAnnarakaM yAti yAvadindrAScaturdaSa. paScAdduzwAsu
+298441:2:  te: yonIzu jAyate varRasaNkaraH. dAnAni vAqave dattvA punaH
+298442:0:  te: SudDo Bavizyati. vacodattaM manodattamiti sAhaM vadet
+298443:0:  te: yadi. kalpante pitarastasya narakAya samutsukAH
+298444:0:  te: vacodattaM manodattaM dattaM pARikuSodakam. etaddatta
+298445:0:  te: madattaM cet jihvAmutpAwayed yamaH. sa yAtyate tEla
+298446:1:  te: tapte kumBIpAke'tidAruRe. ye nagaByAM striyaM mohAd
+298447:1:  te: yozidBAvAcca kAmayet. taM tayA kiNkarAH sUrmyAH pari
+298448:4:  te: badDaYca kurvate. ye balAdvedadmaryyAdAM lumpanti KanalodDatAH
+298449:1:  te: te vEtaraRyAM patitA mAMsaSoRitaBakzakAH. vfzakIM
+298450:0:  te: yaH striyaM kftvA tayA gArhasTyamAcaret. pUyode nipa
+298451:0:  te: tatyeva mahAduHKasamanvitaH. ye damBAnASrayante vE
+298452:0:  te: DUrttA lokasya vaYcane. vESase narake mUQAH patanti yama
+298453:0:  te: tAqitAH. ye savarRAM striyaM mUQAH pAyayanti svare
+298454:0:  te: tasam. retaHkulyAsu te yAtyA retaHpAnezu tatparAH
+298455:0:  te: ye cOrA vahnidA duzwA garadA grAmaluRWakAH. sArame
+298456:0:  te: yAdane te vE yAtyante pAtakAnvitAH. kUwasAkzyaM vada
+298457:0:  te: tyadDA puruzaH pApasamBftaH. parakIyantu dravyaM yo
+298458:0:  te: harati prasaBaM balI. so'vIcinarake pApe hyavAgvaktraH
+298459:0:  te: patatyaDaH. tatra duHKaM mahadBuktvA pApizWAM yonimAvra
+298460:0:  te: jet. yo naro rasanAsvAdAt surAM pibati mUQaDIH
+298461:0:  te: tampAyayanti lohasya rasaM Darmasya kiNkarAH. yo gurU
+298462:0:  te: navamanyeta svavidyAcAradarpitaH. sa mftaH pAtyate kzAra
+298463:0:  te: saMjYake'DomuKaH pumAn. viSvAsaGAtaM kurvanti ye narA
+298464:1:  te: DarmanizkftAH. SUlaprIte tu narake pAtyante bahuyAtanAH
+298465:0:  te: yErna SrutA rAmakaTA na paropakftiH kftA. tezAM sarvARi
+298466:3:  te: duHKAni Bavanti narakAntare. vyagre yasya muKaM BUyastasya
+298467:1:  te: svargaM itIryyate. ye duHKinorogayutA narakAdAgatAstute
+298468:0:  te: asuraBede pu0 <vn>sa ca varAheRa rajasvalAyAM pfTvyAmutpA
+298469:0:  te: ditaH sa eva ca vasizWaSApena dvAparayuge svapitraMSenEva
+298470:0:  te: kfzRena nisUditaH. kAlikApurARe 36 aDyAyAvaDi
+298471:0:  te: aDyAye tatkaTA vistareRa dfSyA. kAlikApurARaSabde
+298472:2:  te: saMkzepatastatkaTA darSitA.</vn></2><page>vp5_536.pdf</page><column>2</column><br/>
+298473:1:  te:  %narakakuRqa% na0 (1)yAtanAsTAnaBede <reN><q>yama uvAca narakA
+298474:0:  te: RAYca kuRqAni santi nAnAviDAni ca. nAnApurARa
+298475:0:  te: Bedena nAmaBedAni tAni ca. BayaNkarARi GorARi
+298476:0:  te: he vatsa! kutsitAni ca. zaqaSItiSca kuRqAni saMyama
+298477:0:  te: nyAYca santi ca. niboDa tezAM nAmAni prasidDAni SrutO
+298478:2:  te: smftO<q> iti brahmavEvartte prakftisva0 27.28 a
+298479:0:  te: narakaBedakuRqAni pApaBedAt tatra gAminaH
+298480:3:  te: vahnikuRqam- kawuvAcA bAnDavotpIqakaH
+298481:0:  te: taptakuRqam - brAhmaRAtiTiBojanApradAyI
+298482:0:  te: kzArakuRqam- nizidDadine vastre kzArasaMyojakaH
+298483:0:  te: viwkuRqam- brahmavfttyapahArakaH
+298484:3:  te: mUtrakuRqam- parataqAgaM KanitvotsarjakaH
+298485:0:  te: SlezmakuRqam- ekAkI mizwaBojI
+298486:0:  te: garakuRqam- pitfmAtfguruBAryyAdyapozakaH
+298487:0:  te: dUzikAkuRqam- atiTiM dfzwvA vakracakzuHkArI
+298488:0:  te: vasAkuRqam- viprAya pratiSrutya taddravyamanyasmE dAtA
+298489:1:  te: SukrakuRqam- parastrIgAmI nA parapuNgAminI ca strI
+298490:0:  te: asfkkuRqam- gurvAditAqakastadraktasrAvakaSca
+298491:1:  te: aSrukuRqam- harisaNgItEruddgAyadgadgadaBaktopahAsakft
+298492:0:  te: gAtramalakuRqam- SaSvadaSudDacittaH KalatAkArI ca
+298493:0:  te: karRaviwkuRqam- baDiropahAsakft
+298494:0:  te: majjakuRqam- loBAt svaBojanArTaM jIvahantA
+298495:0:  te: mAMsakuRqam- arTaloBAt kanyAvikretA
+298496:1:  te: naKakuRqam- SrAdDopavAsAdizu saMyamatyAgI
+298497:1:  te: lomakuRqam- SrAdDopavAsAdizu saMyamatyAgI
+298498:0:  te: keSakuRqam- sakeSapArTivaSivaliNgArcakaH
+298499:1:  te: asTikuRqam- vizRu pade pitfpiRqAdAyI
+298500:0:  te: tAmrakuRqam-gurviRIgAmI
