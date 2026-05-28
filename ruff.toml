@@ -2,12 +2,12 @@
 # Excluded dirs contain Python 2 legacy scripts (pre-2020 research artifacts).
 
 exclude = [
-    "abbrevprep/",,
-    "alternateheadword/",,
-    "vac-vcp-cmp1/",,
-    "vac-vcp-cmp2/",,
-    "vcpte-vac/",,
-    "vcpte-vcp-cmp/",,
+    "abbrevprep/",
+    "alternateheadword/",
+    "vac-vcp-cmp1/",
+    "vac-vcp-cmp2/",
+    "vcpte-vac/",
+    "vcpte-vcp-cmp/",
     "verbs01/",
 ]
 
