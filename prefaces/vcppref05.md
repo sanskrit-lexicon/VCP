@@ -1,0 +1,38 @@
+---
+source_scan: vac1_Page_013_Image_0002.png
+source_page: Dedication
+volume: 1
+source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/vcppref/vcppref05.html
+source_lang: en
+---
+
+# THIS WORK
+
+IS DEDICATED TO
+
+HIS HIGHNESS SREE MAHARAJAH MEERZA
+ANANDA GAZAPATTI RAJ
+MUNEEA SULTAN BAHADOOR
+
+OF
+
+## VIZIANAGARAM
+
+IN
+
+ACKNOWLEDGEMENT OF THE
+DEEP INTEREST SHEWN BY HIS HIGHNESS
+FOR THE ADVANCEMENT OF SANSKRIT LEARNING
+
+AND
+
+OF THE LIBERAL PATRONAGE AFFORDED TO THE
+CAUSE OF SANSKRIT LANGUAGE BY THE
+ANCESTERS OF HIS HIGHNESS,
+
+WITH DEEP REGARD AND ESTIMATION
+
+BY
+
+*TARANATHA TARKAVACHASPATI*
+*the Author.*
