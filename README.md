@@ -1,6 +1,6 @@
 # VCP — *Vācaspatyam* (1873–1884)
 
-_Created: 21-01-2014 · Last updated: 05-07-2026_
+_Created: 21-01-2014 · Last updated: 11-07-2026_
 
 Development and correction repository for **Tāranātha Tarkavācaspati's *Vācaspatyam***, a vast indigenous Sanskrit→Sanskrit encyclopedic lexicon, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/vcp/vcp.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/vcp/vcp.txt) (48,636 entries); this repository holds the development, correction, and enrichment work.
 
@@ -8,6 +8,7 @@ An indigenous encyclopaedic dictionary citing authorities through quotations and
 
 ## Documentation
 
+- [docs/COMPARISON_MANUAL.md](https://github.com/sanskrit-lexicon/VCP/blob/main/docs/COMPARISON_MANUAL.md) — **operator manual** for the comparison/collation tooling: the live VAC↔VCP meld correction workflow, the diff metrics, verbs01, abbrevprep, alternate headwords, and the delivery contract back to csl-orig.
 - [CLAUDE.md](CLAUDE.md) — repository guide and data-format reference.
 - [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — markup tag reference.
 - [CONTRIBUTING.md](CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
