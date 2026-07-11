@@ -141,8 +141,8 @@ pie showData
 | Contributor | Commits |
 |---|---|
 | drdhaval2785 | 66 |
+| gasyoun (Mārcis Gasūns) | 39 |
 | funderburkjim | 35 |
-| gasyoun (Mārcis Gasūns) | 36 |
 
 ## Source
 
