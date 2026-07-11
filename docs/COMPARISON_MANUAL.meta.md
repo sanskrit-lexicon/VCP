@@ -53,6 +53,58 @@ The four §7 defects were observed in the committed files.
 - `redo_copy.sh` (verbs01 → Cologne web tree) is a maintainer-side step not
   reproducible from this repo alone.
 
+## Intended use / known misuse
+
+**Intended use:** an operator's runbook for the *live* VCP comparison/
+collation workflow — running a VAC↔VCP meld correction round (§4.1),
+recomputing diff metrics (§4.2), and rerunning the two side surveys
+(`verbs01`, `abbrevprep`) and the alternate-headword pass. It is also the
+authoritative pointer for which of the five comparison generations is live
+(gen 5 only — §2) and which files are frozen archaeology.
+
+**Known/likely misuse:**
+- Treating the gen-1–4 folders (`vcpte-vcp-cmp/`, `vcpte-vac/`,
+  `vac-vcp-cmp1/`, `vac-vcp-cmp1a/`) as runnable pipelines instead of frozen
+  provenance — they are Python-2-era archaeology (§2, §7).
+- Running `meld_regex/split_file.py` believing it is idempotent or safe to
+  "refresh" — it overwrites years of hand-corrected chunks (§1, §5 row 1);
+  there is still no mechanical guard against this (backlog item 2).
+- Running `abbrevprep/redo.sh` expecting it to regenerate the abbreviation
+  survey — it is a broken copy-paste of `verbs01`'s tail and will instead
+  attempt (and fail at) verb-filter commands (§4.4, §5 row 3, §7 defect 1).
+- Copying `vcp_corrected_file.txt` straight over
+  `csl-orig/v02/vcp/vcp.txt` as an org agent — that `cp`-based path
+  (`carry_changes_to_cslorig.sh`) is the upstream-maintainer-only pattern;
+  org agents must go through the change-file + correction-queue route
+  (§4.1 step 5).
+- Redistributing VAC-derived data (`vcpte-vac/vac_input.txt` or anything
+  downstream of it) without honoring its CC BY-NC-SA non-commercial clause
+  (§7 never-touch list).
+- Reading the root Excel-algo notes
+  (`Tirupati-vs-Cologe-Excel-comparison-algo.txt`) as UTF-8 — they are
+  cp1251 Russian and render as mojibake without the correct encoding (§5).
+
+## Maintenance & sunset plan
+
+The manual is kept alive by whoever next runs a meld correction round or
+touches `meld_regex/`, `vac-vcp-cmp2/`, `verbs01/`, `abbrevprep/`, or
+`alternateheadword/` in the [VCP](https://github.com/sanskrit-lexicon/VCP)
+repo — there is no dedicated bot or CI job; it is maintained the same way as
+the rest of the repo's docs, by the operator/contributor of record for a
+given session (see Audience above). Sunset trigger: if the live workflow is
+ever superseded by a new comparison generation (a "gen 6"), or the VAC↔VCP
+correction programme is formally closed out (all meld rounds complete, no
+further csl-orig drift to reconcile per [issue #24](https://github.com/sanskrit-lexicon/VCP/issues/24)),
+this manual and its subject document should be marked `retired` here and in
+the manual's own header, with a pointer to whatever replaces it (or a note
+that the workflow ended and the folders are now archaeology like gen 1–4).
+Until then it stays `active` and gets updated in place whenever a described
+command, file path, or defect changes.
+
+## Deprecation status
+
+`active`
+
 ## Related documents
 
 - [README.md](https://github.com/sanskrit-lexicon/VCP/blob/main/README.md) — repo overview, issue inventory, front-matter (prefaces) docs
@@ -65,6 +117,7 @@ The four §7 defects were observed in the committed files.
 | Date | Change | By |
 |---|---|---|
 | 11-07-2026 | Initial version (H508) | Fable 5 (`claude-fable-5`) |
+| 11-07-2026 | template v2 backfill (H663) | Sonnet 5 (`claude-sonnet-5`) |
 
 ---
 
