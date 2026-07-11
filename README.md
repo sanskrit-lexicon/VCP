@@ -9,25 +9,26 @@ An indigenous encyclopaedic dictionary citing authorities through quotations and
 ## Documentation
 
 - [docs/COMPARISON_MANUAL.md](https://github.com/sanskrit-lexicon/VCP/blob/main/docs/COMPARISON_MANUAL.md) — **operator manual** for the comparison/collation tooling: the live VAC↔VCP meld correction workflow, the diff metrics, verbs01, abbrevprep, alternate headwords, and the delivery contract back to csl-orig.
-- [CLAUDE.md](CLAUDE.md) — repository guide and data-format reference.
-- [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — markup tag reference.
-- [CONTRIBUTING.md](CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- [CLAUDE.md](https://github.com/sanskrit-lexicon/VCP/blob/main/CLAUDE.md) — repository guide and data-format reference.
+- [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/VCP/blob/main/DATA_DICTIONARY.md) — markup tag reference.
+- [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/VCP/blob/main/CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](https://github.com/sanskrit-lexicon/VCP/blob/main/CODE_OF_CONDUCT.md)
+- Source-text corrections follow the canonical [csl-orig correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md) — never edit `vcp.txt` directly; express changes as change files applied by scripts.
 
 ## Contents
 
 | Path | Purpose |
 |---|---|
-| `abbrevprep/` | Abbreviation-markup preparation |
-| `alternateheadword/` | Alternate-headword extraction |
-| `data/` | Working data files |
-| `meld_regex/` | Regex rules for `meld` diff comparison |
-| `vac-vcp-cmp1/` | VAC (Tirupati) vs VCP (Cologne) comparison |
-| `vac-vcp-cmp1a/` | VAC vs VCP comparison (rev.) |
-| `vac-vcp-cmp2/` | VAC vs VCP comparison (rev.) |
-| `vcpte-vac/` | VCP-TE vs VAC comparison |
-| `vcpte-vcp-cmp/` | VCP-TE vs VCP comparison |
-| `verbs01/` | Verb identification: maps verb entries to MW roots, with Devanāgarī renderings |
-| `prefaces/` | Front-matter OCR (title pages, publisher's note, dedication, preface, contents) + EN/RU translations — see [Front matter](#front-matter-prefaces) below |
+| [`abbrevprep/`](https://github.com/sanskrit-lexicon/VCP/tree/main/abbrevprep) | Abbreviation-markup preparation |
+| [`alternateheadword/`](https://github.com/sanskrit-lexicon/VCP/tree/main/alternateheadword) | Alternate-headword extraction |
+| [`data/`](https://github.com/sanskrit-lexicon/VCP/tree/main/data) | Working data files |
+| [`meld_regex/`](https://github.com/sanskrit-lexicon/VCP/tree/main/meld_regex) | Regex rules for `meld` diff comparison |
+| [`vac-vcp-cmp1/`](https://github.com/sanskrit-lexicon/VCP/tree/main/vac-vcp-cmp1) | VAC (Tirupati) vs VCP (Cologne) comparison |
+| [`vac-vcp-cmp1a/`](https://github.com/sanskrit-lexicon/VCP/tree/main/vac-vcp-cmp1a) | VAC vs VCP comparison (rev.) |
+| [`vac-vcp-cmp2/`](https://github.com/sanskrit-lexicon/VCP/tree/main/vac-vcp-cmp2) | VAC vs VCP comparison (rev.) |
+| [`vcpte-vac/`](https://github.com/sanskrit-lexicon/VCP/tree/main/vcpte-vac) | VCP-TE vs VAC comparison |
+| [`vcpte-vcp-cmp/`](https://github.com/sanskrit-lexicon/VCP/tree/main/vcpte-vcp-cmp) | VCP-TE vs VCP comparison |
+| [`verbs01/`](https://github.com/sanskrit-lexicon/VCP/tree/main/verbs01) | Verb identification: maps verb entries to MW roots, with Devanāgarī renderings |
+| [`prefaces/`](https://github.com/sanskrit-lexicon/VCP/tree/main/prefaces) | Front-matter OCR (title pages, publisher's note, dedication, preface, contents) + EN/RU translations — see [Front matter](#front-matter-prefaces) below |
 
 ## Timeline
 
@@ -36,17 +37,17 @@ An indigenous encyclopaedic dictionary citing authorities through quotations and
 | 2014 | Repository activity begins (first tracked issues) |
 | 2015–2021 | Ongoing corrections, markup, and comparison work |
 | 2026-05 | Issue taxonomy, citation metadata, documentation |
-| 2026-06 | Front-matter OCR + EN/RU translation of the prefaces (`prefaces/`) |
+| 2026-06 | Front-matter OCR + EN/RU translation of the prefaces ([`prefaces/`](https://github.com/sanskrit-lexicon/VCP/tree/main/prefaces)) |
 
 ## Projects & Milestones
 
 | Milestone | Open | Closed | Total |
 |---|---|---|---|
 | Dictionary to Book | 0 | 0 | 0 |
-| Digitization Quality | 6 | 8 | 14 |
+| Digitization Quality | 5 | 9 | 14 |
 | Structured Data | 8 | 2 | 10 |
 | Major Enhancements | 6 | 1 | 7 |
-| **Total** | **20** | **11** | **31** |
+| **Total** | **19** | **12** | **31** |
 
 ```mermaid
 pie showData
@@ -86,7 +87,6 @@ pie showData
 | 17 | Suggestions from meta2 | text-correction | minor | Digitization Quality |
 | 18 | meld-prep: 'ai'/'au' | encoding | minor | Digitization Quality |
 | 19 | vac2a - picture data in TE | bug | minor | Digitization Quality |
-| 20 | pUrbb vs. pUrvv | bug | minor | Digitization Quality |
 | 22 | Patterns to be handled later | question | minor | Structured Data |
 | 23 | Debatable items | question | minor | Structured Data |
 | 24 | VAC vs VCP comparision tracker | content-enhancement | medium | Major Enhancements |
@@ -106,6 +106,7 @@ pie showData
 | 8 | Broken link -- from IITS Koeln home page | bug | minor | Digitization Quality |
 | 13 | New VCP scans | scan-quality | minor | Digitization Quality |
 | 16 | Correction of {??} missing text in vcp.txt | text-correction | minor | Digitization Quality |
+| 20 | pUrbb vs. pUrvv | bug | minor | Digitization Quality |
 | 21 | print changes pages 34-40 | text-correction | minor | Digitization Quality |
 | 26 | print changes 41-50 | text-correction | minor | Digitization Quality |
 | 28 | pending 'rbb' in vcp.txt | bug | minor | Digitization Quality |
@@ -141,7 +142,7 @@ pie showData
 |---|---|
 | drdhaval2785 | 66 |
 | funderburkjim | 35 |
-| gasyoun (Mārcis Gasūns) | 26 |
+| gasyoun (Mārcis Gasūns) | 36 |
 
 ## Source
 
@@ -153,7 +154,7 @@ pie showData
 - **Language pair**: Sanskrit → Sanskrit
 - **Size (CDSL headword index)**: 48,636 entries
 - **License (digital edition)**: CC BY-SA 4.0
-- See [CITATION.cff](CITATION.cff) for machine-readable citation.
+- See [CITATION.cff](https://github.com/sanskrit-lexicon/VCP/blob/main/CITATION.cff) for machine-readable citation.
 
 ## Encoding
 
@@ -195,33 +196,30 @@ flowchart LR
   X --> A["csl-app web display"]
 ```
 
+Corrections to the source text are prepared and validated per the canonical [csl-orig correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
+
 ## Front matter (`prefaces/`)
 
 OCR of the dictionary's **front matter** — title pages, publisher's note, dedication, preface, and contents — from the [Cologne csldoc scans](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/vcppref.html), with English and Russian translations and consolidated single-file editions. 7 pages, mixed-language: the first title page and publisher page are **Sanskrit / Devanāgarī**; the second title page, publisher's note, dedication, preface, and contents are **English** (19th-c. spellings preserved). Digitizer running-header/footer stamps were omitted.
 
 File conventions: `vcpprefNN.md` (source language) · `vcpprefNN.en.md` (English) · `vcpprefNN.ru.md` (Russian). Consolidated editions:
 
-- [`prefaces/vcppref_all.sa.md`](https://github.com/sanskrit-lexicon/VCP/blob/master/prefaces/vcppref_all.sa.md) — source language (Sanskrit + English)
-- [`prefaces/vcppref_all.en.md`](https://github.com/sanskrit-lexicon/VCP/blob/master/prefaces/vcppref_all.en.md) — English
-- [`prefaces/vcppref_all.ru.md`](https://github.com/sanskrit-lexicon/VCP/blob/master/prefaces/vcppref_all.ru.md) — Russian
-- In-folder index: [`prefaces/README.md`](https://github.com/sanskrit-lexicon/VCP/blob/master/prefaces/README.md) · builder [`prefaces/build_combined.py`](https://github.com/sanskrit-lexicon/VCP/blob/master/prefaces/build_combined.py)
+- [`prefaces/vcppref_all.sa.md`](https://github.com/sanskrit-lexicon/VCP/blob/main/prefaces/vcppref_all.sa.md) — source language (Sanskrit + English)
+- [`prefaces/vcppref_all.en.md`](https://github.com/sanskrit-lexicon/VCP/blob/main/prefaces/vcppref_all.en.md) — English
+- [`prefaces/vcppref_all.ru.md`](https://github.com/sanskrit-lexicon/VCP/blob/main/prefaces/vcppref_all.ru.md) — Russian
+- In-folder index: [`prefaces/README.md`](https://github.com/sanskrit-lexicon/VCP/blob/main/prefaces/README.md) · builder [`prefaces/build_combined.py`](https://github.com/sanskrit-lexicon/VCP/blob/main/prefaces/build_combined.py)
 
 **Signatures & dates found**: title pages dated Vikrama Saṃvat 2018 / A.D. 1962 (Chowkhamba reprint); dedication to H.H. the Maharajah of Vizianagaram, signed by the author Tāranātha Tarkavācaspati; preface signed **H. Woodrow, M.A.**, citing Govt. of Bengal sanction letters of 1866 and 1870.
 
-<details>
-<summary><strong>OCR run notes (2026-06-22)</strong> — cost, timing, and technical lessons</summary>
-
-Produced by the `/cologne-preface-ocr` skill (vision OCR + translation). Process retrospective, not part of the deliverable.
-
-**Cost.** This was a **resume** run: a prior session had already OCR'd all 7 source pages, written all 7 `.ru.md`, and the two Sanskrit pages' `.en.md`. This session, synchronous (no subagents), did the remaining work: wrote the five English-source `.en.md` (verbatim English reproductions of pages 03–07), demoted stray in-body title-page H1s to H2 in 9 page files, built the three consolidated editions, and authored the READMEs. Main thread only — ≈90k tokens (no native-resolution OCR crops needed this turn; the scans were already transcribed).
-
-**Time.** Wall-clock ≈8 min, single foreground thread.
-
-**Technical lessons (reusable):**
-1. Mixed-language front matter ⇒ `source_lang` is per-page. For English-source pages the base `.md` *is* the English; this run still materialized `.en.md` copies for them so `build_combined.py`'s `en` pass (which `continue`s on missing `.en.md`) emits a **complete** English edition rather than dropping pages.
-2. Title pages repeat the dictionary title as a second `# ` heading and the dedication uses `# VIZIANAGARAM` as a display line. `build_combined.py` strips only the *first* H1, so these collide with the page-level H2 — demote them to `##` in the source page before building (H2 count must equal 1 TOC + 7 pages = 8).
-
-</details>
+> **OCR run notes (2026-06-22)** — cost, timing, and technical lessons. Produced by the `/cologne-preface-ocr` skill (vision OCR + translation). Process retrospective, not part of the deliverable.
+>
+> **Cost.** This was a **resume** run: a prior session had already OCR'd all 7 source pages, written all 7 `.ru.md`, and the two Sanskrit pages' `.en.md`. This session, synchronous (no subagents), did the remaining work: wrote the five English-source `.en.md` (verbatim English reproductions of pages 03–07), demoted stray in-body title-page H1s to H2 in 9 page files, built the three consolidated editions, and authored the READMEs. Main thread only — ≈90k tokens (no native-resolution OCR crops needed this turn; the scans were already transcribed).
+>
+> **Time.** Wall-clock ≈8 min, single foreground thread.
+>
+> **Technical lessons (reusable):**
+> 1. Mixed-language front matter ⇒ `source_lang` is per-page. For English-source pages the base `.md` *is* the English; this run still materialized `.en.md` copies for them so `build_combined.py`'s `en` pass (which `continue`s on missing `.en.md`) emits a **complete** English edition rather than dropping pages.
+> 2. Title pages repeat the dictionary title as a second `# ` heading and the dedication uses `# VIZIANAGARAM` as a display line. `build_combined.py` strips only the *first* H1, so these collide with the page-level H2 — demote them to `##` in the source page before building (H2 count must equal 1 TOC + 7 pages = 8).
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
