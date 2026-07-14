@@ -22,7 +22,7 @@ Here, 'vac' refers to this Scharf version of Tirupati edition of Vacaspatyam.
 
 'vcp' refers to the Cologne edition of Vacaspatyam.
 
-This begins as the copy of Cologne edition of Vacaspatyam, as accessed from https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/vcp/vcp.txt on 15 Jan 2021.
+This begins as the copy of Cologne edition of Vacaspatyam, as accessed from https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/vcp/vcp.txt on 15 Jan 2021.
 It is the Cologne edition of Vacaspatyam, in slp1 transliteration and with utf-8 encoding.
 
 # len2.py
@@ -97,6 +97,6 @@ HTML file with links to Text and PDF from Cologne dictionaries, in the following
 5. This will regenerate the output. This would remove the issues which have already been corrected.
 6. Keep on the process, till there are no differences between two digitizations, or they are explainable.
 
-Note - We should not be hesitant to make changes to vac1.txt or vcp1.txt files in vac-vcp-cmp2 repository. The reason is that their base versions are available at https://github.com/sanskrit-lexicon/VCP/blob/master/vac-vcp-cmp1/vcp1.txt and https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/vcp/vcp.txt. They are not affected by our changes at vac-vcp-cmp2 repository.
+Note - We should not be hesitant to make changes to vac1.txt or vcp1.txt files in vac-vcp-cmp2 repository. The reason is that their base versions are available at https://github.com/sanskrit-lexicon/VCP/blob/main/vac-vcp-cmp1/vcp1.txt and https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/vcp/vcp.txt. They are not affected by our changes at vac-vcp-cmp2 repository.
 
 

@@ -51,7 +51,7 @@ Two independent digitizations of Tāranātha Tarkavācaspati's *Vācaspatyam*
 exist:
 
 - **VCP** — the Cologne edition:
-  [csl-orig/v02/vcp/vcp.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/vcp/vcp.txt)
+  [csl-orig/v02/vcp/vcp.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/vcp/vcp.txt)
   (48,636 entries, SLP1, UTF-8), the CDSL canonical text.
 - **VAC** — Peter Scharf's reformatted version of the **Tirupati edition**
   (received 2014 as `vac_input.txt`; license **CC BY-NC-SA** — note the
@@ -299,7 +299,7 @@ of the same phenomenon.
   (org rule: change files + queued batch PR, never a direct push — the
   `cp`-based carry script is upstream-maintainer-only). MW data consumed by
   `verbs01/` comes from the sibling
-  [csl-orig/v02/mw/mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt).
+  [csl-orig/v02/mw/mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/mw/mw.txt).
 - **Issue taxonomy:** dictionary-repo taxonomy (type / severity / milestone)
   — see [CLAUDE.md](https://github.com/sanskrit-lexicon/VCP/blob/main/CLAUDE.md);
   the comparison workflow's tracker issues are
