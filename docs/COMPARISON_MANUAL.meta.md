@@ -24,7 +24,7 @@ alternate-headword extraction).
 ## Provenance
 
 Authored 11-07-2026 by Fable 5 (`claude-fable-5`) under handoff
-[H508-Fable_VCP_comparison_tooling_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/H508-Fable_VCP_comparison_tooling_manual_10.07.26.md)
+[H508-Fable_VCP_comparison_tooling_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H508-Fable_VCP_comparison_tooling_manual_10.07.26.md)
 (the H501–H531 per-repo manuals programme, Litpam-Indexator MANUAL.md gold
 standard). Commands and formats read from the per-folder readmes
 (`meld_regex/readme.md`, `vac-vcp-cmp2/readme.md`, `verbs01/readme.txt`,

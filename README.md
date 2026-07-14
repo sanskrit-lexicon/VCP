@@ -2,7 +2,7 @@
 
 _Created: 21-01-2014 · Last updated: 11-07-2026_
 
-Development and correction repository for **Tāranātha Tarkavācaspati's *Vācaspatyam***, a vast indigenous Sanskrit→Sanskrit encyclopedic lexicon, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/vcp/vcp.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/vcp/vcp.txt) (48,636 entries); this repository holds the development, correction, and enrichment work.
+Development and correction repository for **Tāranātha Tarkavācaspati's *Vācaspatyam***, a vast indigenous Sanskrit→Sanskrit encyclopedic lexicon, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/vcp/vcp.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/vcp/vcp.txt) (48,636 entries); this repository holds the development, correction, and enrichment work.
 
 An indigenous encyclopaedic dictionary citing authorities through quotations and sigla (e.g. `pu0`, `avya0`) rather than Western `<ls>` markup. This repo also tracks the **VAC (Tirupati)** vs **VCP (Cologne)** edition comparison.
 
@@ -164,7 +164,7 @@ pie showData
 
 ## Usage example
 
-Applying a correction to the real first entry of [`vcp.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/vcp/vcp.txt) with `updateByLine.py` (root [`CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/CLAUDE.md) "Shared correction pattern"). The real current line 2 (entry 1, headword `a`) reads:
+Applying a correction to the real first entry of [`vcp.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/vcp/vcp.txt) with `updateByLine.py` (root [`CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/CLAUDE.md) "Shared correction pattern"). The real current line 2 (entry 1, headword `a`) reads:
 
 ```
 a¦ pu0 avati rakzati atati sAtatyena tizWatIti vA ava--ata--
