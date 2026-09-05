@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: vac1_Page_015_Image_0002.png
 source_page: Preface
@@ -25,3 +27,5 @@ An extension of time for five years longer was granted for the preparation of th
 H. Woodrow. M. A.
 Inspector of Schools, Lower provinces of Bengal
 and formerly Fellow of Caius College, Cambridge.
+
+_Dr. Mārcis Gasūns_

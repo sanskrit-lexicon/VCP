@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: vac1_Page_007_Image_0002.png
 source_page: Title Page
@@ -34,3 +36,5 @@ translation_of: vcppref01.md
 Контора Чаукхамба санскритской серии, Банарас-1
 
 Викрама-самват 2018 ]  [ 1962 г. н. э.
+
+_Dr. Mārcis Gasūns_

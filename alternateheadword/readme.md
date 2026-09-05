@@ -1,3 +1,5 @@
+_Created: 09-01-2016 · Last updated: 05-09-2026_
+
 Dear all, 
 https://github.com/sanskrit-lexicon/VCP/tree/main/alternateheadword is the repository where I have been playing with hw1.py of ejf - renamed as [hw1_dhaval.py](https://github.com/sanskrit-lexicon/VCP/blob/main/alternateheadword/hw1_dhaval.py).
 
@@ -19,3 +21,4 @@ Plan ahead -
 2. nonvalidated.txt need manual examination. After manual corrections, they can be validated and incorporated in headword list.
 3. Treatment of endbracket.txt is pending. It should be easier.
 
+_Dr. Mārcis Gasūns_

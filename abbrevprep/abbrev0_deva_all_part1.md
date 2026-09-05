@@ -1,3 +1,5 @@
+_Created: 15-03-2021 · Last updated: 05-09-2026_
+
 ## VCP abbreviations with 1 or more instances (PART 1)
 |seq|abbrev|#gr|#ls|gr|ls|
 |---|---|---|---|---|---|
@@ -2000,3 +2002,5 @@
 |1997 | प्रभूताबिलमूत्रता० | 0 | 1 |  | [प्रमेह](https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/list-0.2.php?dict=vcp&input=slp1&output=deva&key=prameha)|
 |1998 | प्रमाणमात्रस्य० | 0 | 1 |  | [साक्षिन्](https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/list-0.2.php?dict=vcp&input=slp1&output=deva&key=sAkzin)|
 |1999 | प्रमि० | 0 | 181 |  | [अनुपात](https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/list-0.2.php?dict=vcp&input=slp1&output=deva&key=anupAta) [अपम](https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/list-0.2.php?dict=vcp&input=slp1&output=deva&key=apama) [अस्त](https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/list-0.2.php?dict=vcp&input=slp1&output=deva&key=asta) [अहर्गण](https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/list-0.2.php?dict=vcp&input=slp1&output=deva&key=ahargaRa) [इन्दु](https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/list-0.2.php?dict=vcp&input=slp1&output=deva&key=indu)|
+
+_Dr. Mārcis Gasūns_

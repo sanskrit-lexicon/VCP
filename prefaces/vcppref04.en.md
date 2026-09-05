@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: vac1_Page_010_Image_0002.png
 source_page: Publisher’s Note
@@ -16,3 +18,5 @@ The author of the work himself claims that, in addition to all the derivations a
 It was tragic indeed that such an important and useful work remained out-of-print for such a long time. We are, therefore, just as we have done in case of Shabda­kalpadrum, reprinting it with selfless motive so as to make it once more available to the readers. However, it is evident that such a huge venture cannot be successful without the patronage of Institutions and Scholars. We therefore earnestly hope to get it from everyone.
 
 <!-- Source page is English; this file reproduces the English Publisher's Note verbatim. A LIBRARY stamp (University of Toronto, AUG 17 1954) and accession number 920660 appear below; not part of the original. -->
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: vac1_Page_016_Image_0002.png
 source_page: Contents
@@ -28,3 +30,5 @@ translation_of: vcppref07.md
 17. Classification of the Vedas.
 
 <!-- Source page is English; this file reproduces the English Contents list verbatim. -->
+
+_Dr. Mārcis Gasūns_

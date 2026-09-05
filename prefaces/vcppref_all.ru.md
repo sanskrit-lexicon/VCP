@@ -1,6 +1,8 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `vcpprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `vcpprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/VCP/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -204,3 +206,5 @@ H. Woodrow. M. A.
 15. Основы индусской астрологии.
 16. Технические слова тантр, политики, риторики, метрики, музыкальной науки, военной науки, кулинарии, шикши, кальпы; науки о конях, хатха-йоги, васту-шастры.
 17. Классификация Вед.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 15-01-2021 · Last updated: 05-09-2026_
+
 # readme.org for vac-vcp-cmp2
 Begun Jan 15, 2021
 Dr. Dhaval Patel
@@ -99,4 +101,4 @@ HTML file with links to Text and PDF from Cologne dictionaries, in the following
 
 Note - We should not be hesitant to make changes to vac1.txt or vcp1.txt files in vac-vcp-cmp2 repository. The reason is that their base versions are available at https://github.com/sanskrit-lexicon/VCP/blob/main/vac-vcp-cmp1/vcp1.txt and https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/vcp/vcp.txt. They are not affected by our changes at vac-vcp-cmp2 repository.
 
-
+_Dr. Mārcis Gasūns_

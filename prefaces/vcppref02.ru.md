@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: vac1_Page_008_Image_0002.png
 source_page: Publisher
@@ -26,3 +28,5 @@ P. O. Box 8, Varanasi-1
 Phone : 3145
 
 <!-- Ниже выходных данных вписан от руки библиотечный шифр (PK 925 T37 v.1 / инвентарный номер 920660); не является частью оригинала. -->
+
+_Dr. Mārcis Gasūns_

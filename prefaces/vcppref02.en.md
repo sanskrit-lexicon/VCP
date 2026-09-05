@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: vac1_Page_008_Image_0002.png
 source_page: Publisher
@@ -26,3 +28,5 @@ P. O. Box 8, Varanasi-1
 Phone : 3145
 
 <!-- A handwritten library shelfmark appears below the imprint (PK 925 T37 v.1 / accession 920660); not part of the original. -->
+
+_Dr. Mārcis Gasūns_

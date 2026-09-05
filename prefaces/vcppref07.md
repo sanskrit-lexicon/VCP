@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: vac1_Page_016_Image_0002.png
 source_page: Contents
@@ -25,3 +27,5 @@ source_lang: en
 15. The Principles of Hindu astrology.
 16. The technical words of the Tantras, Politics, Rhetoric, Prosody, Musical science, Military science, Kookery, Siksha, Kalpa; science on Horses, Hatyoga, Vastushastra.
 17. Classification of the Vedas.
+
+_Dr. Mārcis Gasūns_

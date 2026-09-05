@@ -1,3 +1,5 @@
+_Created: 13-02-2022 · Last updated: 05-09-2026_
+
 # meld_regex/vac2 folder
 
 Files generated from vac-vcp-cmp2/vac2.txt file taken at 13 February 2022.
@@ -25,3 +27,4 @@ DO NOT redo this. Otherwise, it may overwrite on the files in vcp2_split folder.
 7. `python3 merge_corrected_file_with_vcp.py ../../../cologne/csl-orig/v02/vcp/vcp.txt ../vac-vcp-cmp2/vcp2.txt vcp_corrected_file.txt`
 8. Check whether the `vcp_corrected_file.txt` and `../../../cologne/csl-orig/v02/vcp/vcp.txt` are comparable, to rule out any idiosyncracy. If found OK, copy corrected file over vcp.txt in csl-orig repository.
 
+_Dr. Mārcis Gasūns_

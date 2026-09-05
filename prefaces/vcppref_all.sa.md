@@ -1,6 +1,8 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (source: Sanskrit + English)
 
-Per-page files: `vcpprefNN.md`. Index: [README.md](README.md).
+Per-page files: `vcpprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/VCP/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -204,3 +206,5 @@ and formerly Fellow of Caius College, Cambridge.
 15. The Principles of Hindu astrology.
 16. The technical words of the Tantras, Politics, Rhetoric, Prosody, Musical science, Military science, Kookery, Siksha, Kalpa; science on Horses, Hatyoga, Vastushastra.
 17. Classification of the Vedas.
+
+_Dr. Mārcis Gasūns_

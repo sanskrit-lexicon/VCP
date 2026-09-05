@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: vac1_Page_007_Image_0002.png
 source_page: Title Page
@@ -33,3 +35,5 @@ source_lang: sa
 चौखम्बा संस्कृत सीरीज आफिस, बनारसी-१
 
 विक्रम संं० २०१८ ]  [ ई० १९६२
+
+_Dr. Mārcis Gasūns_

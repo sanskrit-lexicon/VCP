@@ -1,6 +1,8 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English)
 
-Per-page files: `vcpprefNN.en.md`. Index: [README.md](README.md).
+Per-page files: `vcpprefNN.en.md`. Index: [README.md](https://github.com/sanskrit-lexicon/VCP/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -212,3 +214,5 @@ and formerly Fellow of Caius College, Cambridge.
 17. Classification of the Vedas.
 
 <!-- Source page is English; this file reproduces the English Contents list verbatim. -->
+
+_Dr. Mārcis Gasūns_

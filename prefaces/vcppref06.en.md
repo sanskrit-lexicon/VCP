@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: vac1_Page_015_Image_0002.png
 source_page: Preface
@@ -28,3 +30,5 @@ Inspector of Schools, Lower provinces of Bengal
 and formerly Fellow of Caius College, Cambridge.
 
 <!-- Source page is English; this file reproduces the English Preface verbatim. -->
+
+_Dr. Mārcis Gasūns_
