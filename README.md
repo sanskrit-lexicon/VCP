@@ -1,5 +1,7 @@
 # VCP — *Vācaspatyam* (1873–1884)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151393.svg)](https://doi.org/10.5281/zenodo.23151393)
+
 _Created: 21-01-2014 · Last updated: 11-07-2026_
 
 Development and correction repository for **Tāranātha Tarkavācaspati's *Vācaspatyam***, a vast indigenous Sanskrit→Sanskrit encyclopedic lexicon, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/vcp/vcp.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/vcp/vcp.txt) (48,636 entries); this repository holds the development, correction, and enrichment work.
